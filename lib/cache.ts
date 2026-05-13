@@ -75,3 +75,45 @@ export async function readTrendsCache(
     return null;
   }
 }
+
+export interface NewsItemCache {
+  date: string;
+  publishedAt: string;
+  title: string;
+  link: string;
+  source?: string | null;
+  pos: number;
+  neg: number;
+}
+
+export interface NewsByDay {
+  date: string;
+  count: number;
+  pos: number;
+  neg: number;
+}
+
+export interface NewsCacheFile {
+  ticker: string;
+  query: string;
+  lang: string;
+  geo: string;
+  fetchedAt: string;
+  items: NewsItemCache[];
+  byDay: NewsByDay[];
+}
+
+export async function readNewsCache(
+  ticker: string,
+): Promise<NewsCacheFile | null> {
+  const file = path.join(cacheDir(), `${safeName(ticker)}_news.json`);
+  try {
+    const buf = await fs.readFile(file, "utf8");
+    const parsed = JSON.parse(buf) as NewsCacheFile;
+    if (!Array.isArray(parsed.items) || !Array.isArray(parsed.byDay))
+      return null;
+    return parsed;
+  } catch {
+    return null;
+  }
+}

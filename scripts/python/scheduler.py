@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import sys
 
+from fetch_news import main as run_news
 from fetch_stock import main as run_stock
 from fetch_trends import main as run_trends
 
@@ -21,7 +22,8 @@ def main() -> int:
     rc |= run_stock(["fetch_stock.py"])
     print("=== trends (pytrends) ===")
     rc |= run_trends(["fetch_trends.py"])
-    # TODO Step 4: rc |= run_news(["fetch_news.py"])
+    print("=== news (Google News RSS) ===")
+    rc |= run_news(["fetch_news.py"])
     return rc
 
 

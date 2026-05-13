@@ -13,11 +13,13 @@
 - **Step 1**: Next.js + Tailwind + lightweight-charts 셋업, Mock 통합 차트 골격.
 - **Step 2**: yfinance Python 수집기 + JSON 캐시 + Next.js API 라우트.
   가격은 캐시가 있으면 yfinance 실데이터, 없으면 mock 폴백.
-- **Step 3 (현재)**: pytrends 연동. 종목별 trendsKeywords 그룹을 한 번에
-  조회해 평균낸 일별 시계열 + 7일 이동평균(sma7) + 전주 대비 증가율(wow) +
-  기준기간(geo/timeframe) 모두 저장. API는 가격 날짜에 trend를 정렬하고
-  미매칭은 forward-fill, 그래도 없으면 mock으로 폴백.
-- Step 4: Google News RSS + 키워드 기반 감성 분석.
+- **Step 3**: pytrends 연동. 종목별 trendsKeywords 그룹을 한 번에 조회해
+  평균낸 일별 시계열 + sma7 + wow + 기준기간(geo/timeframe) 저장. API는
+  가격 날짜에 trend를 정렬하고 미매칭은 forward-fill, 그래도 없으면 mock 폴백.
+- **Step 4 (현재)**: Google News RSS + 키워드 사전 기반(KO/EN) 감성 분석.
+  region별 RSS 피드를 가져와 일자별 count/pos/neg 집계 + 최근 기사 목록
+  저장. NewsPanel은 실 데이터가 있으면 클릭 가능한 헤드라인을, 없으면
+  mock 헤드라인을 표시.
 - Step 5: 리드/래그(-7~+7일) 상관 히트맵.
 - Step 6: 차트 위 이벤트 마커.
 
@@ -64,10 +66,24 @@ python3 scripts/python/fetch_trends.py TSLA
 **API 호출 시 실시간 수집은 하지 않습니다** — 명시적 `npm run data:trends`
 실행이 필요합니다.
 
+### 4) 뉴스 + 감성 수집 (Google News RSS, 무료, 키 불필요)
+
+```bash
+npm run data:news
+# 또는 특정 종목만
+python3 scripts/python/fetch_news.py TSLA 005930.KS
+```
+
+- region이 `KR`이면 `hl=ko&gl=KR&ceid=KR:ko`, `US`면 `hl=en-US&gl=US&ceid=US:en`
+- trendsKeywords 그룹을 OR로 묶어 검색 — 다국어 헤드라인을 함께 수집
+- 결과는 `data/cache/{ticker}_news.json` (items + byDay 집계)
+- 감성 점수는 `scripts/python/sentiment.py`의 KO/EN 키워드 사전 기반.
+  형태소 분석기 없이 결정론적으로 동작하지만 정밀도는 거칠다는 점에 유의.
+
 ### 한 번에 전부
 
 ```bash
-npm run data:all   # stock → trends 순차 실행
+npm run data:all   # stock → trends → news 순차 실행
 ```
 
 빌드 검증:
@@ -85,9 +101,11 @@ lib/                지표 / 감성 / Mock / (추후) 캐시 read
 types/              공용 타입
 data/keywords/      ticker → 다국어 트렌드 키워드 매핑
 data/cache/         (추후) Python 수집기가 적재하는 SQLite/JSON
-scripts/python/     yfinance(완) · pytrends(완) · news(예정) 수집 스크립트
+scripts/python/     yfinance · pytrends · Google News RSS 수집 스크립트
   fetch_stock.py   yfinance 일봉 OHLCV → data/cache/{ticker}_stock.json
   fetch_trends.py  pytrends 그룹 키워드 → data/cache/{ticker}_trends.json
+  fetch_news.py    Google News RSS + 감성 점수 → data/cache/{ticker}_news.json
+  sentiment.py     KO/EN 키워드 사전 기반 감성 점수기 (의존성 없음)
   common.py        경로/티커 로더/JSON atomic write 공용 유틸
   scheduler.py     모든 수집기 일괄 실행 (cron 대체)
   requirements.txt 의존성

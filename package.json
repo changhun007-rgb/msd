@@ -9,6 +9,7 @@
     "lint": "eslint app components lib types",
     "data:stocks": "python3 scripts/python/fetch_stock.py",
     "data:trends": "python3 scripts/python/fetch_trends.py",
+    "data:news": "python3 scripts/python/fetch_news.py",
     "data:all": "python3 scripts/python/scheduler.py"
   },
   "dependencies": {

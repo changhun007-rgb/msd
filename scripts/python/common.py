@@ -61,6 +61,10 @@ def trends_cache_path(ticker: str) -> Path:
     return CACHE_DIR / f"{safe_name(ticker)}_trends.json"
 
 
+def news_cache_path(ticker: str) -> Path:
+    return CACHE_DIR / f"{safe_name(ticker)}_news.json"
+
+
 def resolve_tickers(argv: Iterable[str]) -> list[str]:
     """CLI 인자가 있으면 그 종목들만, 없으면 매핑 파일 전체."""
     cli = [a for a in argv if not a.startswith("-")]

@@ -19,36 +19,6 @@ export interface OHLCV {
   volume: number;
 }
 
-// Google Trends는 절대 검색량이 아닌 상대 지표.
-// 원본/이동평균/증가율/기준기간을 함께 저장해 재정규화 영향을 명시한다.
-export interface TrendPoint {
-  date: string;
-  value: number;            // 0-100 (Google Trends 원본 값)
-  ma7?: number;             // 7일 이동평균
-  changePct?: number;       // 전일 대비 증가율 (%)
-  baselineStart: string;    // 기준 기간 시작 (이 정규화의 컨텍스트)
-  baselineEnd: string;      // 기준 기간 끝
-}
-
-export interface NewsItem {
-  date: string;        // ISO date
-  title: string;
-  source: string;
-  url?: string;
-  summary?: string;
-  posScore: number;    // 키워드 기반 양성 점수
-  negScore: number;    // 키워드 기반 음성 점수
-}
-
-export interface DailySentiment {
-  date: string;
-  newsCount: number;
-  posScoreSum: number;
-  negScoreSum: number;
-  posCount: number;    // posScore > negScore 인 기사 수
-  negCount: number;
-}
-
 // 통합 차트 1행을 표현하는 융합 레코드
 export interface IntegratedPoint {
   date: string;
@@ -73,6 +43,7 @@ export interface IntegratedSeries {
   collectedAt: string;     // 수집 시점
   points: IntegratedPoint[];
   sources?: SeriesSources; // 각 채널의 출처 (mock/실데이터 구분)
+  recentNews?: NewsItem[]; // 실 뉴스 캐시가 있을 때만 (최근 N개, publishedAt desc)
 }
 
 export type SourceTag =
@@ -86,4 +57,14 @@ export interface SeriesSources {
   price: SourceTag;
   trends: SourceTag;
   news: SourceTag;
+}
+
+export interface NewsItem {
+  date: string;          // YYYY-MM-DD (UTC)
+  publishedAt: string;   // ISO
+  title: string;
+  link: string;
+  source?: string | null;
+  pos: number;
+  neg: number;
 }
