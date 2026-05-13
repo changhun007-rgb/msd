@@ -179,10 +179,13 @@ export default function Page() {
       )}
 
       {series && (
-        <section className="grid grid-cols-1 gap-4 lg:grid-cols-3">
-          <div className="rounded-lg border border-gray-200 bg-white p-3">
-            <CorrelationPanel />
-          </div>
+        <section className="rounded-lg border border-gray-200 bg-white p-4">
+          <CorrelationPanel series={series} />
+        </section>
+      )}
+
+      {series && (
+        <section className="grid grid-cols-1 gap-4 lg:grid-cols-2">
           <div className="rounded-lg border border-gray-200 bg-white p-3">
             <EventMarkers series={series} />
           </div>
