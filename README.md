@@ -10,9 +10,9 @@
 
 ## 현재 상태
 
-- **Step 1 (현재)**: Next.js + Tailwind + lightweight-charts 셋업,
-  Mock 데이터로 통합 차트 / 토글 / 뉴스 패널 / 감성 / 이벤트 / 해석 패널 골격 완료.
-- Step 2: yfinance 기반 Python 수집기 + 실 주가 연동.
+- **Step 1**: Next.js + Tailwind + lightweight-charts 셋업, Mock 통합 차트 골격.
+- **Step 2 (현재)**: yfinance Python 수집기 + JSON 캐시 + Next.js API 라우트.
+  가격은 캐시가 있으면 yfinance 실데이터, 없으면 mock 폴백. trends/news는 여전히 mock.
 - Step 3: pytrends 연동 + 캐싱(원본/이동평균/증가율/기준기간 모두 저장).
 - Step 4: Google News RSS + 키워드 기반 감성 분석.
 - Step 5: 리드/래그(-7~+7일) 상관 히트맵.
@@ -20,11 +20,31 @@
 
 ## 실행
 
+### 1) 프런트엔드 (mock으로도 동작)
+
 ```bash
 npm install
 npm run dev
 # http://localhost:3000
 ```
+
+### 2) 실 주가 데이터 수집 (yfinance)
+
+Python 3.10+ 권장.
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r scripts/python/requirements.txt
+
+# 전체 종목
+npm run data:stocks
+# 또는 특정 종목만
+python3 scripts/python/fetch_stock.py TSLA 005930.KS
+```
+
+결과는 `data/cache/{ticker}_stock.json`에 적재되고, 다음 페이지 새로고침부터
+가격 채널이 자동으로 `yfinance`로 표시됩니다 (좌상단 SourceBadge).
 
 빌드 검증:
 
@@ -41,7 +61,12 @@ lib/                지표 / 감성 / Mock / (추후) 캐시 read
 types/              공용 타입
 data/keywords/      ticker → 다국어 트렌드 키워드 매핑
 data/cache/         (추후) Python 수집기가 적재하는 SQLite/JSON
-scripts/python/     (추후) yfinance · pytrends · news 수집 스크립트
+scripts/python/     yfinance(완) · pytrends(예정) · news(예정) 수집 스크립트
+  fetch_stock.py   yfinance 일봉 OHLCV → data/cache/{ticker}_stock.json
+  common.py        경로/티커 로더/JSON atomic write 공용 유틸
+  scheduler.py     모든 수집기 일괄 실행 (cron 대체)
+  requirements.txt 의존성
+app/api/series/[ticker]/  통합 시리즈 read 라우트 (캐시 + mock 폴백)
 ```
 
 ## 데이터 출처와 제약 (참고)

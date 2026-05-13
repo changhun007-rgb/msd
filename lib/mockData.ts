@@ -125,3 +125,25 @@ export function buildMockSeries(
 function round2(n: number): number {
   return Math.round(n * 100) / 100;
 }
+
+// Step 2+: 실 OHLCV 날짜에 맞춰 trend/news/sentiment만 합성.
+// 같은 (symbol, region, dates) 입력은 같은 시그널을 돌려준다.
+export function mockSignalsForDates(
+  symbol: string,
+  region: Region,
+  dates: string[],
+): { trend: number; newsCount: number; posScore: number; negScore: number }[] {
+  const rand = seeded(hashSeed(symbol + region));
+  // 종목별 위상 분산
+  for (let i = 0; i < 8; i++) rand();
+
+  return dates.map((_, idx) => {
+    const wave = Math.sin(idx / 9) * 15 + 50;
+    const noise = (rand() - 0.5) * 12;
+    const trend = Math.max(0, Math.min(100, Math.round(wave + noise)));
+    const newsCount = Math.max(0, Math.round(trend / 8 + rand() * 5));
+    const posScore = Math.max(0, Math.round(newsCount * 0.55 + (rand() - 0.4) * 4));
+    const negScore = Math.max(0, Math.round(newsCount * 0.4 + (rand() - 0.4) * 4));
+    return { trend, newsCount, posScore, negScore };
+  });
+}

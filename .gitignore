@@ -34,8 +34,13 @@ yarn-error.log*
 .env*
 !.env.example
 
-# 수집 캐시(추후 Python 수집기가 적재)
+# 수집 캐시(Python 수집기가 적재)
 /data/cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
 
 # vercel
 .vercel

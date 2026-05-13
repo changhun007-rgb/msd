@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint app components lib types",
+    "data:stocks": "python3 scripts/python/fetch_stock.py",
+    "data:all": "python3 scripts/python/scheduler.py"
   },
   "dependencies": {
     "lightweight-charts": "^5.2.0",

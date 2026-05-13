@@ -72,4 +72,18 @@ export interface IntegratedSeries {
   baseline: { start: string; end: string };
   collectedAt: string;     // 수집 시점
   points: IntegratedPoint[];
+  sources?: SeriesSources; // 각 채널의 출처 (mock/실데이터 구분)
+}
+
+export type SourceTag =
+  | "mock"
+  | "yfinance"
+  | "pytrends"
+  | "google-news-rss"
+  | "newsapi";
+
+export interface SeriesSources {
+  price: SourceTag;
+  trends: SourceTag;
+  news: SourceTag;
 }
