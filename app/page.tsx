@@ -51,10 +51,12 @@ export default function Page() {
   const [series, setSeries] = useState<IntegratedSeries | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [focusDate, setFocusDate] = useState<string | null>(null);
 
   const fetchSeries = useCallback(async () => {
     setLoading(true);
     setError(null);
+    setFocusDate(null);
     try {
       const res = await fetch(
         `/api/series/${encodeURIComponent(symbol)}?region=${region}&days=${periodDays}`,
@@ -158,7 +160,11 @@ export default function Page() {
           <div className="flex min-h-[600px] flex-col gap-3">
             <IndicatorToggle value={visibility} onChange={setVisibility} />
             <div className="flex-1">
-              <IntegratedChart series={series} visibility={visibility} />
+              <IntegratedChart
+                series={series}
+                visibility={visibility}
+                focusDate={focusDate}
+              />
             </div>
             {collectedAt && (
               <div className="text-[11px] text-gray-400">
@@ -187,7 +193,7 @@ export default function Page() {
       {series && (
         <section className="grid grid-cols-1 gap-4 lg:grid-cols-2">
           <div className="rounded-lg border border-gray-200 bg-white p-3">
-            <EventMarkers series={series} />
+            <EventMarkers series={series} onSelect={setFocusDate} />
           </div>
           <div className="rounded-lg border border-gray-200 bg-white p-3">
             <InterpretationPanel series={series} />

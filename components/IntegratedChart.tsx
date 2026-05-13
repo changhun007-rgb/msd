@@ -10,12 +10,17 @@ import {
   HistogramSeries,
   LineSeries,
   createChart,
+  createSeriesMarkers,
   type IChartApi,
   type ISeriesApi,
+  type ISeriesMarkersPluginApi,
+  type SeriesMarker,
+  type Time,
   type UTCTimestamp,
 } from "lightweight-charts";
 import type { IntegratedSeries } from "@/types";
 import { sma } from "@/lib/indicators";
+import { detectEvents, type MarketEvent } from "@/lib/events";
 
 export interface Visibility {
   price: boolean;
@@ -30,13 +35,66 @@ export interface Visibility {
 interface Props {
   series: IntegratedSeries;
   visibility: Visibility;
+  focusDate?: string | null;
 }
 
 function toTime(date: string): UTCTimestamp {
   return (new Date(date + "T00:00:00Z").getTime() / 1000) as UTCTimestamp;
 }
 
-export default function IntegratedChart({ series, visibility }: Props) {
+function toMarker(e: MarketEvent): SeriesMarker<Time> {
+  const time = toTime(e.date);
+  switch (e.kind) {
+    case "search-surge":
+      return {
+        time,
+        position: "aboveBar",
+        shape: "circle",
+        color: "#7c3aed",
+        size: 1,
+      };
+    case "news-burst":
+      return {
+        time,
+        position: "aboveBar",
+        shape: "square",
+        color: "#64748b",
+        size: 1,
+      };
+    case "price-up":
+      return {
+        time,
+        position: "belowBar",
+        shape: "arrowUp",
+        color: "#16a34a",
+        text: `+${e.magnitude.toFixed(1)}%`,
+        size: 1,
+      };
+    case "price-down":
+      return {
+        time,
+        position: "aboveBar",
+        shape: "arrowDown",
+        color: "#dc2626",
+        text: `${e.magnitude.toFixed(1)}%`,
+        size: 1,
+      };
+    case "volume-surge":
+      return {
+        time,
+        position: "belowBar",
+        shape: "square",
+        color: "#3b82f6",
+        size: 1,
+      };
+  }
+}
+
+export default function IntegratedChart({
+  series,
+  visibility,
+  focusDate,
+}: Props) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const chartRef = useRef<IChartApi | null>(null);
   const seriesRef = useRef<{
@@ -47,6 +105,7 @@ export default function IntegratedChart({ series, visibility }: Props) {
     news?: ISeriesApi<"Histogram">;
     pos?: ISeriesApi<"Line">;
     neg?: ISeriesApi<"Line">;
+    markers?: ISeriesMarkersPluginApi<Time>;
   }>({});
 
   // 차트 1회 생성 + 컨테이너 리사이즈 핸들링
@@ -83,8 +142,18 @@ export default function IntegratedChart({ series, visibility }: Props) {
     const chart = chartRef.current;
     if (!chart) return;
 
-    // 기존 시리즈 제거 (티커가 바뀌면 새로 그린다)
-    Object.values(seriesRef.current).forEach((s) => s && chart.removeSeries(s));
+    // 기존 시리즈/마커 제거 (티커가 바뀌면 새로 그린다)
+    seriesRef.current.markers?.detach();
+    const oldSeries = [
+      seriesRef.current.candle,
+      seriesRef.current.priceMA,
+      seriesRef.current.volume,
+      seriesRef.current.trend,
+      seriesRef.current.news,
+      seriesRef.current.pos,
+      seriesRef.current.neg,
+    ];
+    oldSeries.forEach((s) => s && chart.removeSeries(s));
     seriesRef.current = {};
 
     const pts = series.points;
@@ -171,9 +240,35 @@ export default function IntegratedChart({ series, visibility }: Props) {
     }, 3);
     neg.setData(pts.map((p) => ({ time: toTime(p.date), value: p.negScore })));
 
-    seriesRef.current = { candle, priceMA, volume, trend, news, pos, neg };
+    // 이벤트 마커: candle 시리즈 위에 시간순으로
+    const events = detectEvents(pts).sort((a, b) =>
+      a.date.localeCompare(b.date),
+    );
+    const markersData = events.map(toMarker);
+    const markers = createSeriesMarkers(candle, markersData);
+
+    seriesRef.current = {
+      candle,
+      priceMA,
+      volume,
+      trend,
+      news,
+      pos,
+      neg,
+      markers,
+    };
     chart.timeScale().fitContent();
   }, [series]);
+
+  // 외부에서 선택한 날짜로 차트 중앙 이동
+  useEffect(() => {
+    const chart = chartRef.current;
+    if (!chart || !focusDate) return;
+    const ts = toTime(focusDate);
+    const from = (ts - 5 * 24 * 3600) as UTCTimestamp;
+    const to = (ts + 5 * 24 * 3600) as UTCTimestamp;
+    chart.timeScale().setVisibleRange({ from, to });
+  }, [focusDate]);
 
   // visibility 토글 반영
   useEffect(() => {
