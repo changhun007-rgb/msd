@@ -1,0 +1,10 @@
+# Step 2~4 데이터 수집 의존성
+# pip install -r scripts/python/requirements.txt
+
+yfinance>=0.2.40
+pandas>=2.0
+python-dateutil>=2.8
+# Step 3에서 사용 (지금 설치해도 무방):
+pytrends>=4.9.2
+# Step 4 (뉴스 RSS 파싱):
+feedparser>=6.0.10

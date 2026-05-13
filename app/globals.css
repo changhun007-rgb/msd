@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* 분석 대시보드 톤: 채도 낮은 중립 팔레트. 다크 자동 전환은 의도적으로 비활성화. */
+:root {
+  --background: #f8fafc; /* slate-50 */
+  --foreground: #111827; /* gray-900 */
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html, body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+}

@@ -1,0 +1,32 @@
+{
+  "TSLA": {
+    "ticker": "TSLA",
+    "display": "Tesla",
+    "region": "US",
+    "trendsKeywords": ["Tesla", "TSLA stock", "테슬라"]
+  },
+  "NVDA": {
+    "ticker": "NVDA",
+    "display": "NVIDIA",
+    "region": "US",
+    "trendsKeywords": ["NVIDIA", "NVDA stock", "엔비디아"]
+  },
+  "AAPL": {
+    "ticker": "AAPL",
+    "display": "Apple",
+    "region": "US",
+    "trendsKeywords": ["Apple stock", "AAPL", "애플 주식"]
+  },
+  "005930.KS": {
+    "ticker": "005930.KS",
+    "display": "삼성전자",
+    "region": "KR",
+    "trendsKeywords": ["삼성전자", "Samsung Electronics", "005930"]
+  },
+  "086520.KQ": {
+    "ticker": "086520.KQ",
+    "display": "에코프로",
+    "region": "KR",
+    "trendsKeywords": ["에코프로", "Ecopro", "086520"]
+  }
+}
