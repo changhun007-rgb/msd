@@ -10,7 +10,8 @@
     "data:stocks": "python3 scripts/python/fetch_stock.py",
     "data:trends": "python3 scripts/python/fetch_trends.py",
     "data:news": "python3 scripts/python/fetch_news.py",
-    "data:all": "python3 scripts/python/scheduler.py"
+    "data:all": "python3 scripts/python/scheduler.py",
+    "data:inspect": "python3 scripts/python/inspect_cache.py"
   },
   "dependencies": {
     "lightweight-charts": "^5.2.0",
