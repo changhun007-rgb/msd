@@ -12,13 +12,15 @@ from __future__ import annotations
 import sys
 
 from fetch_stock import main as run_stock
+from fetch_trends import main as run_trends
 
 
 def main() -> int:
     rc = 0
     print("=== stock (yfinance) ===")
-    rc |= run_stock(["fetch_stock.py"])  # 모든 ticker
-    # TODO Step 3: rc |= run_trends(["fetch_trends.py"])
+    rc |= run_stock(["fetch_stock.py"])
+    print("=== trends (pytrends) ===")
+    rc |= run_trends(["fetch_trends.py"])
     # TODO Step 4: rc |= run_news(["fetch_news.py"])
     return rc
 

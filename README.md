@@ -11,9 +11,12 @@
 ## 현재 상태
 
 - **Step 1**: Next.js + Tailwind + lightweight-charts 셋업, Mock 통합 차트 골격.
-- **Step 2 (현재)**: yfinance Python 수집기 + JSON 캐시 + Next.js API 라우트.
-  가격은 캐시가 있으면 yfinance 실데이터, 없으면 mock 폴백. trends/news는 여전히 mock.
-- Step 3: pytrends 연동 + 캐싱(원본/이동평균/증가율/기준기간 모두 저장).
+- **Step 2**: yfinance Python 수집기 + JSON 캐시 + Next.js API 라우트.
+  가격은 캐시가 있으면 yfinance 실데이터, 없으면 mock 폴백.
+- **Step 3 (현재)**: pytrends 연동. 종목별 trendsKeywords 그룹을 한 번에
+  조회해 평균낸 일별 시계열 + 7일 이동평균(sma7) + 전주 대비 증가율(wow) +
+  기준기간(geo/timeframe) 모두 저장. API는 가격 날짜에 trend를 정렬하고
+  미매칭은 forward-fill, 그래도 없으면 mock으로 폴백.
 - Step 4: Google News RSS + 키워드 기반 감성 분석.
 - Step 5: 리드/래그(-7~+7일) 상관 히트맵.
 - Step 6: 차트 위 이벤트 마커.
@@ -46,6 +49,27 @@ python3 scripts/python/fetch_stock.py TSLA 005930.KS
 결과는 `data/cache/{ticker}_stock.json`에 적재되고, 다음 페이지 새로고침부터
 가격 채널이 자동으로 `yfinance`로 표시됩니다 (좌상단 SourceBadge).
 
+### 3) 검색 관심도 수집 (pytrends, Google Trends 비공식)
+
+```bash
+# 전체 종목 (8초 간격으로 종목 간 sleep — 429 회피)
+npm run data:trends
+# 특정 종목만
+python3 scripts/python/fetch_trends.py TSLA
+```
+
+결과는 `data/cache/{ticker}_trends.json`에 `today 3-m`(약 90일) 일별
+시계열로 저장됩니다 (그룹 키워드 평균, sma7, wow 포함). 캐시가 비어 있는
+종목은 trend 채널이 mock으로 폴백되며, pytrends는 비공식 API라
+**API 호출 시 실시간 수집은 하지 않습니다** — 명시적 `npm run data:trends`
+실행이 필요합니다.
+
+### 한 번에 전부
+
+```bash
+npm run data:all   # stock → trends 순차 실행
+```
+
 빌드 검증:
 
 ```bash
@@ -61,8 +85,9 @@ lib/                지표 / 감성 / Mock / (추후) 캐시 read
 types/              공용 타입
 data/keywords/      ticker → 다국어 트렌드 키워드 매핑
 data/cache/         (추후) Python 수집기가 적재하는 SQLite/JSON
-scripts/python/     yfinance(완) · pytrends(예정) · news(예정) 수집 스크립트
+scripts/python/     yfinance(완) · pytrends(완) · news(예정) 수집 스크립트
   fetch_stock.py   yfinance 일봉 OHLCV → data/cache/{ticker}_stock.json
+  fetch_trends.py  pytrends 그룹 키워드 → data/cache/{ticker}_trends.json
   common.py        경로/티커 로더/JSON atomic write 공용 유틸
   scheduler.py     모든 수집기 일괄 실행 (cron 대체)
   requirements.txt 의존성

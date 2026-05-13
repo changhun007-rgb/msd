@@ -45,3 +45,33 @@ export async function readStockCache(
     return null;
   }
 }
+
+export interface TrendsPoint {
+  date: string;
+  trend: number;
+  sma7?: number;
+  wow?: number | null;
+}
+
+export interface TrendsCacheFile {
+  ticker: string;
+  geo: string;
+  timeframe: string;
+  keywords: string[];
+  fetchedAt: string;
+  points: TrendsPoint[];
+}
+
+export async function readTrendsCache(
+  ticker: string,
+): Promise<TrendsCacheFile | null> {
+  const file = path.join(cacheDir(), `${safeName(ticker)}_trends.json`);
+  try {
+    const buf = await fs.readFile(file, "utf8");
+    const parsed = JSON.parse(buf) as TrendsCacheFile;
+    if (!Array.isArray(parsed.points)) return null;
+    return parsed;
+  } catch {
+    return null;
+  }
+}
