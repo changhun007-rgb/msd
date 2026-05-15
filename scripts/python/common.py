@@ -53,15 +53,22 @@ def write_json(path: Path, payload: dict) -> Path:
     return path
 
 
-def stock_cache_path(ticker: str) -> Path:
-    return CACHE_DIR / f"{safe_name(ticker)}_stock.json"
+def stock_cache_path(ticker: str, interval: str = "1d") -> Path:
+    # 1d  → {ticker}_stock.json   (기존 일봉, 6개월치)
+    # 1h  → {ticker}_stock_1h.json (시간봉, 7일치)
+    suffix = "" if interval == "1d" else f"_{interval}"
+    return CACHE_DIR / f"{safe_name(ticker)}_stock{suffix}.json"
 
 
-def trends_cache_path(ticker: str) -> Path:
-    return CACHE_DIR / f"{safe_name(ticker)}_trends.json"
+def trends_cache_path(ticker: str, hourly: bool = False) -> Path:
+    # daily   → {ticker}_trends.json
+    # hourly  → {ticker}_trends_hourly.json
+    suffix = "_hourly" if hourly else ""
+    return CACHE_DIR / f"{safe_name(ticker)}_trends{suffix}.json"
 
 
 def news_cache_path(ticker: str) -> Path:
+    # 뉴스는 같은 파일에 byDay/byHour 모두 저장
     return CACHE_DIR / f"{safe_name(ticker)}_news.json"
 
 

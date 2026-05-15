@@ -5,15 +5,23 @@ import IntegratedChart, {
   type Visibility,
 } from "@/components/IntegratedChart";
 import IndicatorToggle from "@/components/IndicatorToggle";
-import TickerSearch from "@/components/TickerSearch";
+import TickerSearch, {
+  type TickerCacheStatus,
+} from "@/components/TickerSearch";
+import AddTickerForm from "@/components/AddTickerForm";
 import NewsPanel from "@/components/NewsPanel";
 import SentimentChart from "@/components/SentimentChart";
 import EventMarkers from "@/components/EventMarkers";
 import CorrelationPanel from "@/components/CorrelationPanel";
 import InterpretationPanel from "@/components/InterpretationPanel";
 import SourceBadge from "@/components/SourceBadge";
-import { buildMockSeries, listTickers } from "@/lib/mockData";
-import type { IntegratedSeries, Region } from "@/types";
+import { buildMockSeries } from "@/lib/mockData";
+import type {
+  IntegratedSeries,
+  Interval,
+  Region,
+  TickerMeta,
+} from "@/types";
 
 const PERIODS = [
   { label: "30D", days: 30 },
@@ -31,13 +39,21 @@ function formatCollectedAt(iso: string | undefined): string | null {
   }
 }
 
+interface PendingFetch {
+  ticker: string;
+  status: { stock: boolean; trends: boolean; news: boolean } | null;
+}
+
 export default function Page() {
-  const tickers = listTickers();
-  const [symbol, setSymbol] = useState(tickers[0]?.ticker ?? "TSLA");
-  const [region, setRegion] = useState<Region>(
-    (tickers[0]?.region as Region) ?? "US",
-  );
+  const [tickers, setTickers] = useState<TickerMeta[]>([]);
+  const [tickerStatus, setTickerStatus] = useState<
+    Record<string, TickerCacheStatus>
+  >({});
+  const [symbol, setSymbol] = useState<string>("TSLA");
+  const [region, setRegion] = useState<Region>("US");
   const [periodDays, setPeriodDays] = useState(90);
+  const [chartInterval, setChartInterval] = useState<Interval>("1d");
+  const [pending, setPending] = useState<PendingFetch | null>(null);
   const [visibility, setVisibility] = useState<Visibility>({
     price: true,
     priceMA: true,
@@ -58,8 +74,13 @@ export default function Page() {
     setError(null);
     setFocusDate(null);
     try {
+      const qs = new URLSearchParams({
+        region,
+        days: String(periodDays),
+        interval: chartInterval,
+      });
       const res = await fetch(
-        `/api/series/${encodeURIComponent(symbol)}?region=${region}&days=${periodDays}`,
+        `/api/series/${encodeURIComponent(symbol)}?${qs.toString()}`,
         { cache: "no-store" },
       );
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -70,18 +91,112 @@ export default function Page() {
       const fallback = buildMockSeries(symbol, region, periodDays);
       setSeries({
         ...fallback,
+        interval: chartInterval,
         sources: { price: "mock", trends: "mock", news: "mock" },
       });
       setError(e instanceof Error ? e.message : "fetch failed");
     } finally {
       setLoading(false);
     }
-  }, [symbol, region, periodDays]);
+  }, [symbol, region, periodDays, chartInterval]);
 
   useEffect(() => {
     // eslint-disable-next-line react-hooks/set-state-in-effect
     void fetchSeries();
   }, [fetchSeries]);
+
+  // 자동 새로고침: 시간봉 모드에서는 1분 주기, 일봉에선 5분 주기.
+  // 백엔드 scheduler 가 매시간 캐시를 갱신하므로 페이지가 떠있으면 자연스럽게 추가됨.
+  useEffect(() => {
+    const ms = chartInterval === "1h" ? 60_000 : 5 * 60_000;
+    const id = window.setInterval(() => {
+      void fetchSeries();
+    }, ms);
+    return () => window.clearInterval(id);
+  }, [fetchSeries, chartInterval]);
+
+  // 종목 목록 + 캐시 상태를 서버에서 동적으로 로드.
+  // 추가 종목이 즉시 드롭다운에 반영되어야 하므로 매 마운트에 fresh fetch.
+  useEffect(() => {
+    let alive = true;
+    void (async () => {
+      try {
+        const res = await fetch("/api/tickers", { cache: "no-store" });
+        if (!res.ok) return;
+        const json = (await res.json()) as {
+          tickers: TickerMeta[];
+          status?: Record<string, TickerCacheStatus>;
+        };
+        if (!alive) return;
+        setTickers(json.tickers);
+        setTickerStatus(json.status ?? {});
+        if (!json.tickers.find((t) => t.ticker === symbol)) {
+          const first = json.tickers[0];
+          if (first) {
+            setSymbol(first.ticker);
+            setRegion(first.region);
+          }
+        }
+      } catch {
+        // tickers.json 자체가 없으면 빈 목록으로 둔다 — 첫 화면이 mock 으로 그려짐.
+      }
+    })();
+    return () => {
+      alive = false;
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  // 새 종목 추가 직후 캐시가 채워질 때까지 polling.
+  useEffect(() => {
+    if (!pending) return;
+    let alive = true;
+    const id = setInterval(async () => {
+      try {
+        const res = await fetch(
+          `/api/tickers/${encodeURIComponent(pending.ticker)}/status`,
+          { cache: "no-store" },
+        );
+        if (!res.ok) return;
+        const status = (await res.json()) as {
+          stock: boolean;
+          trends: boolean;
+          news: boolean;
+        };
+        if (!alive) return;
+        setPending((p) => (p ? { ...p, status } : p));
+        setTickerStatus((prev) => ({ ...prev, [pending.ticker]: status }));
+        // stock 만 채워지면 차트가 의미를 가지므로 그 시점에 자동 새로고침.
+        if (status.stock && pending.ticker === symbol) {
+          void fetchSeries();
+        }
+        // 3채널 모두 도착하면 polling 종료.
+        if (status.stock && status.trends && status.news) {
+          clearInterval(id);
+          setPending(null);
+        }
+      } catch {
+        // 무시
+      }
+    }, 3000);
+    return () => {
+      alive = false;
+      clearInterval(id);
+    };
+  }, [pending, symbol, fetchSeries]);
+
+  const handleAdded = (meta: TickerMeta) => {
+    setTickers((prev) =>
+      prev.find((t) => t.ticker === meta.ticker) ? prev : [...prev, meta],
+    );
+    setTickerStatus((prev) => ({
+      ...prev,
+      [meta.ticker]: { stock: false, trends: false, news: false },
+    }));
+    setSymbol(meta.ticker);
+    setRegion(meta.region);
+    setPending({ ticker: meta.ticker, status: null });
+  };
 
   const usingMockPrice = series?.sources?.price === "mock";
   const collectedAt = formatCollectedAt(series?.collectedAt);
@@ -99,6 +214,14 @@ export default function Page() {
         </div>
         <div className="flex items-center gap-3">
           <SourceBadge sources={series?.sources} />
+          {pending && (
+            <span className="rounded-md border border-sky-200 bg-sky-50 px-2 py-1 text-xs text-sky-700">
+              {pending.ticker} 수집 중 — stock:
+              {pending.status?.stock ? "✓" : "…"} news:
+              {pending.status?.news ? "✓" : "…"} trends:
+              {pending.status?.trends ? "✓" : "…"}
+            </span>
+          )}
           {usingMockPrice && (
             <span className="rounded-md border border-amber-200 bg-amber-50 px-2 py-1 text-xs text-amber-700">
               가격 mock — Python 수집기 실행 시 yfinance로 전환
@@ -108,36 +231,60 @@ export default function Page() {
       </header>
 
       <section className="flex flex-wrap items-center justify-between gap-3">
-        <TickerSearch
-          tickers={tickers}
-          selected={symbol}
-          region={region}
-          onSelect={(s) => {
-            setSymbol(s);
-            const m = tickers.find((t) => t.ticker === s);
-            if (m) setRegion(m.region);
-          }}
-          onRegion={setRegion}
-        />
+        <div className="flex flex-wrap items-center gap-3">
+          <TickerSearch
+            tickers={tickers}
+            selected={symbol}
+            region={region}
+            status={tickerStatus}
+            onSelect={(s) => {
+              setSymbol(s);
+              const m = tickers.find((t) => t.ticker === s);
+              if (m) setRegion(m.region);
+            }}
+            onRegion={setRegion}
+          />
+          <AddTickerForm onAdded={handleAdded} />
+        </div>
         <div className="flex items-center gap-3">
           <div className="flex items-center gap-1">
-            <span className="text-sm font-medium text-gray-700">기간</span>
-            {PERIODS.map((p) => (
+            <span className="text-sm font-medium text-gray-700">단위</span>
+            {(["1d", "1h"] as Interval[]).map((iv) => (
               <button
-                key={p.label}
+                key={iv}
                 type="button"
-                onClick={() => setPeriodDays(p.days)}
+                onClick={() => setChartInterval(iv)}
                 className={
                   "rounded-md border px-2 py-1 text-xs transition " +
-                  (p.days === periodDays
+                  (iv === chartInterval
                     ? "border-gray-800 bg-gray-900 text-white"
                     : "border-gray-200 bg-white text-gray-600 hover:bg-gray-50")
                 }
               >
-                {p.label}
+                {iv === "1d" ? "일봉" : "시간봉"}
               </button>
             ))}
           </div>
+          {chartInterval === "1d" && (
+            <div className="flex items-center gap-1">
+              <span className="text-sm font-medium text-gray-700">기간</span>
+              {PERIODS.map((p) => (
+                <button
+                  key={p.label}
+                  type="button"
+                  onClick={() => setPeriodDays(p.days)}
+                  className={
+                    "rounded-md border px-2 py-1 text-xs transition " +
+                    (p.days === periodDays
+                      ? "border-gray-800 bg-gray-900 text-white"
+                      : "border-gray-200 bg-white text-gray-600 hover:bg-gray-50")
+                  }
+                >
+                  {p.label}
+                </button>
+              ))}
+            </div>
+          )}
           <button
             type="button"
             onClick={fetchSeries}

@@ -27,7 +27,9 @@ export default function InterpretationPanel({ series }: Props) {
     if (pts.length < 14) return [];
     const closes = pts.map((p) => p.close);
     const volumes = pts.map((p) => p.volume);
-    const trends = pts.map((p) => p.trend);
+    // 트렌드 캐시 범위 밖이면 null — 지표 계산에서는 0 으로 대체.
+    // 해석은 최근 ~7일 위주라 이 구간은 캐시 안에 있어 정확도 영향 미미.
+    const trends = pts.map((p) => p.trend ?? 0);
     const news = pts.map((p) => p.newsCount);
 
     const closeMA = sma(closes, 7).at(-1);

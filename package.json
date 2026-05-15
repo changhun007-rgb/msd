@@ -7,6 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint app components lib types",
+    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
+    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "upload": "opennextjs-cloudflare build && opennextjs-cloudflare upload",
+    "cf-build": "opennextjs-cloudflare build",
+    "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts",
     "data:stocks": "python3 scripts/python/fetch_stock.py",
     "data:trends": "python3 scripts/python/fetch_trends.py",
     "data:news": "python3 scripts/python/fetch_news.py",
@@ -14,6 +19,7 @@
     "data:inspect": "python3 scripts/python/inspect_cache.py"
   },
   "dependencies": {
+    "@opennextjs/cloudflare": "^1.19.10",
     "lightweight-charts": "^5.2.0",
     "next": "16.2.6",
     "react": "19.2.4",
@@ -27,6 +33,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.6",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "wrangler": "^4.92.0"
   }
 }

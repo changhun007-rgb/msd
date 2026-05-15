@@ -19,8 +19,12 @@ export interface OHLCV {
   volume: number;
 }
 
+// 차트의 시간 해상도
+export type Interval = "1d" | "1h";
+
 // 통합 차트 1행을 표현하는 융합 레코드
 export interface IntegratedPoint {
+  // 일봉: "YYYY-MM-DD", 시간봉: "YYYY-MM-DDTHH:MM:SS+00:00" (UTC ISO)
   date: string;
   // 가격/거래량
   open: number;
@@ -29,7 +33,8 @@ export interface IntegratedPoint {
   close: number;
   volume: number;
   // 관심 시그널
-  trend: number;          // Google Trends 0-100
+  // trend 는 null 가능 — 캐시 범위 밖이면 mock 으로 채우지 않고 빈 칸으로 둔다.
+  trend: number | null;   // Google Trends 0-100
   newsCount: number;
   posScore: number;
   negScore: number;
@@ -39,6 +44,7 @@ export interface IntegratedPoint {
 export interface IntegratedSeries {
   meta: TickerMeta;
   region: Region;
+  interval: Interval;      // 일봉/시간봉
   baseline: { start: string; end: string };
   collectedAt: string;     // 수집 시점
   points: IntegratedPoint[];

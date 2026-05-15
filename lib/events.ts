@@ -37,14 +37,19 @@ export function eventLabel(kind: EventKind): string {
 }
 
 export function detectEvents(points: IntegratedPoint[]): MarketEvent[] {
-  const trendSp = spikes(points.map((p) => p.trend));
+  // trend 가 null 인 날짜는 spike 탐지에서 제외해야 NaN 전염을 막을 수 있음.
+  // null → 0 으로 치환한 시리즈로 spikes 계산하되, 결과는 null 인 인덱스에서 강제 false.
+  const trendForSpikes = points.map((p) => p.trend ?? 0);
+  const trendSp = spikes(trendForSpikes).map(
+    (s, i) => s && points[i].trend != null,
+  );
   const newsSp = spikes(points.map((p) => p.newsCount));
   const volSp = spikes(points.map((p) => p.volume));
   const rets = dailyReturn(points.map((p) => p.close));
 
   const out: MarketEvent[] = [];
   points.forEach((p, i) => {
-    if (trendSp[i]) {
+    if (trendSp[i] && p.trend != null) {
       out.push({
         date: p.date,
         kind: "search-surge",

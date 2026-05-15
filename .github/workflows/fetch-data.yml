@@ -1,0 +1,108 @@
+# 시장 데이터 자동 수집 파이프라인.
+#
+# 로컬 instrumentation scheduler 를 대체한다. dev 서버가 필요 없고,
+# GitHub Actions 가 cron 으로 Python 수집기를 돌려 캐시를 갱신한다.
+#
+# 트리거:
+#   - 매시간       : 주가(일/시간봉) + 뉴스
+#   - 12시간마다    : 검색 트렌드(일/시간봉)  (pytrends 429 위험이 커 드물게)
+#   - 수동(dispatch): 특정 종목 전체 채널 (UI 종목 추가가 이걸 호출)
+#
+# 결과 캐시 JSON 은 'data' 브랜치 루트에 force-push 로 통째 덮어쓴다.
+#   → 코드 브랜치 히스토리/재배포에 영향 없음.
+
+name: fetch-data
+
+on:
+  schedule:
+    - cron: "5 * * * *"      # 매시간 :05 — 주가 + 뉴스
+    - cron: "20 0,12 * * *"  # 00:20, 12:20 UTC — 트렌드
+  workflow_dispatch:
+    inputs:
+      ticker:
+        description: "특정 종목만 수집 (비우면 전체)"
+        required: false
+        default: ""
+
+concurrency:
+  group: fetch-data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 기존 캐시(data 브랜치)를 가져와 부분 갱신 시 다른 채널이 사라지지 않게.
+      - name: Checkout existing cache
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: data
+          path: _cache
+
+      - name: Restore existing cache
+        run: |
+          mkdir -p data/cache
+          if [ -d _cache ]; then
+            rm -rf _cache/.git
+            cp -r _cache/. data/cache/ 2>/dev/null || true
+          fi
+          rm -rf _cache
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r scripts/python/requirements.txt
+
+      - name: Fetch data
+        env:
+          EVENT: ${{ github.event_name }}
+          SCHED: ${{ github.event.schedule }}
+          TICKER: ${{ github.event.inputs.ticker }}
+        run: |
+          set -e
+          cd scripts/python
+          run() { echo "+ python $*"; python "$@"; }
+          if [ "$EVENT" = "workflow_dispatch" ]; then
+            # UI 종목 추가 → 해당 종목 전체 채널 (전체일 땐 인자 없이)
+            run fetch_stock.py $TICKER
+            run fetch_stock.py $TICKER --hourly
+            run fetch_news.py $TICKER
+            run fetch_trends.py $TICKER || true
+            run fetch_trends.py $TICKER --hourly || true
+          elif [ "$SCHED" = "20 0,12 * * *" ]; then
+            # 12시간 주기 — 트렌드
+            run fetch_trends.py || true
+            run fetch_trends.py --hourly || true
+          else
+            # 매시간 — 주가 + 뉴스
+            run fetch_stock.py
+            run fetch_stock.py --hourly
+            run fetch_news.py
+          fi
+
+      - name: Publish cache to data branch
+        run: |
+          cd data/cache
+          git init -q
+          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git checkout -q -b data
+          git add -A
+          git commit -q -m "cache: $(date -u +%FT%TZ)" || {
+            echo "no cache changes"; exit 0;
+          }
+          git push -f \
+            "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
