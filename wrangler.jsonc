@@ -7,5 +7,16 @@
   "assets": {
     "directory": ".open-next/assets",
     "binding": "ASSETS"
+  },
+  // 런타임 환경변수 (민감하지 않은 값만 — git 에 커밋됨).
+  //   MSD_DATA_REPO  데이터 레포 "owner/repo" → GitHub 모드 활성화
+  //   MSD_DATA_REF   코드 브랜치 (tickers.json)
+  //   MSD_CACHE_REF  캐시 브랜치 (수집 결과)
+  // MSD_GITHUB_TOKEN(시크릿)은 여기 두지 않고 Worker 대시보드의
+  // Secret 으로 등록한다.
+  "vars": {
+    "MSD_DATA_REPO": "changhun007-rgb/msd",
+    "MSD_DATA_REF": "main",
+    "MSD_CACHE_REF": "data"
   }
 }
