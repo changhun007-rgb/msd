@@ -16,7 +16,7 @@ name: fetch-data
 on:
   schedule:
     - cron: "5 * * * *"      # 매시간 :05 — 주가 + 뉴스
-    - cron: "20 0,12 * * *"  # 00:20, 12:20 UTC — 트렌드
+    - cron: "20 */3 * * *"   # 3시간마다 :20 — 트렌드
   workflow_dispatch:
     inputs:
       ticker:
@@ -78,8 +78,8 @@ jobs:
             run fetch_news.py $TICKER
             run fetch_trends.py $TICKER || true
             run fetch_trends.py $TICKER --hourly || true
-          elif [ "$SCHED" = "20 0,12 * * *" ]; then
-            # 12시간 주기 — 트렌드
+          elif [ "$SCHED" = "20 */3 * * *" ]; then
+            # 3시간 주기 — 트렌드
             run fetch_trends.py || true
             run fetch_trends.py --hourly || true
           else
