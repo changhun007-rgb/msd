@@ -7,6 +7,7 @@
 //   MSD_DATA_REF     코드 브랜치 (기본 main)
 //   MSD_GITHUB_TOKEN repo 의 Contents:write + Actions:write 권한 토큰
 
+import { readEnv } from "@/lib/dataSource";
 import type { TickerMeta } from "@/types";
 
 const API = "https://api.github.com";
@@ -14,17 +15,17 @@ const TICKERS_PATH = "data/keywords/tickers.json";
 const WORKFLOW_FILE = "fetch-data.yml";
 
 function repo(): string {
-  const r = process.env.MSD_DATA_REPO;
+  const r = readEnv("MSD_DATA_REPO");
   if (!r) throw new Error("MSD_DATA_REPO not set");
   return r;
 }
 
 function codeRef(): string {
-  return process.env.MSD_DATA_REF ?? "main";
+  return readEnv("MSD_DATA_REF") ?? "main";
 }
 
 function token(): string {
-  const t = process.env.MSD_GITHUB_TOKEN;
+  const t = readEnv("MSD_GITHUB_TOKEN");
   if (!t) throw new Error("MSD_GITHUB_TOKEN not set");
   return t;
 }

@@ -13,13 +13,28 @@
 
 import fs from "node:fs/promises";
 import path from "node:path";
+import { getCloudflareContext } from "@opennextjs/cloudflare";
+
+// Cloudflare Workers 런타임에서는 환경변수가 process.env 가 아니라
+// getCloudflareContext().env 에 들어온다. 로컬/빌드 환경은 process.env 폴백.
+export function readEnv(key: string): string | undefined {
+  try {
+    const { env } = getCloudflareContext();
+    const v = (env as Record<string, unknown> | undefined)?.[key];
+    if (typeof v === "string" && v.length > 0) return v;
+  } catch {
+    // getCloudflareContext 를 쓸 수 없는 컨텍스트 (빌드 등) — process.env 로.
+  }
+  const pv = process.env[key];
+  return pv && pv.length > 0 ? pv : undefined;
+}
 
 export function isGithubMode(): boolean {
-  return !!process.env.MSD_DATA_REPO;
+  return !!readEnv("MSD_DATA_REPO");
 }
 
 function rawUrl(ref: string, pathInRepo: string): string {
-  const repo = process.env.MSD_DATA_REPO as string;
+  const repo = readEnv("MSD_DATA_REPO") as string;
   return `https://raw.githubusercontent.com/${repo}/${ref}/${pathInRepo}`;
 }
 
@@ -52,7 +67,7 @@ export async function readCacheText(
   filename: string,
 ): Promise<string | null> {
   if (isGithubMode()) {
-    const ref = process.env.MSD_CACHE_REF ?? "data";
+    const ref = readEnv("MSD_CACHE_REF") ?? "data";
     return fetchRaw(ref, filename);
   }
   return readLocal(path.join(cacheDir(), filename));
@@ -63,7 +78,7 @@ export async function readCacheText(
 //   GitHub: 코드 브랜치의 data/keywords/tickers.json
 export async function readKeywordsText(): Promise<string | null> {
   if (isGithubMode()) {
-    const ref = process.env.MSD_DATA_REF ?? "main";
+    const ref = readEnv("MSD_DATA_REF") ?? "main";
     return fetchRaw(ref, "data/keywords/tickers.json");
   }
   return readLocal(
