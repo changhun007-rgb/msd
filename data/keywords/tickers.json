@@ -3,30 +3,90 @@
     "ticker": "TSLA",
     "display": "Tesla",
     "region": "US",
-    "trendsKeywords": ["Tesla", "TSLA stock", "테슬라"]
+    "trendsKeywords": [
+      "Tesla",
+      "TSLA stock",
+      "테슬라"
+    ]
   },
   "NVDA": {
     "ticker": "NVDA",
     "display": "NVIDIA",
     "region": "US",
-    "trendsKeywords": ["NVIDIA", "NVDA stock", "엔비디아"]
+    "trendsKeywords": [
+      "NVIDIA",
+      "NVDA stock",
+      "엔비디아"
+    ]
   },
   "AAPL": {
     "ticker": "AAPL",
     "display": "Apple",
     "region": "US",
-    "trendsKeywords": ["Apple stock", "AAPL", "애플 주식"]
+    "trendsKeywords": [
+      "Apple stock",
+      "AAPL",
+      "애플 주식"
+    ]
   },
   "005930.KS": {
     "ticker": "005930.KS",
     "display": "삼성전자",
     "region": "KR",
-    "trendsKeywords": ["삼성전자", "Samsung Electronics", "005930"]
+    "trendsKeywords": [
+      "삼성전자",
+      "Samsung Electronics",
+      "005930"
+    ]
   },
   "086520.KQ": {
     "ticker": "086520.KQ",
     "display": "에코프로",
     "region": "KR",
-    "trendsKeywords": ["에코프로", "Ecopro", "086520"]
+    "trendsKeywords": [
+      "에코프로",
+      "Ecopro",
+      "086520"
+    ]
+  },
+  "MSFT": {
+    "ticker": "MSFT",
+    "display": "Microsoft",
+    "region": "US",
+    "trendsKeywords": [
+      "Microsoft",
+      "MSFT stock",
+      "마이크로소프트"
+    ]
+  },
+  "GOOG": {
+    "ticker": "GOOG",
+    "display": "Alphabet",
+    "region": "US",
+    "trendsKeywords": [
+      "Google",
+      "Alphabet",
+      "구글"
+    ]
+  },
+  "000660.KS": {
+    "ticker": "000660.KS",
+    "display": "SK하이닉스",
+    "region": "KR",
+    "trendsKeywords": [
+      "SK하이닉스",
+      "Hynix",
+      "000660"
+    ]
+  },
+  "012330.KS": {
+    "ticker": "012330.KS",
+    "display": "현대모비스",
+    "region": "KR",
+    "trendsKeywords": [
+      "현대모비스",
+      "Mobis",
+      "012330"
+    ]
   }
 }

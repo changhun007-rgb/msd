@@ -37,7 +37,8 @@ from common import (
     write_json,
 )
 
-TIMEFRAME = "today 3-m"
+DAILY_TIMEFRAME = "today 3-m"
+HOURLY_TIMEFRAME = "now 7-d"
 SLEEP_BETWEEN = 8.0
 
 
@@ -45,54 +46,63 @@ def geo_for_region(region: str) -> str:
     return {"US": "US", "KR": "KR"}.get(region.upper(), "")
 
 
-def empty_payload(meta: TickerMeta, geo: str, keywords: list[str]) -> dict:
+def empty_payload(meta: TickerMeta, geo: str, keywords: list[str], timeframe: str) -> dict:
     return {
         "ticker": meta.ticker,
         "geo": geo,
-        "timeframe": TIMEFRAME,
+        "timeframe": timeframe,
         "keywords": keywords,
         "fetchedAt": iso_now(),
         "points": [],
     }
 
 
-def fetch_one(meta: TickerMeta) -> dict:
+def fetch_one(meta: TickerMeta, hourly: bool = False) -> dict:
     keywords = list(meta.trends_keywords)[:5]
     geo = geo_for_region(meta.region)
+    timeframe = HOURLY_TIMEFRAME if hourly else DAILY_TIMEFRAME
 
     if not keywords:
-        return empty_payload(meta, geo, keywords)
+        return empty_payload(meta, geo, keywords, timeframe)
 
     pytrends = TrendReq(hl="en-US", tz=0, retries=2, backoff_factor=1.0)
-    pytrends.build_payload(keywords, timeframe=TIMEFRAME, geo=geo)
+    pytrends.build_payload(keywords, timeframe=timeframe, geo=geo)
     df = pytrends.interest_over_time()
 
     if df is None or df.empty:
-        return empty_payload(meta, geo, keywords)
+        return empty_payload(meta, geo, keywords, timeframe)
 
     if "isPartial" in df.columns:
         df = df.drop(columns=["isPartial"])
 
     # 그룹 대표: 키워드별 시계열의 평균
     series = df.mean(axis=1).round().astype(int)
-    sma7 = series.rolling(7, min_periods=1).mean().round(2)
-    prev7 = series.shift(7)
-    wow = ((series - prev7) / prev7.replace(0, pd.NA) * 100).round(2)
 
     points: list[dict] = []
-    for date, val in series.items():
-        w = wow.get(date)
-        points.append({
-            "date": date.strftime("%Y-%m-%d"),
-            "trend": int(val),
-            "sma7": float(sma7.get(date)),
-            "wow": None if pd.isna(w) else float(w),
-        })
+    if hourly:
+        # 시간봉: datetime + trend 만 저장. sma/wow 는 의미 약해서 생략.
+        for ts, val in series.items():
+            ts_utc = ts.tz_convert("UTC") if isinstance(ts, pd.Timestamp) and ts.tzinfo else ts
+            iso = ts_utc.isoformat() if isinstance(ts_utc, pd.Timestamp) else str(ts_utc)
+            points.append({"datetime": iso, "trend": int(val)})
+    else:
+        sma7 = series.rolling(7, min_periods=1).mean().round(2)
+        prev7 = series.shift(7)
+        wow = ((series - prev7) / prev7.replace(0, pd.NA) * 100).round(2)
+        for date, val in series.items():
+            w = wow.get(date)
+            sm = sma7.get(date)
+            points.append({
+                "date": date.strftime("%Y-%m-%d"),
+                "trend": int(val),
+                "sma7": float(sm) if not pd.isna(sm) else None,
+                "wow": None if pd.isna(w) else float(w),
+            })
 
     return {
         "ticker": meta.ticker,
         "geo": geo,
-        "timeframe": TIMEFRAME,
+        "timeframe": timeframe,
         "keywords": keywords,
         "fetchedAt": iso_now(),
         "points": points,
@@ -100,7 +110,9 @@ def fetch_one(meta: TickerMeta) -> dict:
 
 
 def main(argv: list[str]) -> int:
-    tickers = resolve_tickers(argv[1:])
+    hourly = "--hourly" in argv
+    args = [a for a in argv[1:] if not a.startswith("-")]
+    tickers = resolve_tickers(args)
     metas = load_tickers()
     if not tickers:
         print("[warn] no tickers to fetch", file=sys.stderr)
@@ -113,11 +125,12 @@ def main(argv: list[str]) -> int:
             print(f"[skip] {t}: no meta in tickers.json", file=sys.stderr)
             continue
         try:
-            data = fetch_one(meta)
-            path: Path = trends_cache_path(t)
+            data = fetch_one(meta, hourly=hourly)
+            path: Path = trends_cache_path(t, hourly=hourly)
             write_json(path, data)
+            mode = "hourly" if hourly else "daily"
             print(
-                f"[ok] {t}: {len(data['points'])} rows (geo={data['geo']}) → {path}"
+                f"[ok] {t}: {len(data['points'])} rows ({mode}, geo={data['geo']}) → {path}"
             )
         except Exception as e:
             failures += 1

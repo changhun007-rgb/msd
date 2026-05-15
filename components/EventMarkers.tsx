@@ -43,7 +43,7 @@ function PointDetail({
       <div className="grid grid-cols-2 gap-x-3 gap-y-0.5 sm:grid-cols-4">
         <Cell label="종가" value={point.close.toLocaleString()} />
         <Cell label="거래량" value={fmtVolume(point.volume)} />
-        <Cell label="검색" value={String(point.trend)} />
+        <Cell label="검색" value={point.trend == null ? "—" : String(point.trend)} />
         <Cell label="뉴스" value={`${point.newsCount}건`} />
         <Cell label="긍정" value={String(point.posScore)} tone="emerald" />
         <Cell label="부정" value={String(point.negScore)} tone="rose" />

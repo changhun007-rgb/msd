@@ -60,14 +60,16 @@ def build_query(keywords: list[str]) -> str:
     return " OR ".join(parts)
 
 
-def parse_published(entry) -> tuple[str, str]:
-    """returns (date YYYY-MM-DD UTC, iso UTC)."""
+def parse_published(entry) -> tuple[str, str, str]:
+    """returns (date YYYY-MM-DD UTC, hour YYYY-MM-DDTHH:00:00+00:00, iso UTC)."""
     pp = entry.get("published_parsed") or entry.get("updated_parsed")
     if pp is None:
         now = datetime.now(timezone.utc)
-        return now.strftime("%Y-%m-%d"), now.isoformat()
+        hour = now.replace(minute=0, second=0, microsecond=0)
+        return now.strftime("%Y-%m-%d"), hour.isoformat(), now.isoformat()
     dt = datetime(*pp[:6], tzinfo=timezone.utc)
-    return dt.strftime("%Y-%m-%d"), dt.isoformat()
+    hour = dt.replace(minute=0, second=0, microsecond=0)
+    return dt.strftime("%Y-%m-%d"), hour.isoformat(), dt.isoformat()
 
 
 def entry_source(entry) -> str | None:
@@ -94,12 +96,15 @@ def fetch_one(meta: TickerMeta) -> dict:
     by_day: dict[str, dict[str, int]] = defaultdict(
         lambda: {"count": 0, "pos": 0, "neg": 0}
     )
+    by_hour: dict[str, dict[str, int]] = defaultdict(
+        lambda: {"count": 0, "pos": 0, "neg": 0}
+    )
 
     for e in parsed.entries[:MAX_ENTRIES]:
         title = e.get("title", "") or ""
         summary = e.get("summary", "") or ""
         pos, neg = score(f"{title}\n{summary}")
-        date_str, iso = parse_published(e)
+        date_str, hour_iso, iso = parse_published(e)
         items.append({
             "date": date_str,
             "publishedAt": iso,
@@ -113,9 +118,14 @@ def fetch_one(meta: TickerMeta) -> dict:
         agg["count"] += 1
         agg["pos"] += pos
         agg["neg"] += neg
+        agg_h = by_hour[hour_iso]
+        agg_h["count"] += 1
+        agg_h["pos"] += pos
+        agg_h["neg"] += neg
 
     items.sort(key=lambda x: x["publishedAt"], reverse=True)
     days = sorted(by_day.keys())
+    hours = sorted(by_hour.keys())
 
     return {
         "ticker": meta.ticker,
@@ -125,6 +135,7 @@ def fetch_one(meta: TickerMeta) -> dict:
         "fetchedAt": iso_now(),
         "items": items,
         "byDay": [{"date": d, **by_day[d]} for d in days],
+        "byHour": [{"datetime": h, **by_hour[h]} for h in hours],
     }
 
 

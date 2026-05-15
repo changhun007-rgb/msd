@@ -5,28 +5,35 @@
 //   뉴스/감성: Google News RSS 캐시 있으면 byDay를 가격 날짜에 정렬, 없으면 mock
 
 import { NextResponse } from "next/server";
-import tickersJson from "@/data/keywords/tickers.json";
 import {
   readNewsCache,
   readStockCache,
+  readStockHourlyCache,
   readTrendsCache,
+  readTrendsHourlyCache,
   type NewsCacheFile,
   type TrendsCacheFile,
 } from "@/lib/cache";
 import { buildMockSeries, mockSignalsForDates } from "@/lib/mockData";
+import { readTickers } from "@/lib/tickers";
 import type {
   IntegratedPoint,
   IntegratedSeries,
+  Interval,
   NewsItem,
   Region,
   SourceTag,
   TickerMeta,
 } from "@/types";
 
-const TICKERS = tickersJson as Record<string, TickerMeta>;
 const RECENT_NEWS_LIMIT = 12;
 
 export const dynamic = "force-dynamic";
+
+// "2026-05-13T13:30:00+00:00" → "2026-05-13T13:00:00+00:00"
+function toHourKey(iso: string): string {
+  return iso.slice(0, 13) + ":00:00+00:00";
+}
 
 // 가격 dates 순서대로 trend 캐시 값을 매칭. 정확 일치 우선, 없으면 직전 last known 값(forward-fill).
 function alignTrends(
@@ -96,18 +103,25 @@ export async function GET(
   const { ticker } = await params;
   const url = new URL(req.url);
   const regionParam = (url.searchParams.get("region") ?? "").toUpperCase();
+  const interval: Interval =
+    url.searchParams.get("interval") === "1h" ? "1h" : "1d";
   const days = Math.max(
     7,
     Math.min(parseInt(url.searchParams.get("days") ?? "120", 10) || 120, 365),
   );
 
-  const meta: TickerMeta = TICKERS[ticker] ?? {
+  const tickers = await readTickers();
+  const meta: TickerMeta = tickers[ticker] ?? {
     ticker,
     display: ticker,
     region: (regionParam || "US") as Region,
     trendsKeywords: [ticker],
   };
   const region = (regionParam || meta.region) as Region;
+
+  if (interval === "1h") {
+    return getHourly(ticker, meta, region);
+  }
 
   const [stock, trends, news] = await Promise.all([
     readStockCache(ticker),
@@ -157,14 +171,20 @@ export async function GET(
   const sig = mockSignalsForDates(ticker, region, dates);
 
   // 3) Trend 채널 채우기
+  //    "검색 데이터 없음 = 빈 칸"을 일관되게 유지.
+  //    캐시가 있으면 캐시 범위 밖 날짜만 null, 캐시가 아예 없으면 전부 null.
+  //    (예전엔 캐시 없으면 mockSignalsForDates 로 전체 채웠지만,
+  //     실데이터인 척하는 가짜 패턴이 차트에 섞이는 문제가 있었음.)
   let trendsSource: SourceTag = "mock";
-  let trendValues: number[];
+  let trendValues: (number | null)[];
   if (haveTrends) {
-    const aligned = alignTrends(trends, dates);
-    trendValues = aligned.map((v, i) => (v == null ? sig[i].trend : v));
+    trendValues = alignTrends(trends, dates);
     trendsSource = "pytrends";
-  } else {
+  } else if (priceSource === "mock") {
+    // 가격까지 mock 인 "완전 데모" 모드에서만 검색량도 mock 으로.
     trendValues = sig.map((s) => s.trend);
+  } else {
+    trendValues = dates.map(() => null);
   }
 
   // 4) News/감성 채널 채우기
@@ -199,10 +219,120 @@ export async function GET(
     {
       meta,
       region,
+      interval: "1d",
       baseline,
       collectedAt,
       points,
       sources: { price: priceSource, trends: trendsSource, news: newsSource },
+      recentNews,
+    },
+    { headers: { "Cache-Control": "no-store" } },
+  );
+}
+
+// ─── 시간봉 ────────────────────────────────────────────────────────────────
+// 가격(시간봉 yfinance) + 트렌드(시간별 pytrends) + 뉴스(byHour) 를 정시 키로 정렬.
+// 캐시가 없는 채널은 채우지 않고 0/null 로 비워둔다 (mock 폴백 안 함).
+async function getHourly(
+  ticker: string,
+  meta: TickerMeta,
+  region: Region,
+): Promise<NextResponse> {
+  const [stockH, trendsH, news] = await Promise.all([
+    readStockHourlyCache(ticker),
+    readTrendsHourlyCache(ticker),
+    readNewsCache(ticker),
+  ]);
+
+  // 가격이 없으면 시간봉 모드는 그릴 게 없음 — 빈 응답.
+  if (!stockH || stockH.points.length === 0) {
+    return NextResponse.json<IntegratedSeries>(
+      {
+        meta,
+        region,
+        interval: "1h",
+        baseline: { start: "", end: "" },
+        collectedAt: new Date().toISOString(),
+        points: [],
+        sources: { price: "mock", trends: "mock", news: "mock" },
+      },
+      { headers: { "Cache-Control": "no-store" } },
+    );
+  }
+
+  // 가격 datetime 을 정시 키로 변환해 매칭에 사용.
+  const hourKeys = stockH.points.map((p) => toHourKey(p.datetime));
+
+  const trendMap = new Map<string, number>();
+  if (trendsH) {
+    for (const p of trendsH.points) {
+      trendMap.set(toHourKey(p.datetime), p.trend);
+    }
+  }
+  const haveTrendsH = trendsH != null && trendsH.points.length > 0;
+  const trendValues: (number | null)[] = haveTrendsH
+    ? hourKeys.map((k) => trendMap.get(k) ?? null)
+    : hourKeys.map(() => null);
+
+  const newsMap = new Map<
+    string,
+    { count: number; pos: number; neg: number }
+  >();
+  if (news?.byHour) {
+    for (const h of news.byHour) {
+      newsMap.set(toHourKey(h.datetime), {
+        count: h.count,
+        pos: h.pos,
+        neg: h.neg,
+      });
+    }
+  }
+  const haveNewsH = news?.byHour != null && news.byHour.length > 0;
+  const newsAligned = hourKeys.map(
+    (k) => newsMap.get(k) ?? { count: 0, pos: 0, neg: 0 },
+  );
+
+  const points: IntegratedPoint[] = stockH.points.map((p, i) => ({
+    date: p.datetime,
+    open: p.open,
+    high: p.high,
+    low: p.low,
+    close: p.close,
+    volume: p.volume,
+    trend: trendValues[i],
+    newsCount: newsAligned[i].count,
+    posScore: newsAligned[i].pos,
+    negScore: newsAligned[i].neg,
+  }));
+
+  const recentNews = news
+    ? news.items.slice(0, RECENT_NEWS_LIMIT).map((it) => ({
+        date: it.date,
+        publishedAt: it.publishedAt,
+        title: it.title,
+        link: it.link,
+        source: it.source ?? null,
+        pos: it.pos,
+        neg: it.neg,
+      }))
+    : undefined;
+
+  return NextResponse.json<IntegratedSeries>(
+    {
+      meta,
+      region,
+      interval: "1h",
+      baseline: {
+        start: points[0]?.date ?? "",
+        end: points[points.length - 1]?.date ?? "",
+      },
+      collectedAt: stockH.fetchedAt,
+      points,
+      sources: {
+        price: "yfinance",
+        trends: haveTrendsH ? "pytrends" : "mock",
+        news: haveNewsH ? "google-news-rss" : "mock",
+      },
       recentNews,
     },
     { headers: { "Cache-Control": "no-store" } },

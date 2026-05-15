@@ -6,5 +6,7 @@ pandas>=2.0
 python-dateutil>=2.8
 # Step 3에서 사용 (지금 설치해도 무방):
 pytrends>=4.9.2
+# pytrends 는 urllib3 2.x 와 비호환 (method_whitelist 인자) — 1.x 로 핀.
+urllib3<2
 # Step 4 (뉴스 RSS 파싱):
 feedparser>=6.0.10

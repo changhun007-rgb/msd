@@ -1,9 +1,9 @@
 // 서버 전용 캐시 reader.
 // Python 수집기가 data/cache/{ticker}_stock.json 에 적재한 결과를 읽는다.
-// 이 모듈은 fs를 사용하므로 클라이언트 컴포넌트에서 import 하지 말 것.
+// 로컬에서는 파일시스템, 배포 환경에서는 GitHub raw 에서 읽는다 (lib/dataSource).
+// 이 모듈은 server-only — 클라이언트 컴포넌트에서 import 하지 말 것.
 
-import fs from "node:fs/promises";
-import path from "node:path";
+import { readCacheText } from "@/lib/dataSource";
 
 export interface StockPoint {
   date: string;
@@ -14,6 +14,10 @@ export interface StockPoint {
   volume: number;
 }
 
+export interface StockHourlyPoint extends StockPoint {
+  datetime: string; // UTC ISO "2026-05-13T14:30:00+00:00"
+}
+
 export interface StockCacheFile {
   ticker: string;
   fetchedAt: string;
@@ -22,35 +26,59 @@ export interface StockCacheFile {
   points: StockPoint[];
 }
 
+export interface StockHourlyCacheFile extends Omit<StockCacheFile, "points"> {
+  points: StockHourlyPoint[];
+}
+
 function safeName(ticker: string): string {
   return Array.from(ticker)
     .map((c) => (/[a-zA-Z0-9._-]/.test(c) ? c : "_"))
     .join("");
 }
 
-function cacheDir(): string {
-  return process.env.CACHE_DIR ?? path.join(process.cwd(), "data", "cache");
-}
-
-export async function readStockCache(
-  ticker: string,
-): Promise<StockCacheFile | null> {
-  const file = path.join(cacheDir(), `${safeName(ticker)}_stock.json`);
+// 캐시 파일 텍스트를 읽어 JSON 파싱. 파싱 실패/부재 시 null.
+async function readJson<T>(
+  filename: string,
+  validate: (v: T) => boolean,
+): Promise<T | null> {
+  const text = await readCacheText(filename);
+  if (text == null) return null;
   try {
-    const buf = await fs.readFile(file, "utf8");
-    const parsed = JSON.parse(buf) as StockCacheFile;
-    if (!Array.isArray(parsed.points)) return null;
-    return parsed;
+    const parsed = JSON.parse(text) as T;
+    return validate(parsed) ? parsed : null;
   } catch {
     return null;
   }
 }
 
+export async function readStockCache(
+  ticker: string,
+): Promise<StockCacheFile | null> {
+  return readJson<StockCacheFile>(
+    `${safeName(ticker)}_stock.json`,
+    (p) => Array.isArray(p.points),
+  );
+}
+
+export async function readStockHourlyCache(
+  ticker: string,
+): Promise<StockHourlyCacheFile | null> {
+  return readJson<StockHourlyCacheFile>(
+    `${safeName(ticker)}_stock_1h.json`,
+    (p) => Array.isArray(p.points),
+  );
+}
+
 export interface TrendsPoint {
   date: string;
   trend: number;
-  sma7?: number;
+  sma7?: number | null;
   wow?: number | null;
+}
+
+export interface TrendsHourlyPoint {
+  datetime: string; // UTC ISO
+  trend: number;
 }
 
 export interface TrendsCacheFile {
@@ -62,18 +90,27 @@ export interface TrendsCacheFile {
   points: TrendsPoint[];
 }
 
+export interface TrendsHourlyCacheFile
+  extends Omit<TrendsCacheFile, "points"> {
+  points: TrendsHourlyPoint[];
+}
+
 export async function readTrendsCache(
   ticker: string,
 ): Promise<TrendsCacheFile | null> {
-  const file = path.join(cacheDir(), `${safeName(ticker)}_trends.json`);
-  try {
-    const buf = await fs.readFile(file, "utf8");
-    const parsed = JSON.parse(buf) as TrendsCacheFile;
-    if (!Array.isArray(parsed.points)) return null;
-    return parsed;
-  } catch {
-    return null;
-  }
+  return readJson<TrendsCacheFile>(
+    `${safeName(ticker)}_trends.json`,
+    (p) => Array.isArray(p.points),
+  );
+}
+
+export async function readTrendsHourlyCache(
+  ticker: string,
+): Promise<TrendsHourlyCacheFile | null> {
+  return readJson<TrendsHourlyCacheFile>(
+    `${safeName(ticker)}_trends_hourly.json`,
+    (p) => Array.isArray(p.points),
+  );
 }
 
 export interface NewsItemCache {
@@ -93,6 +130,13 @@ export interface NewsByDay {
   neg: number;
 }
 
+export interface NewsByHour {
+  datetime: string; // UTC ISO truncated to hour
+  count: number;
+  pos: number;
+  neg: number;
+}
+
 export interface NewsCacheFile {
   ticker: string;
   query: string;
@@ -101,19 +145,14 @@ export interface NewsCacheFile {
   fetchedAt: string;
   items: NewsItemCache[];
   byDay: NewsByDay[];
+  byHour?: NewsByHour[]; // Phase 2 이후 추가, 기존 캐시엔 없을 수 있음
 }
 
 export async function readNewsCache(
   ticker: string,
 ): Promise<NewsCacheFile | null> {
-  const file = path.join(cacheDir(), `${safeName(ticker)}_news.json`);
-  try {
-    const buf = await fs.readFile(file, "utf8");
-    const parsed = JSON.parse(buf) as NewsCacheFile;
-    if (!Array.isArray(parsed.items) || !Array.isArray(parsed.byDay))
-      return null;
-    return parsed;
-  } catch {
-    return null;
-  }
+  return readJson<NewsCacheFile>(
+    `${safeName(ticker)}_news.json`,
+    (p) => Array.isArray(p.items) && Array.isArray(p.byDay),
+  );
 }

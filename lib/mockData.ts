@@ -85,8 +85,10 @@ export function buildMockSeries(
       1_000_000 * (1 + trend / 80 + rand() * 0.4),
     );
 
-    // 뉴스량은 trend의 후행 (lag 1-2일)
-    const trendLag = points.length >= 2 ? points[points.length - 2].trend : trend;
+    // 뉴스량은 trend의 후행 (lag 1-2일). mock 의 trend 는 항상 number 지만
+    // 타입상 null 가능하므로 폴백.
+    const trendLag =
+      (points.length >= 2 ? points[points.length - 2].trend : trend) ?? trend;
     const newsBase = trendLag / 8;
     const newsCount = Math.max(0, Math.round(newsBase + rand() * 5));
 
@@ -116,6 +118,7 @@ export function buildMockSeries(
   return {
     meta,
     region,
+    interval: "1d",
     baseline: { start: baselineStart, end: baselineEnd },
     collectedAt: new Date().toISOString(),
     points,
