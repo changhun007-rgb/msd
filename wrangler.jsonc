@@ -3,7 +3,13 @@
   "main": ".open-next/worker.js",
   "name": "msd",
   "compatibility_date": "2024-12-30",
-  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  // nodejs_compat_populate_process_env: vars/secrets 를 process.env 로 노출.
+  // 이게 없으면 코드의 process.env.MSD_* 가 전부 undefined → mock 폴백됨.
+  "compatibility_flags": [
+    "nodejs_compat",
+    "nodejs_compat_populate_process_env",
+    "global_fetch_strictly_public"
+  ],
   "assets": {
     "directory": ".open-next/assets",
     "binding": "ASSETS"
