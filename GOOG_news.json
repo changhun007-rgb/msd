@@ -1,0 +1,877 @@
+{
+  "ticker": "GOOG",
+  "query": "Google OR Alphabet OR 구글",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-05-20T15:51:33.545850+00:00",
+  "items": [
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:39:20+00:00",
+      "title": "Google I/O: Every new feature coming to Chrome, including two AI detection tools - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwSmlTRl9sVVRBak5vb2h1dzhQMk90VThSazJlQmpCazh4UGxTbGtES2xqRFIzLTFLSDA2UXhxZGlQRm1veEdMMzBLVFQyREpzMmk4X2tITHhBMm0wcXpjS0hpNkJxWkllbnBuUg?oc=5",
+      "source": "Mashable",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:38:56+00:00",
+      "title": "Google Just Changed How We’re Going to Shop - vogue.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wMHR4NmpqdE9jYmVFRzFTNUhlTXJlUElvX3p0QW5mWm1wdFdQa0w1ZU5DUVMzUnNKMkFiWVUtOUlKTWZiNmtqd1NxZkxwZms3cVFmSHltS0dvYW00aHF5TFpzZkNVSEk1NnpWTmNDeWM1V3VVdzQ5QjNySUdXc1k?oc=5",
+      "source": "vogue.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:10:24+00:00",
+      "title": "BofA Doubles Down on Alphabet at $430 Price Target After I/O 2026 AI Showcase - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSTgwb1Bmb2E3czg2amFpRW9kWFBlQ19hRWJ5Y08ybnJ5YzVTNjE2eHFNbl9xWEhvZm9jX21ET21MNXhrWGtXZmc1bUh5X0FETzdWUDUyWUdVdDUtY1JmVVVqYUZqZjZIaDJscUhOcEZBbkNQOFIyOWtqY2dJYTNldHduUndjTHp4UWZRUC1Udlc5ZWF2TV9MU1lPZ3B3U2t5Wk5vQzQzd3RBSW9ldXBUa3JzYmJFcUhWbjRGZw?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:58:23+00:00",
+      "title": "Billionaire Stanley Druckenmiller Dumped Every Share of Alphabet. He Bought AI Memory Stocks Up 581% to 3,467% Instead - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYjNzMDBiTE5TY2I5WTR5Mi1xSHc1dTVPNHRfdFFRSS1OQ2l2QXR2TmNIeGw2SjBaNk1OTER6bVdYZlFCWDE0Z0FJUVBZVDBTanB1WC1aODJFSXNHQWZtajdPbjlMWXdNSzhrSjhSa3ZOaDFpOFh4dVJxb1pUajhZMDVLcFJWbU5uME9uQU01R2lsaDV6a094R2NENWRMZmNxWWdWMDZteXIzUkJtTzBGVDhYY0FIWEs4Q2laNllmWVhnT1ZhMVA0b0Y5UVdTeFo1WkN4T1pBWV9rNlEtM1h5NHBSNTdKNTRlNGUxeGNTTQ?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:49:23+00:00",
+      "title": "Google is building a new $5B neocloud with Blackstone – but why? - Fierce Network",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX3FwOFBTWkkxVW5jY2gxYlpicDJWa0I1WGtKNW5qVWFXb3BidDJVX0NxM21PdlNvTHZBUmYwMVBzVG12WjBaeWJMaGJwZFQ4VGt1ZE1UTDRWekVnc3ZhX1VXeG55QmZOdnMzb0VwbjJya09qakE0MkVPTlNKX0c5SGxmdHdEZTN5RVZv?oc=5",
+      "source": "Fierce Network",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:18:43+00:00",
+      "title": "FintechOS deepens ties with Google Cloud - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEdpZkRRVjJ4WGgxdGdhZ0xIMkdOM0JTNlpjMUx4d19fZGlzOUVHeXhyNjNzMUNqZnkwdllOZ2Z6ZHJ4NHB6di1LWkQxZGNXa0xVYWNIaVI4SU5peTVoQThFVTdzMXh2Y1MzVndhRzdNM2FSOENIdzNWN0NvVnljUU5seUhkTXNyYTZBNGtnUnFNZXMwNUtsVW1FYkZFbDI2VGZFOF9nYw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:14:02+00:00",
+      "title": "BofA reiterates Buy on Alphabet stock after Google I/O event - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0NUeWF2Tm1TaXNIZUFQWW9oRDhGMUJVcUNnaFVPaE81cDN5MG9aZXk2SmFNamhQSzRKRVd2SGM4VzhwTks0NjFWWWE1LXBIVUM2TUpTMXZrTnMwSmlpdVpXaDJzMXhoS0p4ZEdDZFRJSUpBTTRBTmZJRVBaRHItcXVhbUJGeXFqV0dJbzZLT0FFSHJFSWVvcVRDdElXRU42RzhTaFFlODlKRmZiaDZVVUR3ekl5V2ljb1RGMlVB?oc=5",
+      "source": "Investing.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:01:50+00:00",
+      "title": "I Just Vibe Coded a Markdown Editor With Google AI Studio ⭐ - Thurrott.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOclYxZkxqUTNESS1DNWlqQ3dYRVVTcVRvcHNwT1JhVkRwX2pycnVKX0lYWmM0SzA1VVVQQXBEamNocDRaU1VBdHRfSnNkUGo2clFpVGcyaFc2aG9pWUVjSk55cWdBNDJvdnNwMGdUX3Z5WG9tT2ZQMFdLNV82TW9oT283MHhXRG15MXRTWU5GbzMzNjRtMWxTZQ?oc=5",
+      "source": "Thurrott.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:00:00+00:00",
+      "title": "Google Pitches Its AI Coding Tools as the Cost-Effective Option - The Information",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaGNCTFpJd0VHeUJ0LUZHaHBkdmxEY3RFeHJac3lGdzlDVl9KYWNjUDJ0eHVIcmpUZW16cUdJN2dMZXk4OXRKSE9PaE9IN3RLZy0tVlJKZUk2cUE1bGRCMlJUMFBmWEswYzI1WV9WRTlMY0FUSzgzc2w4OUp6a2lSRVFkQW1haEZWb2c4UGVHSlU2Wjl6WHN6cHMwWGpyeXJCaTgtc0lUeng?oc=5",
+      "source": "The Information",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:35:39+00:00",
+      "title": "Google's latest AI push runs the risk of upsetting an important group that's starting to resent the tech - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOExxQXJRdE5yWXdPS21zYkMtRWlUUXNsb1lkeHpYZS03UW9ZYkMtNUdTTnpFenVpbVBVYS1aRFRHbk51S1pCWVV3Y0tLTENUcGN3bFJtclQ3a1pYMkRkS2xaUmg5NmQ4QlFuM0dZUnVhZWJMN3RTWFRFcVk3cHFLQ0FNSEk?oc=5",
+      "source": "Business Insider",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:34:41+00:00",
+      "title": "Alphabet Just Disrupted Itself, Completely (Rating Upgrade) (NASDAQ:GOOG) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTXZOUTRiZ0tqR1ViaVFnYy1tZXhNZGNqYjNfcWZFWGpYbW5hVW5VX0lZTjFBc2tWQ1psVHZNQU5rcnZVeGZieGJxQUdCeFdyZU8zSHNwYm1HMk5ZaFB3NVpLMWhRaUNwQ1BLM2dxd0d0VE81QnJsODNpRWRLUVhzb3htRW9zNGM5M2xoaW9NUmpyRzhaTnhMaG1OZnB2QQ?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:34:00+00:00",
+      "title": "Google I/O: Alphabet Flexes Muscles In AI Model Pricing Vs. Rivals - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVUJxajFPb3VEdDFQT0hMcW8ybXpVakJQNWNKN0NlQi05aURzMmVtMWR4eEJhMmFOUlFfLWVmWlBZRTFVYjZoMGM5aHM2N0dsYUprQ0t6SlZEOTdDaGZrZUhHT2xmTEFDeHBnWERtMXZheTc2dl9iZGduR2d3UFZQM2VqbTB0cVFiWVhZWklVa2Z0MUk?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:20:01+00:00",
+      "title": "Wall Street predicts Google stock price for next 12 months - Finbold",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1JpQXlNN056LW9fQXRlWXNzQ1lwZkE5RG9GRDFFMHVrUmtvNlN3NzBMS24zaXI4ejF3SWxSMnJ1SWlPUHNKU1N0WXlLZnFOaGx0UEF0LUNqbXN1bUpySFpROGotSnl1MEpodjZHYWZHWmdEc2ROOGRSMGJySy1aX2pidTlkS2VF?oc=5",
+      "source": "Finbold",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:11:00+00:00",
+      "title": "AI engineer says Google unfairly sacked him after he protested against work for Israel - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWjBOblFaRk9hM2lucnBhenRnbV9IUFZqOU02cTJUNWdrclk5dmIxc210SW1vRkxTMHFYVzZjZjBFWTdjYkxaTDlLMWhtSzZUR1JXQkNQNGRfcktDZnM0VjA3MWk5Q3FkYkZfeWl2bm5tZkw2Y0xvWFZsSUpQdGNtb0JBSnE0YXVTQUFhaUJ3RFFESUMxTUJKUVJrNHhMcTJieGNET19LNHc3TExVd1BKTlEtMmo0emFpaW1UeXNZTXZsRjc0Yl9kTnRoT3NvUEtCNmNN?oc=5",
+      "source": "The Guardian",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T12:54:27+00:00",
+      "title": "Berkshire Hathaway Increases Alphabet Stake to Make Google Parent Its 7th Largest Holding - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFRsTUtnOUZqWEhFTWM5SGQwYnpXSFhGbEFETHR5ZzBneExTcGNlc202amQ1bFRLWUZBTHIxWmFHZ0pHWS1zR0pzWkNTbl80Y1pKM285azRfMDA0c3djMHZFSF9WdTdzRlNuX3VtbGdwT0hNbE1PS2xmNFRidzdYU3dLOFBKVG9QdU1tMVBrOGFqSWVVRmxGMjhFWUhBSzI2VUpKV25zRld0VXhWcDZ0eGt6NlhVQVRkNENBNnVoLXY3UjV4RWFYTHptZzA4V1U?oc=5",
+      "source": "TIKR.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T12:23:37+00:00",
+      "title": "Google 'I' Hold the 'O' - spyglass.org",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2YmluaWsyanZob1RZZUJYcUdVeEh3SFdnZkdYOVllbWVoLTE5VjNDTlpKQmlDTnQ4UTU2ZDFXODRtSV85SExKdm4wSWo?oc=5",
+      "source": "spyglass.org",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T12:00:13+00:00",
+      "title": "Google Is Trying to Integrate Too Much AI Too Quickly - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeERhSjFPTzZ2NHo2VG5PWmxFcWwxZXhCRE85a3BFUGFSX250M1Q0dHRZRW1xUHVkTjIzT1Mwd1pvUFpIOWtObG12Mms1YUhZS0dfTU1fVHZmRE9IU1FGRGFMSE5BQWZBWUN4dGNBcUd4VzE0SnYzX1JDTzRSaVBZeEFxelM4MVExaW5qV1hXbTYyNnZtZVZubmMyTThPNVlXOHVUZjBHdVVqeUE?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T11:35:34+00:00",
+      "title": "Thales inks deal with Google for homegrown German cloud provider - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZElaMXJBbElsS1lBU3R3dDBNZ1lQZzlEVkszYjBHRWY2bzBMVTZyWXpmZDZUYWpkalpJUDAtbkJlZlNlSVVFdUhYa0oxQzNNNUR1NGxNTm9NR0g4N3lYZFFHLV93M0JvbFBKUEV4TEE0UlhfNTBoRi1DSml1cnVhUXh5UVJzcjRJN1pIaTRfeDlldk95QVVNMHZCSi1jcEJORUxIYk9zTWFKZ1kzTGEyOG9zb3hENDd2MnZuMFVoRXM?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T11:02:26+00:00",
+      "title": "Google is its own worst enemy - disconnect.blog",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xQ1Qta1NyVFhiN1QwN1d2Smw3T2N5aTRodm9GMGt3TTY0WlQxRGJXWXRmZGIyXzBjUEdZRDBzZkdOYnBaYXJRWFA4aHMwUHpCLWdLbjZPUDVyVkpKelR6OElsTjU?oc=5",
+      "source": "disconnect.blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T09:33:20+00:00",
+      "title": "Google's AI is being manipulated. The search giant is quietly fighting back - BBC",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZldGZjk0clhFb2tRMW1qbmZqUEdwS2RqQWEzOHVpOEkyOHZlMzE0NlpYV0I1RTJvaWZEeHZBQ1ZIWW5rakp0SnpvcGNqV2czejgwekxjT2Nkd21oT0RleFBLN1ZDTXNjT1NibmRzd1paanNac1h0dTcxX2dzZ2JYREZIWFM4a1duVVZ4NERYczJTaGV5?oc=5",
+      "source": "BBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T09:22:25+00:00",
+      "title": "Google reinvents search before AI rivals replace it - Axios",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVNmNDTDNWQWVuYVFFa29CcTdKWVhLclR6aXdLcDNha3kyOHFscXdWUlhPdGxCYXJYQk4zWUJHaHJBZE5FSGh1dy01WDdrV2tyRVB2WFhRS1FoWWpZbGp1czZzc25SdGFXOTc2RS1pcmxtWnM?oc=5",
+      "source": "Axios",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T08:02:00+00:00",
+      "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSzlYRFgydWFqU0k0SjZzSTJ2TlVuWFJ4Vnk0d1FuM2ZtUXNzZmRYWlg3LWtNb1hfS1QwZks3TVNYS3A0RXNKUlJsc3NnYm9iU09PNDR0dVVEZk9HWmJJTGtEbkN4NTR0Qm9DT095ZVhpdy1XVjlINkEySUZuZEVyR2lRZ0dpNnVGOEtRd2FfV3dZZTNKMzRr?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:57:04+00:00",
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVERnRXI0TW9hNk54SWVWdzR2STc4T1pXM1pYMFJXMkI5bmN0R3FtNnFrRE1YS3FDVEZ1TDVzWEhoemtzT0tQZU9FeFQxT0VvWmJCb2k2dnVOVUhKQjdnT01uQTM5NTBNbFd4Zmo5emp2Y0xCaUk1V0NJR1VIR2Q0WUxWVk1Ec05icmtYNVQybTNtUEtxeFE?oc=5",
+      "source": "Google DeepMind",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:51:55+00:00",
+      "title": "Incident Report: May 19, 2026 - GCP Account Suspension - Railway Blog",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mRE5qVFZxdmxWR0tzXzJ4b0ZlNEhORmZMRnBEbzdmMURVbXZ5LWxYd0s2WVZ0bmFxa3h5dEczV2pabDk0cHBUUlkzeERaVUdlc2JwdDNhbGlMSjYwdFh3RGVYYkFPcjFhTTVpWXVnNVVDckN0eUdEdjhQZzFjdw?oc=5",
+      "source": "Railway Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T04:37:43+00:00",
+      "title": "Google Cloud suspended major customer Railway.com without cause, causing outage - The Register",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWFBKQ2FnYUI3UTBWV3g4bmRrQUVyZ1h6TzB0bHdDVFlwMU11OWQtMXkzOFpXLVFyN0hHQnpGNXhjdFlVWGhmOTZScXFyaGZPZm5EcThKd3dyZXR1R09saTc0LTlXaThlNmNUN1JHSFA3UG15Wmo1eVRRNjlqSkpvZ2JxT1lOSzU1QXJoYXhXU1AtMHhicExNN1VzUThQNGZwRWg4Ulg4a01LeW1IN2t5M1AxRk13aXNnZ3c3M240R0dqQllsZVF2ZEVQcllWQQ?oc=5",
+      "source": "The Register",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T03:31:00+00:00",
+      "title": "Singapore inks AI deals with Google, OpenAI as ChatGPT-maker commits $234 million to local ecosystem - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVZZN3JJb1lRZmdVR08tdkNvZWZUWTlOY0tUMzZERVlmVWZzUWhiQmFVdlJKb1dKSWlvdE8wQjRVNWNzandfSWRFb3ZYb2E5Wkx2N2dZRWliWEZqY2ZIeHZPelVmRGZTTHliZUVSSUw0NkkxbkdpaXBMYWxHQVJZVEItWVhBazZ5VW42bjFxTE92UjhhUnhSa3RuV21JRE14WlotV3ljMDJHdWRDU3JIVndDZ2tvV2JzRWlpZlhPYUpOZ9IBxwFBVV95cUxQODBYWkh5VnJZQ2tMcXJIeVZUMHF5dnFYUlZKdjh5ME5rd3d2ekZTYVo1T2xNWkNpQXJCd09BYXhUWWxfVkNjbms2X29USEs3VEtscERfdWRNZkdVRE8xNUJvekNWTFBGX3hpamxISWF0QWRmM0Mya2QwdlFwM1VoN1JQMm5LRHlFbU11cG1SSDBuQVQyYTVlUGxxZGI5ZWVCcWFwRTAzVFk2bjZqN2tGeG1vbmNEQVNfTUFsc3FLanNxTWJ2UHdZ?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:45:41+00:00",
+      "title": "Accelerating AI impact in Singapore - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2JlTVgteElDQVFhTm81b2Jtcy1pTjR0YVBSVm01YVM0WkJHYzl5M3ZKbUdFdXh4U190OWk0VV9uTl9xZWVrdGF6RjRPRTZJTUxmaFVQQXZOTlNQa1lGMWJaU1RkNmhCYXhkNFVKQ3NFQ0ZjdXVzZXFjUlBYT0V3eUVCVWN0QmlWZXh3X0VuaHV3ZFdwMHZwWmtzVmNpeklxem1acWdUMG85NzJGYUE?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:17:00+00:00",
+      "title": "Google announces glasses are back and search is getting an AI makeover - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOTdSajdBV2VsZi0zbFkzcFpoUTB1OTZXejNWdkFiR2JiNGppU0pEeDhCbi1yQkNWOUNuR0NPakNVWjVFYVI1Mkg3ZE80VEk3a0ZfaURCelZCRDdYd1ZXaVpqNURFSFFYWFpQS0x2b0hVTzhZR1ByZGFaLWFfeVl0Tg?oc=5",
+      "source": "The Guardian",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T00:39:40+00:00",
+      "title": "Google's James Manyika is betting that doomers are wrong about AI and jobs - Platformer",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lLXh3MnM3N2UySktCU0hVZS1ReFAzWTJaV2hfS2c0RDBQTHgwNFdFYnBZLXl5ODZKY3o2NVVTZnk2N1pxV3BtWGpvX0hEZ2UtbGZCaXpRcUNzU1VQWWt2RFNGUGpWZGpNV29wREFKRU9keUE?oc=5",
+      "source": "Platformer",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T00:25:32+00:00",
+      "title": "Running Guide agent: A step towards running unbounded - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNckx3TnlSSVVna3RxdFQySnZLd1lCRzhpVkthd1V6V3FxY0wySjVCMF82M1E3QUNBMUNybHBqR05pV2J2dzdHUDBZazRFdlhSaW4wNWltcWVHOUFzUF9YaDB1TGpYZWd0bW1kVkFsaUU4NHd3UlBuZlNDTzFQa3lBenNHLUY5M1BPTVdGaWlHZ2sxZk1iWnptRGR3?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T23:17:33+00:00",
+      "title": "Google and Xreal’s ‘Project Aura’ XR Smart Glasses Are Legit - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2lrYkpYSUVXMi1PYXJIS0ptdWk1T210WndfX0JjdTB4VHdFTVJIT19rUmNNZ2xlV01EX2F3V3UxbGhIMDE5VkpKdlVBRWt2Tk55amM0RFdnd3JEUFRCY2VLVUFiN3B0WmViTk1DeFFXX2xwVWM3WDYyaEdMUFBFVEo1bDV4VFhTLVFQcmwzTUpMdw?oc=5",
+      "source": "Gizmodo",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T22:42:33+00:00",
+      "title": "Google Tensor SDK Beta with LiteRT - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sUE5qQWRLN2tyU09xYk1ybWpLNGNOYzcxTVl3WXA2UlpjWG9lUlVHS3ptNFAyNUtNSFRvb3gzOEdHaGdLek5KeXNyZE4yeFhwRDhEalM0WGQ2Q1RsWFk3NVI2MmcxSlltWFB0QllqQTJOWGF5Ymx0Tw?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T22:37:42+00:00",
+      "title": "Every new tool and AI model from Google I/O you can try for free - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82RWNBcG5EbnJJbnZCUGg3Rnh4YXRKTWFMZVV4M1FNM0ZmZXJXVzBQQmRUUnJoRmo0UFZRRHVIbG5reW9MMGNwdnhQQjg4RnoxUXN4TUhRX1R1V19mSXFJeml1TkxQcmQzeHBLX0hyZE5PUEFxazNmcGlB?oc=5",
+      "source": "Mashable",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T22:10:00+00:00",
+      "title": "Google’s I/O conference showed how the company is being completely rebuilt for AI—for better or for worse - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcnY4dnJXcXo0RjA5bUtybFdoaG50OGxtRTNsbzVVYzlORWVNMzBRWF83ZncwYlF3RG5Cd0JOb3VZWHJBQjFYbm1BbkI5endtdnd6N3RWSUk5N2VxWkJFVU5Sb2gyWXlJRkgzTXFtTlQ5Um5yZW1fekx0NEtOdmh2b1AzWQ?oc=5",
+      "source": "Fortune",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T21:33:30+00:00",
+      "title": "Google just declared itself a contender in AI design at IO 2026 - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0JkQUZ0WXJRM2NIdTdVaC0xZURESllEMGsyZ2cwb2RFbVMzVXVEeVp0UlU0d3VMZC1pUVFPcmEtTVlWQmxKRXduNGZHWTlIQ0ZEX1BZeU95ODRZeVdpQ3M2ME5waDZ0amJUZzZ1azBVZ1JyYURxdS1EVV9yS0UzdXA1Y1k0MU1kdzZrUWhKdURfSFhBUlBNTERITDhjLThYclFWVU0za2VtQ2JWWHFtYVh6UEZ5TkxrZ1E?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T21:30:00+00:00",
+      "title": "Google Unveils New Gemini AI Agent for Personal Tasks - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1lkckxWd25jTF9XcUZTakJadTNxZVFnNGxlOXFwY0VPVmNldzFZY3p5SFZLa1hKbnRzdmtMTlpDWmhPY1c2REdsZEpUXy10T0dFTVdwMFRTalV4X0trcjZ1cGhpcEI5M1d0a3JzbzFmTS12LVRnNWJ6ZmRsVGwyVEdhWDY0OGhxbk8xdTZsS1BuMHAt?oc=5",
+      "source": "WSJ",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T21:16:25+00:00",
+      "title": "How to use Google’s new AI agents to go beyond your standard searches - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzVzYjhUUEc1SWxyZ29hNzVzUHJ2RGNZRENNb3gwSDQzRDRuSnk4NlV0bHBOY3NMcGs4NGNBUTB4UFFXWXd3WW1veEpWaER4cTVBNFROZmVBTndrN0RUY25UOFlNV3NEUGpZN0JUR1NKZjhOdUVSM3M0cFR1U1J0TVJRU2FFRTluYUlHNFFnVkpqRTNXNk95T1E5bUpvdnA1b2EtMHln?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T21:00:12+00:00",
+      "title": "Google to release first smart glasses since Google Glass flop - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YUGpoNFNZWTJfMG5RZFhoR0xYcFNiSkx0NE50djkwaGg1cHJZdVU1M0w4eUhKeXZSTWhmLTlVX25SdVE1Y2R6M3RMckYzNnV0a1F2dzN1dWZQUQ?oc=5",
+      "source": "BBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:51:00+00:00",
+      "title": "Alphabet falls short of Wall Street expectations, stock slides during Google I/O event - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMTh6dGxzYXljWjMxM2JYUmUtTC0xVTVsSzZUSUlZQW5NSTFJWkQzZUZuX0tmUF9xV09pMVlfMDBGS0hwblN0TzcyWjNhLVZlSFVQLWxHaWFyamw2OF96Tll0QnRIT1lEam51UUlpZnR0SnppdlF6WjUteU5qWWZiZGV2eTNQU3pqUjU0TExfcGEzVTlQalYxaUtmamtDZjFUdS1CdDR2blBYd3dITHM0d0xieHA5c2N6VnhVNTJQWFhYbGs3SWc?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:39:31+00:00",
+      "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOTJnSU15eFN4Q0lkX0xkS1Z0VjhPMW1zTDl5UTNxN3FCc0Z3cG4tWWZWbUxHc1RxdlNPRjNaSmdLYWE3M2pONzhHVnd6bHRoYy15S3FyODNyM3lFXzkyMTVQaG9NQW84b216Mjgxclo2bTI2OGN2czQ4dmNZWDg1WQ?oc=5",
+      "source": "NVIDIA Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:34:28+00:00",
+      "title": "All the news from the Google I/O 2026 Developer keynote - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVExWUp4YlFNU0NJYzVJM2lfMWxpTnRkdlM4OTdDcWlPeFZiUVVMR21FZ1g0SHFHNEZGaWdiVnN2QXVoQXotZFlWYjg2V1BUb3IzdG5HLUxnenB0UVFLdWQtbnVBV3k2TmpGMnR5aTVaemlOV2RGRUJmZ3hsNTdTNmJXVjJWYllfMzJmYWx4N0lyU1E?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:34:28+00:00",
+      "title": "One Year of Innovation: Celebrating 100k Members in the Google Cloud x NVIDIA Developer Community - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYVR0bFpmdzQtN0l0ZU8tMlBtdkk2OHRtVmlBcXRpRU1jSWEyN3NHQnl4QmVmQWhYUXIzOE5vMHhtQlpyZkgwYnE2WmtjRGZaZl9GODItNk5TRDd3OXBKbkNEaW9sYXlsVEVsWDRCeXJLUG1Pb1FaN3hvT3p3ZEktWlRLNFhFeTVrYk1Cb0dTX296MHZKMGFrNXRaQjV3ajNIb3Vxd2ZQbWVNdUdxY2ZCZlNjNlY0eFl1ZS0zZkJLQm1sZ0hiaE50MmpNZw?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:19:28+00:00",
+      "title": "A Smarter Google AI Edge Gallery: MCP integration, notifications, and session continuity - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2t3OE5aMVZsUHFMcEhlaEhTVkNCWHRpaEF4Y3ZjRm1sVnh6OTZGY1pJODJFMWxlY09lQ2J6SHl3cGFnN2YtcnNhRTZqcVhpc0pIRUhxWllyaDFXZXdUeVFHX2VkQmZFTnRNMFVGeVpBQWd6aGo3eVRYMEtkMkhHVWVVVnlIcEFJcDFBeV9TdW9wR1UydW5qa05rcFdjc2tvVFZ6elFleDNQOXZtcnpyQTE5c1RuU29rd3hlag?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:09:54+00:00",
+      "title": "Google gives first glimpse of new AI glasses ahead of fall launch - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR01BSzA1c1dsNmxWdEk5a0VNUTFMbGdOX1NiR1dkd0I4d2FtQlNRYjJxTW5CMEVia0w4N1ozWTNURFhZWkZYZ2hXemdhMU5lZnBMZjlOekNZTVdVRm1Xemx1bzlzUkEyQjZOdjkzbVVQQXY2dS1wYnFRR2dFaGtFTmtWYUEwQXFVd19DUGc1a0xrNExlcVM3blEtUmU5WmVIeVVfcFVB0gGrAUFVX3lxTE5ab3Jod3dMcUtCZFNsOUFWR1BoM2hST2FPWWJpbjlsQ1h3VUlRY2otMjdoUTQ3R251MUk5SHprZWVPUktLaDM5dDlNb2ZXQnR2OVNtMGdYOXR3aHhSUGtxdzVnck1HOEpMekFkeXlZbXk1bEhjcEgwY2hGZ2FvNkdaMjRKRnBnNGl6SWowT2JJa000eDJLQU1HTzQzRS1YUkwxa2NxN0RRcTAtWQ?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:00:00+00:00",
+      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93aUhUZmNKc1JRT2xuYkM5YUdlNUNFWDd5ay1aSXZ0SXFuWmgyWF9XQ1BlTlBkSDRTcFJVeFhneC05NmNRa0FITUExR0tOdGdtNGpXRThiblhBZ2hCbm02NWl3U2d2cUR4NGJON214YjNUYVUyVG5MZ2xUQjQtZ2M?oc=5",
+      "source": "WIRED",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T19:15:31+00:00",
+      "title": "Google takes a page out of Meta's book, announces new audio-powered smart glasses at IO 2026 - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNanl1MDNwa3JSeGhmYUtNdDhlay12OHU4VGlBVzFiVi1NZjVvaVlrb01ZLWJ3WVNxeWZBSm40cmMwbm5PTm9OejJqVkl6LWc3eXhZdHY1SEwtSmNkZ2V4bEpub3NTcHg3NERtOUV3LWxYa3NnRC1qZExkRzZxYkRhNEFlZUFIRXJDRm1QN3hiQlRYMzB2ZlYyb2RHcE1WOUo1NC0yRy1KbVlJaGRRalNWTzBEN1pBMmVXelNCVExXS3M2QTA?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T18:34:36+00:00",
+      "title": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVzZ0WC1UelpJRkNTMldfbkcwaW43MDJ3cXh2elVTLVBhUHZBeTFWYWNXT3NHWjlPcFJ5SjZkOTdOZ21BdEJpeFE5NlE4ZUhpQllLcWEtM0RtTlJhdE9yOUdEajRELTR3ZVFpbXBrbVg3cUVVSGFyc1hTRERfZHhUbg?oc=5",
+      "source": "The New York Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T18:04:26+00:00",
+      "title": "Co-Scientist: A multi-agent AI partner to accelerate research - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTElhcjFZQ01fYUNkb3JieU52ZVU3dWJ0ZUlQMGZuOFo1WlA2ZGdhYmtJZy1CaERYX01ZOERWZnlfZkszam9lVDdocFdZb3JqTHpwS042YjJCRW1yeXF2b2tJQWJRNGRXUE9PT2RNREVGSnJ2Uk1vaU5lay1IaS1NcTlxNVpaM3VZOGhleGc2bTB2Q0dh?oc=5",
+      "source": "Google DeepMind",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:59:55+00:00",
+      "title": "Introducing Gemini Omni - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWlaMUVtdkx6SklzdmNOYnZibDJSak96Mi0zZXhoUVdsamQ2M1VIeEUtcTdWVVJrV09PcTRPWVFCQzlzSW5RUzM1Ui1FRmJtR1N2aVNkeWtEM192TDcxUFhxNGN5MGhpYjk0aEJJdWJrcDlUNG1mQ2xodS1YNXEtVUxPSnpWNGVjZlpwXw?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:58:39+00:00",
+      "title": "New ways to create and get things done in Google Workspace - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFdXMmdNTHN1dzdGeHJZOFJVRllGRFdfalVkQ21BYUM2Wk1XVUMtOWRaZVl0MUdqLVA4X0JhNThYZUZ6NEJ3MFRLb2dleWFBZFY4TVpjVi1ZSDFrQjBRdHFrRHktOWhKZER0SFJrRTRpV0tNSXVpQmtEM0pIQjNnbFRiQmp4Sjg?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:58:39+00:00",
+      "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ0dtZDhQZ1lsenY1T3lpaXA1RWJMUjROdTR1blFhenplYkV4U1QyODBTc25wekc3VmIwMEdoYVUxb09kUnlRMDB3dG5NYUhaN3ZJWE03LWVyVkFrSy1JTjBYR09IX0FfMUZmUUlyeGdkTkFHb3lhX3F1ck9id0hBWVRMZm5neVR2djM5RlI3bGZyY0plWFE?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:58:39+00:00",
+      "title": "New agents, mobile apps and Gemini Omni for Google Flow and Google Flow Music - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNejBIdXRPNUxWLVVvUE1mRUJfYUtGbVF6TmR5aS1TS3hjb1A1SHJZVUxNR0tCbE0yMHNPMTVweTljaFdsWVBmSkdDYkFYdnJNZ2FrOTh1ZkhMcGJNSHMzbE9mb1V5SjVBcms4bGgzeXlEMF9TeXU3bDZHeVk5UXY5R2tQdU51TUpMT1ow?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:57:52+00:00",
+      "title": "We’re introducing new ways to design in real time with Stitch. - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGYwRkNLRHhlRFpocHd5TUxaVnQyV3hZT05ZeHZBY2lZLWdfZXNOd3JESGlFR1dUSUhfejQ5eE5rb3NzUy1CU1ZhbzRaV0VYc2o5RHl5Q1QybVo2TVQxcXdvR1FoSVBjSmJpNWxNV3pFSVlUV0xudWRfNEJnRTlEdWlVUURiZnZTMW1hTlpR?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:54:49+00:00",
+      "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery - Research at Google",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWUEzT2ZmMG0tNGgxbk9hZm9PNG1NcmRuNVZpbF9QcTl6RWRoM0FhTjc3RmlkTW9WNThreFoyb1BSdGFsQU02Z1BhOEVaNjFMNlFSdkJranNlTHJiRkNwaXc5ejUwN2RnVS1uT2xiUUE2UXdNS1NnWm1ETmgxTG1qTUs2aXVOU3YwWFRzcEZsX01mdXF2R3dJaUplVlFISTNPYkpaWmR3U0dsajdCVzhuUGkyUWROSGN2cVlHUEhrZW5BekU?oc=5",
+      "source": "Research at Google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:53:48+00:00",
+      "title": "Making it easier to understand how content was created and edited - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ0xYdXNfUHZ4Sk93aWtHMGJIUl9jY1FrQWVmWVE0cjJSSjRmYjVZSFE3TktRNnhtV2RvMWdrN21GaUJfZHdnYThMSHAwRF9xRk9EeFJ6VEZCNUFjSWZ5UkZZWTFWYWxESmxOTVdLeG41Y3VneU5oMFNnMTlNZC16b0kzQXJJTTYzOG5DbFlR?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:53:45+00:00",
+      "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQeDE4MmRwaEtnQUE4aWdHVENxbkpGWDZFRWhuWUdkRjZnNjhsUGtvVk4zYnc0NXdUcTJaOG5jV3piVHdBMjJock5JdVBPOWtuR2ZUMW5hUjZyNXl4RW5DSWpYZGRsUXpOcExBVA?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:53:37+00:00",
+      "title": "Intelligent eyewear is coming this fall - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSm5weVJ1T0RNZGtBc3JTdmJZUXZGNkhWR3FjRFZDeDgzbDF0cFhhQkJmUEh3YklXT3VuME13N21xOXVieEd3WmRuTUdSTDN1ZGEwUTFsLVZZR25oVjBhZkNzUHQ5T0RmWGt0Q0pSV1JwZldwcXU0ZnJLM3psZDdRWFlqa1YzZXM?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:52:48+00:00",
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHhUVm0xbHdMSVZPd1FfZDBZUlBZSEtRRy1nVmJVVkwxMGhFNmczSnlsbWl6a055cC1Mc1pJSU83S2NyREJVbjRtTlV2akwyNHJuLUFNdEZRMjBIQV83TmlxRjFraGFxYjhJck1NMXVCU0ZORVluRmVjZi11aEpoN0pwX2g4N202Q25HYndn?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:52:48+00:00",
+      "title": "The Gemini app becomes more agentic, delivering proactive, 24/7 help - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGxlcDl0VnlkNWYzdUcwSTkyM0FBOFNUUGpkWjdRV0Zmcmp5cjJQa0VwX3lqamY2ZXRFQlBMSEt6ZkxVd2FMN2sxZHd2ZG1HeVkycTAwX0dHREJEMmFYU09RM2JzaUppQjhsMTNJU00xUk4yTkF3cGxEYjUtclc1M2NWWUQ4M1hpWGRNOQ?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:52:08+00:00",
+      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026 - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUpseVBic2Rfbm1rZnpJSjlZcGlpazBDb1owdDkxdzYtcGV0NDVrMktwMy16cHAteTRVbTA0QVBFdFpFaXFySHFTaFo3SkZaMU94anpOUGdmb0VvbWZiMFJYRlh0VHM0RlpNMlNuSURyR2VJMktKU2ZqQkJiaFhTRjBVelVWSExqS1k0WF9PLUo?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:52:07+00:00",
+      "title": "Simulate real-world places with Project Genie and Street View - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLThlc1o3TjlJLWlBRnZBb1NZNjhYczBDNzg1czlMck5UUzVwcm1MbXZjVVhaaTZUMnpsZ0lLU3FiWE9BTk83dm1TeHVISnFvN2JVQzhWVUwxNldvbUVGZkx4OHRQbFFLSkcxeDc2NzExRm9OYVBGOEtrUkZUYTlPb094RVFnRFVUVFI2T1pJZmdVWjFhUzBvYVhJcnQ?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:51:55+00:00",
+      "title": "How AI Mode is changing the way people search in the U.S. - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2tmT3FoTUg2V1pOVzJpVTIxXzE0TjloRE5BYVZ3bmhlNjFQOTJJZkRYSFVFTWVzUmtXTmpsZUlHWHdlN0pDc1IwdlhEc2RGRVZJeUJDMDdTQTdRdTRXbWhEWS1PR25GZXhxdmFBTXpVT2tSQWtkTTJwN0ZoU3EwR2ZEQ1pPUQ?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:51:32+00:00",
+      "title": "All the YouTube news from today’s Google I/O - YouTube Official Blog",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ELURLdXJ1R3NCRFVPYWl4aE1TRmFMZ1JKQnlFeTBSeXhQRldvdDR1Um8tVURBY01hZFgxaHFCZFd5ay1FY0hDLVJDajFmTF8zTXV3TlhodC1pS0xCVXhxSTJYbnpTZVlKb1ltODFTZmRjX0U?oc=5",
+      "source": "YouTube Official Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:50:37+00:00",
+      "title": "Introducing Managed Agents in the Gemini API - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnNNT1ZqbDBUd0RZUGNralNNbktJNjk1aGgzV0NSVkhRTXlhUjg2clE5dXVQd0pYME1Iekh4N0NORGoteTJhVS16QzNNT0Z5d3FIYVo5RWlyM1ZaNlpPdUtibTcwZy16SjJOZFRnQkZpZFZxYUZDTXZoSTZzQllRSWoxa0hieGRvTnFBTy1PeS1GYzdLczFV?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:50:35+00:00",
+      "title": "A new era for AI Search - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPRTRCdWtiQnhsdE1UX3RKN1didkFva3pRQ21FNElZd2c5cmZFeHZsem1KN3lSMmx3c3EzaHZVaXJnbWhRTFlZQ1dkT0FBVWhCSXVrMGNfWGxqb3dScElPTVdjU0JPQzdXSDBpSW55eGI3WGhjOHBvS21hQl80VDQ?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:50:35+00:00",
+      "title": "Introducing the Universal Cart and more ways to help you shop - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQXF4dTkzbmFYWWIxRjhmcldPNUptNEdEU215U0ZFemtXV3lnRGxjX1NpUDh2Y2xCNDVwMnZ0OVRQRGxtb1VXODFHNEJ4bDlCTFY5dnlvdTJ3QWpqOGYyLXlKODRGMG1CVzhfdWxOM3RHc19zWVFSU3FqMGJJU2VPVU1FMzMzMXNrSnc?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:50:35+00:00",
+      "title": "Gemini 3.5: frontier intelligence with action - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUldqeDBINW42S2dtZkxpcGNaclU0UGRQMG9VbDRXNnhiUEdwLXpacmp1bUxFZGFVeWJfRWo5eExHWFA5dE8yWTJBWEV3bjkyZjhSblVLMjNsXzVlQ3FfYXE4RmVwaXZIX3BaaDd6bVE4SlMyZHJrV1JfemlYNlZDQUtPLTJkb1Nld0lZ?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:50:35+00:00",
+      "title": "Stay in sync with your agent with Android Halo. - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85NUVuSUlsaXNaNlNuWmpIam4wMXlyOHFObWo2OURHeUVXX3lOMGdMeTVJLWVNTFJNWGVEUW1wT3JZcnVyLUdVelM3RG5BVEhZVHpkMzYyUF9EaEg0cGJzWVJCQVB2RHRObnotMjdnbl9tRmIzOXFLdE9rdGFSb00?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:49:24+00:00",
+      "title": "An important update: Transitioning Gemini CLI to Antigravity CLI - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzhrNVhuOG9yTDgwSXpwRDBiejVaTjB4Uk02WlFlb0ZfMGRWWWZRRVdFZi1IYnp3dDdUSDgxU1ZGeUlXbnk0TmlMaVhDUzJrSlozaW5vRHBRdGI3WjdnR19EZzhfRkZmS1A5Nl9NcGNYMklPekdUd3Y2RUxlNi1VMnQ4TllfOW5wczdILXRialRzNjkzb0ZzNjh3blVUdkk?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:49:00+00:00",
+      "title": "Building the agentic future: Developer highlights from I/O 2026 - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHdwRHprRlk2NWEzWFV6cnhNZnVCZTg4UUdnRmRfczRncS16VXZ0LXNpZDZzMTQ2Z1V4TFR3akIwdFpadTEtaHVGVVkwN0c3OEpWbExJcFFqUnN6UW1lOGhKcnBNcWd1UlhDWE50R1hYT3cxZkhXUEFpY3dwTW5RYXA0Y0dndFZUUkZDWFlVUEw5ZmF3dnZXVDdPSzJNUVI1UVZwaQ?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:47:26+00:00",
+      "title": "Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oM0xhc3gzR1phR242UDVKSjFyN2pIQXZ2VHRobVNVVElHVWVFbG5hVGF3Q0VUWGliZDhLemdWa1ltRmZ2TlBuTVFOX2hyZ0JaRzhZSXFlRWtZcHZuZ043c1JIUWdlOHRtVmxrVGZCdlBzTUpwMnlUdk9B0gF_QVVfeXFMT09kbmg3TlRTbllJdGJVbF8xRzd3T2lUYV9ycmxBYnN4azJjOThzWXFvU2NBV1JNMktOOEtDUm9xb3V4d2pVVTRCNTVNcVc3UlhHNUk3bWhBVTl6YkxVeU91U25lVmJuWEVCRzBwcGFITkNmYi1UdVBlbVo5dUVmZw?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:46:00+00:00",
+      "title": "Google Has So Many New Smart Glasses Coming Soon. I Wore Them All - CNET",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEo4ajREYmR6RWhRbDBmRlRqelJONFRTdTJkTURRV21KbFVCdUtJV2xQS0VhenhMSXMxMzRZT0s5T1UxODZWTlU4WUNoMjVTeTJSX0RJamV5LVQyUG1xS2NlV3o4Y3l6LVlEN0dveFVRTGlwWlpDNm9ZUHl1QTRnMUx3T0hYLVZ0WDRLcktvNmtfNE5MS2xvNWtkNUl5YW1nbjZ4ZA?oc=5",
+      "source": "CNET",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:46:00+00:00",
+      "title": "Google Search as you know it is over - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3YXZWNGxnMzducVlMdlBhenlhekoybmlnNkFZUHd3ZEVTdHNyNnhValhESGlDYnp6QzlHRGo2WHh6S2dha2RlNkdDYWk0UW9UdG12c3M3R19xQUt1YVNyQmZCdnA0TnR0dDAyUzAyU3Q0dkRINGl3bkR0WQ?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:45:50+00:00",
+      "title": "Google is making its biggest change to the search bar in years - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vMkY4LWVJVTM0b1hwdHFxRWtZeUNBZ2Q4aTZGVmcwLUtpSDVrS0QtY3B0OE5INmVDUmFiQzBkUGc5UEI1MGIyWUlQYXpGcU5ST0pVYkhjTGJfTW1zLWo3N0txbFpWSU5RcUpxNTk4LTNnUzBf?oc=5",
+      "source": "CNN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:45:06+00:00",
+      "title": "How Google Is Starting to Win the A.I. Race - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbEcwYnRiQWZfcXNNLUtSSTRyZE9xSktoV19HcDNsVEtIUjNqN3JqU3k2b0t2WEhHanBXVWxLSVR5dzBZcUxadGJMWXQ0TV84SWVtZEU2WkQ3OGY2aUFXTnlDcnMxZTNGVV9YaFg2Wl9Gd2RZamQ3aV9tNnRLc2pPb1JZN1VlSTg?oc=5",
+      "source": "The New York Times",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "title": "Samsung and Google Give First Look at New Intelligent Eyewear - samsung.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ0xVVVF5WVlNY09EWmp0bUpxTzY5dVVJUEtlNGRNcldaVkU4bVFwSkp1bDRsSm5iclhQSFozd0x1dTZTZmdRLXJqNV9tYnJWRWdwWEh6TEpMMkFDR1Azbk1JT1BMQnRDVlhyMnk3ZjVETWdyRGlyZzhKQUg2Vlhfa0FMSkhpZXphUkVpWmJGbjZfaV84TEJfNw?oc=5",
+      "source": "samsung.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0pUZ0gtMTlJSjNqZERmR3hJLVZObFhkVW9XZWI3VFJhYXl3M3VLdEZTY2ZQZGowVl9kLWhHSWNReDZNcVk1ZjYwSFFFR3lVT0ZSQ3kxOEV6RjVkZGI0VjVqTkxSa3ZzMURoTERJTkVmUlBvc25rcDEwTGNiMWZ2RURaaEdhQnE3TmU4?oc=5",
+      "source": "WIRED",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:45:00+00:00",
+      "title": "Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Idk1OMkVVTURpaDhrTldpN19lUXhCanBTUFV2bjZFT3Jsd1hZUXJKUTYwazBaUl9KaU1PVDdtQW0tQjRMeDdHMWU2N1pKbDdPeW9WQU1ZQTJPb2wwMDJ3cnpZbThPZlZKZjRfRXNTU0Uwc1BXczNrMWpKaXM?oc=5",
+      "source": "WIRED",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T01:20:14+00:00",
+      "title": "Blackstone will create a new TPU cloud in a joint venture with Google. - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMHlZbGw3MVE1OXI4ZXdNTDNIenh3STBKdENfLS1YZXVIY09KcTB3cTlyR3Z6RkNTal92Rkt0VGZuWVZhM3ZZTUpxZ1g3M19JdXE5Yk9zWGk1V1I3SlB0QnNwQWhfLUxhUHZGbUc5OWVCdUdNUjdQS0xkQ1lpTEtDVnVpNGhZV2FVVmVpR1ZzWFVpXzJNUlBpblk4Z3Vqdw?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T22:21:54+00:00",
+      "title": "Google I/O primer: Alphabet's AI showcase is its chance to wow Wall Street - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ncHB4QldKQXpDZnhKdTY3VS1yaWRHekFIRkhPTVBNeVdXOTBBY0xJbVczVG9tdHZsbW1UX2VBUnRaTUtDSHRSbW1PZmd3dEpjQkFWd3I5bF9Rbl9mbUVzZFRqQWlFRGx3QUloNkZzdWxSTmtDTnpqcVZoc9IBgAFBVV95cUxOV1VfbGJrQVFGZjNjc3JWa3RSS0c1VE1jZnVvdm1mbHF3RWhHbGF1S3ZjRVRmalFORW1tMW9DSmtfaV95cmtRTC1RSlNNSDlsU2hLSmRHUDByclptMG5PbUJlRlp3XzAxNVozV1VyTjB0MEk3UEN3WXUyRDZ6WkIyNA?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-05-18",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "count": 49,
+      "pos": 2,
+      "neg": 7
+    },
+    {
+      "date": "2026-05-20",
+      "count": 30,
+      "pos": 4,
+      "neg": 0
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-05-18T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T01:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T17:00:00+00:00",
+      "count": 30,
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-05-19T18:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T20:00:00+00:00",
+      "count": 7,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-05-19T21:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T22:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-19T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T00:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T01:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T07:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T09:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T11:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T12:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T13:00:00+00:00",
+      "count": 5,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T14:00:00+00:00",
+      "count": 6,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T15:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}

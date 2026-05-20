@@ -1,0 +1,949 @@
+{
+  "ticker": "NVDA",
+  "query": "NVIDIA OR \"NVDA stock\" OR 엔비디아",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-05-20T15:51:20.761800+00:00",
+  "items": [
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:28:00+00:00",
+      "title": "Nvidia earnings: here's what analysts are watching - Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUstRThzN19HcnZIZzNzX201TXZvenBEbklreTBHclFJNXZKa0J1VXBILVpfWWwzZzI1N1hoTEc1SVprTkhQZEw1aVFNWEhNUzVJTmIxYko3eXF1NW5sS0RPNi1FTjAtNFZ0UzIwano1Ty1kcnNza2xGcV80VXBrUVo5bkFiWVEzaVlkb0dQbjAyRnpXT3U2WmJSZE51R043QXZBRDVQTzdKUWQ3aXhfUUwxcWdVR0lEQmdZcQ?oc=5",
+      "source": "Proactive financial news",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:20:47+00:00",
+      "title": "Something very unusual is happening with Nvidia options - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGpNeVFHLVd4ZzdsQ1dGaFFsN0VHZ1ZMU2RHbGFWLTg3X0RiWXJFd1A2eC0yazlEV0l3VjlHV0tKWWEzYTM3bzJIdGZZRHFoRWtlMEIwV0dLbWM4aDVKbkZwZHhLZDNKVmJyM2xyVUtVekFmR1JjS0E3NmNReUZPeDV0d3l0ZkNJUEFXQTZCbFpETWFmWU9v0gGcAUFVX3lxTE12bEVfVXhwbktlcWh1b0pkaGNkOWc4TXNGeVhNR1pvcFlnWmNSN3pvX2tBME1HbDBNd2JRS2Zvc3AxVjRsclZvSTZUVWFoc0p4bGdyVTBsUVVZd19TYWlzaXlKRjAtUVNPbUp1ajVuVzBRVjU0U0RsVjI5Zk1tOGVaSFJIWmI1emI1cHhpWlZ4Y1Nka2lCbWxESU1fNA?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:20:46+00:00",
+      "title": "Why the Earnings Report Reaction in Nvidia Stock Matters So Much More This Time - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdHVjVjdMZ2kwOTdBbVFDLUtlSGt1UEFYOW9iNVQyYkJaeWNqdW0xeDZwWl9RRU5IeU5RZ2VSeWxOODJPcC1xT0IzcDFVMTRDWmZUU2tEU2NQai1hMVllOGlRb1JUQ1ZvcEhCTkRuelhZblVVSWJ2VWdmeGxqWEE3V3R3dmZHcjIwN3RxOF9zM0Qxdl9qYmFPcnFoMHpySUhJYlBldUNEcU95bllTbDV0WHNDY3QxSVI0TGU0T3RHb3U?oc=5",
+      "source": "Barchart.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:19:40+00:00",
+      "title": "Nvidia is seeing a rare setup for options traders ahead of earnings - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXFEa1FVcUNBdlh5eWRZWkFJUTdBRFF3OXhZVnl1bmJYM3dNcHVfYkhzUDctMXdtNEdIOVhhbjZOT3U5eXhtOU1JMFJYWXZfTkNoNDNlTVk0TXU5SkVtVGRZMHFTMVo5TmwyS3ctNzN6dktDeFp6X1FwanZRdDhWRmVxQW5la0tkX1BwY0ZjMlZFaURoam44Q2ljUWhHN0c2clB4dXNfQUQ0QjBoNmVj?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:12:26+00:00",
+      "title": "Countdown to Nvidia earnings - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UT1VoVkFsVXZxdEZfTVQzVTg3MHdMbll1azhDbzNHX0huX01XR21zTXVCcDc4V0tFUl9xNUZ2Y0oxZE92YnRGQVB2RDJZNVQ5dmwwZmx6cWt0Q1lzdi1iTktsaDhLUlkyRExkdmE5dEw3dHdrNGthX0xVWQ?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:03:22+00:00",
+      "title": "Chip Stocks Rally Ahead of Nvidia Earnings Report - Gotrade",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PSmZLNHVjeGVTZFEyYXFhcENXeVpnMkV1ZkY2QnpRM2JrRmtUWW9hUE1JLU0xbzlGQ0RmVXlZajJnUTJTdnVHS3dOOWRHcVlMY2o2dEp4ODRCWE5GZnF5SHl2bEhYQ0NTTC1XbExLREpZc0ZFeGo4YQ?oc=5",
+      "source": "Gotrade",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:56:45+00:00",
+      "title": "Nvidia Might Have Just Revealed the AI Sleeper Stock That Investors Missed - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLTN2RW1URmpfWnB3T3VlcHJkR3oxekl2Q1Y0dmhpLWZrRnBEbURkbWpzRWtDam9VVVd4N1VNbzREc0ZxV2F2UDBKUkJrOWZKT1BGTHpfSHIxcDRRR3VtSTQ4RTRveUozZTEtUmpoYkgwM1lsdDdiQ1JDN0NhaVI5UDE5R3pya1ZnZ3VySm9OLVRmT3lxUllRM1lZeUNZMDYtNWxNX0lvTkpWSEp4NzlNY2tNSWdJSXh0OFE?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:55:42+00:00",
+      "title": "Here's how Nvidia has traded each of the last 16 quarters - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMElqTlY1Vk01Z3NSVk51NnRqZHFzY2NMQ09IblBzUXRnemxKZUlhQ1AzV3NxWVRwUERmN2lrblZ2cDhoVHNmN0NMOEhtZFB5VWZGVFlYSDRoUVNGcHlpaFdobzdqZ1R6Nlk2QVF6LWU1QVhvNjJuTDFJU2ZHY0xEenNlOXFHTmRKdFpnZXdPQjZJbE5rMFlFYdIBngFBVV95cUxOYW80UFN5aHhFUDlFNDl4Q3VLaEVNRFNpV0w2cTZtREwzem52MDBMNjNZOGduSWEwa0NJMlJNX3h1MWtXNG04aENFRGY0UGpVamNsV0UycXRKM1FQRWFTcU5QTlpXZmkzRjNDRUo4TjRvWkxobTNTd0pNallZVmdxWEdSa21ldU1uWl9XMWdnanZORFNwelF5bWpCNE9zdw?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:55:21+00:00",
+      "title": "AMD vs Nvidia AI Chip Battle Intensifies, MRVL Joins Rally - Gotrade",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3T1NKQlo0OFdVY3VZUkRkanBrSWNvMlZ3dGxKS19HSmp0LUE5YjFEbXBiN3ZoQ0tRaVJibWFiNnRNWXV6SGFCdHpCZjY3TTZORnA0Z25NUkFTdlRwTjNwUUFjaGRwUzBhajdkQ3JVbDJNQ2xv?oc=5",
+      "source": "Gotrade",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:41:48+00:00",
+      "title": "Nvidia stock rallies with session highs tested after an upbeat trading day - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVBlVWE5dHhzZGJWRUJRSUlOaWFkQlEtemtGcnRuWEhvcGJLNHJrZjlVbnd4SjFkczJ2cWF2MHcxRnBlbTF4eHJISlVlSnhLV09iaGstTGplUXFkY3pNQU9weVR4Z2RvNXJQMEp0VFp3Z25xWjVlVHBpSER1U0dmb0c1UzZwcllKVllYWjJaT2l6NngwRXZN?oc=5",
+      "source": "Traders Union",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:34:26+00:00",
+      "title": "Tech Bulls Are Looking to Nvidia for Stocks Revival - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZi1kRG8tUEFPM2dzMzhOOGMxbk9fVW5LMURPMHNMejgxZ0lEbDVfMW5ERHpuaW9NVm1WbXN2VGRRNUQ1SlJDdGNxa3ZZcUNJM1lmalA4WTAwLTZDNVBHWHVyLTNqbTRXSzRNNzlUSmVocHVWanlndDRHTThMay02dHBGRlRsdV9pZHN1a1dkanZkejFoQUg3THJJU09PNjNSN1BXRmFQMDQ?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:31:29+00:00",
+      "title": "Nvidia earnings take back seat to oil and gas inflation threat, expert says - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbEpQbXVoSTNzOEF2RWlQVW5DM0xYWFBHdXpxMTNhSkJTNWxUUlNkRjh3VUpBbTY2Um1ZNHFFcEVsby1zdHA3dHJTdUNXR1NIX0Y1VnRTc3drSzQ?oc=5",
+      "source": "Fox Business",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:26:45+00:00",
+      "title": "Wall St rises on chips' strength ahead of Nvidia results - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVR5TjBBVTlmVVVNanRmaUZVaDVsMFNaR0FTMUE0MlByMXpCdlR5TW9aQ3ZHWVJ6c0l4REtMSkNrWndxc3NqT2FqaklnbVlvb3drZi14RjRiWjZjRU8tSlZTVlJpRXBjaXlnU2I4RE9IdmxPQklVQWVoVlZqbldLQW1Uem9xQ0VFOElmZGRuWlB6LTNnbTRnV2RTTDJ2b2d4UWZYUHM1MlFpT2hH?oc=5",
+      "source": "Reuters",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:25:55+00:00",
+      "title": "Big Swings: Nvidia's History of Stock Moves After Earnings -- WSJ - 富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT1BOb2xXOGY4cHdPemdZZTl4TkRxWHlvaldEc09WT0JfQWs0dkVuR1BpQ3RsMXEyTlc2eC1FZGxzdjFHdU9DcEY1UUFEV2hjRnYtZmFlZGM3V05QQlNueGRKanRmMEdjVHFZdWkzVUQ2aWdIVW9icEJxMW03Z1R4TVljalJDY2hNRlViVjlOdHVSYm1xcFg4ZG9Gd3dfQ3M?oc=5",
+      "source": "富途牛牛",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:21:05+00:00",
+      "title": "Better Buy: AMD Versus Nvidia Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb2w5bkZ4YVNwWGN0UUliTjdTXy1iQVlHM1BhSTh5M0gtbWFNYzRlVWpkSS1wN0Z4V0tUckkwUi1jbFJhTXotTW13M1pfdE9HalNhbjRDZldHMnk3LUdVLXF5bXV1OUswYi1wTjZhUF9oUkxRVWsyUVcwV05FTGZSMkw5RQ?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:09:33+00:00",
+      "title": "Nvidia shares could see big moves on earnings. How to capitalize on the potential swings - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVzN4T196OWJXSDl5Q0EtMFVxeE5uYzFkY2tYS3VvaHAtSWZNVlZaY0phZWVnLW1zSVdNREhOc0VwT0Y0a290XzVVc25wODdoOWR1N1VyWWxqWV9iSU14M2Z0N0czcldXNTJpU0tqRnFCZkVLdFhvNzkxamVpV1J3U3pFVllwQV9mbUlDSjRZTVhIdVNIVmZ5czYtLWVLTlJ3U0kzYVUySGJNWXhJSmlGOTUtS3p3UUpYbm9ENkFuQlctUQ?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:53:00+00:00",
+      "title": "These Stocks Are Today’s Movers: Nvidia, Micron, Intel, Meta, Lowe’s, Target, TJX, AMC, Immunovant, and More - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pbFEyblFaaFItUmxyS1BUY2hpNDNrbnFWZ1phREwtUklnUXB2TjJndDhGNGUwSm5Oc1pwZ0RvdHNSblczUGdDZzUzRDQ5UzJiY0k5eXFVRWh5bFliNDBTYm1KTTA?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:45:15+00:00",
+      "title": "Nvidia Earnings Are Set to Make or Break the Chip Stock Rally - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFo3UXg3REM4dUNqSDFUaXc3NUlvMl9FSWlOTGd6ZTNWRnBNaFFOOVlUZEZNWUpHWFl6bEZlaWNsaG51UFpLbUpoWjdEcEJfZlZ2aXR1UGpFa2gydVBOVWFIS044dU5MZS1EckNqa1hfcUd1YXpCQndEYVJqd19rTzh5V0xLdkN3TDgxdWQ0NmhweEdlc1R3bDJSTjRoTEE?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:45:15+00:00",
+      "title": "Nvidia Earnings Can Affirm Chip Stock Rally or Spur Market Chaos - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnNNeHVFQ1NZTURDdXlwWHpzUFZ1d0Y2NkpwVGh3Y0NIYlhRVjhBZ09pdGI4Q2lIYnZkN2xELUVLWWlpQmk4ODZzZnhUYnUwYmZzc0I0WDFwZkFzNGtTUkUwUm1rSDkxZlBjNFVFcUdHX0dLNTJSWm5ORGFQT05BX0FFLTgxdFBFQ3FSTUhtSHNRcU9iN2dHWUJtWGM2cGFRbFE0bWpUNTZsd3NQemhWbmY2U09qdw?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:35:56+00:00",
+      "title": "S&P 500, Nasdaq open higher as chip stocks gain ahead of Nvidia results - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaDNZR2hzcVdmTHg5RFVuVVZPYjd0MHYxWkZhdE1EaDVVeEdfa0JORmpQTktsbE9nV0U3YUZZNnZJblIzeC1YN2Jma3JsSGVQTmFpRk54Sk1MbGQ5bm1hMHYyVllibkZDWUFzUTROWlRSNkZldFVCODc2U2tFTVhaYnR4TEswSGZSM1Q1YzVYek45Zmc?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:28:00+00:00",
+      "title": "Zacks.com featured highlights include NVIDIA and Micron Technology - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTUwNVZEalduSnlXOEZrWU5sMUhWSUk1MjZ3TXpJMU1fNnpNcjFzOGZ6eDRhZGlQSWhnU1UwQ2NkUmZycFhvcjcxOGRJNjdLMEVXY2wxeVNHUjJnYlJ6enN2R2lqaGZGQVRhTGNSMUQ0aFZiUjV1Ul9QTjV2dG44X3hGRjY5MTZROG9kU3dB?oc=5",
+      "source": "Yahoo Finance UK",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:25:43+00:00",
+      "title": "Lambda wins cloud deal with Hudson River Trading to supply access to Nvidia chips - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekM2TkU5cHVqRnE2WEdxQmFUa3lSYXFMOG04ZWpDVXhFanZwalJPODFFU1hLUTU2ZlRfbEZjUWV0T2FUYWF3UjROMF9XdHNBMk9yejlLczB5OVU0UHVlNWl5Nk5kdGljXzY4Z19GMGVsRDVJU1VIS1RuUUEydDFHUW9mZFRabXYwSE5OaUNIWFR3UmhjOWhIa096SDNEQTZHaDhZLUFWYU5mN1c5dWJzZ0ZGUktYUEZ6NG9BWW5QaFhmV0lvTVM1QTFB?oc=5",
+      "source": "Reuters",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:22:22+00:00",
+      "title": "Wall Street Holds Its Breath: Can Nvidia Possibly Meet the Sky-High Expectations? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTZTUmRfQXhhSFZnRzhwSFo1TFBEaVJJMGdFSjVHVlQ5TlZOUG44SkhpVHdiVU1ELTdwM0pkZWNCcUVuU0kwb1NPdU0wVmNJTmVWdERfOERoNUgtUmhiM3psc0ZEUGZKRjBNZHlRMW5uT2ljMHVVMlh6YTM5OUpabDV2enhtTlpPeHJSTUFWeGlnTmU0UDZWZDB1R0kzXzZqbHZKUTJYbllscTMySVRVT21Fb1lQTlpWb3ZrZGtRMGI?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:22:22+00:00",
+      "title": "Wall Street Holds Its Breath: Can Nvidia Possibly Meet the Sky-High Expectations? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0VsQmE5R0dUYVZRQmUtVkxyS1FVUG5YQzVROUFUYnhJZEVUY2pEb2Q0WkdKUVZtMTIzVEZVNGhGbnp5czNHaWdBMGc4Vy1mMmxHZzZtd2VIdDQtQnNMWW1FUzRTMXk0ZTVvNmdGZDRlWmVrY3VaUEFMc0F1RkhRbTl0Y2F4dW1LbWtucVpvdGRCTXJ0RjNXSnZXVlI?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:08:55+00:00",
+      "title": "Could Nvidia Earnings Be the Moment That Defines the Entire AI Trade? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2hkV2F5NE1fSGNpdVpNeXdyb0dNY05CODhmODVIMmpYRUdjY05hNTVaVjczX1BaRWp4UTN1Y0xLTkR6d2xPbkNOQm9sakJhVTZpRUU5MERqYmRoWFR3Qm9vbXFVNnhjdWk2MzFEekdmdzU5WW1zUHRPbHZaUDRoMzRETjRyT3NaQXdxdk5QSjVfaEk0RkFBUA?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:05:41+00:00",
+      "title": "Billionaires Are Dumping Nvidia and Buying This Unstoppable AI Stock Under $10 Hand Over Fist - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT0kwb0JuLXMxeVJ4VmNpaG8ySHlROEdTTzF4MWNYeGgyaUw3Z3J4QzJEYjZqdmR5akxwNHNENzQ2VmJCWkZlcEY5VnBzaVdXS1VNdnEySUlfNjNadFVZZWtBOE8yR29teTlQMXdzMGVlci0tei11OEJDUDh1VTJBZHR2S1dQMHpTMVQ0dGhLaUgwN3ZnZDdYUkJhVWNySU55dl9TS0Z6cEJyUDZ5SDBNZ3JfUDRxZGxVbnlNczlmUzc4TkVfRS1yU1Q1QjlGbkplbFE?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T12:45:09+00:00",
+      "title": "Nvidia Earnings Don’t Matter This Time - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmtBWmRiVFJTVUNadDBvWVRXQ080OFM5SUZOT0FYY09YRmlzSWR4TDdWUnNtT1RIbjlhN0NkM0RmaElKYTRtS3FzR2VvY3ZVTHJwQlhPQ19NcXNSckFqQkR1SUlNaS0yQjNLTjB0bW00LVd5RGZKUXhmdkV5X2hFOXZ0RDVnWElP?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T12:23:58+00:00",
+      "title": "Investors might be penalizing Nvidia for not boosting cash returns like its Big Tech peers - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0p1YWRLQW1zaGNzVVRYREEwTm9YNWVNVkxMdTkzRFU4cFV2UE84NGNuVFpxYjZITlNYelpNckVNNDlLaHJQTW5kcjZydGtMOGJ5akJHd1lJU0pQYmtENzhDczVUZ3Z5bTVvZks1TGdGOGNQRjVwY01wbXVIb19SUkVPRDYyc0VNQmJCRzZQckI1Z1hUUVpmU19XdDhlYUN6alJ0MzNVbE4wTDBpN3RFcG1KNkdGNnpYcUJJaFlHeFR4bjNrY19xWVo3WE5wN3g0UjNOYm5YQXc1eVdWVGdIbg?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T12:16:19+00:00",
+      "title": "S&P 500 futures rise ahead of Nvidia Q1 earnings - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OZHNRbXI0WnFaSjNpYUltRkZ3M05tcmlWZVlsWnl4NU16dDdNRWFoRG5zdzZyaTY5QWZiQV9FbkUtSU9XUkVWTG9OS2dCbG1CLUwyS2ZPQzFVS3VyNzBTZDVWcjJremRXMkpuVzc3cHNQNlZsbnc?oc=5",
+      "source": "qz.com",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T12:13:00+00:00",
+      "title": "Big Swing Potential for Nvidia: 8 Key Items Shaping the Stock Market Wednesday - TheStreet Pro",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHpQNTJXMERpam8ybmRvZVRYeHRjdnVtUGppSWVMT0JoenpYWGI4X3BCUVlkT0lKTHJuX3p3bDBSejRHbW5NT0xKNmpuYmY1aTRSUnRmR1J1Y2tQa0hYV2lkS0lBUkVDd2ZvVjV2aDM5SlNTSlN0VWQtTDJwS2NNRUROUUJFSVNGZ1pwam1NdjNEUFhNaW5ER1hSQTA1anE4cHBjc0M2eHdmTk5xNXRtUjdHRQ?oc=5",
+      "source": "TheStreet Pro",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T12:09:12+00:00",
+      "title": "China banned Nvidia 5090D V2 while CEO Jensen Huang was in town, report claims — move comes as Beijing pushes its AI tech companies to use homegrown chips - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQRUpSaEJmMmtoWmVub09NS2FsOUM4Zkx0TzI3R2hYOUVWVFB0VFlpSGc2SFhsZHJpWjRHaU1uekdEZGZQcDV2NllaOGlKNmpHcWtEUlJBUFUtSlBaTlZ5elVBNXdxSWU2Nm90dVNlMmlnQ1Jfcmh1amZBZ0JqTGNmekNGQzhiLTBTUnJEME5UWjRqakNDR2xKQ1lXenZjYmVPVTE5dnNKdXNfckRZTkcwSjJ0Q3FQYkV4bmFNTUJkTU0yaFVMTDZaaUQzaFlnRDdSNW5aVXlHenRSM0ZnNktwRVRNY3ZIa3JqYUhLMzhfOHVWY2sydWVxRll3Q1labkdEbGROQkdjX25lcllUTUkzazh2ZXhrOHYyQktGVkxsbw?oc=5",
+      "source": "Tom's Hardware",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T11:54:00+00:00",
+      "title": "Futures Rise; AI Plays Extend Gains As Nvidia Earnings Loom - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY1NTWWQySU9HRTZVSzhWeWNPcFB1V0NsR3JJc2ZYVlZRa3R1cVRKYnlXcTRneFlTOFZrQkJnRUxlSlFBSno5MllEUzVRUlZBYmRuenVkVWlIY2Q0NjNSNE9PdHFQQy1OcTAweFdsOUc5SUVyZ1UzSkhtTmc0amM4TVVFT1pLa1AtM3BGMUF5bzIwSThaajhManlXSmhEVHJWOF90LXV5bzRYNVZvdVFSaE1mSnp6T3B4V3Naa1FNd2dqa3JW?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T11:53:16+00:00",
+      "title": "Nvidia, Analog Devices rise premarket; Chevron, Exxon Mobil drop - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXc2VmppNHl2YjJGU2FncVVwU3ZkSkhWYjR5SzlEeUtmRkx5eWFHNGNfeE5Rby1mQXEyU1RwaHdUcGxyS2VWUVZTOEc3U3ljS29NZE9PQTFBYXVUR1pYVTRKOE96Y3B6YWdRZTQ2Vm5ONHpKOWxIV1pCMHJCZzk5WnRETTlKRUNlRVRWSGxMdndtcm53cFVMVUhyeVNQUk9kRVpicG9Rd1lHaDhGWGJsV0FBVG1fWm9KV2c?oc=5",
+      "source": "Investing.com",
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T11:50:44+00:00",
+      "title": "Nvidia's $5.7 Trillion Market Cap Faces Its Toughest Test Yet. Can It Beat 75% Gross Margin Expectations Before Earnings? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc2ZxOS1FTTZTR3o1VHY3RjZ0SjkwNEVRZ3ZnSzBya3VTOHhDMmdFcEpMSkRTenoxRF9RQWRrU1NQSG9kT0FJT2FhVDF1Umg3YmVMQm0zMlRkcnhCby1HLTJGQmRQaG43RmVrNXZtWEdnRlk1ekJWaWNWTVdISFROYkdSXzlRVlBiUmtsVmY4ZTRyV1RPSUs0dVVHQmpMNmVpRkpuTTRBMzNBV0VUNlNTLW5qZE04d01sMlBMNDBKR1dLUEhjd25ZSmV2TWRNbWVNa3hLYVpCSk9Pb29Zak9NNlhhVkhfQWo3ZE5zT1hlUmpHZw?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T11:30:00+00:00",
+      "title": "Higher Interest Rates Will Make It Even Harder for Nvidia to Satisfy Investors - TheStreet Pro",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNamQxZDFZb2l5cGtNVXpuLThfM0x3V2YxZUZFQzVCQWoyMllWZXFiSVRqRnRxSkt0cXdfb0tvbnNkb2VZazBqSGVnTkJjLWVYNGd5NkM3OVN4ODdPdFpoeGc4QkR2YmtER2dudS1ZNWVkd2lRQnBJazQwZXhsYlRxSUg3OFRQaHNldktPeU9Zamg3S3I2VGxvNHBiNGVSU3VfVEViMm9vc2FhanFQMEJQUGJ2VlhfVHlfTTNkRFlKTQ?oc=5",
+      "source": "TheStreet Pro",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T11:28:04+00:00",
+      "title": "Nvidia chip demand could drive market cap above $6 trillion, CEO says - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51Z1B4dlRNTnNmM3F0UmhvZDVocWRSOWdyM0hsWmtLQV8xaU14UjhIZUh0WklfSF8xX1V2VVRtV0xuMUV4OG1vQUZCVXVSNHhFTXlFbjhHMUFQaVE?oc=5",
+      "source": "Fox Business",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T11:14:58+00:00",
+      "title": "Morning Bid: Nvidia vigil - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX192dHE1aHRhd0lyUTBhUllEQklTUFk0WUFXLVEzNjFDRmpqU1pfZmJ5VjFKNjBwNTVYTVR0MU1Eanc5c1FyMTl2X2lnbWd1RFZsMzJ5VndLUkVwN0I1YjE1RVdTUWpYTFJXVlU2eFZoaWU5NE9CR3puYlpCQ0NjTWMxbm0wMThiVnVaeldsTDFjUVNmZGpB?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T11:01:36+00:00",
+      "title": "Micron, Nvidia, AMD climb as Samsung strike risk threatens chip supply (MU:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPek1sdU9aTFMxTWZnSi0yaXJyRm5Ia1pwSDJSeEhBTmdYU3RDWUNTTGJ0YnZrNklEbWlEZFpBM3VwTVE4S1dsX0wyc3FKb05jZGpEVXk5bm83MjZlVGZ0ejRocjFBS0p4T0xEa0tQTHNodUl1OGZldVNaQlFza3lTQloyN2gzbXgtV3Nrc1NPU0p6R3gyalhBb0xObllKRW5OeDV3NzI4bzdwQQ?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T10:49:11+00:00",
+      "title": "S&P 500 futures tick higher as traders await Nvidia’s earnings - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVjdQNkxncl9qaENXdE9vYW5IbkVNejF0QUZsb1RuYy1lcFZ4MW85T190VHFGRGlWLTRtbG9NOVg3bEZjRzJ3d0VaWFRfaENFdGc0VlFyZEJFWXdDUFpGdWlaVHl0NmJpVGptMWp5ZVVuMzRvdnU0aWI2emY0c1gxRXNDQWZ6VTQySTBTNGpHbVdtTmVxcjh0aGI3dDY2WHh2RFVfdkln?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T09:00:00+00:00",
+      "title": "Nvidia earnings face a high bar, as investors watch for updates on AI competition, China, and more - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQWlwcDJNY2tCT1RVaGduQ2tuUEpmQ1Zmc0xsUktYc2k0ZTJ5Uko5MVIxTnZ6X0VRTnkzd25WU2wyVXp1bUNYMDNnbDN0eXJ6UFpSUW1Kb2xOdmFLUUFjUVVoQjNXRjhneXJnajRmREpvS0hXb0Z1Mmt5NlFaRnVXcnlnRzVSZXpPS1puX1hYNUE0dWRnTXhQNGlURmtBWWdz?oc=5",
+      "source": "Business Insider",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T08:08:34+00:00",
+      "title": "China banned Nvidia’s gaming chip during Jensen Huang’s visit - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUlSWms3SWdwUnZ2MmlpY3R4Ny0xX0ZRS2hIalJPV0pWa3BGeFZSbHZwY00ySEV4cHJFSUVlN2tud0hwWFJFck5MbF9JcF8ySnlxNjcyY2ZUWW9US2pSNW51Y0tzWGszWGtWZmJFWGhVUmNKVkMtTUx0NnJCemhUYWwtVXA?oc=5",
+      "source": "Financial Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T08:02:00+00:00",
+      "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Apple, and Microsoft in the $3 Trillion Club - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSzlYRFgydWFqU0k0SjZzSTJ2TlVuWFJ4Vnk0d1FuM2ZtUXNzZmRYWlg3LWtNb1hfS1QwZks3TVNYS3A0RXNKUlJsc3NnYm9iU09PNDR0dVVEZk9HWmJJTGtEbkN4NTR0Qm9DT095ZVhpdy1XVjlINkEySUZuZEVyR2lRZ0dpNnVGOEtRd2FfV3dZZTNKMzRr?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:41:37+00:00",
+      "title": "As stocks slump, cue Nvidia - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGlQUUo4TTlHUzZubk5xdmtUekJRTFozWjc1NE1ubWl5T0FENTRad01PeERVYzcxNURrMWt1QVE5UGpaZy1VR3c1Umsta2c5TFk1Sy1rMVRDS20zbGs5SUVnU05NUmdTa0ZoNVJDczR5WHVOWWZEaXpQdlZFTjJuS0F1aEx4a1U2NG5uOEFyS0tsUQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:35:40+00:00",
+      "title": "Nvidia to report Q1 earnings as chip competition grows - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZzEwMkVhLTRWb3BEQmRNQU1EWWdlXy1VNnE0cHdrbS1wVmdVY0pJWTBFN3JTQk1DeTVHN1MwWjRJVU5McGtfU21tRHc5ODhUTmctdG1MSWNUMmFMbE8wMlRIc1BGWVliYUEwaUZ1c0U1YkZWYmNnekM2Q0swN04yTlFydHpHaWtvdTdMQmcza1ZrSUpGY09wbTd2NnRXdDZtbktfNEFRd3RLUmduamN3dXlwQl80Z3RUVFE?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:26:00+00:00",
+      "title": "Nvidia's Earnings Are Hours Away. Here Are 3 Things to Watch. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFpLWGFWeEpjZVBhc19GcmpPZjk2MTRPdkt5X3lsSjUxNHpKaGctNzRkVkx2ZTlkT3haa3AzTE54RFFZQWhMeW1TdXJTTDJVVklTMjRyUFBHX1g0VnhyX3BRMjZkVlJMdmxNN1NvRXE3Znl2eTVBSTRES1hhSkRfNlBpbnFfVzdFV2lRaHhnVlI5UFQzLUFF?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T05:00:20+00:00",
+      "title": "Is Nvidia too big to fail? - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zV1Z4cjVaWHFIdERwMVk2dlFFY0o5eW5zUF9mNF9SZEtWNmNwTjhnMGllT284N2RSUm1CTmJRSzRTeHRQU0RQU1VYbjlaQmNnbnF2YzRjUm1vaVc0MGN0NEhlVE9XbzVTY2ZiTEVOWS0?oc=5",
+      "source": "Financial Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T04:51:00+00:00",
+      "title": "Should You Buy Nvidia Stock Before Its Next Earnings Report? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnNIeWxXbmpwbTVZRE9ibG1RUVRyU3BpNlk0dDNZRVYta2dJOWI2U3B2dkJiNmRKUnpuSnRRcUNYWnhCT2pDdjBkdkR0TTNWZDdxeWlvT3JMYXk1alhHaW04S0tvb0hJa2Uwc0tCVTVnNWJvcC1jQndJMkpETTZWcmczdWJFQXBCWDJ3X2MtdUQxTC1WbWZZWA?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T04:31:00+00:00",
+      "title": "As stocks slump, cue Nvidia - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MYllxNElUMW1QdC1MQlh5UndkVnNaWnlwM2FMd0NJeWtYTC1MUk5TVWxKeW9iZm1kZ0V1eVoyRzVrLVQ3YjNxWU51VGZJb190X2dRbUVJTzVzWXZxcFhiNm5RemswZXpwX3A4a0FZaElfd2JEQW5CTDN1R3VvU1k?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T04:01:58+00:00",
+      "title": "Nvidia to launch Singapore research hub as city-state boosts AI plans - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1oybVo3NDlSUDBEWnpiZlYxWVJscEhFRS1fTTFnajJHN05fYVpLLXBuSnM3c3lqUFdTTjJXbWRuNDI4bHBsUnhfV3I3cWlYTThqY1FTTEpwTUZkTWhYeXJHV1ZsbmNNRmppWjlkekV4RjF4YkJRb1JPUWFBTHVWZmJtYl9SV3luOWtlUVFxNTN0aDJ4LUhrSmtNS1BLUHlQTWcydUdhWWtRUdIBrwFBVV95cUxNdjdGWlF0azlRdVZReXJFOS1tMXZIMjQ2c25HUFJOTlpZMGJ6UmpMQzEtd1FNYmFuLXJwTzdIdkVZMERDVkZxdzNBZ3ZlUGlidXZLWjFjNXRSR1hab2R3WVZYZnhBM0dVOHVWWlFsc2x0Vy1Zd1FEYzRaT25keFBXM0pKS0JqV0llWU1mWFJRX1paa2d3bWFuUEVNMjRkLU9EZWl3STNzUk14M0dycy1v?oc=5",
+      "source": "CNBC",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T04:00:12+00:00",
+      "title": "Nvidia’s Jensen Huang bankrolls AI boom with $90bn deal spree - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGdsRFdhckdacDNuTXZqbVplWm1QNURXaEJ5VVVKamdUTkNlb0NyUVh1Um1PTnZGSU1sa0x4bFpoZkxVMEZFMGxXbjBJMEVrZld1RVE0eW5TQTQyUGY5Y3RJM0wtM2dwMFJwU0NNX1J4a0JNYXlCb184ajdHUU4xRjNJSVQ?oc=5",
+      "source": "Financial Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T02:07:00+00:00",
+      "title": "Bond yields pause near recent highs, stocks steady ahead of Nvidia results - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbm1LU2ZBQUh2VnBuakxGMkh1VTV1RHNCS1pnRDV4QVVwTV9GWFNXZUpyZkllVjhqVEE4eU4tcXF5MW5LdWM3NkJrQ1p4ZXBxQ3g4TFhCS2tZakliQzg3ODlVcGczZ1RWOGxlUFcxN0pEcHFXN2VtUzI3cEV4UVByN19vVQ?oc=5",
+      "source": "Reuters",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T23:50:13+00:00",
+      "title": "NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2drOXFmNVBGaHFIY2FOMFpoOUpiTXJ0YmFmcVJTa0VZSjR4bjBfNnc5QW1RUGJUMjYtalVfZGU0YV9ZenRucXBGM1dJZzNxY2hJcXdKdVpuWGxsZUh6UGtZV0JDcTJqRGYwcHA0RlB3N2dTR2JLSGlETUhnUkhxRnVaN2Nfd2plRmJCVTNzRnZFMmZYSmh1R05raHh5d1NVa01XUllWZnVDMEE?oc=5",
+      "source": "NVIDIA Developer",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T21:17:00+00:00",
+      "title": "Nvidia Stock: The Upside of a 3-Day Pre-Earnings Slump - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42eFBYUTR3RTZtLUFUS1Q2TUVKRnRULVVsNnlBQk1la1VheVI0NmFqempzQUtBTkw1YmpaaHVtOGRHRG9lbXR3d2UtbmpZeWVMWHNjR0ktU0JZb3QyWlQxdWdBWGFERDNwNVVnNUZGaFVidWVKVElCNHoxeWM?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:39:31+00:00",
+      "title": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOTJnSU15eFN4Q0lkX0xkS1Z0VjhPMW1zTDl5UTNxN3FCc0Z3cG4tWWZWbUxHc1RxdlNPRjNaSmdLYWE3M2pONzhHVnd6bHRoYy15S3FyODNyM3lFXzkyMTVQaG9NQW84b216Mjgxclo2bTI2OGN2czQ4dmNZWDg1WQ?oc=5",
+      "source": "NVIDIA Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:34:28+00:00",
+      "title": "One Year of Innovation: Celebrating 100k Members in the Google Cloud x NVIDIA Developer Community - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYVR0bFpmdzQtN0l0ZU8tMlBtdkk2OHRtVmlBcXRpRU1jSWEyN3NHQnl4QmVmQWhYUXIzOE5vMHhtQlpyZkgwYnE2WmtjRGZaZl9GODItNk5TRDd3OXBKbkNEaW9sYXlsVEVsWDRCeXJLUG1Pb1FaN3hvT3p3ZEktWlRLNFhFeTVrYk1Cb0dTX296MHZKMGFrNXRaQjV3ajNIb3Vxd2ZQbWVNdUdxY2ZCZlNjNlY0eFl1ZS0zZkJLQm1sZ0hiaE50MmpNZw?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:20:00+00:00",
+      "title": "Here's How Much Traders Expect Nvidia's Stock to Move After Earnings - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHF1MWpQNF9pZ1UxVnVYcjRGLWNPVHR4enhuYjU0UnJWMTZZa0YtTnU2bFJMQVVwdE5YWElkSnoyWEhDLVJkdUoyN2JlS2J5VmlnaXB2TEZhajVtZ1B1VlZMMDhHaFYtTlBoMEhwU05ha2p5N0xSWWZFbnZxTEpieVRGXzhmSjlUd3BxSlJMWC12UEFnRF9jbjU5VmF5YkdNYzZZT3phQVFYbUlGQ25YaEgzZnN6Mjk1V0NObzFYbVF1TVAxZWc?oc=5",
+      "source": "Investopedia",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:08:00+00:00",
+      "title": "Nvidia gets unexpected China opening as chip fight intensifies - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeG9kUlBydE9SYWI4dG9PSUktVHVMQ21XV2d1SXZoWXpuWmxFUUxNWFRqTmVKSFB1MXl6c0hSNzNNajYyRmt0bUZobUw2aGZySThuTl9oRjNLVl9LM18wMElYZjktRnU5eFBZNkZRbG9JMjUtMXRrcklzYlMxdkcxYjFUT2NseEFTX0o4U05YQWh6MkVMcGxmZzJkblE1bG9p?oc=5",
+      "source": "thestreet.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:05:00+00:00",
+      "title": "Nvidia earnings signal where AI infrastructure buildout is going: Goldman's Snider - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNczM5MzRQaVNtVWlyUWxrYldnTkM1N09hLTB2cHpubE5OV0RVTmUwbkl6NmJaYkZwQmZpYTREQkRvU3BvVkVWOGdFZlNPdnZDYmpINlBGQ2JlLVRpWGcxMkt5Y3dhSFV5MmNELTJzcV9BNml1RGpNWkxtaGlud2I4RkdFZU5MVnprN0dxajRCMHRUaGV1S1Z3RkszbGktb1FGczcxVUNZLUwwTHRzQlhJS2NDNmVfQQ?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:03:35+00:00",
+      "title": "Mastering Agentic Techniques: AI Agent Evaluation - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVBjN3dPS3ZnV2thTFp4NHFZNGRrS1dFc1JCdHpRU2FPQkRmQmU3YzF2bGotUEFYZk5VaXBxY2JvNWdBTlUxNE50RF9RbW1paUhTQTJ2ZE1NaWZGWG1QdERac0U0cWxPSThablowcXFVN19iMVBOTU42Vm9HajZMU1BPcUVIS2J3U2lB?oc=5",
+      "source": "NVIDIA Developer",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T19:11:24+00:00",
+      "title": "Keybanc sets jaw-dropping Nvidia stock price target before earnings - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUjdWT0ZjeTM0R2ZzZFJiX2o0WXNpcVdMVXNSNlBhWXNBb3JKMGM0MzFycHNUUzgwWm5mdHRHMWg3TmF3TUtfOGJCN1lQQWJIRDVYeXZmTW41T0p5Q0xSa1pPa1pxckdtWGVIRmZRdGs3OU1vQ2lac19MZ1JVTURQejJmalpEWk54WFRBRndkUlVpYmFiQ2piWWp4Y09DbHZv?oc=5",
+      "source": "thestreet.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T18:51:00+00:00",
+      "title": "Should You Buy Nvidia Stock Before May 20? History Offers a Startling Conclusion. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOXdZeEJXamF6RG1MMnh2YTNBdUk0UEdQNU0tajM1akZvZzdMSmNRV3B3eDlfenExOWNKNHZyRjMzdFRyRFI3d0lhY1V1MGRORDAyNURFaUN2VjBXRWtyMjktelRzU21fZGRTRjl5SmY2dmxGN0EyV0I3TmVPMFdWQi1EVFZZQTBNSktCV1hjUzJhOHB0RHZZ?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:52:06+00:00",
+      "title": "Morgan Stanley resets Nvidia stock price target ahead of earnings - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZDNuMEwwM19QdG5NMTUyUlo1VG9pU2pnWGd6SnUzcl94NFBIeEZmRVRiVXp6N0FJaEs5cnRyYUJ4YXg4ODF3MTdMZWdna1ZZTVl5SkJmVllTc3g1Ymw0VTkwWnN4cS0xZ09fSld2RXh2bnI1bGJYSkRJRlZWWTVOd3VNMF9VWENpbFFEdUVOYktDMTAtV2xwSmNlcG1CVFExTU1iOWw0VTBGTENO?oc=5",
+      "source": "thestreet.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:39:31+00:00",
+      "title": "Nvidia shares set for $350 billion price swing after earnings, options show - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZEFEaHJDTS1lR3p2a0g3UnhsRHlTVlFtUVYxQXlfOC1rRG1aTVAxMThEZG9jTXE2UzRYbUJtYjdFUTdxQklOVnJyX3d5aWVFNjZ3UmNhM2d0T2VLYWt5RVE0OUtyd3ZZRTNaS0VUcTRrOW5rVndCbkkwSEdtTHFQNl9iNWZKVlp3eWN3andYYU8tc2U0NzJSSlFFdzR6RmtENjdjQUtXR1pTSWthdHBETDZyc0RyeHZJRmhyRGo5OA?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T17:03:00+00:00",
+      "title": "Will Nvidia Form the $6 Trillion Club on May 20? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGk2WThyZHRWRWp1dEduUFA4TjhNVHhtdmhCWEFFZEdTWkVYN1pUSFZ0cUx4UjFvejdnalRORTdBTVQzRDlVdlN4QVJJNG9DbmNsU1JwcXFWc2ctbS1PVl9UcVVCQWQxZ1FqajQwb2dwaDAzcldoNTRqMEVKTkUtb2ptWE9vX3JhVGc?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T15:52:14+00:00",
+      "title": "Nvidia and Apple hold stock market's power like never before: Chart of the Day - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0J5bUprOVhUVkJTSDF4ckg1dHEyM1hGaUR3Z1RRYXBXU3JraXl3ZUJ2eXI5d01EVm9UYU5xandnR1VqcXJhaW5HUXVScEoybHI3RmQxVVlXa0pjV0FxM29yV2JKTm5mZUNJWmZoTXZnYzB4MzBXM3VTSGFTbE1WcEdrUlYxNUxpS2k5WjNSYk00cVNCTmJIeEM5MXpfMTVVVmt2MkVzS1BLTEZUZnpManRRRkg1dndyRVlYOG40R1JsSE91azRqX1RHbTFfUWg1Zkp1QVVUQ1Q4U1ZQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T15:47:00+00:00",
+      "title": "Prediction: Nvidia Stock Won't Soar After Wednesday's Earnings, Even With a Blowout - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXc0OWI1ZUp6THhRVDhfS3M4eExVdE1oYWdrX01LaC0xR1pFV0ViQy1WRDBSWE9ranhfUjhCZ1JDSUZleGlRcHNQVlRlOWoxQlY2VUs4TmJRUTNKdWpzbFZPWldLTnZWUE8tbDQzS1RKZnZEc3BUeHN4WXlicW5OUnM4LTJ3d1NOY1FzczVkN29SdndscXBnZQ?oc=5",
+      "source": "The Motley Fool",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T15:25:34+00:00",
+      "title": "Take a closer look at Nvidia stock using Yahoo Finance's AlphaSpace - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZlNnLUxTWVhqRU1jYWNwN1NpUDNrZUdEWFdNbnhKT0pRbXMxWGstdFptVnNJVkdEQlRkM2NRUUhLYzltUHcwLXNMOWxZdmNCblo2SG9YUDVReW8yVlhTZ3N4QTFYb09Gd2dJeGZNTkVlSUpid0N5NzVLQmFYcjRnR3ZHMXcwbGpmU2FnN3NlYm41WUR6TlY0Q1VFRDVYMm9oM3ctbFhmWldtYmwzamJWSVEwYw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T15:16:16+00:00",
+      "title": "Nvidia Reports Earnings Wednesday—Here Are 5 Key Things Wall Street Analysts Will Be Watching - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRDRDME5WelIzTXVEYnd1YjlCVTdzcy1FcGRpb29LYTlqUXBKNWQxelI4Y2duUmQ5c3U1bnZ1X0RhR3JrYlhsbTlUQ0ZXNVBzSmxzdWZzQnBIYTVGeW5hb0p3Rm5RSEJfNkRfMnZ4SDd0TS01c0xuSHlOTGZoSDk4S2Z4ZmVjMmdYU2xkUDhjYWRaRzR4akZXeXFvcUJnbHdpYXZ3MzJHVkFRUTFRaTVCNWZLcXg5THlTb05hYnVMaG4tZ1NGVlE?oc=5",
+      "source": "Investopedia",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T12:59:40+00:00",
+      "title": "Forza Horizon 6 Is Available Now With DLSS & Luna Abyss Launches May 21st - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Rakp3eVJINVJPVlBtRjR3MDlfaTcxdklaXzZWTng3UlV1SjVYX0hzRG1NWjZxQnZPQWphQV9YRzVoaVBfLTVuX0ZkOTN0a2xVUkM1ZFFDRjZfbzQ3cEJxclA3M1AtbDNYQ3dsLUNXYkdaMVE4SGFhclJPbFNuTHM?oc=5",
+      "source": "NVIDIA",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T12:43:30+00:00",
+      "title": "Nvidia's outlook will be a test of its strategy to maintain AI dominance - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORno4d3JQVFhGOVU4Y3BRZ0w0eU1wc1lfWHNCZVVDQjdiakJmRlBtZW9hT1RMY01lMjdkMFRneUZGZXNIMFdQRUVuMnQ3WWJYcS1fOHVTWTBMelJ6MnhKQkpDYWFnVzdBT0JtVzBfY1dKNVRlbzk2LXdHOTh3OUZzOWNMVWR1MzJrMm9CRm5IQXdOa0l3YUg4eXdHb2lmSHhOdUxCbFRNbFlSeXdmOW5IOA?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T12:30:31+00:00",
+      "title": "Here are Tuesday's biggest analyst calls: Nvidia, Tesla, Micron, Costco, StubHub, Broadcom, CrowdStrike & more - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTEhVTjc4Yjg2blRaNGRLRzVVaHZrZEVzSEJPeFNTTmhjRHBJWjljNjUtU2pWYXN5YjlpeFNkMVJrNnlRaHdYNHptUHM5ajJUSzB1T3I5VV9UTDcyd2xNeXhVenM1aGRwYTAzdVVhS09xSGozc1dsSlB4dlR0OUNQUzM3aG45c2J0VkhTV2Y5NEg0YkZfR3RqZjFReHhkdFZMek51X1RfVQ?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T10:20:53+00:00",
+      "title": "Nvidia earnings expectations are high. Why HSBC expects the chipmaker to clear the bar - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOHcxV0hCMU8tX2l2WUgtb1d4N1ZqbTBSY0VfVFlXeGY5X0xQWXZ5NFEwZlBVckhMSGxrR215QnA0dVVaamdjYjgwTUJhUE9JM3pvMS0wUmxrd1RwX3lrMFVQVUc4QjJUdVN2MVV2Y0xzRU03TnRYaklJUDZiMDBKME1fSmI2NC1UYUc1cEkxLU5YNHgyMTlYU29FWHBTTTBTUFhaYzJhVXJoLWlkRU1NLXpHUEZ2MkFZTEJNSWdZcw?oc=5",
+      "source": "CNBC",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T22:36:59+00:00",
+      "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’ - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HSV8wX211YWJkbXpWa05kQlljQU14bDMxV09aMEQzQzJWdUhuMkZyYUtkMW51ZHlLbG9RbXJ6bkhRT0sybHpRNHJHekJNclczRzZGYkIweFhFMV8taGRXT2ZUeC1UaHJOVk5EcmE5anQtLWJQRFNz?oc=5",
+      "source": "NVIDIA Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T20:54:00+00:00",
+      "title": "How Nvidia Stock Can Hit $300 After Earnings - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMElCbzk5Z2JFOTNmUFRMNnc3NHlMbzlsZlplV0RXdnM1cE5LNmZubEl4UlVJNW04MDNqNUlfMVRiZUdHU1M4c1JxemI0a2tpVHlGeWdCYTBXZUpPSzZMek0yRWdMa2N0WlkyZGhkR1hYSUZTemNhY2JoQlQ5bTV0R1NzeUY?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T13:16:00+00:00",
+      "title": "Why Nvidia earnings must deliver massively - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmRvMkZUVzZPaVh4bHdJQkJPT2Jhc0JsOGRLTXFyUFNhR2o4TlVhejBHckxyTFRxM05CLUw2OVgzNmNUVTI4WkpMWkdJZVdGZkhZZ2FBLXMzeWVIWU5tT3FYOFNwN0I0U1lGZ3RERmRMMmRGVXFfNFFGeEFRc3AxTXVRN1VjNVBrb3BhUlVkV2RtVDdwZ0V5NlE4cm5DTFZI?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T09:00:00+00:00",
+      "title": "Here's how Nvidia stock has historically performed after earnings: Chart of the Day - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaldFQ0c5WG1mYUh1RUJHcl9TcmxjX0Y3TkZMeWQwT1VvTDJweXNEWHhITkg3czhWUU1TQ2dtN3BXY2FuYnYzZW1TQmxSQm95WW53X014RkdCS3BqbkdqM0RubUJmWjBXeFdudjE3VlB5S2pqN1loZ1dQSGhJMnotT2VXUXBBQUdLT3QzdW1vQXYzcEZjQkRETy0tYUpXRDdTRlpsdU45Nm1JRnlNZ0t6LWJmUUZxSEZmMkNlMEZTcnE0VTdPYlZucy1uRWZ3SWY5Sl8xUXdnOTd3UW0tcmc?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T08:02:14+00:00",
+      "title": "NVDA Stock Quote Price and Forecast - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oakpQaVAtWVg3Rjh6M2FFaExEa1JVeThKN1FIX1p2OG1lWmVaVnhlU3Zsek42ZlRyd055aXc2dGNHa0NxV2RfU1I1dUoweXNi?oc=5",
+      "source": "CNN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-15",
+      "publishedAt": "2026-05-15T14:58:04+00:00",
+      "title": "Ahead of Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued? - Morningstar Canada",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPalBnMF9jeHNyZkUzbzJiZFpCSDBmeTQ3dV9uYUJEdml2SHJBaGJhQ05GSXZzaERld2x3bDYtYmFRMUd2TXVUb1ZVN3lZZU9jMFZMcUVjVjFpSEJrWFd5NWJacjQtaDExV1VGOVFqRnFyeHJHdkN6ZVpocGtEVU5tRkdRNlJVQU5FaFRmR3RhblpSWXFZckVMYmtXLWtRMko1a2RsZw?oc=5",
+      "source": "Morningstar Canada",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "publishedAt": "2026-05-07T07:00:00+00:00",
+      "title": "NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWUlUT1F5eFJRbjBvYVA2bzhUV3NUSExnMTNFVDVHZWlISzR2SV9mcXQzN2ZmRzJPcE84Z2xXVjVRTzhzd21ubkFuX0UxdHhPeG96dE5McTJJcklMR2VWWnNYV0FlZHRsUkZwNlg2NERiaTRGbFQ3WWs4V1dPbjdzdVNBcmlXWVVyczNuS2hwcTRSZEJnS0hVYXp5amZ3R0habHc3bktzeW9aMC1hY3RKUnBibVZlS2JaZTNnQmVjT3lkbnNjUlB0SnE4SGtaRm9Bd1I3REY1SnRMRGNmLTV4bWtn?oc=5",
+      "source": "NVIDIA Newsroom",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "publishedAt": "2026-05-06T07:00:00+00:00",
+      "title": "NVIDIA and Corning Announce Long-Term Partnership to Strengthen US Manufacturing for AI Infrastructure - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0ZxZHZ5VG96czVMOGU0RzZIaW5JdmtmZmdxM0tJUE1ybXFPME8tdllfdXZYYmstWDNieGF2eDJtZnNmbzBjSjYxNkZiWEdjRzVkdXhEQ293ajFaWHI0UnJuUV8xNEFET1ZNY0J3N1FRbE5vaHo4V2UtN3B2RVlNSEo2bGRqYnZ0S0ZkeDc4bWhHa01ER21OS3dDMmxqYmFTQmxMSGdsSGpqaUhnTkI4YUZESFh0SEh1dWs4NGxRbXE3RzhvM2hLVG9EcDI1STNVdENZ?oc=5",
+      "source": "NVIDIA Newsroom",
+      "pos": 2,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-05-06",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-15",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "count": 5,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "count": 21,
+      "pos": 4,
+      "neg": 2
+    },
+    {
+      "date": "2026-05-20",
+      "count": 51,
+      "pos": 38,
+      "neg": 6
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-05-06T07:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-07T07:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-15T14:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-18T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-18T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-18T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-18T20:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-18T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T10:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T12:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T15:00:00+00:00",
+      "count": 4,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T17:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T20:00:00+00:00",
+      "count": 6,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T21:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-05-19T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T02:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T04:00:00+00:00",
+      "count": 4,
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-05-20T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T06:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-05-20T08:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T09:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T11:00:00+00:00",
+      "count": 7,
+      "pos": 8,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-05-20T12:00:00+00:00",
+      "count": 5,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T13:00:00+00:00",
+      "count": 10,
+      "pos": 12,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T14:00:00+00:00",
+      "count": 10,
+      "pos": 8,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T15:00:00+00:00",
+      "count": 6,
+      "pos": 2,
+      "neg": 0
+    }
+  ]
+}

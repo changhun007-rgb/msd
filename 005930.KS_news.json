@@ -1,0 +1,817 @@
+{
+  "ticker": "005930.KS",
+  "query": "삼성전자 OR \"Samsung Electronics\" OR 005930",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-05-20T15:51:25.864360+00:00",
+  "items": [
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:43:02+00:00",
+      "title": "삼성전자 노사 잠정합의…쟁점이었던 성과금 배분 원칙 1년 유예 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBVGl2YmRIVDRrR1I4Tk16am1aMGxBMEY4c0kyRmRaU3c5MmFxY0FJb1NRY01UbkVHNWlITnZudWZNQUQ5Z0ZxdDNrMW1fTms?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:32:00+00:00",
+      "title": "“내 주식 살았다”…삼성전자 파업 유보에 개미들 안도 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SUVJkRUtaVC1sRHNDUEIyRk5uQmlBdW4wSndtUHNiWVlVbEtxY19tdEUwM0UwUU4yTE0tRk8xNmN4aUM5eGxaTTk1M25VZXZBbUFFRF9EbVg4ZVFWLTNhT3NLek5JanN1bVHSAW5BVV95cUxPQmZRbng1QlBTRENiYUR4bHYxMmZrTjc1Q3RwMF9CcEFibUlaWXByMzYtVzJ1M2pkNUZwTXN3N3dqZExCd1RWMjNVWnYtVUo2cDA2eDhCR0lVLVM2WUJNZmV1NnJabEdUSjQ1T25uUQ?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:29:00+00:00",
+      "title": "속보 삼성전자 노조, '잠정 합의안' 세부 내용 공개 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SSVl1LVVSX3FUR1FuSDJjaF9kUE1CZXR2dk52RjEwQk91Z0xaTW9jR1pOU0Y3SEdCdUdUeUZmQnJsdDRzRFlGR1BpdFJndzEyQThwSkdaOHFVbXBTT3c?oc=5",
+      "source": "YTN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:28:00+00:00",
+      "title": "[속보]삼성전자 반도체 사업성과 10.5% 상한 없이 전액 자사주 지급···임금인상률 6.2% - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjZ3c0d2xCX3pfRVdPNVA0T0hDeXg0UFpLRldUTmVHcjUtZTc3Mm45a3Q3NEZmRkdaZzdiMVdSQml6OTlpVHVPM3VOSUZ5Y1ZwQVRMSkV5RWFvd9IBX0FVX3lxTFBpXzBTUGRUajRpVVNRMEZpeGZLMGwybGNONnZWejhXVE5za3Z0dmxBczR3cXI3VnJhMTdKYXRxM2lqYjhVSVNSQXZCMUlPTkJTRzFHeEhGR2h1YTVIOUw0?oc=5",
+      "source": "경향신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:21:36+00:00",
+      "title": "삼성전자, 반도체 특별성과급 신설…전액 자사주로 지급 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sby1OeFRJdDZwSzlCY1htYjZZUVdncEloT3k1M1Z1c21XMklmdVhUV1Q0MTZHT2QwMUJsX3lzaFhWSW9zMURDVDZWTmdwNmtPZ0lRMW83SERvaTDSAWBBVV95cUxOa1FnM3Y0UW1RVmNDRkVQUzdKVDdSaVFJNWVONWk4YlhJMEhyUkNuQXREblJRT1dmeUNlLWhtVkp0NmIxX0k3ajBRMVp1VjZvZnFYOVFmaFJFTEd1dFB5aUs?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:20:32+00:00",
+      "title": "삼성전자, 반도체 특별성과급 신설 … 상한 없애고 전액 자사주로 - 뉴데일리 경제",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KcXdFRGZhS2gtUkd1UTlrOUY1V0o4X09YWm1zeVZTalZvcTlUWVJ5alNUYmJYOEpVcHRRbGd0dDVuZFZDVXZmbHV0RW9jczZrcTUyRUZ4eUNjMjY5aE1nUTBnOGdJMWM4aVZTQkVBZlR3ZmxFR2xDN0dEbw?oc=5",
+      "source": "뉴데일리 경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:17:24+00:00",
+      "title": "靑 “삼성전자 노사 대승적 결단 감사”…與 “극적 타결 환영” - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15Nll3Y2UyUjMwRU1VY0llYjJIaHRNbHNqT19JakNERXhncVhQbGNmMllVTTZMZFNfc3VYa2ZHUVp0WEwyeS16cHZxUTdQV0Y0bXpoZElR?oc=5",
+      "source": "중앙일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:16:00+00:00",
+      "title": "삼성전자 노사 진통 끝 극적 타결…‘사업성과의 12%’ 합의 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44Q1Fyai1FQ2xvbmlKUWQwbGN6b2p0UUZaOWhlNzZ0dUZtMlV5ZTNBclZDSmU2UXFTNmFKR3plNEctb0R4YVFEN09pbTl1X2I3VjU5dVlyWGRpZjh4M2h1eGlpSXY?oc=5",
+      "source": "한겨레",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:13:49+00:00",
+      "title": "삼성전자 노사, 총파업 전날밤 극적합의…노조 투표만 남아(종합) - 연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MTVIxU29icmFRLVBaeFltQXJEV1N5N2podS1fNmRXbDVGSm50LXVtUFBTRnVkS2hZWm9hQ3FSRFRCZ0JwYTUyTkh1N3U3ZFNEMUxPQy1VdVJ1NklJZVFtNjRIVGNHa1RIRnBJc2c2QXdwVVRE?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:08:57+00:00",
+      "title": "삼성전자 잠정합의안 뜯어보니… 노조는 ‘상한 폐지’, 사측은 ‘안전장치’ - hidomin.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80U0RSY2xNbHMxQmhKZERYT3pwYXNKMnZwODljdkVKR3k4ekJFdlFSZnVzSlRVVGpFR0JsOVhJNkY1cEs3UVpNZFBtdFZIV3Z0WDlXMkJzMXM3T1JUcFc3UVVVQ0ZGNTlnb2c?oc=5",
+      "source": "hidomin.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:07:50+00:00",
+      "title": "삼성전자, 영업익 대신 '사업성과'의 10.5% 지급…DS 부문은 향후 10년간 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uVlRNQVhmUGxlMXFZOW9BVjhaWjVLbFo1amNYLURxYTFKMkp6akxxZ0dBLWV2emQzXzRkQzFPOXROVVQ0NTdVU3piV0NwbFpNaEJpdnhidlBKNkJ6YWN1b3hhNF82UTJ5R3lKUEZiWU8?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:05:00+00:00",
+      "title": "“결국 성과급이었다”…삼성전자 노사합의 '핵심' - 경기일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aa19GWHZvSDJoSnZKX3Y3M0ZfU3pHMUpsM1dMdlBEYUZiTUpRNElOdzlWbWRTS09vT0xqdjhxbDRVVFRCQXFWejZXNzBXV3FKTnpFRVUtQkFmbzg?oc=5",
+      "source": "경기일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:01:53+00:00",
+      "title": "삼성전자, '반도체 셧다운' 피했다…적자사업부 성과급 1년 유예로 합의 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zbHlrQVE0NlVxeXdKcEc5YkVFUWZGb0NJUlkzY1p3X3lXd3RLODhXTGdBNC1DYld4clF6UWhZamswUXZlNHpfdEFGRlRqY28?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:00:00+00:00",
+      "title": "삼성전자 \"잠정 합의 감사...건설적 노사관계 구축\" - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KdDZxWTlQY2ZYR1FyVC1EVzNaM21CVkFXc1loa3l0SmI1ak5JSFlkdHluTFBvS1l6REtxbHBJempkb2MzeFd3NVJRb3NtNXdZVmMzNlVMUXNuS3pZenc?oc=5",
+      "source": "YTN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:59:00+00:00",
+      "title": "삼성전자 노사, 극적 합의...\"22일부터 조합원 투표\" - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CVzF0R05aRktXNVBDWXRBMGhfWm1EdFBaTU5VQm4xdVQ3LXZwLXFnajY4azRrQWVodm1uUEJNNlpfa01WNHRkLVpvUHluUXg1ZW5adHQxUDhIZ2NrTFE?oc=5",
+      "source": "YTN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:57:30+00:00",
+      "title": "조합원 투표 남긴 삼성전자 노사…\"합의안 통과 가능성 커\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8za1FBQnlMOE5MS1VDcHJFcVF6T185N0FQZkFKMmRoRUlVV05xT3NIZXQ3a2dERVJ6TnFCbGRMZEkxRkU1b3J5bWZLYTY5eHJ3cURWUG1BWU1tUWgtQzdpUlFtd3RqT3BpOWJLWWRpa20?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:55:43+00:00",
+      "title": "靑, 삼성전자 노사 잠정 합의에 \"국가 위한 대승적 결단 감사\" - 연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrWjlSTHpxektJYUN3MWU5eXRVZjJzeUsySVRjTkd5VkpreWpPSVI1Si11LWtSbVduWUF1Nkt0TjZDQXN0Z001bmpPaGZjOXFOLS10UUFKRE5yam5IVHUwRHpxczFPV0RwdHRkUG4tbjUyQlY1?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:53:53+00:00",
+      "title": "與, 삼성전자 협상 극적 타결에 \"환영…대화로 해법 마련 의미\" - 연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pUGR3amhSTUxfYTRkN2JXeWJhUXBvV3pqVU14V3B5UnAzOWFVNlIwaG1ieEFSQjN3TFd0NlRjb3BGT3N4Sjl3aHkzdFVPc0hLUjRsS0N0cmdzcmtrNlRWT2pxQTd1OEVxejFiZHdMLU9Zd2py?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:52:00+00:00",
+      "title": "삼성전자 노사, 파업 전날 극적 합의… 노조 “총파업 유보” - 한겨레21",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EWlNwZzlvbDFNcldPcmZZZ2lURFZnRG9udWhYa05RN19XZUYwWEVnNEJZRWM0UUdLZXQ2Rll3VXhFUVpwY0RpZHE1Wno5Wnd2QndMcjlxV2pRUm1XUlNKRjVSY0IxcEF2XzY2TS1hVQ?oc=5",
+      "source": "한겨레21",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:51:00+00:00",
+      "title": "[속보] 삼성전자 노사, 파업 예정 1시간여 앞두고 극적 합의 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oSEhhNmpwLXhHUU5heXpCbVFhbGtFdTlwNzMyYXZmRW5FVGZrVWlpY0ZxWlhuaVI4ZGZHclQxWFVZc2hPWGRIMUZ5THRiVTN1NnNsbTJZLUtVc1JHTDAzSkg3MEpZdnQxdzNlZ3Fkcm9yZw?oc=5",
+      "source": "한겨레",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:50:43+00:00",
+      "title": "파업 1시간전 ‘극적 멈춤’… 삼성전자 노사, 반도체 초격차 탈환 \"이제는 원팀\" - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8teHg1SWY4cGN4M2FOX0hIOHNGbHlLb0hQRUlYTUFmdlQySkZfNmJBU09jV1FEaU82YUJKSzJ3ZDlFcURLNGMxTElzbU9DNE1fYWJWUXNpM2Z1MzJlanVueFRsT1Y?oc=5",
+      "source": "디지털데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:50:05+00:00",
+      "title": "삼성전자 노사, 반도체 특별성과급 도입 합의…총파업 유보(상보) - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sSHdlc19LVTVZSnJ5TzA2MkZIdVZ0MS1YNlM5Z0c5QzBRVEc1TFpXZUVneFFzWnNabkpFTGFTTEdpVGZBOEJVVE1Qbko5RFNveHhyXzBJdTJSWHVzdVQwR2lsXzU?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:50:00+00:00",
+      "title": "삼성전자 총파업 멈췄다…손잡은 노사, 성과급 개편안 전격 합의 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bHdqcWU0dWNLNmdHVFBXT1hVYkUwLVI3TFNheDUtaGFBc1FjcFZaX1ZDZW51Z2ZZcTNUUWxIUHNsQU5WVDc5WjFMZEE4RXdYcmFwYkVPRFp4dk03Vk40WGt5R1lJdlhZY2fSAW5BVV95cUxQdDFaY3NvU2lhS3luWmo3SExxLWRwMkZ0SThxYW1CNWZoVkw5ems1NTlTRnd4Y2FIdUt5dm9HazVBQXJNS2gtVHRZWmpyNTFUTnVTQURyOFpPYjl2THd1a1U0NzhpaUN2YkU2c2hVdw?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:47:00+00:00",
+      "title": "청와대 “삼성전자 노사 대승적 결단에 감사” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82OWJYaXZQV0hHVWpaUkVCRGxMbVdJLU0tUEl0aXNfZ05HcTRxbEFjbExSZWxHdU1kcHROQnBZZzl1TnlGVjBkbTNDVC1Tcnd6b2lLSXpaVTVNVkpJNkh5ZmpUcER1THo3Mndvb3U0MmZRektD?oc=5",
+      "source": "한겨레",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:45:01+00:00",
+      "title": "[속보] 삼성전자 임금 6.2% 인상…DX부문에 600만원 상당 자사주 - ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtRHNhQV9UNTlfVGtJZ1E4dTV1NUZNcWZiNWNMWW8zOWZadlVSc1g4WlRyRktPY21JNG9LOUd0cENtX0FsNmcxODJiV1ZORG1wSHVEalZiRFIxczF3X0VTbHpqdWpTZk1E?oc=5",
+      "source": "ebn.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:43:11+00:00",
+      "title": "삼성전자 총파업 일단 피했다…파업 1시간 앞두고 잠정합의 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oWnVtbU1CeHVSSmpLVWQ5cHl0UVZ0QmRMMk5mY0Y5dUJiTlVHMnhMOE1TSUJ3dGUxMFNEUGdMV2Zodm9Xalk2ajV4TGtoQ0dCdmlxcG83aEs0aDVUTTJtVG9CbEZxUQ?oc=5",
+      "source": "디일렉",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:40:44+00:00",
+      "title": "삼성전자 \"임금협약 잠정합의에 진심으로 감사…심려 끼쳐 사죄\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JWkc1cmZ0ckFjczN5ek1PUVAyMktNQzF1ZUVISFRxR2dUczVBV2JJQzBXaDk1b0cwSlE1ZTlOcHBRZ0xJX05DZ2F0anhOUWx6eEM0RThVanBPUmR4WUxWV0k0SnJvdmI4MnBnVzl1VVA?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:40:16+00:00",
+      "title": "[속보] 삼성전자 임금 6.2% 인상…DX부문 자사주 보상 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xblRDSERXTk02VjRjal9BUEp4dFFRMzhqN1kxVjQyYnJnOUtxVkZ2aDJOOWlfTG1TV0tUUTRsSUlKTm5XUHFuY0M1RkVWSGZnbkZyenRn?oc=5",
+      "source": "중앙일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:40:00+00:00",
+      "title": "[경제포커스] 나쁜 선례 남긴 삼성전자 노조 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUmFLanlBYWlQZDV6V2doRFhQOENoU0d1NEx3UjJuZTc4UXpicmxpdjF2N21kSGx5LXNfVml5OVNwWVRXTE5sZkx5dnJOMmpzVDlHS0FOQTg1TTNmT01yNDJlUzRlYm5zVUlfVDE3MjQyNEFtQ0N3cGVWRUZacnF3MHRBdHNjczhWcjc0TA?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:40:00+00:00",
+      "title": "삼성전자 노사, 파업 겨우 피한 뒤 '맞손'…모두 \"국민께 죄송\" - nocutnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHNXB4bXNTQnB5VHpKcHRNRjVwVWJsUU4wa25JOEIzbkxuTEJ6Z0hhN05vdjlMX0hUYzZpQl9wRk5MUmoweDhJVnpQNDRlZFdfRXc?oc=5",
+      "source": "nocutnews.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:39:00+00:00",
+      "title": "삼성전자 노사 ‘최악은 면했다’…총파업 직전 극적 타결 - JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00S0M5eEM2R3NtQ01wRVphcmtSSEgwd2YwN0J1VWdoeWJraWYzWFFyTFRoTTN4eEY3dUNtczdxTmJmenFHdE9raXc0N25WdFB3cWE0aA?oc=5",
+      "source": "JTBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:38:23+00:00",
+      "title": "삼성전자 노사 임금협상 잠정합의…23일부터 노조 찬반투표(종합) - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ueEw4eW5FWE5GeDM1Rlk4SDZmT1JidEk5YV9QZVNhTkFwMVE2T19NWHZPTV8zUVdnTVF4Nk1vZnd5MHRsVVNQV09wdE5SY2tJYnRhaktHM1JYNzVQVkFzSzZPMS0ySVVQbllCaDVzLV8?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:38:19+00:00",
+      "title": "삼성전자 잠정합의에 정치권·재계 “대승적 노사 결단 환영” - hidomin.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00eUI2aDhqaWw5M0dSRTFtNmNTd0VMenNBdFAxa1BTOWt3WlB5dDh4UlJCaERYV19yTGllb21SS1ZlUzVsNjhpOWF4ZzJ0UkZUeFF1enBLVk9rLVl0SHNuREp5am5Wa2xHWkE?oc=5",
+      "source": "hidomin.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:38:00+00:00",
+      "title": "삼성전자 노사, 총파업 직전에 극적 합의…”성과급 12%·10년 제도화“ - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUGxQTnkwLUxKLUVUdVV2aGJDNFRrZnlkNkYyMVYzX0dibzVyZ1FqNkc0TmpOamtwVVBoVXg3bkNWV2NXZjMxZTNaREk2REVRa0RLY1BGWWZPWTBnNFI5UUhhcjd2SlNxcnlfQlR5bGJCTjRqcW1TbGVYek03dGtOYTZn0gGWAUFVX3lxTE9VUUZSQW01OU1wTlkwZjVzNTZYVUFzOEdrak5ZQWJ0R2VyR3N0QXVjdUlFTEVaRGtYZXlFMTNESDN6dHotekh6YzVwYWxMQXRYS05WQmZiY1k4REpDNVRXTzdvTklMaWNVazZJems5Z1FwcnU5VENncEQ1S2Q1cUpIV01HVkpxaTRGQ3RmWXNvOW9IYndkQQ?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:37:56+00:00",
+      "title": "[이로운체크]삼성전자 노사, 총파업 직전 잠정합의문에 서명…무엇이 담겼나 - 이로운넷",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYNWJQaFBWWEJQSGtWcmhmOWFIZEhlNWRWdlpYR2Y2LVE1bEIyQUptWE5wUUdlR1NpeXNkVDlOSjFqVUFOUGE0T2dqa21UamFtWnhkTFp6dXlxOUU4N0FPcDgxbTZJZw?oc=5",
+      "source": "이로운넷",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:37:53+00:00",
+      "title": "맞잡은 두손…삼성전자 파업 직전 노사 극적 타결 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92OEhHNUxVa2d4eEhMUndDYUR1d1g3SDFBRXRSSzRYTU9MNUwxUVZjRXRZemwyWkNSTlZlYVVzZXh3M3piZExYYnpuUXFmNkU?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:35:20+00:00",
+      "title": "삼성전자 노사, 총파업 전날 극적 타결…“심려끼쳐 송구, 상생의 출발점” - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1V09ibHNMREtON2tuMjJDX3hrMjh3UTlCZ0ozNVBDQjBxX0hoYy1KYmxQUHlUZUhjZUhTZ0dBSlJFNGZnZzZ6SDNlVjZTT2N2?oc=5",
+      "source": "문화일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:35:20+00:00",
+      "title": "[속보] 삼성전자 노사, DS 특별성과급 지급률 한도 두지 않기로 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsdW5objNRbThlenUzYU5xZWVVMHBfZ0FmUFA0UzFfSUlXNTJ4c2NWaUhWa21TSXV6b0dITWd1TmZpcXBETl8xMTlIZnNIQnB1VUVFZVJRdjJjQ1Bsdk90Uzd6bHE?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:34:46+00:00",
+      "title": "삼성전자 총파업 유보…노사 ‘잠정 합의’ - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QOHlZYmNnZDZiMlpXWFMxcjBfYWE4SnlYSjcyQllBLUdmQ3lGR1NoemtOYXZXb3NDNUp4bXBLQjZ4bWtnNzJnV3BMT3h1SnhUYXo1VzE0RGx3N1U?oc=5",
+      "source": "에너지경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:32:28+00:00",
+      "title": "'삼성전자 총파업' 유보, 노사 극적 타결…노조, 27일까지 투표 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpSm11ZUNDTGtLRHVUYXo3VWV4OFQyRWlmWlNQYWpiSXJsems1M2VSSVVicGRSMGczTkFTeGlBRGZMQ1NiSGxFb3ZGb1pFVmtZdnNzMzlGd3FxUU0tczBjd3YweFdRUmZ1UGV6ck1fNzY?oc=5",
+      "source": "신아일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:32:00+00:00",
+      "title": "삼성전자 노사, 파국은 면했다... 총파업 90분前 잠정 합의 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV0U2OS16al9FRDZNTGdIR0JHV19ETTA3QjhLY1lvSlZpckswUThXWnE3d2FYQmpTVlZKSDU2SWNNdW9PNnoxM0VMaV9jV0ZDTDJlRndrOUlIWUFqUnRnV3lQSXhSakZKaGd5OWp5eGpTUjNCVEF6SmVtd0hLOUhqYlV3?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:29:05+00:00",
+      "title": "[단독] 삼성전자, 2026년 임금 4.1% 인상 잠정합의…DS 특별성과급 신설 - 오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52ZVN4WDZfVGdVNnM0Xy1SdUx0czc4MUljaHJ0MVA0ekdwVmJzNUx1OGdqZzc1blNxTVZaaVVWSE1ROW5wUFFwRTBBdU5jdWF3YzdmdDVCRm9ndVA1aFhJVXBxY2JEclRVTWNyU0c2NmpVUQ?oc=5",
+      "source": "오피니언뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:28:25+00:00",
+      "title": "삼성전자 “다신 이런 일 없도록“…노조 ”국민께 송구“ - 시사저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyU0xiVEczc2tvV2JQMTZwWDU0aFlxaEZhZUgxVm5ldnNDcTFqNjVjMHJmTHNYOEoycWRkZXZwMlJaUDYtOW5RN3pETUtINHpJanBFVnJYcDlGc0NkRDdOZjB4eFp2U21CVjF0WjBhNNIBc0FVX3lxTE14V0ZxLTJ0b1dsa0VJazM0MXJUaGxOYXFMRV9oQlM3TTFEbDFwYjZ0ZVZiMkI5S1l1Vk5jVTh5WTlHSG9Zbi00ZXlnR05BOEJCYXd6cGhQQmJjTzJMc0VoOWxZQk1rUTVBV3BMRmVYMEVRVkU?oc=5",
+      "source": "시사저널",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:25:15+00:00",
+      "title": "삼성전자 노사 파업 전날 극적 타결…22일 찬반투표 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ieEJKRF80ZTUxemlNUGhDQkJ1dmZrUHJWakFjM1FMV3lhOTYyV0RPYkpkVEd5R2Q5WXhrbm01M3dFSnZ5UjEyc2VsaGplQUk?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:23:58+00:00",
+      "title": "삼성전자 노사협상 극적 타결‥노조 \"총파업 유보\" - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYR0p6NnpGd0oxOUVGOXUwMUEyMTFlVk91RFpnalNKSVY4VThra19FVUpSWXRsSUlzVXdHTXF6aHdJSF9GdjJYeDRjMHNiWWVZd3lzZzVGc1VWR1V0eEZMeDZmMmdfWHJvQi03NXhhc0xMS1d0Yzlz0gF3QVVfeXFMT29ranFFcFducUVaalF5bl9rcTVpVGFyTHh0R0VWUnJRY05tSC1oWkFES3RSRnlRSFdRbDAtbHhsSlREYlg5aF9hN0pTNC1NOW9mUG5iU29LTTRYYnlNTWxpMFBOUV90OUgtSkl4clF3WGxldk9xdlU?oc=5",
+      "source": "MBC 뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:22:07+00:00",
+      "title": "삼성전자 총파업 피했다…노사, 성과급 절충안 잠정 합의 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZRjBZYXpPZDhIcmpLS1V6MEtLaVljbUJqaUpDb3pRWEx1d1VJODltc1ByZ2tVTmhyT3h2N2hhV3BXM0dGYjduSy1Pb1dMQQ?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:17:00+00:00",
+      "title": "삼성전자 “성숙하고 건설적 노사관계 구축할 것…심려끼쳐 사죄” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpZmZvQmZ6OEQ0UmF4d0xnRzVRVmE0RUx3Y0ROMFRGMHZhMk5iSHZjTGVVSG5NRHMtWlZiaU1TN0RsTmVLb3I2WWR1d2pBMllHbXQ0ME5ZXzJSQdIBX0FVX3lxTE1PQjQyNFJvLTNzTkFKVzFVcjhycXlSQXV1Y3JJU2U3MWpUWlNrZExZM05ENWVaMk4wS1Q2Ml95WVdib2dkcjEydE1xRWhDeDZYQ1l3aE8wUWFkc0YzZW9j?oc=5",
+      "source": "경향신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:16:30+00:00",
+      "title": "[포토]삼성전자 파업 유보 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56SWllaTBVMlRfVE40cGxWV3REU2Joejc0NWJzdWpSRllPUVg1SURFUVp1X1lybnBjcjNWZXI5c3NvWnR2X3lWZ0VPNkVHQQ?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:14:39+00:00",
+      "title": "삼성전자 “임금 협약 잠정 합의…건설적인 노사관계 구축” - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZQkZtZXhaYm9zUV9MNWlXU2tORVNPeU5BUkdUdXppVlA3SWpwOGdpSld4QXNZTERRaWlUalh0aXdYT0RfN2kzRE9GN3dJdw?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:14:00+00:00",
+      "title": "[속보]청와대, 삼성전자 노사 잠정합의에 “노사 대승적 결단에 감사” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fNDFDNm5HV2ZkZzBJS2ZlbWNrYjd5Sm1UdnU0bWlHbjVkNkJBb0dnN1RiaUREZWJiQ1JMUUplNzJxdkRTNFZWR0FyQTFnYWNSa0hIWHpPQ1JXUdIBX0FVX3lxTE52bTQyWGhNaXA0Q0JMOXkwcko2clA1WU10YVVPVkFtZFlOOEEwRVBGcC02N21yekRNNUk0bFBQOFk1b0E3czZQaHV6c0tmZk5VeC1wdUJ4dEFNU2R6WG1N?oc=5",
+      "source": "경향신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:12:42+00:00",
+      "title": "日닛케이 “삼성전자 파업, 한국 경제 타격 우려 커져” - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tYVpsNTZVZENDNEthU0xvajJSc1dVSERIYldVTGdQS3lsYkpVZVVXWHhjTDY1bmVWa3NzUS01c0NCZTVlcjZ6SGpIVXNMOTd0?oc=5",
+      "source": "문화일보",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:06:59+00:00",
+      "title": "평택시, 삼성전자 노사상황 대응 위한 긴급회의 - 환경일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZTFBtSU12SFdVTlZ2bUZYdDVfTE9fcGp0N0VEYzlQNUF3RkVXTnNuSmdfbnItRE42SkpxbDBjSDNCYmJxeFZEVE14MHBiQkVYTWRheVZpUW1GX0stVXkyY3VWeEx6Z0Rl?oc=5",
+      "source": "환경일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:03:51+00:00",
+      "title": "“총파업 유보”…삼성전자 노사, 막판 자율교섭서 극적 타결 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZV3RJakpQUFVKeVp5a0dPYy1IRU9NWUVsaVd3RURmY1J3VlR5S2tfNHdrUEhiWW9vRWo4cURZeXFfTENTLWhyekhUSnREcnk5MTNZNjZvVzZNS1BXd01PU3JYamtWbmVtVlHSAW5BVV95cUxPVVVYM1BuN0xNN1NRTmdfVnR3REdhY1h0ajlRQmZTdEtoakVtUWZMMkFrWHc2MURlbWdjUURnMW5KWGltQnhhZzJzeWR0U0xmdFQybFhXaG9Id2tqZ2xDOFRTSWVmalhHRnpKUVFsUQ?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T14:02:17+00:00",
+      "title": "삼성전자, 노사 합의에도 '사죄'…\"건설적 노사관계 구축할 것\" - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqVjNSdW9tZGU1U3NlVVJyY3Nka0p6WXI0RGY5SUE3alJIWmx3Mk9INTZBalRoclRhQTNwUzNoa3JKV0loVEgtOE1SM3NIYnczbGFiMW1zeUhsQdIBVEFVX3lxTFB1UTc0QkZtUF9aNThoSFl4M1FUNUZJcDZCZGQ1THpFODVNSXA3Ull4S19iUU9yN0Zmc0pKNmtVdlc2VXNOczk4RVJQS1JfQXBuTmFoTA?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:56:00+00:00",
+      "title": "삼성전자 노사, 총파업 하루 앞두고 극적 합의…노조 “총파업 유보” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JX0gtT2xaMWl6YXJHaDl3UUpRMzdpQnlwOGZFWDZWM0tMTURtSExxdXZ6U0w2WUxnbW1tR2gwa0oyQ2ZnRkFfUnVCWEt2RlhvcVdTZWhldl84Z9IBX0FVX3lxTE5WX0ljVUpGLTkxZlJYOVh4WFFBU01HMEdjUzQ3U0RzWl9TdDhZaVo5TGJYai0weEh0NXNkejM2LVZvN19xcmdYM01maGw4Zmk0Rnh2R2VZY0lQVmFQU1Zj?oc=5",
+      "source": "경향신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:53:19+00:00",
+      "title": "[속보] 삼성전자 \"잠정합의, 상생 노사문화 출발점 되도록 할 것\" - 연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuLWRPaWlBMzgwZlR5WEJtLXdNOGxnLWRpS3dPc2w4eVdCMUlxV3VsTklEanUxbXY3MmlUNUpldjAzNnBEcUVoaGJZd0VJUmxHM21KbXV1R1VXT3lGeFc0UkJMYkxOMF9qVlVwV3hOMGM2b2NV?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:52:29+00:00",
+      "title": "삼성전자 노조 “임금 협약 잠정 합의…총파업 유보” - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zbTZnZVh2aFpfZEM2Q21DS0hIcGh4YnVFaTVLWTRGSUNGZWRwWFByemVHZzVzU3lTYThFZU92QWJtMzk2QVlCZm9vMzNPZw?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:51:21+00:00",
+      "title": "[속보] 삼성전자 노조 총파업 유보… 잠정합의안 찬반투표 진행 - 미디어오늘",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hcDlDTjJkRlRYOHkzQnBRVVpoWmJFNmYxSlR3TVRiejBuY0M4eE9xTk44Vm9mRlNnd0daUVA5cllyVGxhVE9VRV9CekZlY2hweURwcDV3ZTdHdTJMcHlhZjBxai1rakpDMHQ0dXp5VGc?oc=5",
+      "source": "미디어오늘",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:50:01+00:00",
+      "title": "[속보]삼성전자 노조 “총파업 유보, 오는 22∼27일 잠정합의안 찬반투표” - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1talVVenVBNjlGdEJSLXFtUUlmTkw1SmZiRzN2b2wxcGN5elpUcFdtaGhXbmNTUXJZV1pkRnB0WmJxM1lmbHV6OUZhTUZWSEsw?oc=5",
+      "source": "문화일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:50:00+00:00",
+      "title": "삼성전자 노조 \"총파업 유보…잠정합의안 찬반투표\" - nocutnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42bXFHYWYydFYycUdlU255WkgwQTJPWkZleUVGR25JaUFwNGZQTE9KZW1lUUtDU2FVWEhNUDd5UGNwbjl0Z192VmM3UW1xUDh3RWc?oc=5",
+      "source": "nocutnews.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:50:00+00:00",
+      "title": "노동장관 직접 나선다…삼성전자 노사, 극적 교섭 재개 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HNGJwbEN1U1RNX2o4bGVHX21XeUdXV3JSOGxwODVQWFJXckpiNERkQlNnRDZCYkpyN1Y1bi0yZkZkSE1EWEVEVi0xR2pXQ0NqM2lkbzZLSEY2VkJDaXhLd0hXcWg?oc=5",
+      "source": "한겨레",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:47:44+00:00",
+      "title": "삼성전자 노조 \"총파업 별도지침 시까지 유보\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OTXdxN2NTVUJSSC1qQV9yRkNCNG1uWVMyX3JNai1GYnQ0MVpIXy1ObVNMUFk3Q05jZjNNMVdheWZIZGdXTFlnd2J4NXhSajFwb0oxQjdiMmcySUxxVkEwNWxfZ3BCVWZHODUzdWpsMm8?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:39:19+00:00",
+      "title": "삼성전자 노조, 총파업 유보…잠정합의안 찬반투표 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MYnEtS3R3dzdPbXVYeldsRUtBb3VyaGItd2VrSy1PbEQzbmJKbDEyQ28zUVZZUmUwRWZBY1lUcnVzcHg5eVFJSzBKWXhiWHctX2VrRGtRbWNIYk5XZXctcXBaZU4?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:35:29+00:00",
+      "title": "삼성전자 셧다운 피했다…노사 성과급 협상 극적 타결 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vWjhyMHVmdHFtYV85d2NnbTBRYUluLV9PTEZkaXU4YXZYVzBYZDF6SnFFTnBkcnZacy1pdmRwV3JPeTdmNGR1WXRORzk5b2xPXzc4ZTZENnY5QdIBVEFVX3lxTFBNcGxsT3A4cHJIbHhXaWhNX3pPNVBoZVBiZHBXNTczSlREMG5hb0ZTd05fNk9rTVFZcXVxVGRmSzl2WTFJTXMxMm1TZU9TSGFqT0syVw?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:35:15+00:00",
+      "title": "[속보] 삼성전자 최악은 피했다…파업 1시간 앞두고 잠정 합의 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZSEpBV2Z6RmlCNGNiZVozV3FrTTh1UUZ1RFZUVmVmX1BZUWJmU0tKVUpoTndGaVk1VDA3VWFpZk45QU1lblBqMUpSVG1Dc1E?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T13:32:58+00:00",
+      "title": "[속보] 삼성전자 노조 \"총파업 유보‥잠정합의안 찬반투표\" - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oUFdNdFFZc3MwanVkZERxaHZDVmUySXhON0trTkdMS0JMcDBIWWg3dVllU0EtLVAzdW1UdUc1eDY4YTM4OFFINHo0Z3RWaWVYVXplSnBOZkNKMDRUWDNzZ2VLZ1psaU5YLXlucjFwSWpIYmNPdDhr0gF3QVVfeXFMTnRpRERhbE5GQ0s0Y2VSV0F2MWN0RW1xbkJhM0VWa1dRVFBSdDdYallmaWU4NGxTeXZkcGJFSnBtbDlCR08wQzViVmJ5Y3hWZElfUVFtQlg1VzZpN0g5VFMwNU4tU0F0TEJxaEg0d2dDY2VMbjJ0bEk?oc=5",
+      "source": "MBC 뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T12:22:00+00:00",
+      "title": "삼성전자 ‘성과급 제도화’ 큰 틀 합의…“한가지 쟁점만 남아” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZZjAyUXZtUzhja3lzRGFQNHQ1R0szT05pN2t0SHdZZ1lTWDlLNVBpa3pCMEtIRXF3NXJPLUpRNzQxTnFWTDM3T1pBalJvY0VzOG9XQl9tNXo2ZTFYSUNqUHdQVWFUWlF6WnRPNVVDeDYtQQ?oc=5",
+      "source": "한겨레",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T11:52:00+00:00",
+      "title": "[김종석의 리포트]삼성전자 노사 협상 재개…노동장관 직접 주선 - 채널A",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWTzNwbGg1NUEwdXhPZVRKVm15YmJXWmdEeGs5YXZUdXpMZGtveUItSWpKZk1hUUx6QW1GSlhGVDRQQzN2X2g5VmJ3N3VzLXJtT21udExXYTJMT1FTV1HSAWNBVV95cUxOVUl6T2wxSlNVemtmNVdnTFlVVm9tR1J1aWJKY0VzamkxV1c0MTl4SzdHZTJuSXR5cXl3Tzhrd3RybXhBdklPdVVxV0JQYy15SW9raHdSRTNIV09iMkxZdUd0S00?oc=5",
+      "source": "채널A",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T11:47:54+00:00",
+      "title": "삼성전자 성과급 파업이 노란봉투법 때문이라는 주장에 대해 [프리스타일] - 시사IN",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDSUxpY1gzMTdOdlFIaUtiV3h4SmdpYlE2dEtETzhncExCNDVLZXRsd2hjTjFFUkF3MTVFa3pMVFpFc01DSmlfdldDOU9KcE9tNzBXYmpjcnpNM2R2WVdEZi1FdThoRTh3UWc?oc=5",
+      "source": "시사IN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T09:59:00+00:00",
+      "title": "삼성전자 사측 “성과 있는 곳에 보상” - 채널A",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02bkxFNXVCbVdBeHlhbUEzaXQwblRoYnBqNVFzN0xkV2p6NW5lSnZTYWNCUDROeWRYUFJOOXpyQUc2WExnRGRzYlVKVVZhc2VEYnp6MkxUM05mbzRIY2fSAWNBVV95cUxNRjdwNDFpY2JUbmhtczBRS0dEZEpzMUwxTEllTnlkTlQtWGJFbWFIZUNVMklrSUQxQkxXcEk5Wm9NT0Ftd1dGRENEQ1d0MXRRaU11VWk4VWhlZFAyRTFrMFVnRlU?oc=5",
+      "source": "채널A",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T08:27:49+00:00",
+      "title": "\"삼성전자 파업이 노란봉투법 때문? 파렴치한 거짓말\" - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xTzlsQW55YmYwbXl1SFFlamdSUGQzaFlEbHp5VkE4TDlaSnU3S3pDdXIwdFdnN1Bpa19keFo3eXZsZHJIOG1TMkRrRDN0UUtOWmk0QU5FZUx1OUNVM0s2NnJxZnJaTk04SGlN?oc=5",
+      "source": "프레시안",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:52:00+00:00",
+      "title": "노동부 “삼성전자 교섭, 결렬 아닌 ‘사후조정 불성립’…시간 남아” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NNnpLNXEtNmp5aUJGVmtmV3dyUUM3dW1QNVd3OFRMUlhrZXBVOVp6V3MtNlg3bXBJb0d0Y0RmV1dqMHZod3p3NllvNWJyc2cyd1ZiaXcxSXc5S1JsWkdxdWZGSGE?oc=5",
+      "source": "한겨레",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:16:03+00:00",
+      "title": "삼성전자 노사 협상 재개... 노동부장관이 직접 조정 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkZvZU1VSWZTaUJFa3k4akw2akJNdVl6ZFRYdjBEd1l6RmhwWkVyazA5ZGNZWTBubkk2ZWZpVGxuSHl6SVBGWC1tQ0pzalRoZEliZ2s4TUpwZFJBVDN2ZnBlQlEtd2RYVGhOX0FfZVhmZ1hXZU9Ibm9hdXA0ZDlJQUVB?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:08:00+00:00",
+      "title": "이 대통령, 삼성전자 노조 겨냥 \"적정선이 있어야\" - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpY2M1MmxuR1NXb3pmdEhYNHVsd1hwYzdDc2tTNTh2Y1o2V29rUDJ3UHFDSmtGaVVvVXhxS0pYLVVvMzFJeVc5Y3Y2Ym1WN3lBd0kzeXVsb2RQTDJFamc?oc=5",
+      "source": "YTN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T05:55:16+00:00",
+      "title": "'총파업 디데이 하루 전'…경찰, 삼성전자 전격 압수수색 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB4X3hOTHRuMHAwOXFiODhONEpONlFQUDE5d0pndzVUQV9ibVU3LUFoMno4WVg0T3Y0Y0VDTXVVOHFwSkw4eWc?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T05:48:00+00:00",
+      "title": "청와대 “삼성전자 사후조정 결렬 유감…마지막까지 합의 최선 다해주길” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CdlJta01pVl9DbnhOZXVQTW9NTnNJNS1QVzVoXy1RNU1JUTk1RGhlempTVDktdWJrWmJBZlBpalJVZHZxejRqY2stQVRla3RRLWcyNTZYYUE0bUd2SlIzdmJQOW9sbDhNaF80?oc=5",
+      "source": "한겨레",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T05:26:00+00:00",
+      "title": "오전 10시부터 ‘최후 담판’ 삼성전자 노사 “최선 다하겠다” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HX2lfdHZQbHl3VTJfVWRQNjlQcFdfRnpDNURtZmo3UHd2N0Q0c2ZZc0dWbE9mOHdTWldtS1gyWHF6TXNtSnNYWEVuc25jcmtWeTNCT1FZalF3bFBuLWg0Z3JHMk4?oc=5",
+      "source": "한겨레",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T04:26:26+00:00",
+      "title": "靑, 삼성전자 노사 협상 결렬에 \"매우 유감\" - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQVRnbmJqLTd2bHVCeGpHZlAxeV8yc3YyVmVQUG8zQjNJa3hraC13V0NFZ1dBQ1VGS1hmVW1pM3BLb0dFZUtHMlBkMS10TUsyaF81c0hKVmszOFBRVERmT1F3Z0tFMXRVWXNwSkhxaEFfMVFONHFVTkNjNkdtRGZHUEo1MTNWT21faVFnYVJrVUk?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T02:00:00+00:00",
+      "title": "삼성전자, 업계 최초 6K 게이밍 모니터 ‘오디세이 G8’ 출시 - samsung.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQVkpLeDJvQzlNZ2x0Q1J0Vl9UakltbWd2VmczV2gtUERVbGV6eXpBVWtOSEkzUHFkODN2MXV5anVTWEhFandxOERsQ1pLVlplWXpDMEoxSkNSdjdrdmo4N0xrc2VOeFpOWHN3NWlyRWxTQXhMRjZRSC1vTHd5al9sNzVESUl5TzRPbXh6dWg5SFlPMkFqLS1hX1IyRkRVRmVOaXBwN0RfbW11NTVTZjdocnpneVVVU3hmOFBiTUlUMVRHTEhISDBQR2wtOXZrSl9HdFFkdV93RU9ldFMwU0Mta01JMkxDS196QUk2aTJmUjA2YTI5c05icHhfOUVZemZ2LVRiMVYzYzE3UkJjLWg2RUI3WlJMeG90eTJZVktwbnhGOTU5N1BoMVdEVUEtX2dzUVR2bGY5RENKQm1NaU05azNR?oc=5",
+      "source": "samsung.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T23:00:00+00:00",
+      "title": "삼성전자, ‘바로 서비스’ 확대로 고객 접근성 향상 - samsung.com",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQNzBYNjdGeHJqbDZwQkE4SmFnUkdsQzdzc19la2Jud2J6LUFJdDk0eGg4c0ZHZTQ2cFppWVQ3a1RJdlFralBxY3hzVS1hb0J1NGZESjNENzg2LVM4amEzYmliV3VmdXRwbFBROXY5SmozZkdKcG5aeVZ3cG9BMnRlZjdtdFNOamQ5U2R6Ym56bE54ZEJsUlptSS0yeFFiLXNrSDAwTTFnTnktam5BTE9HOGpBM0lTQjhRdmk0OTZEclRyVkhvOGR4eUF5d2UwSGRNVEk0Q0RudFdMRHN2QUNDQklicml4ZmpCLTEzZW9kclMyN1IybVJ1NU9mLXdxMld2U0h0NlVwd3JsRmxQbHM2b0RHMW1IbUliRWFndm1Md1ZxcTBoc2xYNXRPRDdQQQ?oc=5",
+      "source": "samsung.com",
+      "pos": 1,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-05-18",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "count": 79,
+      "pos": 0,
+      "neg": 3
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-05-18T23:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T05:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T07:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T11:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T12:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T13:00:00+00:00",
+      "count": 12,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T14:00:00+00:00",
+      "count": 40,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-05-20T15:00:00+00:00",
+      "count": 14,
+      "pos": 0,
+      "neg": 1
+    }
+  ]
+}

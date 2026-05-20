@@ -1,0 +1,955 @@
+{
+  "ticker": "012330.KS",
+  "query": "현대모비스 OR Mobis OR 012330",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-05-20T15:51:38.762942+00:00",
+  "items": [
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T09:38:20+00:00",
+      "title": "울산 북부소방서, 현대모비스 수출1물류센터서 민관합동 소방훈련 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQVTN0QWxObFJVRVYtbDh1RjlUUnk0Sy1RbjUtY3lIRDJ1b1M2QUhQYWVsQ2c4OW1YQXB6YVhjWnNKTkt1ZDM1YnptMThTMDliMEw4aEFSM0oyWDlUN3hpNGxpZ1NxRjY4UTZneUxwdXhxdw?oc=5",
+      "source": "웹이코노미",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T09:27:22+00:00",
+      "title": "현대모비스 램프사업 매각 ‘1차 고비’ 넘겼다…자회사 노조 파업 종료 - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4OGlUZjIyUURFRXp2eXZuZDdFV2t1Z2cxMHFKLUZmVnpQWkdUU2FKYmpCMFRvS25kOTRhbVZpcndwaEtzUExDTk5vcUZCck5vSk5JQnJMS0ZTTlV2eW9FM2NLaG4?oc=5",
+      "source": "MTN 머니투데이방송",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T09:12:30+00:00",
+      "title": "[현대차 사업재편 가속화] 램프사업 매각 시점, 연말 못 박았지만 곳곳 갈등 뇌관 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tR3d0SkZSZ2g4VWszUWpiQ1hZZDc1TFpEQzRndHpVcXZUN2lZNXU3VVNpVEkzTjB2S2R4Z1hRSDlYNkdtRzhMNVhzbkxsWUY3el9Ndld1UGJrUdIBWEFVX3lxTFBXTVdLS2ZpS2kxSW1nMzNHck9vQTNDOHI3NXNvdV9Ib0FTWm5RUXFCT0liYmVaRWFHLUJocUo1VGM4c3AzekVDZnc4elV5bElrMklOX1hENDQ?oc=5",
+      "source": "아주경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:20:00+00:00",
+      "title": "현대모비스 램프사업부 매각 갈등 일단락… 노조, 23일 만에 파업 종료 - 더퍼블릭",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sU21yTkw5S3JwU2M2d3lYeGtmeTRjU3pOM0VpUE15LTJPWDdwYWhoQmdhdHdGeTRfVXlaTzNYMnhkRS01Z2NXa0ZrS2s4T0ZSa1VmTzlfdDJycVAtOXlPM1N4Wnl3Nk9OQ0E40gFvQVVfeXFMUGd4SUZ3NTVpcUJvUEVJT0ZaOG02Y21kREdySTBVWTdrZ28zMDBrZFcwZFpLMG5ZcWZJTTc1OHRBZ0oyQnEzYVhPYmJSQ3l4dXhxN19vYXNwRkcyWXdkSTJBWTlDT2IxSURWUXdHV2lR?oc=5",
+      "source": "더퍼블릭",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:19:59+00:00",
+      "title": "현대모비스, 美실리콘밸리서 로보틱스 동맹 모색… \"하반기 신사업 모멘텀 본격화\" - 비즈트리뷴",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBESjRrMmVWUzBZZDdfRF8wMXF5clYxbzYtOTIzZmdhbktja2pyMWhPX1QySnB4R1pOcUhsaS1YV1VxcjlvakFDbkpFNU9fV2hjc1hNUUYySGNMalBtc0VmZ1pKTFQ3NENLemo1V3dhWF8?oc=5",
+      "source": "비즈트리뷴",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:52:46+00:00",
+      "title": "현대모비스, 램프 사업부 매각 ‘탄력’…자회사 노사 합의 도출 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wQ3k2TURRd0I5UEdmSEk4SkV3cS1ZOGVld0M1dzRRd1pxWDRTV0V1TGhvNEJxaWg2ektfX1hFRlkxMy1UeHNOYVRsNE51MVFGeGRoUDdubEp3LVgtRWg2REU2Y1B2T09qbnhnSkVR?oc=5",
+      "source": "아시아투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:50:00+00:00",
+      "title": "현대모비스 '램프 매각' 매듭 풀리나…노사 처음 만나 '쟁점 의견 일치' - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrQ2lXME45RlFGUl9fMi13NXRYeHdZdFJZN1BMaHVwY3BTZTVDRjFHblNjenM4R2t4ZHI4MHFzcDhubExpcXRoSGJIZzZ4ZzhzcjY4?oc=5",
+      "source": "네이트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:48:44+00:00",
+      "title": "현대모비스 '램프 매각' 매듭 풀리나…노사 처음 만나 '쟁점 의견 일치' - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMFFTbTlMci16TUx5QTNxeGcwc2xTaEIydVdQcFZ0Qi1kT29kM0lxRzNpaEdtZ1pad2NNQUNjdFhrYkdnYnlyaXJ0VXJHOUFiTmVqZDhSbFlxajVjS05Bd3luLVNROUVoSnFzWHZiSG9uYjJrME8yMEZCd1VoeFFQMA?oc=5",
+      "source": "이데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:46:35+00:00",
+      "title": "현대모비스 주가 10,000원 상승 후 장마감 - 아시아뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UR25WaFM3WXpTdF9tZGNjYjE4VW9EclBmV0U3OURxOHE3b2c2VF9SaVFmRVE1YXRWOXBUX2JrM0xWT29uLWpuNWExX3dxdUphbmZnWGFmZXV3T2d0QzBvNEV0WTRDUHR2dzNPUHpqLVAyb1hx?oc=5",
+      "source": "아시아뉴스통신",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:42:58+00:00",
+      "title": "현대모비스 램프 갈등 노사 잠정합의… 고용 100% 승계·3자 서명 조건 담았다 - S저널",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3bUpWNlN6UWdUZjdqSDNuZlJJOGhCWkFXckRCazJWWGVNZElJN2gyWjdVbjV4UVpDZ0FtVHliTFVKRk1UODNYc1BDSDNLbHUyU1VOcmNmUDlVYi14c1hfUE5WVDJydHg5VVZtWWpn?oc=5",
+      "source": "S저널",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:34:00+00:00",
+      "title": "현대모비스 램프사업부 매각 속도 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wM1I1QjJzR04tLXJJZjdodm1lVC00RHFEZ2c4eXNIaG82cTNmLXBGeGNkQU1GV2NaYkdoaXJOTUxkQnQ2Z3pIXzRzY2xrZGR4bG9n?oc=5",
+      "source": "네이트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:24:19+00:00",
+      "title": "현대모비스 램프 매각 갈등 봉합…현대IHL 파업 23일 만에 중단 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BdGFMNDRNTFpNQ0kweDZwU1dJV1FHa2NOaFU0b3BCaTRCUWNGMm5nZUE3T0lGUkhNdUEtbHMtZ2JfT1ZYM1BidnNyc3dHZkpuMmVjTmlB?oc=5",
+      "source": "지디넷코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T05:55:03+00:00",
+      "title": "현대모비스, 아틀라스에 핵심 부품 공급…로봇 영토 확대 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00XzlnLXMtc1VrR3lmb1NSZmZzazhqTllVNGJka1Q3STdoeUlneS1rdWx4NDJJbWVwQ2p5RDlJSTVkLW82VkVfYjd2VzM?oc=5",
+      "source": "아이뉴스24",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T05:13:35+00:00",
+      "title": "램프 매각 합의안 통과…현대모비스, 사업 구조조정 속도 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzckE3NGE2NlhYblVUVUROZU01Vkk3ay1VODJueXVBdHZIREZnaTR2YUVPbDlCaHp4clF2VGNOYUdIQm1QbDEwcVEyaVJiTlkwVDBFUHBn?oc=5",
+      "source": "헤럴드경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T04:12:39+00:00",
+      "title": "“실리콘밸리서 로봇 동맹 찾는다” 현대모비스, 피지컬 AI 판 확장 - ER 이코노믹리뷰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGcWk2cHhOandyajFEaGtDbjM2VVRrSmE2UnY0OEFGUGFfYi1hSV80M0JiQUhYaDRud2RNNm16ZGhieEdwTUV3enNJQmJyMXdsOVpsQUdfSlZuamZvYi1FczQ0Z1J2R1BLZl9rYQ?oc=5",
+      "source": "ER 이코노믹리뷰",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T04:03:14+00:00",
+      "title": "[0520시황레이더] 현대모비스, 보스턴다이나믹스 핵심 밸류체인 분석 등 - 인포스탁데일리",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90VnhtZEkzOGQ5RDB6QjJ1czlMYUlOS25TaTlDdEJteVNsR3JQNkFJT1lWai04dzZOLVRhdFZ3UnlfdFlrMGdDNzM4SXVrLTcwYzljS1N3TGVmelZnODZETTJZel9CVjE0ek1PTlpWV1NqZXhhQlE?oc=5",
+      "source": "인포스탁데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T02:55:22+00:00",
+      "title": "\"본계약 멈춰라\"…현대모비스 사무직, 佛인수사에 경고장 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWNWdjV25pUDJ6c1V0YlVORWF0UU1tUU5QdzFTSFoyVlh1Q1R0MTFrRnhYUE1yaWFWT2JwSlhsU0E3eGpMcDU3b1otTExFTEE?oc=5",
+      "source": "v.daum.net",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T02:39:57+00:00",
+      "title": "\"현대모비스 대표도 서명\"…자회사 노사, 매각시 고용 승계 합의에 파업 종료 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ET25fOXQ3QndCdlRmREZoT01Sckg5aHQ3TlpFZm5LeUJFRE5Yb21ZbXVMN3RVOGt0T2RjU1BiX1dxdDhyUDliSkhEQkdFdXYxZEFCcF9xczdubVFZVElpONIBeEFVX3lxTFB4TW1uS25Md0d0ZmZOMWw0ZU9qVmd0UlJrZmhNSTdZTjBsVHRlSlF3Qks3bUNZdmh5b3hxbUlsR3Mtakc4WUZEaG1ubG5MR1NQUlZTRy1IRFk3X05jVzVRbE1VZ1hfc0NFb0pha1dLeXM5OWQ2X1Fsdw?oc=5",
+      "source": "뉴시스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T02:02:00+00:00",
+      "title": "[특징주] 현대모비스, 4%대 반등⋯램프사업 매각 두고 노사 “큰 틀에서 합의” - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzUXBuT3huVEx1QTFaMG5DbFREdzRnMVVRSUtlTFVGYm5MRko1Yy1vNGphYmNfTXVYMHhNTWZLN0lKUDllWFQzeFA0Q0FQdzRsLTZfWA?oc=5",
+      "source": "이투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:37:59+00:00",
+      "title": "현대모비스 램프 매각 갈등 일단 봉합…현대IHL 노사 합의 가결 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfbFZUZ1B6RGo1eEE2dXlqV1FMTmJBNkU1SDRVYTJlN0plS21EUTR5Tm1sTkJWTlJOWm5wTUJfbkk2dXYwWWVNVUw3R21Ya1ZSUmdsS0JxajJxSjhTS3c3R0VjV3A?oc=5",
+      "source": "디지털데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:31:47+00:00",
+      "title": "현대모비스 주가 상승...美서 피지컬AI 등 협업 모색 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tdjZKRml4a1dpYWlpa0s4TDVwME9ITjdPTHBuV0x5NUE4d2M3NnF5enU4SnFzSjFNRVAwM19CX0Vfd1lsMlVIdmNjYzVUUlBlTzR6TUE3ZFp5SHh4dG1BcTFrT3U2UXlpaWNaUGxn?oc=5",
+      "source": "gukjenews.com",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:05:53+00:00",
+      "title": "현대IHL 노사, 현대모비스 램프사업부 매각 쟁점 잠정합의 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LYjBSZE9zVWstM3ZVNnlmQlQ1SU5ya05DaXU1RUMyZklDNTJmR1dSblhXWGZQTndJLVRkTGZEN2tZMTNtNVlWeGNVWUI?oc=5",
+      "source": "아이뉴스24",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T00:37:00+00:00",
+      "title": "Hyundai Mobis, 램프 사업 매각 고용승계 합의로 OP Mobility 거래 속도 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEptUkFiZUFzemJmRWdBWldGYTZ3NzJWMW1NaWlyc3hqN0swTXBUUE5uREN0OFVVTHN0MndLa29vR3N2NHM5SzlXTUR4SzY0Wi1nVGszRkZ1YmkzNUhhNzN4TE5raDdVQzJadzNPMTZueFFacER4amE0bWc2ZnN0VWpDWUFHWS16M3dqNkVqZHc4RkJQczlyUUxR?oc=5",
+      "source": "Traders Union",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T22:30:53+00:00",
+      "title": "‘100% 고용승계’ 합의안 마련…현대모비스 램프 매각 갈등 일단락 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05Smx3ZkxHcndoUjhpUWZsbmt2UUxLMVNYT0dxTzlFUF9aVWphUjAxQkhsMVhXMUptZFJZTk1XaVBnZTExcU9MOGRNcWN3Vm5sSGZrUG5R?oc=5",
+      "source": "헤럴드경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T22:09:00+00:00",
+      "title": "현대모비스 주가는 높은 변동성과 가격 조정 속에서도 견조하게 유지되고 있습니다. - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM3VkTHo0YXRwWXNDck9EVGFxUXM5dm8yRERhSjV2bUE0cE1pWHlsNllsdGJPZDA5S28yODhnaWZjQmtEWUhiSmZLYlQ2bHViSGU3WWFwblYzak5tcV9XQVJqZUNOZU15eE5jY2ZnRTd6dUtSTHdWNGF5Y251LVduMmVyRzFRZkxMQXNZeDFzWHh3SjExUHFabzN5RmI?oc=5",
+      "source": "Traders Union",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T21:01:00+00:00",
+      "title": "[클릭 e종목]현대모비스, 피지컬 AI 성과 구체화…목표가↑ - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHQWZhbkJCQmZUT1VSOE0zRnJlOUx5dGprUGFlb2t1cEZlTG5icnVKaEpkT0tmV2dQR1pYTG1sWnd3T0Y0RFVmYXltb0FQVjZPdmJMelZ1YURaVVE2dm9odg?oc=5",
+      "source": "아시아경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T21:00:00+00:00",
+      "title": "현대모비스, 美 실리콘밸리서 AI 영토 확장 - 세계일보",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81cy1PNGQzb1hHY0I5SldYcmFnNURMNW9MdEgyenBjd1BZYnl5ZmZzQ0Q1VHNyOUp1UTBMcWtBbjJ6MV9meXBTVkZBMDZ1UGVORVNxb0ZYLTfSAVRBVV95cUxPcU5pVE1UU2daQlk0WVpOckpkaERtWFpOMFJjQWxmT2FtcTE5Q0Z6dkx4N0JmLWhweEZrNGI5Z0NmOGR6aGxkMVNCZkQtSFdtbUJ0b2k?oc=5",
+      "source": "세계일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:53:00+00:00",
+      "title": "오늘 현대모비스 주가가 오른 이유는 무엇인가요? - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1h5R1MtdDNIUXFXTkczZ2taZGdaTVFhclhzTm0wZkRMWURfWkJ1RmF3eHpieVdPejFGVlVCV01vQ08xa0dySGJEbEdqT2UwMTk1b0pRQTAybXRGOUd5a2Z2aWtzWExYdkRiYlo2R2gxcEU5cjhpU04xMHNVdWpWdU1kbTlBZWo4UWl4NFNGREVVemlGaWFkLWZrNzVvZ2lnS1E?oc=5",
+      "source": "Traders Union",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:20:00+00:00",
+      "title": "현대모비스, 부품사 탈피 선언…피지컬 AI·로봇 액추에이터로 '테크 기업' 전환 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnl6ZFZwZEFPMlZnWVZlSG9TelJkMWRwTWpVaFBDd2tBX1NQVTlCR1dpeno1WFVRaWM2elRMVGpZUmttUUdEVkhZRl9hSE1Qa0MtblRHd00tWjBUcVVlUkUtQ3B5c2V3bTUzVmJxWDgtWlpZRG9rbEpmMS1zUnFhcmV1RW5NMWx5?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:12:27+00:00",
+      "title": "현대모비스, 실리콘밸리서 미래 먹거리 '로보틱스와 피지컬AI' 동맹 총력전 - 다나와 자동차",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pcUg5czFFekdhV2xQb0h0dndsYm16Skd1cW1zQVU1TkxVUDBKa3JSWWZib1lxbUlDc2NicHZobkRLenJMc2RLTFMyeUVGNUFBai1hLXprVVViVE9zVkNhcjlCNnM3TnFIS0djT0VIVW1Kdnkwek8zVmlR?oc=5",
+      "source": "다나와 자동차",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T08:32:20+00:00",
+      "title": "현대모비스, 실리콘밸리서 로보틱스·피지컬AI 파트너 발굴 나서 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6NE9KQ0E4WjFGb0lFU2JIQ3FzU1BNMnJxY3otZm8zMTRtN2JYR293T3pBU0dacHlmdGNDY2RXd3dQOGJRd2F5UHlNaHdoa184VExoZDJHOUdfbXpvSHN5U25YLVAzNWxQUTk2UEtFNGTSAXRBVV95cUxQUWg2RVlPZFlhbHpmOERfS05YMEM2WUNwT21MaXdydlVLVWRmRFhJVUtPaUxFdmlWWXo2RWdEa1BMbUhmWUJiRGthclU5WW1kamZTcE5DVml1R0JSRk51SGxkZDZ3SGMyb1VlUjdreE5ZakozXw?oc=5",
+      "source": "IT조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T08:03:15+00:00",
+      "title": "실리콘밸리 두드리는 현대모비스, 피지컬AI 파트너 찾는다 - 뉴데일리 경제",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nVmUxcVJMNGdPV2xqVDdleGpPVnNmTENNZUFFd2xpMF93aXJZMWdSVmZSVEZyWHYzSndSWmZDNE13c05YdW9ZeVRmZWdVc01VUkhQcVVBQm9vXzh0X0tMcHJoT2NTY0xZRlRtY3BIa0R6Mzc2ekU1amNvQQ?oc=5",
+      "source": "뉴데일리 경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T07:46:37+00:00",
+      "title": "현대모비스, 실리콘밸리서 ‘피지컬AI벨트구축’선언,로봇관절까지 도전 - 피치원미디어",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LRkRlWEFoaUR3RGdQTGlNV05Yb192b2x3SjRFSVNOaE1CcjJsbzNYSk5oUXpXcEpVQjRoellPcHFiM3c2TW1B?oc=5",
+      "source": "피치원미디어",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T07:37:12+00:00",
+      "title": "현대모비스, 美 실리콘밸리서 로보틱스 분야 유망 기업 발굴 모색 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3eXBPLU9WRWJzaUE0N1BMSlc3VDBYeTJLS2FXM2dhek1QMy1YQmNQLWhRbjB3dFBEeHlTZjR1ZkRDOEpuOGcwc3lEQXpiNEl6OWpaWmd2Yi1lZ2p1LV8tSklZUVQ?oc=5",
+      "source": "서울경제TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T07:29:31+00:00",
+      "title": "현대모비스, 실리콘밸리서…로보틱스·피지컬 AI 판 키운다 - 이지경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZHZTa19SZEJ2TmN5S2IxLVlNMExoY0dhNDYxX1Fnc0VsT0NXN2VUV2czYWhvaVc0Qm8zMTNfbmpXUjFRRmU3MXJjcEhoT1BETXZrWXowVGJ2aFAzTE9NQUN0ano0cFpaVDVQYUln?oc=5",
+      "source": "이지경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T07:18:41+00:00",
+      "title": "현대모비스, 로보틱스를 내세운 ‘제5회 모비스 모빌리티 데이’ 개최 - 라이센스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQRzlpV3d3N3pVajk3V1hPTUlLYzJBZWZYQTFXNWNDVkNvLVpONDkwb3M3OHhFd3owOHdvNkNTS3NfdG5QT2E2cjhkd3piMmVrX05lVWNUSmpTcGlUajFCMldnTjZzaUsyRjRR?oc=5",
+      "source": "라이센스뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T06:33:43+00:00",
+      "title": "현대모비스, 美 실리콘밸리서 로보틱스 협력 확대 - fetv.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsNnJ5ZEpGeG1iSUU1Tm9UTnpjekl4RFg5WTNQUHdVZXhoZF9YWndZX1drZ1E2WHV0dDhPai1XeHhBYXlVVGw3WnlHSmxKbmJLSWZWMzhMMVBEVkdrQ2RvMnFlOUlacy1C?oc=5",
+      "source": "fetv.co.kr",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T06:29:25+00:00",
+      "title": "“실리콘밸리서 로봇·AI 동맹 찾는다”… 현대모비스, 미래 먹거리 선점 총력 - 매일산업뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56NzJNUm9Xb0tmZFZ6Ujlsdk9YMkdxcmtTNDc1RDV0X1FieW5EdmNlUjJxYTlvSmVZMjZ0Nl9JX21lVUVILUN3NGF4cm1TYmtTR0RsVVE2Q0tCRXVMODlfR2g3dw?oc=5",
+      "source": "매일산업뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T05:57:24+00:00",
+      "title": "현대모비스, 美 실리콘밸리서 '모빌리티 데이' 개최…현지 파트너 발굴 나서 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lWGJUWlc2aGxrOHByaUN6eENPWURQZ085RDkzcmppZXpoN3U1SE9QZnkwSGNqdmNULXVqUHRJeHdlQ1lBbEotVEkzOHI?oc=5",
+      "source": "아이뉴스24",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T05:39:00+00:00",
+      "title": "⑩현대모비스 북미 사업장, 美 공정근로기준법 위반 소송...집단소송 확산 가능성 - 아시아타임즈",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrdHJ3TnJrQWs1MDNvZ3prdF9KOUx4SGQ5Sjd3OVFxeDBsNU9HOVV3RGwtSVFaVEh2U29NejFkZjVJMGpGOTJQdlExaEpaQTQtbkFLSkVhcXNMS0t2RHc?oc=5",
+      "source": "아시아타임즈",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T05:18:19+00:00",
+      "title": "현대모비스, ‘로보틱스’ 등 신사업 영역 확대…‘모비스 모빌리티 데이’ 개최 - 백세시대",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XRjRfQk9YdzNTUHFpXzh0Qy01SE9ULTB6bWVRZG5aazE3bDFfTHZWTmlZMXJKY1h5Z1ZqckNuMUNkSlg4ZXFJVFF2X3kwZU4xOGR3S194OGQwVkU5Ni0wUTVUQTZlMko0TjVV?oc=5",
+      "source": "백세시대",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T05:15:00+00:00",
+      "title": "현대모비스, 실리콘밸리서 피지컬 AI 미래 전략 공유 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15QU5jclVhNi1GNjRIbjg3c0YwV0VsSzA2S0wxbmhwZktYVlo0SEM4QU9jUDd4Mm9Bb1g4Rk1KNG5RZ0RfZGlnMWpLZER6TmxrakMtSXhEQTZ2aHpX?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T04:56:02+00:00",
+      "title": "현대모비스, 실리콘밸리서 로보틱스 협력 확대…피지컬 AI 생태계 공략 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53TF9sT2NJN1lGQUFOY01jR3hXN2dPSHB0QnBCUmJPUDhsd0poSV9tV0pxbE14NTdQMDU4QU83cXRvUkhJc25ETTJJbDdNUWE3X2c5blo1cjFZSGlpUFo5NkVXeVY3VXV2UWFuRHJjSEk5c2PSAXdBVV95cUxQQXN2Q1hjSXBGUnBLNmd2M21zWVdUTFlBODNBT0N4V0c1NHpoSV8zTVhuSlFnRWdTS0Q1Y0JaZ0VScHpsTW92TGsxVUQtVVBNRHRNYkRrTm9EYXA0ZTZlcVVyRHpCY3NlQklQLWhnRlhGbEhueWdZYw?oc=5",
+      "source": "핀포인트뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T04:14:30+00:00",
+      "title": "현대모비스, 美 실리콘밸리서 로보틱스 파트너 찾는다 - 뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TTUFWMkNoTEVzclFlOXAxTEVlanIwaFFwY1BHWWxHaVVnMWlJWExKd0ozYmMtalJuMzl2Ml9PN3VhcVVDWkozZUxCdmlTVm4yVDdTaF9lU2hYeC1WYnVlZU1PQWVyOWV1YUlISjVfWdIBc0FVX3lxTE1KVlhVRkhYU1E0XzhjdHNpazF0U0JWLXdDdm1ydmVaOUUtZ0VtVjhUUmo4dktaNFlObG9yam5jOU4wQXdfQ2hubGFKbVpPTWZEb054dExYYW1ORzRGV016aWVPS3dkZ1lFLXhESFpFUW1JU28?oc=5",
+      "source": "뉴스웍스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T03:57:29+00:00",
+      "title": "현대모비스, 실리콘밸리서 로보틱스·피지컬 AI 협력 모색 - 오토레이싱",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XSjQ5OU4xYWx0eUJvMEZYN0RiVHN0UXpPZDduZTBlZ2o2ZXNZbko2Y0VUT0R0aTBYYWI4TkszdEtqd3g3d3JESGhEbFMzNEtOT0EyQ2pVaEtFVklKVVhMZlloSmFhd3E3MjRMdFBwRQ?oc=5",
+      "source": "오토레이싱",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T03:11:27+00:00",
+      "title": "현대모비스, 美 실리콘밸리서 '제5회 모빌리티 데이' 개최 - 교통뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SUjQ0VmlRaUlkbUtRM0s4N0ZTQTNHTW9wYXhfbUFtNFZGd1lQbmhYRDgtdFd3VEVIcFcwYmZIekIxanJZNnBROUU5dlpxOUVqTFlNbE5Pb0xOQjRqeGF5czZrYjJ4LWp6UDlLSg?oc=5",
+      "source": "교통뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T03:08:50+00:00",
+      "title": "[이슈] 현대모비스 램프 매각 파업 22일…\"교섭 테이블 나와라\" - 오늘경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83MnY1c3JESm5PUUw5VHdvQi1PUEIwVF85cjd0N29xTXBhWDNybnEyVWt2dUdBTUstSW1PUGhYMVdGV0JtMnlpcnhScjlTcnpZRlMya1hBTVhhOEIxcW8ySk1GeERtZ0RRWWpsNXJfWGVLWms?oc=5",
+      "source": "오늘경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:55:57+00:00",
+      "title": "현대모비스 \"글로벌 로보틱스 생태계 구축 나선다\" - 현대경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tbHVkRkdCcTEyelhCYm5kQVJUbGFMcXhrWjB6VnlEWHpuVU0wckhzWXE3Y2xQZ25NdndTUHlKb28xTXFZdEJ0VXlmbjViSGlRaUY3ODZNcXlBcV90dkdKekQ5bFU5dnM?oc=5",
+      "source": "현대경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:32:04+00:00",
+      "title": "현대모비스, 실리콘밸리서 로보틱스·피지컬 AI 파트너 찾는다 - 뉴스퀘스트",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40d0IyaDFXZXZOcDItUk1rRVJYN3ctSllTSHhWLTlNcVMtQzBwb3V4SkJrTHpRM0xJUElkMzdXeVZLVlZ0dmRtVi1uSmhjVkhCTGFnclllaE1yMlN3Z2c5LVhfZ0duSDBkRHFzRjhFNNIBc0FVX3lxTE1GWlZ4dkF5X1BOZUZMbUdPNzBJc3dPU1FSa1dPVV9vZENqT0NUbENLYTJhOEoyWGhGRWs3STlhNHl5WnJLTy1UNVIwWnZKaFF5LUdfbHFpRmFaU0FCUjUwLWNfdlJxNDZka21ZOU1JbFdUS2c?oc=5",
+      "source": "뉴스퀘스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:25:56+00:00",
+      "title": "현대모비스, 실리콘밸리서 로보틱스·피지컬 AI 협력 확대 - 산경투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ock0wUVpPM2x1LXk2NVEzLWl1d281bDRFdjJWdGNpeXJrLVhhRVFBUlFvT1Y3ZDQ2LXBtbFh2SUJTT3JybXd2OWJvdTZYYVZuMmZESEdYbS1JRlNBQnhLWUZzUmMtNEg4V2ZyREh3ZHPSAXRBVV95cUxNNXota3lXYlQwdTcwdHhJNDM1cDVyWXpZdkJXRXBlT3JnWjkzMFY3dG9tbW5iYVkzX1ZPNFlPZEhWR3h5SXVEWWI3eHMxbjZZQllUUVlBQzU5aWhBWmtaNE0wMTZvb1p6ZWNCNXNBWkEyRXVJRw?oc=5",
+      "source": "산경투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:20:25+00:00",
+      "title": "현대모비스, 美서 로보틱스·피지컬AI 스타트업 발굴 가속 - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByN3BHSHBQNWVIWVRVVW5uUmp2Z09fTnhUVHNSdjBYRjhVYWZCWElTTWxRcUp0R3hSVi1XVWtzMWhOMFJQbURjTXR6TmpRRFFkdjg4UHZCZ081amdpX2d0d2dtYWp3T1N3SktN0gFvQVVfeXFMTlNxQWNNb0l2ZUVrN2dOc0RCNHVGTHgwS1poX2JBX3JyOGVNUFVydml5THM0bnhzMENnQjRZZ0dVVlpvWmRRc1FPSU5ZY0RURjkwM0FIQndIM3hvTEpya2JpQWxZcnh5azBoOWM4Y0lV?oc=5",
+      "source": "한스경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:13:25+00:00",
+      "title": "현대모비스, 美서 '모빌리티 데이' 개최…“로보틱스·피지컬AI 협력 모색” - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXTHVSM3pIRGhOMG5EdWhqVnNYdmFOY3RzM3dFTmpZbENHMUY2b3ZFUUNCNDZxRlFyRHVpN3A4UlY0cEJMTFpWaWhib01DZw?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:07:00+00:00",
+      "title": "현대모비스, 美 실리콘밸리서 로보틱스 파트너 모색 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96RkxlNkNDcnpuZXVmUFlmaVlCc1p1MUJVWnB6R1VJYzBjWGREeHU4LVZuRTdXYVlsNzB3alBfWExnVlAzUUxibnhZbERsR2JxdzJGMzZ4dl9vTE1UWkFJMFZqbmE0YmNKQVFmZUpUaFBOWG1Cc1JXVFdfV3FCTnPSAZMBQVVfeXFMTW4zU0N6dEJxeXlnQUhkMmpJYktCVGVLMElkLWU4aFBLY3l5aWx1TjZfSmhnZTNzU1R3WE9fT244SS1UcU1INDJPTDNLUWd5ckpMUGVjdS1nSjNWVjljV0Rmc25jR2pLendCQkozQjJkYVZTcFRuTTliSWN1MjBVeVNZQnlsTXRWaHY1OTJTRExySGNr?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:05:00+00:00",
+      "title": "“로보틱스·피지컬 AI 신사업 경쟁력 강화한다”..현대모비스의 전략은? - dailycar.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3RGxJZ2hCT0VIVDJvOGtnSEZBT3NuSmFZcUVjczhnVVZiSk51amlOUnFrWUlmMHV6RUgxUGpkZEszalJacnlxOXFvZnZYeUtYZ2FBVE9ldGc4VWRTYkd3T191MEh0Wm84NzJ6LWhGV1FKV3JJZ3c?oc=5",
+      "source": "dailycar.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:02:03+00:00",
+      "title": "현대모비스, 美 실리콘밸리서 '로보틱스 기술 동맹' 강화 - 더트래커",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02YThJdjVmNkNKLTVMSkZkcVFzT0pKTTN6VE0xM0lLSXN6X2x5Ml91Ylo1Z3ViMHFnYWtjWk12dDBWUGRrVnNORXdmdHhheUs1dHMzNmhmZ3U?oc=5",
+      "source": "더트래커",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:00:18+00:00",
+      "title": "현대모비스, 美 실리콘밸리서 로보틱스 파트너 찾는다 - 대한경제",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KQmZBZnVTbHJwT2haaFBCRHdoZW5oRy1kdkNxN1BVMzRvSGcyTk1hZFF3UTU1ZWVpLTU0MXJfOWdjVUlsQ0otVXp0SkVGRlV5bHdtMlM4QkZZSWswVEZWajBFQVAyVHJkRUJsUGZEbzhILTNL?oc=5",
+      "source": "대한경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:00:07+00:00",
+      "title": "현대모비스, 美 실리콘밸리에서 '모빌리티 데이' 행사 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tR0dFbWRlQ05KSzlVVlF6T2xwUVZZcHNrbE5nLXByNEZXR1pCZWVOeW5sM29YX3ZYd0ctbDFlN2FLd3N6MnZkblktdEtXTnZjZ3FxMlFNSUhyQdIBVEFVX3lxTE41YlRLWGw5cUR3QnZ5dUFCdWZwTXJDN01OZ2NFd2lwS1NfV2FDcDd0X1FEQjlJcDRaVURTZ2x5SUxYWFY2NWxLVF9xaHQzZWZ0RnBCcA?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:00:05+00:00",
+      "title": "현대모비스, 실리콘밸리서 로보틱스·피지컬 AI 협업 모색 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xWXhPUU1aNkpzNlNfWWUwTVpwcUVwRDlrakRhR1RGLVVhc2xvMXVKQnFKcGVCNDZtYWJjQXBCaHJ6RU0xSlkzUWh3ZTVZaW01S2ZJLXhfQy1jRTFBZXFIadIBYEFVX3lxTE1xWXhPUU1aNkpzNlNfWWUwTVpwcUVwRDlrakRhR1RGLVVhc2xvMXVKQnFKcGVCNDZtYWJjQXBCaHJ6RU0xSlkzUWh3ZTVZaW01S2ZJLXhfQy1jRTFBZXFIaQ?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:00:00+00:00",
+      "title": "현대모비스, 실리콘밸리서 모빌리티 데이…로보틱스·AI 동맹 강화 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5INnFrcEtCU1JYQjhoTWxkcFk3cElYOHJnMWpOempmTmtveGV6SWZlQjRsdU1FMDVxVGxCNXdWcWNiVEJTbkRmQUVyZlMxUWNJcktNSERyNjJfSG5GMXZZdw?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:00:00+00:00",
+      "title": "현대모비스, 피지컬 AI 협력 넓힌다…실리콘밸리 집결 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hamhQU1Y0VDlXMzVwSHlWbVJTeG5CMmZScVBuUEdXWEctMWlCTHcxVy1IbVB4REFGanVKbzhrLUdMVnVudTZMcFl4M3FvNlY3d0JzeDNWZGNkSzVxcmVJY2VXbFA?oc=5",
+      "source": "디지털데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:00:00+00:00",
+      "title": "현대모비스, 실리콘밸리서 모빌리티 데이 개최…로보틱스·피지컬AI 협업 강화 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtcWNral85TGJzUjhkajJQNmJwYUdRSU9JVG5yb1F1Rk1sZm5kQUpHUXh4Vkx2Q2JXenh5Q2Ytalo2QUR6YVllLXFnSV9HS0djUGfSAVNBVV95cUxOXzk1em9Jcm5ndEpyNFpfbVVxajNqMERqMFVyQ2EwNklqQ3V5OUFIREtPZ2RMSXdFbngzT3ZjazJGOGF0ZVE3d2lJY3EtMGMwSXh4OA?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:00:00+00:00",
+      "title": "로봇·AI 판 키운다…현대모비스, 실리콘밸리서 미래모빌리티 파트너십 확대 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Uc1VENVp5bFpSZm5lWkZTeENSQWFhRUwxMWJlTTJ6eEVUWktwdlhsQjRqd0Jid2FiMWNQZEw5WDdNamptRVZ4bnhMLWI2ZkZ6VDNybm10WUFJd9IBWEFVX3lxTE9Kb0NUbUtISXlCVU10XzNIeU5QeWY0Y3dwT2hOZWY0YmpzQmJxZjRuOXNNRlZ6N3BVdVhyZTU0Ty1EdTdMV3A3NDN5OExGdDY2S3VxNzBVWUE?oc=5",
+      "source": "아주경제",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T02:00:00+00:00",
+      "title": "현대모비스, 美서 '모비스 모빌리티 데이' 개최…\"현지 파트너 발굴·협업 확대\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SQTFhVnBnV1ljSEdMZGRrSWNjWWtVaWZGSFJzT1phQndVWEkwdFhDd3RjNlBkaGNMdXN6b1V6QjZwcXBSQmxodnpFNFQtbE51cnEycDdnNGc4OTQwc3dBU9IBeEFVX3lxTE1fOTVpZGFoRXQ0S0NicHh1eVhOS0p2ME5ZQlREbFBvd3haRkVVRG9KSEpIWXhOLTdYZGlPYzZZSXBoUzllV05EYzFTSjhnMHZXajRBS3htVjNORHlsNlNESHBuU2U0Y1A1UFdTRm9LN2hGWlRObzNXTw?oc=5",
+      "source": "뉴시스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T01:26:42+00:00",
+      "title": "현대자동차·기아, ‘자율주행 실증도시 조성’ 업무협약 체결 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWNWTHh0NEpobEF4N3pDcnBjZ2NoRWFLbHVKUWMyUFItb1pIN0ptSzd2Yk92Tk5yYk4xcnowSFJ0VGVGTTE2Q3NodlVGX0dNTmZNamtyU09HT2VPWF9ic3ctUnRHb2EtamNtSW1iZjhTbHJadkdvQTNLdlNIOC1Zcm85dy1TcklLTEZLMm1qU0pESTFZVVE?oc=5",
+      "source": "Hyundai Motor Group",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T01:24:43+00:00",
+      "title": "현대모비스, ‘2026 DT Tech Day 기술전시회’ 개최 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMERmWW1jSFVPV0JITGVhc0lMYzVONlNZZG9iYzJSMDVISDNydUZxcDVySVVVNmxBekdPWXMzaGt5UlBrYXo4OE5FWWZ3dGVvYWlfd1kwc3A4RGVhWHQ1XzRnREhibmZrVk5yTlFUUWlVNzZ4QjFRMFVEcjhkRWNQcFRXY3k4MjUy?oc=5",
+      "source": "Hyundai Motor Group",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T00:32:00+00:00",
+      "title": "[리포트 브리핑]현대모비스, '기술 선도기업의 공급망 생태계 구심점' 목표가 810,000원 - 현대차증권 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3R1FZd1NHeTY4emcydEpSdGJtdGZ0WDUwTGxYMlFueTFsMk1lZlVmYW1JNkdQWFZnNlBkTVNZSmtQek5JSU1ZVWdTOTB5SFczNGtlc1dhaHBBQTBR?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T00:14:42+00:00",
+      "title": "현대모비스 램프사업 매각 후폭풍…노조 \"오늘 램프, 내일은 전동화\" - 스트레이트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVU95LV9QTFhKZnA2MlpiTjBoTlcxZHRvUnRjX0tJc1Q4eWNiUEoyM2hjc1dnNzhoN2FocTM1SExEb0xyRlFpcUJ6UC03YllYOGRwcGsyNjk1eFp6TjRMUktDTWZNQ2FhbkZuVXNnY2xwaUU?oc=5",
+      "source": "스트레이트뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T23:00:03+00:00",
+      "title": "현대모비스 램프사업부 매각 갈등 고조…삭발식 이어 연대 파업 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00b0xkbEhPS0doOE16dDE4LXZvR1I2Zkg4ODlTMGdyV05sLXJSbGtiblVqOG1FNUFJOUdsQkxkbkhIbnhKRkh6LWRtR21wUE9rRlplcEhB?oc=5",
+      "source": "지디넷코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T22:11:00+00:00",
+      "title": "현대모비스 주가 전망: 012330, 9% 가까이 급락하며 ₩510,000 지지선 주목 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLXRnbkg3MEVpMFFjMmxfN2ppRmJROWppY0hncVJsLUVkMWdRUXdsNDRYRHJvVnNTSkp2YkdiN1NWU2lqaEJvdnBRUGZ1dk9qU2w4dmNIRjFsNktzdGJJZ1ZTQlBHTlVJMW1RMUJYYnRPd0U1cG1KYmxWYWYtTkVjWTByeFduX3JvcTJVZmtWLWhGZ212Vm4ydUJrMmVaMVQt?oc=5",
+      "source": "Traders Union",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T21:30:04+00:00",
+      "title": "현대모비스·계열사 노동자들 하루 파업 - 매일노동뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jUm55TkRPY3pwWEtQbXdTVktLTGtVaXNxQi1VenZxai1HRER2RUs2MVdtdXpveDNYUlpLb1JmSG1ueXQydTZSbkhsVkdySDhMTU41aDFWTDdaWmhxWkd3SDROeXl0bEVmS0VybjVqMGE?oc=5",
+      "source": "매일노동뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T21:07:49+00:00",
+      "title": "Metalworkers Union Escalates Strike Against Hyundai Mobis Lamp Unit Sale - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGd0dzRFdRbVNMcElRX2dCVktRWExjTFdiVDNZc3JjR0FfLUtsT2hwRmIxOGxPNnVWSlE4eUZzdzFFMGhLX2kydEM5VDhtUWxRaUtEWlMzMEE3VDhOMlHSAW5BVV95cUxPNWktWkVGajRzazhFazNyZ2Y3elJhSVI2ckhPTlJEWkxjcHIzWGNPVHVGLWxiMmJ6dW5ob2tYdm1uMjNLR3N1NjdXbThLNExLVVBlUWhkSml1YXUxUkFUZklKRnB1UXNnVWZnYnZQdw?oc=5",
+      "source": "알파경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T20:46:00+00:00",
+      "title": "현대모비스 주가 하락을 촉발한 요인은 무엇인가 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzhFSEZ5MGJSajNGdjJYdzd3T1Z6RFJmSjdrbHVFSnBPUWdtRFpiRTFoNTVTcjM4RWkzUVpDNjhacmllbmJnYmZMN3cyLVpFVUJQLWI5VWc4YmNCT0xfeHZYUjdhc2RXaF9IMHBZRzA1QzhfUno5aDBKb0FJNzg0Q1BCay12N0FVX0tFYW1lOC1jc3cwUGhwb2lMLWFiYVM2SFE?oc=5",
+      "source": "Traders Union",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T08:43:02+00:00",
+      "title": "'알짜 사업' 떼어내는 현대모비스…첨예해지는 노사갈등 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PRll4cFYyNmZnNEVjaG1DYkNrVmdnN3EyUXE4cjJZMXA2Qk1KV2RqeWYxOHFOVk83dWxDempxUTd3V2xOS0VDMzdrUVE0TXc?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T08:24:21+00:00",
+      "title": "노란봉투법 앞세운 현대모비스 노조…커지는 현대차그룹 파업 우려 - ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhOGxoTVJ1WWhoZVFxWWpOT3ZoMWpxeFc2bGNXRmg4Q1VCMWdYT2k0VFBIbDJkQW9WU0I3Yi03N21JMUZ4WUFSeDVjTkFCVktFZDgtUHBQaXowdUdDWG9jX3FkTGgxTkQy?oc=5",
+      "source": "ebn.co.kr",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T03:55:52+00:00",
+      "title": "與, 김천 ‘현대모비스 유니투스 해외 매각’ 사태 논의…“500명 생존 위기” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OZmJteFF4Zi1xV3UyV2VaMUVLUGRrQVRvcjZwMWp0Q01VVEJfbzdsbnF4NjU4dVhOMTU2WWFWUzF2SlNCRU9mMG9NNGJMeEE?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-17",
+      "publishedAt": "2026-05-17T22:11:00+00:00",
+      "title": "현대모비스 주가 하락, 가격 조정에도 주요 이동평균선 위 유지 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWVaRG41VXMzTEt1enNjTWljR3F4ZV9TWkE3RDYteHZhdkpsYks2VUNRTmUxNGtwVDJ6ME1VbzFmZnBPdmdDZDRhWVFlbTBscjI2Vkt3VHR0Y1dQRmtWSU85TFUxWTQzeEdsX0VYWFVVazh0Uk5JbnM0cmZOTTRzckVpYUlQY25wbmhFOS1PaDRIVThEeVlSOXhTNTg?oc=5",
+      "source": "Traders Union",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-17",
+      "publishedAt": "2026-05-17T21:58:00+00:00",
+      "title": "현대모비스 쪼개기 시작됐나⋯ ‘시각 차’ - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TT0hYQ2p5clkyS042MUE0SGQ5RjVUcXNBZ1BzQUZaUElsU0hBdjlrdmVpbFlwYlExM1lLWC1ZTXEyTkt0b3BLOGNnZGxMTThYV0g3eDZmcWpRUQ?oc=5",
+      "source": "브릿지경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-17",
+      "publishedAt": "2026-05-17T07:08:00+00:00",
+      "title": "⑥현대모비스, 1분기 매출 성장에도 '속빈 강정'…AS 수익 의존 - 아시아타임즈",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMT2gtOHpKUlFFMXpiMGtXYnR0cXVVb18tQmtENVpjem9IWW0tcE41Q1Zsb2tFNEZPQ2dGeXQzSS1vOVNGV3hHamE0WHQwY1J0MmhhSmRqY0J0ekVld2c?oc=5",
+      "source": "아시아타임즈",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-15",
+      "publishedAt": "2026-05-15T02:20:24+00:00",
+      "title": "현대모비스, 미래 모빌리티 인재 전략 ‘일석이조’ - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XSnNYLU94ZV9sQUxock1YNWxoWlEtTEhySVFEQzBSWGZfUmpwVUpVZmNFMm9zbzFJZmJPTFZQT0duNjFqSnl3ZDF6M1hRdlA4RXhaNl9CRFZ6M0U?oc=5",
+      "source": "에너지경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "publishedAt": "2026-05-14T21:26:00+00:00",
+      "title": "현대모비스 주가, 매도 압력 증가로 하락 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV0ZxaU1xWkZDVTdIcDB0dzRMa3FaSVA3dFNkRkxTVjdnTDdrWnduWnJEUTFjNTJqeTlPazcxY2E1YTMzNlR4U1J4UnVxekx1X3ZCN0stdUlpblJwbXpvdnpaVklvLTd2QVEwaUJjempEUVhzemNCd2t1RTVWUTc2LW5CY2tvRjAwcElKamZqcU5CbzlMeklXOFJTMTJTQQ?oc=5",
+      "source": "Traders Union",
+      "pos": 0,
+      "neg": 2
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-05-14",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-05-15",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-17",
+      "count": 3,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-18",
+      "count": 8,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "date": "2026-05-19",
+      "count": 44,
+      "pos": 6,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-20",
+      "count": 23,
+      "pos": 5,
+      "neg": 1
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-05-14T21:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-05-15T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-17T07:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-17T21:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-17T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-18T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-18T08:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-18T20:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-18T21:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-18T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-18T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T00:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T01:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T02:00:00+00:00",
+      "count": 16,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T03:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T04:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T05:00:00+00:00",
+      "count": 4,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-19T06:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T07:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T08:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T20:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T21:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T22:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T01:00:00+00:00",
+      "count": 3,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T02:00:00+00:00",
+      "count": 3,
+      "pos": 2,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-20T04:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T05:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T06:00:00+00:00",
+      "count": 7,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T09:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}

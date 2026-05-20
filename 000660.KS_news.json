@@ -1,0 +1,895 @@
+{
+  "ticker": "000660.KS",
+  "query": "SK하이닉스 OR Hynix OR 000660",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-05-20T15:51:36.057322+00:00",
+  "items": [
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T15:50:27+00:00",
+      "title": "SK하이닉스(000660) - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR09ud0RVTkpMTWZqa1BEUXI2RFZfSEZUSVRUTzU4YnNVbVA1eGNvMkN6YW9KeV8xaHJSNElpWTFhZmk0TjdvdEZDSmY1ZnBvdHozUmF4M1pXYWUzMTNrSFJDQk9rd0ZEQ3d3YzdCY3lrajJ4Nl90Y08zUEc5MUxkNnpVNDRmQkZCUUZ4UVV1S3c5NHg3N0JF?oc=5",
+      "source": "매일경제 마켓",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T11:00:37+00:00",
+      "title": "\"졸업하면 바로 삼전닉스 입사\"…10대 몰리더니 '깜짝' [이슈+] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrV2NaRXAzajZBdUhUTTNMbFJnUFhsNnhwbm5rQ05nNkE2WVVTVnZrUG1jZ1FaYXU4Q3hTY2tyMGlLMEFEUFhCa0VfcGdoWWdEbGxlWkZVQ3I0UdIBVEFVX3lxTE04aVpicEIzZnJneTR0U2VmbHByZzlWTzd1eHNiT202cFdrZmo5dHRyekNGS21tQlExaDlyQ3U0M2o0eldSaVNrZkdGTmpYekgteDIyVg?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T09:36:52+00:00",
+      "title": "삼성전자·SK하이닉스에 두 배 투자…27일 첫 상장 앞두고 이벤트 경쟁 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ka0hnQ1lSd0JKZFlkakIzSjZlSzV2aHVadHN4QTBnUmJIaVAzcVU3NV80UEtyVlYyUFZEQVJNSkw4SmNFMm8zeDNZRVVXbzREREZOMFB5bzQzYUpRdDNj?oc=5",
+      "source": "메트로신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T09:16:39+00:00",
+      "title": "카카오, 창사 첫 파업 가시화… SK하이닉스 하청도 ‘N% 청구서’ - 서울신문",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tMHl5WThmc0NVV3l6UVlfeHBhbU9WVXNmNFltMGt2V0VNX0E3RktzZXZsUWpNRjBGdE5tNnZPeHNMSDI0RWJJdFphUE5SX1BJQ0RRTVZDYWt0TmwxeGU5QzRLb255Zndiei0ycGZWdVpIX1IwUFBoMmwyVQ?oc=5",
+      "source": "서울신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T09:09:04+00:00",
+      "title": "추경호, 대구에 삼성전자·SK하이닉스·테슬라 유치 - B world",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kNTVIZXdMRmpsVFRyRk5CbFZRR0d3MjJHYTdXaUgwME9SelBUUGltbkVVdHJNcFYzQU56aVdGOGFFUHJQQUdnSEFUN2xCZm11RUpBMWZ2ZmZiWWpxcGdQaHI4RWdPVzNIclotSWNFM24?oc=5",
+      "source": "B world",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T08:15:52+00:00",
+      "title": "[거래소 외국인] 삼성SDI 현대건설 대우건설 담고 삼성전자 SK하이닉스 또 던졌다 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95SkRVNHhvdVV5YlJaNkhnLVluODZKVGdjc3ZseWZnTkg4dDB0Y2FCcjFYbmhfX0Y3bndMZ2xaUFh1NXZmS2R3N3pFSUxxR1NPTFFUeVA0Z1VWb0RLOC1EVkhKNm5PMzZKb1pVLTh2THdmUVnSAXdBVV95cUxNMjVIeTEtNzlDTjBMWFNrTDZncUViWjFjOG5la0MwSEx4dkdva3NJVjZkTHNwYUVyQmFtd01IcGtUNW1teTNtWXJnSjlpSW1rSUpRLXJBSW9LMVA5RWtEa2d4MW8wbHlZV3NtYk1KTVN2TDBYOTBnQQ?oc=5",
+      "source": "핀포인트뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T08:12:01+00:00",
+      "title": "삼성전자·SK하이닉스 레버리지 ETF로 한미반도체·DB하이텍 주가 폭락? - 시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yREFRZS1xRGJZUVh0bjlPWTNpVlN3V3UzYmZIUG93dkRWNUhxZDRRYWd6SldMWWIyU0ZnRFZZNlR2dGUydXNONkhrdHRPMXBNaTBZUzRnV2dySEE4YzFhUmtmVFBOdDQxTVBpNy1JTzRFQdIBdkFVX3lxTE55Y0JJUXAzZG93ME01aUliZlUxQ2RxWlNmTEVsX2VuMy04ZWdJb1o3RzdadEgwbTJlc2gwN3RFUWtSYzJ5WDhUMGVuempNdnVDSjAxWXdMSjFQMEhicmxlNkVlX0pvckgtdlZ4UllkSDBRYkJWa0E?oc=5",
+      "source": "시사저널e",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T08:09:00+00:00",
+      "title": "삼성전자/SK하이닉스의 독주, 순환매 시장은 언제 올까? - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWh5bEI5WnFYMlljLWg3TkpscEEyWHI0YW5mVERLWDRsdVdvaEEyUFRQLU5VcTk5aXY2eWVDX1pnMEpaOXRJbmdvRk1fZFZyOE5aSjlQS3pZUnAwWHpmQWdBUWNWZzlKSF9VbGNCckZYWVFZY1d3M245NXh4bmlQcmt3?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T08:01:49+00:00",
+      "title": "골드만삭스 \"삼성전자 SK하이닉스 주가 저평가는 수익성 오래 유지하기 어렵다고 투자자들이 보기 때문\" - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpbzBXMDEwVEwtX2VFWGxGcVdCNzk1T0FPck8xak1DSDRCQ3hlNmZaOVNJVGRQY0UzUVo4SlBld0U2Vm0wZHpRZFp2UmpDV2R0dXlXUFVEalhzNGVtYlZLYjROWWxrQjA0YnRjWWNaOWZxSm8?oc=5",
+      "source": "비즈니스포스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:49:20+00:00",
+      "title": "[거래소 기관] 삼성전자 SK하이닉스 삼성전자 HD중공업 쓸어 담았다 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EMUtxcDR5R2txUkYtQjBUVGtBMFVJcnB3U0JIakVDWEEySEFuYU43RTFRd05yYS1SYVUwVkk2UFFBemcxX2ZYS1pUbDNyMTVDWWR4a2dMcUZPb1I4YVpnVUlNSzI4MjdNdzJTcHNxc2hhcHPSAXdBVV95cUxNaVJIcldJNndmZGJiYWpCR1A1QXVUZnpqZnRzS1RBWTdOOWp0SWh0U2c4VjZSMWYtVGh4Rzh4SE9RMHU3d2otQjZkQ082bDExdlpYYjFxSlptQjNDNHRBUTFUdDFoQlR2VDRZaXNWbEpwN0Y1RUJINA?oc=5",
+      "source": "핀포인트뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:40:40+00:00",
+      "title": "SK하이닉스, AI 특수 업고 '그레이트 컴퍼니' 2년 연속 1위…카카오 첫 톱10 진입 - 파이낸셜포스트",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EYWx3Y1FsODQzd3hrMmh4WFZtci1TM1BKWGRXdEZFUnVFSVZnM2xpUjIzNEFxQW80c3RUWE9CbnNER2NEamlnc2hxSHNOSUJrVFFEM203Y0pZdWRjc005anA3RUR3OUYwNWRwUXdMdktPYnRT?oc=5",
+      "source": "파이낸셜포스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:40:00+00:00",
+      "title": "삼성전자 노조 총파업, 왜 SK하이닉스 성과급과 비교하나 - ppss.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xd3h2akxMb0RIbmpXaFBSQ2VTLW12MUlaSXNwZEZkWF83NU4zN0hDNVE5RmI5Q3haNFREVTVWM3JpNW43bTZEa3ExTUNPSGVQLU1qVzluT0FGTnRVT0RCSHM4dEo?oc=5",
+      "source": "ppss.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:31:52+00:00",
+      "title": "SK하이닉스, ‘발명의 날’ 금탑산업훈장·대통령표창 수상 - 인더뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95dDB3bURPN01BSUUzU0xUZlJEeUJXNlRvRENkMEtNN3VyRHplV3VVcE0wQmd1RWUwTUVfSExBSXJuM0ZZTWNwbDRsNXZ4WHJlYml1b1dKTlM5RGdzYTJpQ2NWMDI?oc=5",
+      "source": "인더뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:31:29+00:00",
+      "title": "'삼정선자·SK하이닉스 2배 ETF' 엇갈린 수수료 전략, 삼성자산운용 미래에셋자산운용 치열한 정면승부 예고 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DSGlVSS1CQmVTLXM1OGRMU3Y1X21pbXlVTEtZS1JGamlfMzNBOENvb3RtWWpKMWV5T05fTmVWVzd1bVBqc2VJc2VDdEFWb0RsbDJla3dZQVV0dkpZMDhid0ZlS3hzSEw2WGNMUmo4R2prcjg?oc=5",
+      "source": "비즈니스포스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:23:45+00:00",
+      "title": "미래에셋운용, ‘삼성전자·SK하이닉스 레버리지 투자 가이드북’ 발간 - 인더스트리뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ET185RF92bjYybDlENEJWUkdsQXRWbkZBT3Vmb1FlSnhuRzUwSWh3WExpNGp0TTFHSjQtbXNGNWFfWDJObWtYdXFyLWttdF93TkFHLWR1YkM3cWNtTkJrRGwyVEtQcU9mVG1YRHVlRTlJQQ?oc=5",
+      "source": "인더스트리뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:11:06+00:00",
+      "title": "미래산업, SK하이닉스와 반도체 검사 장비 공급 계약 체결 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIcV8xNWxLUDE4UG1zc1FDbGd0ME5LNHlndGJKV1RMaG9FQmhROXhEQWdXVHRSQnI5R1FvbGRfcWNraEhURG5YYTVsM0d3UU10cDhBcVFBdXA5Zkt1SjJteWJUSFNFdVBRSzRTWkhwRi1DUlk?oc=5",
+      "source": "디지털투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:11:05+00:00",
+      "title": "미래산업, SK하이닉스와 반도체 검사 장비 공급 계약 체결 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QdTlzSkpqNXBsZzlLQUJPT2dfWVUwSFlCLWdyVVFsZXNjempFWnlPR1RPcjNURTQxaTBtVjJ2eExQNTZOWkZ0SXJPOFBnWTRockF6Zi1vYW5Dcy1hTUEtWGwyR2oybTFHU0kyR1prWkl3LVE?oc=5",
+      "source": "디지털투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T07:10:11+00:00",
+      "title": "전원주, 'SK하이닉스 2만원' 매수 일화 공개...\"증권사에서 모시러 와\" - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFSXJubW1sQmFFQk91Zk9QekZGY0E3TXl4YVBVc2g2X1o5T3dpNWZkU1ZiQ3ZoS0pmb0ZUeXotVDVmN3dFRlg5ZlpocnRma2hlNkZ1V25oQ21wd9IBXkFVX3lxTE5UR29lWWlVYTM1VzhrV2pES0dtaVNSald0dkc5R2R6T3R1YjZOVFhHb0k4clZGbWMtMlBiZjVmS0RrejMzQ0ZyVFVWWEJVTWtUcmFHcDBaYWduRm1zNFE?oc=5",
+      "source": "파이낸셜뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:52:13+00:00",
+      "title": "미래산업, SK하이닉스와 반도체 검사장비 공급계약 - 블로터",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43azc4c0loOWJXR0JRNUt4ZEwxQy16NVNqcm5GX1ZSajN4TWRzYlNNWEhoX1Y1eVFIYVZOcWlRUi1tdlJpb1FrUnJPcHBHOE5pVTRXNFBrN2I0NUoxUS1BSGtMb29XbU5S0gFsQVVfeXFMTU1GWUEwWGYzdWNPODJSMW96NGphVTJYSndGWFd0cmNsOVVYSE1EN3ZTM1dFSDNpWUNkMTlDSGdOWDR1OE56aE5DY21zbDhFMUpIWUw4VFcyaVlfakFneGxWZm5mX0ttY1FKcE5I?oc=5",
+      "source": "블로터",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:48:21+00:00",
+      "title": "[속보] 미래산업, SK하이닉스와 총 66억원 규모 반도체 검사장비 공급계약 체결 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kNG8wYlJ4ZmxzaW1DV1dTY1BnX0JYZ0Y0SFdQaU9meHZhOUpyM0VlbVdsYVdkWnI5RW5Uc2VTYU5PdElIMVhjaG9BSnNZZFlqM0lvUloxU1VVbDBoenRtdWcydGhUZExv?oc=5",
+      "source": "CBC뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:47:36+00:00",
+      "title": "SK하이닉스 효과, 충북 제조업 1분기 생산증가율 28.4% ‘전국 1위’ - 충북인뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMENGNjJFaVdGX0Jhc01WMWxrNElXZEtKVFVsNDAtOWFCU3Y4OTZCbzBHekhJMmdya0s2WDRUT1RWeW9CYkEzZlFOOGhyREdQZFVoN3lreW9nYVpGWGJKZ2hsZnBFc2FZWks2WtIBcEFVX3lxTE5JalNkYmZOdklsamNGbmp2amlvcXpITmtOVFZPZFdHQjF2U0s3Z3JOTkVhQ2tYNHlIRHYxS0haUFVvVWMzbXRROWFVcXp1alR0dGxLRWw4aE5ZcXdFNVJXQWw4ZTdCRXhEbkNQejZzOFo?oc=5",
+      "source": "충북인뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:46:00+00:00",
+      "title": "SK하이닉스 주가 상승 긍정 평가에 SK스퀘어도 상향조정…\"AI 메모리 쇼티지는 구조적 변화\" - 위키리크스한국",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUHZjQ2JaU0tjTTM4SFN1WV9WaXpBang0ckkyM1pmdFp2Nms3b2R5YmdZd2ZxQWpkRG5hZDFlODRWN1VhSVNCSVg5M1FGYXNKUXNFTGYxdFV4d3pVNElqVnVITDIzWUVDR0pMV2xxNA?oc=5",
+      "source": "위키리크스한국",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:43:18+00:00",
+      "title": "미래산업, SK하이닉스와 26억원 규모 반도체 검사 장비 공급 계약 - 데이터투자",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNaV9KNVdqVlQwZ3BLb3pRQjB2R045ejFwa3dqUnZZNmtVRjRJWnFQUk9WN244QnhYZFB5RHlaQmNabGo1RTdSOEJSM3F2bWRockpJVUZXcEx1VHlkbmo3eXk2TUNBaVBxeTFqeGJaZzNiaVk?oc=5",
+      "source": "데이터투자",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:42:52+00:00",
+      "title": "미래산업, SK하이닉스와 39억원 규모 반도체 검사 장비 공급 계약 - 데이터투자",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wTDBaeExOVzRqOHpSWXJhc1o5aWE1ekJDaXVQaFhQQm1qdzhwNnVRanZnTGRvS19KSU9wcEtmN2J0RUlwc3ZDMFdESkZCZjJQYjNLWHZ6U1BiMWVjLUkzX3d5VWlZZlpLSERpSDluRG00Wlk?oc=5",
+      "source": "데이터투자",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:38:55+00:00",
+      "title": "SK하이닉스·삼성전자 성과급 논쟁 속 자유기업원 북콘서트 개최 - meconomynews.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56MXFwSmVzYTNLNTBQc1JFdXo2UWtUUHpMN1dLV01kZEJWYjl5bG8waUJ6SGgwd1NrTzltRmZyUkxmekV4WkRTOUUyRlRJWXNfeGVXMXVuR0Q4eEt5OG9MYVZ6R2RZOEVyNDdWZHM2QlQ?oc=5",
+      "source": "meconomynews.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T06:30:00+00:00",
+      "title": "삼성전자·SK하이닉스, 하루 60% 출렁일 수 있다 - jabon.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55c3h1cHZENm5PUTZrNFdkUkM3QkpGaDBvdzFxcXFPNzBvZVdxMnRpRE5QTlp0TG5QR1BZOFJWTlB0WFpxM0RlcXZqUDdjUE1YNXgwbk9kSmhsWVdaREZpbGFjQWhESXc?oc=5",
+      "source": "jabon.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T05:36:32+00:00",
+      "title": "“삼성전자·SK하이닉스 ETF 출격”…금감원 노골적 경고에도 자산운용사 ‘마이웨이’ - 이지경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GSzNwSHVLc1pFY0tIdUZfbHRPYlhOMVhKdElIS1JuZzYwcWRDQlpkQklsRUs1Ry05eTNRLXBLUlJfTTRZSmJpSnp0bDVLY2pQd1BNRklHc0ZPSG5ocllXSnVkNGNjc2FqQXBiMHRB?oc=5",
+      "source": "이지경제",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T05:24:10+00:00",
+      "title": "SK하이닉스 안현 사장, 금탑산업훈장…HBM개발 공로 인정 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYnZjQkIwbG5ucjJzZDA0YlRmOWtUU05ZTDljNDdyeHRGMllyNVJFaEFVSDNtZlB5eVRPSGZHQzBJUnc1dzBDaTlsTkg4Z3g1LUk4MHRNQlIyR05SbmNHYWRSNTVJamE2Ml9tcmZDNTFCc3FOMXd1VGpSNlZzeGZGaQ?oc=5",
+      "source": "이데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T05:20:37+00:00",
+      "title": "SK하이닉스, 2년 연속 경영평가 1위…카카오는 '톱10' 진입 - 비즈중앙",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TQU10ZGRWYm9ZZDJKcFo4ZXRZWHdfM29MN2VxU3lMMk9rY1dyZDM3Z0VQV25DeHMxNXBkeW53VGIxWGl5RVVTWGV6R29KVXM5Q1VzdDdPUmdWQ2FwSG8zWlh4d1d6QkFCS05ub1pOTTQ?oc=5",
+      "source": "비즈중앙",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T05:10:17+00:00",
+      "title": "[그래픽] SK하이닉스 효과, 충북 광공업생산 28.4% 급증 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DVUY3TE9jT0Vqa3QtVy1CcVBKVGNNaFpWRUl6dlc1di1mc0ExY0RhbU5uVjgteUNPVlVYeVFXdjBzaUM3YU95U0FPUDdxM19ZTEMweHUwNW0tR01xNi03ZQ?oc=5",
+      "source": "뉴시스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T05:10:00+00:00",
+      "title": "모두가 필요한 AI 메모리: SK하이닉스 주가가 계속 오르는 이유 - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDBMR0k1WHRYbEEzOGxhRzJrS2FxV3VOb3gzSFVEcnl0aWlGdXdXQUNvOGVfMnJhQzE4dDRXMFJvQkdjQmszT0RFRmZ4V3c5Y2Z5M1lST0pkSWRVUjlnbDRKSHlHc2liYnRUZ1BQZTZJb1RVakprVHlyT2tBZkl4b0JrMWY3b2htckZvYlZn?oc=5",
+      "source": "Traders Union",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T04:11:53+00:00",
+      "title": "“하닉 196만원에 들어갔는데 상투일까요”…380만원 목표가 나와도 ‘불안’ - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCdE5FNFhHTTV0RzdoQlR4SXV4ZVZYMURMcDNXaHc3VjU3d1J0WVI1NllNREtZc3huTnUyUmJBcmdZWEdWWE1wVi0xRlhnTG9wT0E?oc=5",
+      "source": "매일경제 마켓",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T03:05:42+00:00",
+      "title": "[단독]SK하이닉스 하청, ‘N% 교섭’ 소송 움직임… 노란봉투법 등에 업고 ‘기세등등 노조’ - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBac2h3Wm5UaGdmWUd5ckgwMzFsU3dQd3ZfOEkwUGxNQ1NPWFVMLTN3NVlNT0lJU0pkOU5feEhYeDlKejdtTG9xdWN1QWFSSHl4?oc=5",
+      "source": "문화일보",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T02:52:18+00:00",
+      "title": "[기원상컬럼] 최태원은 왜 SK하이닉스를 서린으로 부르나 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5X0RGMTFxa2NMMHBNX25ZVDhGdUVXVGkzZElMb3NtZmdqYkp1TE56M3Y3R0VmRlcwQ0E3U3lFLUhBTlcwcHpXYzl5emRVVFp3QmFoRmluOTNKUdIBWEFVX3lxTE4yaEIwbGVFd3JxQ2xvY1BPODRwZU9yRXBnbjRYS1JPZjNKVHM1empkQ0dza2NEenhTX1lYSWFkUGR4RTdGajNjYVJ1Q0IwMnRETkJwdjlaemY?oc=5",
+      "source": "아주경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T02:28:11+00:00",
+      "title": "“내가 사면 올라”…전원주, SK하이닉스 600% 이어 집값도 20배 ‘껑충’ - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOYTdJM2lQS2s2SlYtTUdlM2pacTQ4TDZqVXFseDJRS0I2R0p3WEZMOGZrR3ZoNmpxeUpLQkhPX3pVRjd2V0hub2tseUctQlpHUktlcjRB?oc=5",
+      "source": "헤럴드경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T02:10:00+00:00",
+      "title": "SK하이닉스, 2년 연속 대기업 경영평가 종합 1위…카카오 ‘톱10’ 진입 - 인더스트리뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ed2UzblFaUDJNbmo5elBPTnYza2k2ZFZlZEcyZnJZaS1hWFh6QWhweTFOTG5HUXNINDRZLVZUZVJ0QlhzV3VEYmNQZ211d0tLbWF4Mk1lV2VqX2xjZDlwX2pjLTlaNlJEdjFUWDZjQ1JBZw?oc=5",
+      "source": "인더스트리뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T02:00:06+00:00",
+      "title": "하락장에 초고수가 담은 종목은?…SK하이닉스 담고 현대차 팔았다 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0cHE3TFlMOWRkeHdxMHlsQjBYM243Sm1UUC05T0otSGhFUlRCWndVa1VvLUVJbG5tRHY3Q21NNjhEZ2JLN2taeDJVMjQtekhHOXlLWjVzSWh1d9IBVEFVX3lxTE52MU9ndDlyLUhuSlZjRlByM2lvSVMyNzlUSndWUl9rNDdoM1RTS0tvZWFXYXF6VTBDeHROMHFTQzhPVnZJNHpuQ0t1cDlpN2FRT0thdw?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:59:00+00:00",
+      "title": "SK하이닉스, 대기업 경영평가 2년연속 1위 … 카카오, 투자·지배구조 강점에 톱10 진입 - 워크투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YWlhtMlVOay1WUDVGRklnNUVnWUlRZ3IwNjZXUER1WkVLUUU1VXpJR0NZWUdnR1JuX3ROb295dWlGR2ZtLXpjUW9NajB1LTJtcnlvWDNMbkhoajNQZUdGaThIUE52cFNMeGZLdw?oc=5",
+      "source": "워크투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:37:55+00:00",
+      "title": "SK하이닉스, CEO스코어 경영평가 2년 연속 1위…카카오 첫 톱10 진입 - 이코노미트리뷴",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtYmk5MERYTUQ5M0Z4Mm9tcHgyVWhUX2IzeWlxYURESjl0c3hfQndRcUxMQVVHbjhfM1k2R0VCLWxfZlk4d2hUYW1nN3NfQ2toOWpCVnNmelhGSTZFS1ltdExfTmdvTERtcExLQnIyejNIdlk1aFNN?oc=5",
+      "source": "이코노미트리뷴",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:36:42+00:00",
+      "title": "SK하이닉스, 사상 첫 삼성전자 PER 추월에도 주가 하락 조정 - PRESS9",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ERTB1d3o1REdxbkZqeGlIaDROb0NyOHZMY25CMVRQMmNvcnpNcEhKcUlUM0RKczhEQ21ubWlFRk5kSkwyYlYxaWRsdGdqYzdYZzY3bGVJblRJVHoxbDlCRHJBeGE?oc=5",
+      "source": "PRESS9",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:32:05+00:00",
+      "title": "SK하이닉스, 경영평가 2년 연속 1위… 카카오 ‘톱10’ 진입 - 천지일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UMy00ZDdhM3hfSllaWlZ1N0h0OWtmSXB1eE5CMWE0M0w0dzM2Rm1iUTNZYVJMQ3dZN1pkREhqTnpFbG53d19oQm1ucVFxTEJUSURobDA2VFBLYm9FWWZlRUo2WEpiX1JCalE?oc=5",
+      "source": "천지일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:31:00+00:00",
+      "title": "[리포트 브리핑]SK하이닉스, '우린, 이제부터 시작입니다' 목표가 3,800,000원 - 한국투자증권 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GM29KME41RXNjc0hDNHNwc1dFY2tSSWVhRnMyT3RfVGZmVDhYVk5SQngtMk5Gcy0wenlubHJPMjhUY3NGdXh6X3ZVdEZoMHJNWmRMeWd6ZzEzWEFZ?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:25:00+00:00",
+      "title": "SK하이닉스, 삼성 제치고 대기업 경영평가 2년 연속 1위 - 시사저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WaW5HMjlIeEdVd0RPcmFUdE5SUkFwUkt5dG5RTjV0bkhPZGxDd2hlWVJneGl6bHVGdXhSeUpuSVRfTENoaUpja1NGRnNjWjRJWEVKUFVXVVdhYms2Z3JaRkJIS3dzc1k5c25fVXhVb9IBc0FVX3lxTE9jSVNqQ0REM0Z1dm43cHJuY3RDQ2c1RmE5dlBPRlRpREJISlYxeFVzQ0NpRW83UXlCTVhMVWU5US1GV05HZGUyc0phYlp4WDUzNnlrTndJd0t1ZHVmbEVKNm94ZzViOWVtZS1PRWgwU3Y0UFE?oc=5",
+      "source": "시사저널",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:23:25+00:00",
+      "title": "SK하이닉스, 2년 연속 경영평가 1위…카카오 '톱10' 진입 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jR3FoSnN0eUlYUWtGWUZ5Xzl4M09nMnlZWjdwaFV1VWJaU3Y5aHJXYTZodUE5eVFrNnBMN0hKQ2xTdnlGd2lpSGg5aHN1Tm5ESjN2LXFtQ0xQTTAwT2tuVGRlM01odkxpS2gwd1Q4RUQ?oc=5",
+      "source": "신아일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:10:03+00:00",
+      "title": "안현 SK하이닉스 사장·조성현 HL만도 부회장, 제61회 발명의날 금탑·은탑 산업훈장 수훈 - kmctimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90cXNCdzZMbl9yZDRQZmZ2eDR3QU1iamxFWjNVb1IzX1hRam14aVd3Vk1WTmJiWWw2SkpoQW5fSzl5QUk3ckozLTN5S2xSNTNKY0FfSFdMS0pQd3ZLVFJSczlHNWo4UQ?oc=5",
+      "source": "kmctimes.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:09:00+00:00",
+      "title": "SK하이닉스, 대기업 경영평가 2년연속 1위…카카오 첫 톱10 들어 - 금융소비자뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVVGJOVllFbHc5NTZwcl81OHJWdkJKWGpCSTdoMFNaR2JJMkFfVkVqcnpxZnRXY1AyclhObm5JLXVSSXFmM21QMnMtTXdnZnNMcXdWMUtjX1lBOGxqSUhSb3RabWFNQTh5dnc?oc=5",
+      "source": "금융소비자뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T01:06:57+00:00",
+      "title": "SK하이닉스, 500대 기업 평가 2년 연속 1위…AI 반도체가 순위 갈랐다 - 더파워",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53aVZOYWd6QmdfaThsOGlQQ05BbVpJQVQwdFlUZlo4Q1Z0c015b0M0ajQ4NUJhQlNIaFF1T0ZkRXk5cFZFaF9GR2Jvd2Zyc1ZfTFRaQ0thbHFHNk9UUnVJVHBPUnlpMlBvb2ZQRnVNQ2pnUEM0Ni1icklXTW56Zw?oc=5",
+      "source": "더파워",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T00:57:33+00:00",
+      "title": "SK하이닉스, 삼성전자 앞질렀다…대기업 경영평가 2년 연속 정상 - 이지경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GRHJmcDJBRXhIcUJmQklGT2pmT1pVbGRqOThCQnRaMURBYWkwWjdaVHBtUTRuME4zMjV5SWwwaEU3ZV9qXzhJREQ3eFdGQXdXZDh0ZjNWT1RXLWg0Y2RWYW9BUUVVaWY3U01FRXpB?oc=5",
+      "source": "이지경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T00:51:15+00:00",
+      "title": "삼성전자·SK하이닉스, AI 슈퍼사이클 타고 韓 기업 경쟁력 이끌었다 - 뉴스락",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9la0djMDQxcmNOSjltN3ZjVV9yYjZBX3dpdUNhZzdTWUQ4Vnpta09UUXdFSFN3VVJ0VG1OSlZ2bEVxdG5zOXBYRUtJM1JUVFVhOUNvSzF4bmZzUHhMU2RrbTBQY1RsUHM1TW5ZUw?oc=5",
+      "source": "뉴스락",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T00:51:08+00:00",
+      "title": "코스피 상승 출발한 뒤 곧바로 7,053까지 하락‥SK하이닉스 한때 169만 원 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TNG96U3RnOHMwb1BEc3luN2VQSzVnbTJtcUpHWkdVenRMWXBTWlhIdEI3RTVZRHM1TVFHMFBfNWlwTzZJc2g4Vl9rMGsxRDRDa1pJWXFKUnhkMzlidERBSEFFQzJ4VktUMmxjT1FFUEZOTnJC0gF0QVVfeXFMTWtMUkRlZ1VLTVR6YmNQUlFEeGFzbHdfRVNmLTd0Yk5uZmV1ektKSGM2UHBYX2xxMTVCa0dvUmVYeHMyNEtGRWpVdEVhbTVKNE02enZtSXlqbnM2UDBBS2swNVVBRWt3LTY0aVQxUlBtVVZrbnI?oc=5",
+      "source": "MBC 뉴스",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T00:45:00+00:00",
+      "title": "삼성전자·SK하이닉스 장 초반 동반 하락...외국인 '팔자' 1조 육박 - ppss.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TWmR6aUEzcms0Y1l0MFRWVmRxUGJwcmUtdUcyand2Xzh3T3UtT0VxQnNiOXBZSnNMNFZVeTJHVG5IS3JkdVlvUEJZZXVUTlZHU1lkeGhrWXdkTE9xUldLM2tFR1g?oc=5",
+      "source": "ppss.kr",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T00:40:47+00:00",
+      "title": "1주만 더 살걸…SK하이닉스 폭등에 웃고 운 스타들 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YNURNQU9wNTN1Rzhxd005eE1qQWItc1pEZFpHQk1vZ0NzRjNMUExPbDNFcWhuN05TUENURXlod0FEaU9yVkd1bkJnTDhZaDdtUDlDaUVodXFad9IBWEFVX3lxTFBJdFNET1NyaEhoT3g3YVF5WmVYbXYzTWZEcEJWU0ozZWlGdzlWS0ExZDZCTm9BR1EwNnFtUkt4LVZzZXRXTDJJcXp4MDJvUk56bTYxT1V6REk?oc=5",
+      "source": "아주경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T00:38:32+00:00",
+      "title": "엔비디아·SK하이닉스도 ‘스페이스X 상장’ 영향권…월가가 주목하는 113조원의 향방 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGpOVVhaRlFjSHhyYnVUUTNNODdxM3JXamdoQ0lod0s5MDE3SEdScVpqYjBIQjJFekFFYXZhcmhyTlp4Z1R2Y1lwVHpka19uZ3VJbGRuemRRd3hmTTJFbmRWUng4T3pOX3hpenlPb2xwZGFabjlleHRKMTdZNnRrYmtOcllCbFByalA0?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T00:25:12+00:00",
+      "title": "美 기술주 약세 속 삼성전자·SK하이닉스 동반 하락[핫스탁] - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRN29VM3ZrT3ZvUk8xajY2ZFZRdUY5eG55LVVmejJvclV1cEx6RU5UMHVfNnBfV1pVV1NGczNPNjJLZU5sRXFVNWktYjBFSjRHRkE0b1hicVIxbU4xYU11cNIBeEFVX3lxTE05N01PWEs0NGp3bmpZcGdkbjVvM25YaVJ3RjQ0WmROTWpYQ2hmQXQ5bVlzYmRjY2swR1RrNF8wTENSUnM1Q3lLT1ozZE9ISmYwZml6cEk4R01zNFFpTlhUSFc0Y0RfVDcwNEI4N19FZDRLLTF0Q0xtSg?oc=5",
+      "source": "뉴시스",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T00:07:00+00:00",
+      "title": "SK하이닉스, 2년 연속 경영평가 1위...카카오 톱10 진입 - 파이낸셜신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tb3F5MzZ3bzR1TklBYS1ZNnhHQTB0R0pFbHVzOVp4YXY0UlI5YWs5NFhLVXpXVEM4QTNCamVXblVBWWREdnB4NmVPaDlxcVlDUVg1ZFNGS042dW5zYWFSSnFqZ0NSb0dSSHNZ?oc=5",
+      "source": "파이낸셜신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-20",
+      "publishedAt": "2026-05-20T00:00:09+00:00",
+      "title": "\"쌀 때 줍자\"...삼성전자 베팅한 '주식 초고수', SK하이닉스는 팔았다 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16NUljZVl2R29QYWFQSUl2NXZLY0xzU2VqbW41aDk1SkxLRU84NWxnS0U0dHc0cE51cnlpTGt2allnYlhfLUJWX0dxSWZvM3c4OHJmYXB3SUwzd9IBVEFVX3lxTE5CaWZGTlFGV1NwNmFoSWFMaENKMXFWQVBzVU41cGtXUUNid2lUQ1BmcEQ0N2hBeGtxU2lmZEFob3gtX1c0MDFwN2xBUXBlVFpTWEgtSg?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T23:58:58+00:00",
+      "title": "한투證 \"메모리 가격 상승세 지속…SK하이닉스, 380만원 간다\" - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01VEJkLWx5Tm1BRFh6REtocFRYRHRpV1d6anFUMzRhaDZteVNYOFdRUk9FQU93QVlHU0xxMEgwYzhQRmVPVHZ3VmNkMTF0QVJyNWN1cW41Xy11Z3c?oc=5",
+      "source": "뉴스1",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T23:57:36+00:00",
+      "title": "SK하이닉스 中 우시 병원 내년 초 정식 운영…지역사회 상생 생태계 고도화 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPYlBfNDVpbDdqd1NVeVZla1V2NUFTaUdpV0duUDduVUdPSVM2VFdEMTZQdGVRSFJOQzh3RmUybU14Tno0aW5tVWZzVV92bTVINDFqTnNKdEpTOFI1ZVE?oc=5",
+      "source": "더구루",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T23:56:21+00:00",
+      "title": "[애널픽] \"SK하이닉스, 이제 시작이다\"...목표가 380만 - 뷰어스",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zMTJBOGZuTWkxc2I5S3dxOUh1ZkY5VWNzN3hCNmFBUUZscnZ0VkRVb20wNlJtN1ZfYjktbk5mTkdTRm16REV6NHdkWVVCaHFBOV9uMWpfZXQ?oc=5",
+      "source": "뷰어스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T23:52:07+00:00",
+      "title": "SK하이닉스, 대기업 경영평가 2년 연속 1위…삼성전자·KT&G 순 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VdXZWeHE5N1B5TFhScFIyTmY1MVdDdFlfTWJFeXZSWHJCUW1taDlwNjEzU0xuUnZ3cjIwbnFySTZ4MmYwQTd6bVBwMTJoN2E1YXJqRHlBZUw5dFdqSS1YMnk3Zm0?oc=5",
+      "source": "서울경제TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T23:52:00+00:00",
+      "title": "[모닝 리포트] 한투證, SK하이닉스 목표주가 380만원 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xbzlkXzNiSEdmSGNUZlAwMnJEM3JzbWhCc210SkNrU2xHQmlPRktZWmJ6YUxjZjdreTdQT2pCakZkMWlEXzVaVlBmRTNEN1hZZkJ4dDdDR1NXTlMx?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T23:45:31+00:00",
+      "title": "SK하이닉스, 2년 연속 경영평가 1위…삼성전자 2위 차지 - 청년일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90TXA3ZkpKTU45b1Y0OF9DRjQ3dWE0TEZkcWNZaUJSSWY2cElWX2tYRHZJN2gydnJfbzg2SExBbXNuMUp0YUh0Z1N3QUNDTlM2WDRxSjMzQk1TVUREMV85SWs4MDktQ1U?oc=5",
+      "source": "청년일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T23:32:30+00:00",
+      "title": "\"삼성전자 주가, 파업 리스크 해소되면 SK하이닉스보다 잘 나가\" - 스마트투데이",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tWXZrWE9EN0FGaEIwalhVd2Q0akItanhsa3dSN21weW44NVJ0Q0ZFVHJqQkktX2dMNnpSX2JCVmlNaGdSemJlUElKbk1PWElOcFl2SlRHVnY5RkZCZ3Zr?oc=5",
+      "source": "스마트투데이",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T23:30:56+00:00",
+      "title": "SK하이닉스, 대기업 경영평가 2년연속 1위…삼성전자 2위 - 한국NGO신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqQTQ0aWgtQkF4bGJ6cEwzYTE3QTZGdm9jNDZTQlgta1pHSDl3WkhMdHg0NlNqTHI0MTlERjZwa0hfOXpzOFBFXzF3S3ZOb1hyTjFXN242M3M0ZGRidDlEeFhZNS0wc0FO?oc=5",
+      "source": "한국NGO신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T23:25:36+00:00",
+      "title": "SK하이닉스, 대기업 경영평가 2년연속 1위…카카오 톱10 진입 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUQ3h4MFEtMFlqZkhYeWVXY1kzOUt1Z3JCWEFCLW9iVGlNTS1ILWdNX1dlRlFwQ2owSXZKazJRSlY3cFh6bjRaYS05ZWo5U0NpalZ2RGZNVmtIS2gxaEJNdzB0VzU?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T23:14:32+00:00",
+      "title": "SK하이닉스, AI 반도체 질주 통했다…500대 기업 평가 1위 - 이비엔(EBN)뉴스센터 - ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFNDlEMHVrVWIwUEljUHRqSldxalk3NDdnWlh5aW1PdWI4a1VMLUo3QmZCeWpEeWlCemdmWk9FVHZIaEh0RzNZRlFrUmxjTnpaSlplNW9kUldQOXNRaHJIbTItejJPRk5E?oc=5",
+      "source": "ebn.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T23:14:18+00:00",
+      "title": "SK하이닉스, 2년 연속 ‘그레이트 컴퍼니’ 1위…카카오 첫 톱10 진입 - 뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HUmNTb3ZhTHlMNEpyMHlkVUw4OGpZT2I1aEoyTWFyQ2QwUHVsMXZ0ZzBNc2JpX3JtQ3pWZ1Q5TGh3YmZXTGxEVlB3NWxLZ1VkOWFZWVFYQnV0M3ZLMjgyUm1PcjhORHQtT3fSAW5BVV95cUxNR21VN0RuRjRNNUstU0dlSkFnSFpJajk3UjFPcmZ0SlR1N01CTTB2T2Zab2RkSGtPUHZHZjNpTFROV3V2RkZqbjR0cThSeXdNVUQ4cURRb0Y4aW1xc3JoRlZ1XzRMQjRnd29seWY2dw?oc=5",
+      "source": "뉴시안",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T22:44:52+00:00",
+      "title": "[The Numbers] \"SK하이닉스가 삼성전자 시총 추월하면 버블 신호\"…시스코 유령 소환한 SK하이닉스 랠리의 두 얼굴 - 뉴스스페이스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NcWx4cVc1UDlDRWJiRXdSY2ZLalRjQ0VPMm5WdjJaTURjVXVNdTd2Q0FjSFFEY0kybjNINU4wdDV2SmotZVFDQ0xOSnV2Wjg3QUE5Qk9CR2txT2RtVW5sWg?oc=5",
+      "source": "뉴스스페이스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T22:00:00+00:00",
+      "title": "[SK하이닉스 인사&조직] ③'혜안' 지닌 박준덕 부사장, D램에 '젊은 리더십' 장착 - fetv.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80bS0weTQ0Z2NOMUU3TktEdGl3dTc0TGpDLU9Ub3dudW1qbzMzdEkwMl90TWNZS0ZSZ3F3X2RoU1lPcXBTcUx1RzdUTjVEVWw3SzJEWG0tRXBWOHV0TV9qUG9MdWVKQjk4?oc=5",
+      "source": "fetv.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T21:42:07+00:00",
+      "title": "\"장비 못 잡으면 끝장\" SK하이닉스 정면 승부…4억 달러 'High-NA' 가른 반도체 패권 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWVfZDNJdlQtUDRaTHV5Y0U1dVZWV0p1ZU9QUGZsYVh2RkhpRS1keHF2WnJrWDhvU3lNQVNKQi0tbU1CSUxXYzlPemdTUjFNYjFsb3VKbkZZakwwWExvN1dXTFJ1MU5RSVZmWG92VW1tWkF6Z3JHMGNOZ3ExMlJPSmZZeWJueFNB?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T21:00:00+00:00",
+      "title": "월급의 시대는 끝났나…삼성전자·SK하이닉스가 갈라놓은 자산격차 [돈의 질서가 바뀐다 下-①] - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CbnZNenFrbF8xSXlETVhtdmJYNEJNS2V3UXl4djVYR09rR2lENXBjRS1kV0lkRlJ6cTB3NVcxU1ExNl9ETXZXQ2k4UlllSzVJMVNXNA?oc=5",
+      "source": "이투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T20:00:00+00:00",
+      "title": "10년 전 묻어둔 주식 1억으로 집 마련한 소유…\"SK하이닉스면 53억 수익\" - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jVER6SWVjUkZVU1N4eUtfVm80aVpYMUZHSF9YeXpCX0k3VkxPdTJheENObXhabFFVNThMSHhHSGFzcTlFV3Jpd2JzV2lrVlBJb01PdkNBQ2VhcUpDbEtYUS13?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T19:00:00+00:00",
+      "title": "\"삼성전자·SK하이닉스 샀더라면\"…이해인, 40억대 건물 공실·이자 부담 고백 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NVEl4ZnBhYjFIQnRzX0FLZ0l1RlNocWE4Q0hRMi1rVGpUV1RJcHFpNTZzM1hLcFE0cFJkRVZkZHFRTExURER6NGJXRGZjandUcEdyM21Fa1lCZ9IBXkFVX3lxTE9fZnBrQk1WMHkyc3NjRFFMdUlVVEQ1SVpqcmRBSmZmbS1QYW5UTE5iTnBHUC1Cbjd5bHVBWE0ya21Ka3Q3TmoxY0NQUXo5R2tHT2Y1cFpYcWN3UnQ4c0E?oc=5",
+      "source": "파이낸셜뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T11:16:50+00:00",
+      "title": "SK하이닉스 노조·한노총 회합 왜? - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yaXdqUVZDdk51dkJyWVpVQXFnYUQ3ZnJXUEdXT0tMY2xuOHVTcmIzOGU0YzhVaUNWN21UNnRpWnZtSjZ0bk5YbUJTSG1xT2s?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T07:54:22+00:00",
+      "title": "추경호 \"대구에 삼성전자·SK하이닉스 모셔 와 대구경제 대개조\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ob29pRkJabHY5SHBIcWhmQzhmMFRkRnlKTjFmTk93OXZtN1VKMnY3S1pFVC1DeWx1TVo3Ul92ZUxqLTJwVjNDLTZqTXZILWVJMXVCNXR6VGhEVWvSAWBBVV95cUxOQU9wUjhJSElGQk1OaEtTM3dSYi1ZYzhKemtKcml1TXZWTlRmY3NLRlpYSjVHRDc0UkNwZDlTSjVXZzBuVWVGV2NUeEQtd3lVLW02cUlSaFRpWEs2UXMtemY?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T06:27:00+00:00",
+      "title": "[단독] ‘SK하이닉스 입사 문제집’이 삼성전자 복지몰 인기 도서?… ‘운영사’ 삼성카드, 논란 확산에 구매 제한 조치 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSmVyYTQ0XzJPUFo4dkR0c2FPZWN5MjktbXc2LWQ0QkhHUWFMVk9UeVQ4Yk9ZM3BCU2tNY1dDdEp3QXRuaDFHSGtrTlJGZnAwbVpGUjVfWWtxeTdESEVYa1VvM19oSGtqNUpHcU1RYmpvaDlYS1A1MEVYcmR3OWtFTTJ30gGWAUFVX3lxTE11d1R4V3RLR3BfR0xXZXdfNFpTelFSY09uTVdUTXkwY3JOX3Q4aWlUQ1FfTDZKeVlPcFlxOUZnWHZ6dlhjdzY3TXNzejJMRGJCcEFnbkVoSEFqN25xY0NZNWtOYXNVU0c5akxXY04xM3MyR3JFQnFsZ04xWjR6T0xDU1JCa21KTVlNTGstTmwwdlpMNnYzdw?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T06:02:00+00:00",
+      "title": "SK하이닉스, 그룹 본산 서린빌딩 입성 가능성 부상 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTXpDa0s1bFZYLXpFam5ybUF3YmUxU0FEQnIxSy14d0cwWmVmYzloUGdGczRkYW9sWWt4dkx1a2FtZ05oMTFiSlNEeUJfSzRQdGNobDFtVm5IZVVsS3I4UGhpTmtWcUZXOGRLSlVtOUZpbFhONm5FMU4xWHBnZWFfNHZIQQ?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "publishedAt": "2026-05-19T05:18:00+00:00",
+      "title": "'SK하이닉스 400만·삼성 59만' 노무라 파격 전망, 내 계좌 바꿀 '3가지 숫자' - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM19Yenl2eFJ2dXZsME9mMks0ZGJmcmNybFZPcVB6OUYxQ3pTRFlMSDJaLTJXOGRSbGpEUzlEdnFnMDRBaHVLN1ZVZWtxMkFtbE4yS3hNTmdkYm9kQ1h0U3JBUVZZSnBfZmR5NTV0TEtDSVEybEtpaVBZeDBTRm44ZXhtQUtRUQ?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "publishedAt": "2026-05-18T00:44:19+00:00",
+      "title": "'일하기 좋은 대기업' 1위 SK하이닉스...삼성전자는? - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yVjdaMmdGSDlWQzRKdS10ZVZjY2tiaEdIOGRrMUhnSEtHTG5xSHpNM3FqY3RCeVRlWTZZT0RiN2gxMTZZQnZDZnA1bEtOVW1jSWNIVUNn?oc=5",
+      "source": "지디넷코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "publishedAt": "2026-05-08T07:00:00+00:00",
+      "title": "“공장·장비 다 깔아줄게”…빅테크, SK하이닉스에 ‘생산기지 투자’ 파격 제안 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmWDNzWlB2YjBDUE9HZmRMc29aM3h4TjZ4TTkzS0d4Z3FRS1VsN1Faa3owS1NmTExzT0tzRFlqaVVHSWFjYmg1dFUyR2RvaGEtYkJv0gFTQVVfeXFMUGZYM3NaUHZiMENQT0dmZExzb1ozeHhONnhNOTNLR3hncVFLVWw3UVprejBLU2ZMTHNPS3NEWWppVUdJYWNiaDV0VTJHZG9oYS1iQm8?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-05-08",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-05-19",
+      "count": 22,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-05-20",
+      "count": 56,
+      "pos": 4,
+      "neg": 9
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-05-08T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-18T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T06:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T20:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T21:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T22:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-19T23:00:00+00:00",
+      "count": 11,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-20T00:00:00+00:00",
+      "count": 9,
+      "pos": 1,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-05-20T01:00:00+00:00",
+      "count": 10,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-20T02:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-20T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-20T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T05:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-20T06:00:00+00:00",
+      "count": 8,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T07:00:00+00:00",
+      "count": 9,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T08:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-05-20T09:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-05-20T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}
