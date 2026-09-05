@@ -1,0 +1,985 @@
+{
+  "ticker": "005930.KS",
+  "query": "삼성전자 OR \"Samsung Electronics\" OR 005930",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-09-05T21:06:53.349953+00:00",
+  "items": [
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T15:15:00+00:00",
+      "title": "삼성 노조가 뉴욕 타임스퀘어에 광고 띄웠다…무슨 내용 담겼나 - 주간조선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KOGt0MFRRQnByUXFzTjZiTXBVakJmRHdWZTVTcHpCV0dNbFJLZ3RMS3RYUXd6b05DcVhBMng2N1ZoTG8zNUR2NllSNTZMcUtIUnZIQnFxM3E4Wm5hZXFOQ2lvUERIV1BMTWfSAW5BVV95cUxPYU11djUtSllIYWlwdzJzbG1QY05ZVjFtdHhTcVpnUUF0bUNWLVpaTHE3WjV3MU9mNlhtQVBzcThrdm1SY2NGZUNoQ3dPWmdMZ3VKSFA1eWxwVVQtdkZxZ01LV1RaZVV1VnVobzBtQQ?oc=5",
+      "source": "주간조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T15:00:16+00:00",
+      "title": "'삼전닉스' ETF 확장전…키움은 그룹주, KB는 글로벌 반도체 상품 출시 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vb0N3SjNXRTU2dWJLNGdOY3ZCaEh3RzNKYm9fWjBHb2lnUnAzdk8zR011NlIxc1RYbUo0Zm1sX0VhRG1OcjgyYlNzZ01Vamk4Y0RSbVZRMDlIN2xvbWc?oc=5",
+      "source": "더구루",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T14:52:47+00:00",
+      "title": "삼성전자가 공개한 반도체 FDC&AI “숙련공의 노하우를 데이터로” - newstheai.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1X2FMeVdxZ1JJcWlNOGozOElsRnNoN2FRQmpLeFlIRWVxM2ZkUHdFT2M5MVJqUEp2WkUzd2g1OHFtYk9qXzdncTN2SXRWcTlvSG5FeVRVR0ZiZmJmRndqQVg0Y0V1d3VYMkpF?oc=5",
+      "source": "newstheai.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T14:47:00+00:00",
+      "title": "“CO₂보다 6,000배 센 반도체 온실가스 잡았다”... KAIST·삼성전자, ‘무질서의 힘’으로 촉매 수명 늘려 - 특허뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10NHprTFZjRmRrUjFodFVRM3ltVEkyWm95TTZ0eXBaWUhSY0ZKUlNSSmZYbmt2Tms5amdIQlM3YW9GWWNxdktlbg?oc=5",
+      "source": "특허뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T12:54:00+00:00",
+      "title": "삼성전자 노조 광고 뉴욕에 등장 “위대한 제품은 사람으로부터” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93bWJ2OVVHVUNRUnN2VldfOUU1b2lRdWxwQkhkQUxudDlqN2c4UFdEM0p5enhJSFFzRGdhakdsdDcteG5GRVM0QWI0cktYLWs4b2swSnZIMkRoWmdISzc2TVJiYlcxaEVRcEE?oc=5",
+      "source": "한겨레",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T12:36:47+00:00",
+      "title": "\"뉴욕 타임스퀘어 전광판에 뜬 '우리도 있다'\"… 삼성전자 노조의 사상 초유 원정 광고 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vbXRORVdrOG9RTnlCWEpaUWRmRV9wYUZFaHhZWGc0Q3dMWXF5aTljTGE0Qndld0dGNXZBeVFEbHdFaTBGYTNaMVZYYWFDcVcxYjhpUDZWcGtiMEsyZ25hOXNzcTl2Qk5T?oc=5",
+      "source": "CBC뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T11:21:12+00:00",
+      "title": "삼성전자 DX 노조, 타임스퀘어 전광판 광고로 단체행동 확대 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3UElRbVI5ckRMZ0M5UHhhRldSZ0V0V3pNNy1IZUdWR051SERxZFpqbDF4aV9lME5BcUtVajJvOU13bGNZQXFMZnFTTzNtRXM?oc=5",
+      "source": "v.daum.net",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T11:20:34+00:00",
+      "title": "삼성전자 DX 노조, 타임스퀘어 전광판 광고 - 중부일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ETXFqS29PdkdOQjB6U2d6eFhmdXJTUGhaQnhNOGgzYklDb21CVmNxT2RCVmx3b1BuTHU5N29CbWpDTlNtYk9Oc0dPbEpqSjN5WUgzcU9ZcXZRWWprVHZJNnFweG5jeHNRYkp4X1B3?oc=5",
+      "source": "중부일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T10:55:22+00:00",
+      "title": "\"인력 감축 반대\"…삼성전자 DX노조, 뉴욕 타임스퀘어에 광고 게재 - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZSktMcFFqY25qOHdoZHdTZzd6UnBYX1Z4V2V1TEpBZ1VCODRCUnNLOUxha2o3WUtEZDZvdFlPX0dSdVFQeWxXb0Nuc0ptdHNjUkdoNlB0OWZJNGdGeUhzQWNB?oc=5",
+      "source": "매일신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T10:55:19+00:00",
+      "title": "삼성전자 DX노조, 이재용 자택서 뉴욕까지…보상 격차에 압박 수위 ↑ - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DcTFISkNKQXlnM1B1LVk2TkJOZUN6a3JjQWxGdkNUOE1JaHl3RE1Sd0N2OWUzbG1uVE9OM24xd2RtOXE0WnE2c0NhdlhseDkyX21pTGpycTdZQ3c?oc=5",
+      "source": "에너지경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T10:11:05+00:00",
+      "title": "삼성전자 DX노조, 뉴욕 타임스퀘어에 광고…“위대한 제품은 사람으로부터” - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnJzNXJsbEdpMWh2Z1ZxZm1pYmZHODdZcWFKaUNjcUU5UWxUbk5jTTVEeTVQbzZpOVRwSmVWNjVGM1Z3bzVOZGhKRjBfWlUtWEJhT1RmbkdDbU5DWldWNmtyaDY0Z1N4WElMWkVOY252WmxSVFhhc0YxRHJSWmhMQkp1Y2prQQ?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T09:40:56+00:00",
+      "title": "“위대한 제품은 사람으로부터”…삼성전자 DX노조, 뉴욕 타임스퀘어에 광고 띄웠다, 왜? - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XUDBMWDNPbV9ub2NSdlU1TkpCMFcybFJ4NHRpUmlUdlVnakozdVk1N0lCMTFqdDl5TG0tRExEbXhTQTFjWFZkRXBJSHBSUQ?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T09:17:14+00:00",
+      "title": "\"우리도 있다\"⋯삼성전자 DX노조, 美 타임스퀘어에 광고 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mRWxuMkRsVzBkM29XcTRDWUpJcENLcmRNLTRIUlUxTnlkaVU5YVpZdXBzQ3Q1UHdjZWdicjRuMTI3dmdZbFkxVVlpMA?oc=5",
+      "source": "아이뉴스24",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T09:13:09+00:00",
+      "title": "삼성전자 DX노조, 뉴욕 타임스스퀘어에 광고…\"사람 줄이는 AX 멈춰야\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyejc0bHg0eWowaFllVUJsa2dIbWZTcGlrQ2pzenFnLUFfVlhyTTU4NjFRdHNySWVmdVFDREtzN1Fia2FacE8tM2VRUWkzRHcyRUNDSFMwcWZtZ1V1eVFMRWxvek9KM1NySnVIdk1QVk8?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T09:09:00+00:00",
+      "title": "삼성전자 노조가 뉴욕 타임스퀘어 광고에 띄운 한마디 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EZUI4Vi00Zi1YdlpVTFE3SzBUczllRVRYYlRRcHRmanIwME8wOUVGaUhkZ3FHaXNGUGtxSWVMLUdnOURpRHlvUDlaTjQ1Uk0?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T09:08:00+00:00",
+      "title": "삼성전자 노조가 뉴욕 타임스퀘어 광고판에 띄운 메시지 - 국민일보",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdmlWeTE5UVdSbWpWclpSYVlmb3RxT21UZ1l5bVlKb251Q0dZeVlLdk5Ha1FmLXJ6Q3g1MFpoeHVTSExsdVNyZVYxSTAyMVh1ZnByeWVwamFZUC04ZkcxTmRLUU5PYi1HcjlrODJEanVkT2lyd1JwVy1CNFE2UHgxYlN1MlNnbzhtaHdRdHhjYVZBeFZhX2fSAWxBVV95cUxQQUtCNmRPTHlkVGJXUEVubVZRTU9uR19ndjEyZGFZcEpGRkYxalVHbS1pQVM0S0g5VENKR0YtaWxxbkR6aVRjLVoxY0dDY3V5V2ZpZkVweDBVMXp2cTVaVGlORHQ4eDM2SHR6OHA?oc=5",
+      "source": "국민일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T09:08:00+00:00",
+      "title": "삼성전자 노조가 뉴욕 타임스퀘어 광고판에 띄운 메시지 - 국민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tbDhXN01CeUZaYzNoU1QtT3FKbjBFYUE4NER0aV9XaVJwcWVqc0ZsVzdCM3E1a0ZaZDdPbEItbTlMTVRnQVhaUnJJNVFTdzl0ZEdaOHRWRTZiOVlrdndGTXR0cEF6RGfSAWxBVV95cUxQQUtCNmRPTHlkVGJXUEVubVZRTU9uR19ndjEyZGFZcEpGRkYxalVHbS1pQVM0S0g5VENKR0YtaWxxbkR6aVRjLVoxY0dDY3V5V2ZpZkVweDBVMXp2cTVaVGlORHQ4eDM2SHR6OHA?oc=5",
+      "source": "국민일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T09:00:22+00:00",
+      "title": "삼성전자, IFA 2026서 ‘크리에이터 허브’ 운영…AI 방탈출·콘텐츠 제작 체험 - 라이센스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3aF9GeDdQLW5SQlh6WlpNZ24ybnZNXzBsSGFXSjlYaVdmQ3RaakszYVpqb0dCN0o3b0lnbFRFTFhtWnJFSDRPYWEyejNkZVNpRFZOX2R6a09oWm9HRFN0QXQ1ZnhucnhUZk5J?oc=5",
+      "source": "라이센스뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T08:53:44+00:00",
+      "title": "삼성전자 DX노조, 뉴욕 타임스퀘어에 광고…\"우리도 있다\" - ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlWUJZNEprNWx0dVlBc29MSnlZYUpmbFhOYWNxbENEdFFpNGZOU1FITElUaVI2MEFlWHpqcFF3cE1NOUVubzJQT2hxenBzOEJwVDFScUlVUk12cWhkcXhaVFBRbmFuNTZn?oc=5",
+      "source": "ebn.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T08:25:40+00:00",
+      "title": "삼성전자, IFA서 'AI 리빙' 전면에…TV·냉장고·세탁기가 생활 맞춘다 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kTjFyRXI4SUhhMVVPeVh1bTk4eEVOUktUTjlLU1NFaDB5dGtpLWMxZ0RzRS1QcEZVbWdVMFFjUnZZdGlJLVFkMzZxM2duNldNMlhId2hiY2ZEdTM0Vm9DTUhfaWPSAWpBVV95cUxQSHFXYWd1Q1J3RHZJTEdpWlFPM3hOMGI1YjB4UTNhYkdDeEtMTktGbzZIZnJzV2pIQldpMkM5UDhGX213N0Y3TWktY1d3Q2hmejcwbXc1SnZuVFJmeGlLQmVRLW9ZdkZZTjB3?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T08:05:27+00:00",
+      "title": "삼전 DX 노조, 이재용 자택 앞 집회 예고…뉴욕 타임스퀘어 광고도(종합) - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01eWswTm51SmtUSE1VYUQxOHlic09fTmQ3bC0ydi1pUUthSW9YSF9Qd3JuLVJ5dEVMbm5TNDlaVUpLSFJEM0drYk5ZOGlLOU0?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T07:52:00+00:00",
+      "title": "삼성전자 동행노조, 뉴욕 타임스퀘어에 광고…“위대한 제품은 사람으로부터” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82TGIyWjZGQU5iYkM1Z2hUeFJfR05uRkJaQmpjWkZCbTlGQlBvNzRoc0c5V2JuU0JWdHNoLWVfQkNjbXpuUm9QU1FyVGhDSFE?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T07:50:00+00:00",
+      "title": "삼성전자 동행노조, 뉴욕 타임스퀘어에 광고…“위대한 제품은 사람으로부터” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZFZrZ2xjUnVDSDZMb042c1JfTF8tT0FYMVU2TWtXYXlPNU9CSHdmNzVmaGl6c2lJRG9SeUItRTI5QmpwcW5nMHNRbnFXaEVicGI0VVI2ZlhiUdIBX0FVX3lxTE55R2RsQkk5d3UzY1l0VG9pSFJhRTNxaVE1bXo0WnRPWTZoOHRoaDBBZTlDNUdhYnFwQzB0eEcxeWF5WG03RE5uR1dCQmVWMU51ZjZ0WU5qWnJIbi1IN1Q4?oc=5",
+      "source": "경향신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T07:40:25+00:00",
+      "title": "[영상] 삼성전자 DX노조, 뉴욕 타임스퀘어에 광고…\"우리도 있다\" - news.sbs.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zVW00enZfOURNV090YVdJM0lvQXUwTEVWMkkyUUpwYnlkQ1UxYS1POFB3bjFMMGptdjhqQ2kxSV92bklLY29LSEw2WkVzemZTN0hPLUswS1gzSzVTSXprRGpta0RuYkJ3VWfSAWZBVV95cUxNRTUzOHlGZUEyaUV4bTN4RWQ0dkhiQTlWNmlhMmJWNGZqeDZqWE83Y0Q2MWV3ZUY0QTVYS1VtdEE1YXpMVmktek5xOFMyMndBbnJva0M5dnZNNmNCcDFsSmtsbEJEX0E?oc=5",
+      "source": "news.sbs.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T07:15:01+00:00",
+      "title": "“우리도 있다”…삼성전자 DX노조, 뉴욕 타임스퀘어에 광고 띄웠다, 왜? - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JT2J2STV5QnhOeHJaS0tMaEUtTjdjaWZ4NzNXcUhSZzkydk5yeTF2elRBbjlWdXE1QTE1Z1RER3FnVVJBR0ozdkttTkFqa2c?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T07:14:33+00:00",
+      "title": "“우리도 있다”…삼성전자 DX노조, 뉴욕 타임스퀘어에 광고 띄웠다, 왜? - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nOFJTYTdJUlJkdTlXU2VXb29KSmtDLWcwZ205NjVaR1Nja251OWVTZlExT0loOG9lOGFkSkk4eElIWEotMjlhZ3Jna0pJOVR0YlpySGpR?oc=5",
+      "source": "매일경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T07:09:12+00:00",
+      "title": "삼성전자 DX 노조, 뉴욕 타임스퀘어에 광고 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GNzJKWDVhckZCZXgtUEpKOC1JUWpsUWVlak5ULWdOMngxZ1pQVGtJcGFua08teVM5ODRZUTR6YnZMQzBDbEs4U3ctLTJHZ1U?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T07:09:00+00:00",
+      "title": "삼성전자 DX노조, 뉴욕 한복판에 광고…“위대한 제품은 사람으로부터 시작” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAySXdmS3kwQ0R1cHFiNm9aNUE5d1NDUHB1ckpGNEtSOFNzMHlkakQ2MTV2XzlZa3E0TF9KWkwwaDN3M2p6SUZXTFRXeEw1UlE?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T07:07:27+00:00",
+      "title": "삼성전자 동행노조, 뉴욕 한복판에 띄운 한마디…‘사람 줄이는 AX’에 공개 경고 - dt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jcDlpOVA3alZIVVFaNFlKUnBnMXVQOVJzb09ldGxDTHJaVFVXZDdKdnVXY29OM1VCa21wOXJhUTJoRWVHNFJ2T0c3a1BlZw?oc=5",
+      "source": "dt.co.kr",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T07:00:02+00:00",
+      "title": "\"2028년까지 메모리 공급난\"…증권가, 삼성전자 '주가 재평가' 전망 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xOU5JZlVpYWI4MTZpS1hVSkp3SXg1YXFVdjRXOFdEZ2h2WjRzaTJ0WWtNRjhBX1owWGx1N2RKeFBTN3lQeGQyaTZYNmJ3aVV4V2hBaVhB?oc=5",
+      "source": "지디넷코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T06:53:52+00:00",
+      "title": "삼성전자 DX노조, 뉴욕 타임스퀘어에 광고…“인력 감축 반대” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wbDNOLWRhaEwyamNWX2ZiVmZTMEdQX3poeE5oWFM4SGxzV1FfQ0xOZS1RZXJidUI1RlB0elFNVkhvYjhCWlJjTnUycVl6Nms?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T06:52:00+00:00",
+      "title": "삼성전자 DX노조, 뉴욕서 ‘인력 감축 반대’ 광고…사측 “사실 아냐” - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KUFFueWhWN0NiMFpDWko3ZUJwSHJ0MUd0aEhmUEMtbVVBQm9PREdrQzdXMGhSSXU1dDFaelV1Z2FGYzBHUEhQNi1XZlFUWjcxTFVsajNJOTdMX2s?oc=5",
+      "source": "KBS 뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T06:45:36+00:00",
+      "title": "삼성전자 DX노조, 뉴욕 타임스퀘어에 광고…\"우리도 있다\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NdkZHN0FvMHRSZU83OHhEeFpkUGlTVEhGVzdZeUVmZGMtUXBqejN3UTNLREhzSm5uNHBoR1hHdF9GMlpleGRzd0MydjVPVzU3QUNibEV4YmhSMTTSAWBBVV95cUxNYXRxYVZweWt6WGRMemJDVlQwUFZnUW1VWXcwd05oUnFJbUVTRi1GZHNVZ0pyTlEyX2RDRkRvei02cV83RjhaaTRpLWJ0R0p3RlBjaHFBdWZZZndsNl93alU?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T06:32:48+00:00",
+      "title": "힐스테이트 고덕엘리스트, 삼성전자 평택캠퍼스 인근서 9월 공급 예정 - 리얼캐스트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlTDVMSWlKTWk5UGtFZzIzOHhaZ0M2b0ZYdGRnNkkxcXVCTzJvdkFiOTc2R213YkpwNVBNbllnTXJKcDluZHR4Z2lyUlFvbjhDSEVGUGotQ3daV3F3Ti1KQzJUMUowRlhQ0gFsQVVfeXFMTjNha2t6ZGV3d1VKaDBXbkM3TDhxREt4UWFuenJYdmhweUVFWjVaZDRBRXJMYnRtYTlsUlozNGlROTBiVjluZVdWNEE3aGNfWUlaOFE3QWNtWnVIWmxocEJzS21wWm8yMTZIbHhx?oc=5",
+      "source": "리얼캐스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T05:43:00+00:00",
+      "title": "삼성전자 IFA서 'AI 프로모터' 공개 - 전파신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaQU1QaDluZWtMTk92MnNnV3YzZGJEUFl0WlJKRS0zRkUzUUVQVzdlVm9HTEVuVWFuVTRWOGpxZzl6X3JTTi11aFJhbGIxcXowOUVBdDdudHhrc24yT29VeklQdVAtdXQ0OVE?oc=5",
+      "source": "전파신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T05:29:20+00:00",
+      "title": "삼성전자 DX노조, 18일부터 이재용 회장 자택 앞서 집회 - JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sWHlQZXM3QUtUWjQxRElTV2lmOUpDNWRGQmxjMnBGTEd5d2tRSGc4SVhfVFN2dGJUYmhTMV9EUkNXVV9FWWR3X0FOSTE1OTJZZVpBag?oc=5",
+      "source": "JTBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T05:20:07+00:00",
+      "title": "\"팹 20개 짓는 TSMC, 건설 인력 없어\"…삼성전자는? [강경주의 테크X] - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wdlpOckhwQkRQbVZmbkpwcGJUOVU3NGlmQjBxWHFvTHRhNHVmNnlSeFV4WDA5eUxuRnpEWGtoM2U2aTVyUTN6ZDdPcnhmSXBL?oc=5",
+      "source": "블루밍비트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T05:12:26+00:00",
+      "title": "교섭 끝나고 “자사주 1000주”… 삼성전자 DX 노조 ‘뒷북 집회’ 논란 - 천지일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44cXBjMmFxNGtpRlVxZzhnS3E2OVBWSmdfbGJrekdkVmpvNXRZLVNKZmNIb2s2MWZ3Y1p2WmItNUF4Q1ZHZUF4eXhheFc2emlKWHF4b3c4UHFlN3VVTXVYUXNlMDhIb25POWc?oc=5",
+      "source": "천지일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T05:01:00+00:00",
+      "title": "B2B 고객 ‘모신’ 삼성전자, 도심 속 전시관서 ‘빌트인·에너지’ 강조 [IFA 2026] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GQWtQZjZNanRNMV9fOGpHUlBneFMxUUFtSTgxSFNfUTA2WkFVbVowNEx3OTUxbjc1R2pLazEtcF9CQmR5NkM4cDdKdkFOc3M?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T05:00:11+00:00",
+      "title": "\"돈 쏟아부어도 이건 힘들어\"…TSMC 이어 삼성전자도 '비상' [강경주의 테크X] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mOExhYVVEallBYzk3VU0xdFB2eTVJZ185RkJkM25sdF9Gam1WRUpLN2dMU0ZELTVOR0R5VVhUemJYaU4xRkE0MHk4Z055ODV2cEtaQ2VUZTJ3UQ?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T05:00:00+00:00",
+      "title": "삼성전자, 무주택 임직원에 5억원 저리대출⋯'삼세권' 수요 늘까 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82emQ2R1JkOV94ektzLXgzbVZNbUdNcnY5YnZvU01RQ1k5eUQzN3oxbXMzUWlyWGc3UHRMc3JmQlNkVTVpTW43ZzdqbWcxYWlITnRUcA?oc=5",
+      "source": "이투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T04:46:48+00:00",
+      "title": "삼성전자 DX 노조, 이재용 회장 자택 앞 장기 집회 예고…“보상 격차 해소해야” - 뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iUWhtb3FiV0xfT0xDWVhFR2tnSVlOSHhBSHJFZFRkdlBoQVFQYy1teEhjOURLUDhIUGpuY29KQm1UMmF5UnZKdDVLVFBzcWlsa1p6dlJkZllhOEpJQjd0N2pOMkJ4MTJNMEHSAW5BVV95cUxPQUNLSW1kc2M5bGx2QTZEUnlBdVlBQW14RzllZ2U3VXJEbWFNQ1ZlQmF6U3lxbWVLbnYyZ1NXcGFRRUw4MXZIWEZ6cXptemdDakFvSTRad3lQRElHd2NWaEE1VjFMWTZPRDBBVkFCUQ?oc=5",
+      "source": "뉴시안",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T03:34:03+00:00",
+      "title": "삼성전자 DX노조, 이재용 회장 자택 앞 장기 집회 예고 - 진일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MYXhyY1ZBYWwtLTMyMDJORlVjMzFsal8xTUQ1bC12N1FsR1VBcFhfWWNQb2dULXlhQjM0ZHdjRjFaMVNabzZTQ0VndlJqQTRfQnFPQW13ZW82X084U1NKSVFfWi1PaDJ4ZzFLRC1mRQ?oc=5",
+      "source": "진일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T02:33:46+00:00",
+      "title": "[D-BIZ 기업 혁신상] 삼성전자, IFA 2026서 혁신상 4관왕…'비스포크 AI 무풍콤보 프로' 최고상 - 데일리비즈온",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQlVvTDFXMU9xOWUzZWREc0lOT2d2ekM3Q18yeEcydk9ROHlhcjFTVHRRZmNjZnkxcC1mbU4wVHN3M09zZXpJa3JiZXhTUlFseUw5VENRaExmTko3YjFhb3E4MFBPaXdFa2pZcQ?oc=5",
+      "source": "데일리비즈온",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T02:07:13+00:00",
+      "title": "삼성전자 DX 노조, 이재용 자택 앞 장기 집회 예고 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nU2hELXlMYTNQNDJBZHJORUhMRC1HcEthb0FWVXJQNk9DOUs4UDlZckJqdlJ6N3hiektTVWhaZWxZYTE5NEFBOVBaekdsUWQzM1JocnF6amlSc0VrSjd3UTNJbDdfeVhKZ29WRmxmVXrSAXRBVV95cUxQcDBiZE1BM081anlVNGRpaVRlOFl2eUE2WGRnbWJONlJ4UHNETEphTGxYcmZoVlNNZlZ6MkpxU2UyVmlFSkU2a1ZzUGgtN1NpLTVJZ1hkLXVYbGlKU25XM0MxOUprZEktcFNkajNYVGZ4cU9CVg?oc=5",
+      "source": "IT조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T02:00:00+00:00",
+      "title": "삼성전자 DX 노조, 이재용 자택 앞 집회 예고…\"자사주 1000주 달라\" - 주간조선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HbFBWc0d0N29UOTdTeXRhYXVxQzBUa1Y3anlxOFQya2txVWQ3N09PRW90WTZ4X29FZ0k4T2gtUmJhNE9jYUpGcDJ3enpCS0hIT3c1UlR5X3lQN2dNZkFIU2NneHlFcDE4R1E?oc=5",
+      "source": "주간조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T01:49:31+00:00",
+      "title": "삼성전자, '자원순환의 날' 앞두고 순환자원 성과 공유 - 뉴스포스트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BV0FiN00yenQ5UVJFMXo4NGwxTzA3N3ZjSDFjRE0xU0tUZU0zSDg2U3hVMGZYVF9TdTUxbGVBeFRLWEdJR0NmQ0NDdGFicEljMWRYUE5kUHBHdldqOW5BX0RwMl9VUndO?oc=5",
+      "source": "뉴스포스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T01:15:00+00:00",
+      "title": "삼성전자 DX 노조, 이재용 자택 앞 장기집회 예고…“자사주 1000주 달라” - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUtadU1KWmdGZDRmVVk2UTc5NDlRMlhOS013MVB2NnZHSTdLTWU1YkhBS1YwZVBiWVUyVjdHTGY4czNUcnE1MHdJZnRQNzJ6M0pjdERvdjJXT1JPWjdFZlgwMUlpbEpmUFRTT1I0eWVFMzExNzRUWkJMTjJhNFd0b2JkWTHSAZgBQVVfeXFMTzdkd0lPeGJBTjFfQXdDeWFMZzFfRkhwZkZRai01ZkZ2d3VDaG9ZbVB3MmxPQ3pONk5ERDVrSmNnVEt4T1cxM2NtaXE4R0sxMzA1OWlwaXNtTVhPSnJ1SFlUM3VGdnpqckNaZnY4aTBYNHN2Y3hkMXpEUWs1RlNnbEFwTFk3MjdFNi1oQzFDZmpIeTFENnB3d0U?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T00:43:50+00:00",
+      "title": "'노조 블랙리스트' 삼성전자 초기업노조 위원장 검찰 송치 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qM3JaOExVNlVWbFU0MXJJSUI3TlhXNDJEMVB4dDBhQ0hwVzExckEwb2JvbWhCbkxXblFzMENYbEJOa0VxSjNUS2h6bEpFZVpjeURlOGtRRllPbWvSAWBBVV95cUxOd05LWWpGaUF1eDhqNmJxeTUxZkdIb2xUWF9NOVZPMHpXUmlQTHRWekktamJnWDd0akJudi01YW9mZ0JkcjZkeGkxLURjWWJDelVOZTJpcnVWN21RMERtazQ?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T00:11:00+00:00",
+      "title": "삼성전자 DX 노조, 18일부터 이재용 회장 자택 인근서 집회 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nalVGODd3cURWa0h3b0g1TXNjbXNIR2MtVXpaTGM1Y2JKVlZRVVJpTUpTNXVZQXh2RXhCSjlpTFNWV1lRTDhBNUVOODVhdjVfS3FzLTFIRHVVZEw2V3lBcUdHdFE?oc=5",
+      "source": "서울경제TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T00:02:00+00:00",
+      "title": "올해 IFA서 힘 뺀 삼성전자…내년 CES에선 '로봇 손' 혁신 기대 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tdzhXeDA4ZlBiNVpCVENfLUFmaGtFM1lHMVh3eVZnZmNqTnRaNU9mbEhLcl9OeTJrSTd3dVJ6SC1CSEE4bVRSVk5PUnhMZFE?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T00:00:02+00:00",
+      "title": "올해 IFA서 힘 뺀 삼성전자…내년 CES에선 '로봇 손' 혁신 기대 - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kd2piQWJOUW1qaUdzU1ZXV1NZTGlIMDBQZENVS1EzbnpIUkRLclFCQk9NNjdRX0hPbC00Vmd2STduZTRFT2ZaVVMzbUN3aGpKVXhLUGFPZDJrdkdDQkFJeEt6Zzk?oc=5",
+      "source": "MTN 머니투데이방송",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T23:58:52+00:00",
+      "title": "\"자사주 1천주씩 달라\"…삼성전자 DX노조, 이재용 자택 앞으로 찾아간다 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tcG1nRThnSU1OaXBXRzVLcnNMbXlIQlplT05UTjVjQnkxdUVnVXFzZlV0S3VST0pmdi1VeUt5VDg1QVI2a0I3VVp1cEpoOFk?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T23:57:20+00:00",
+      "title": "삼성전자 DX 보상 불만 확산…노조, 이재용 자택 앞 장기 집회 예고 - 산경투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zWFkxZDFkOUZndDhOV1RpemlrNUtUeXJvYWZfQzA2S3lzMHpRUnplMHVHUVBYdWNBeEhwZVc3SWdmS2VuYkVEX1JNSXRreDRqZXViMjRCUFN6cTVzYzRwQ09oUXJnU3hUZElTSjBVUjbSAXRBVV95cUxQOXpXTE1aVEthcHpDZ2lzVFBFeU1ybmhtRFROT3BXMXpFMFdtWnRlUVdySUNvLTZRYzcyRzltSFVaWkdQdTBJVGwzNE1oRTBXOFY2RUdmZkhyWHZBVVZiMk1BOUZ6T1ZZcDFDdndHb29UT3FtSg?oc=5",
+      "source": "산경투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T23:57:00+00:00",
+      "title": "삼성전자 DX노조, 이재용 자택 앞으로…18일부터 장기 집회 - 경북매일",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ERnI4ZEh5bUcwekxRQTZneXBhOS1uNHpDY0dhWXdLQ1A0OWp1MWFieEhybG5mRjUxcjBnQ0FqUy1Kbk5WblA3ZDhiMWVhaW5EMGxGNWZGT2Jjdw?oc=5",
+      "source": "경북매일",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T23:45:09+00:00",
+      "title": "“노사 합의 끝났는데 또 집회”…삼성전자 DX 노조, 이재용 자택 앞 장기전 예고 - dt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GemhrRlJQa0E5SlFxUG1hYmVOMjZQMWd2Y2VydFk5VjJVdTdDOXlkMGR2NnFVR0RxYjFpaDZjbFBaOG5kR1drbjBKaGpJdw?oc=5",
+      "source": "dt.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T23:38:29+00:00",
+      "title": "삼성전자 DX 노조, 이재용 회장 자택앞 집회 연다...1인 시위도 예정 - 조세금융신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tTEt2LUp6dFBSZ3VTcEcwRzBEaTZQU0FiX1RwY29HdkY0b0dHUk1tU2RPLUhSN0J5ZzNoZzE5VE1IcVFOSHRBLWd5MEdUcTBhcTBZZmJaTXRlYTZVREVRT3hiMA?oc=5",
+      "source": "조세금융신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T23:31:00+00:00",
+      "title": "삼성전자 DX 노조, 18일부터 이재용 회장 자택앞 집회 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54c01jQzBwZG5ienVvajV1OUFIWFNzUkpIbUNvVWJaNWpQdzVyTzlIVXZvblZlU2pxRFRNaUlIZzhWUUlGdko2OVhkVWFQMGtHbnpoOVBRVzJlaWvSAWBBVV95cUxPZWkxblExM2tCUGw0ZEpkUlRON1JlZTNFVDh4dmVxeEx3N2RqUnNyRHpOdjlKX3VEWm9wLW1NM2hvMnlWd3hwN1pOYkd3YzlDdHk3RzVLTDc0Y0gxLWR5WjM?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T22:58:42+00:00",
+      "title": "삼성전자, IFA 2026 ‘혁신상 4관왕’…AI 가전 존재감 키웠다 - 한국NGO신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LVE5MNm9leE9mMmpXNEc3TW1LQ00wLXdxbmFuc1RuQWw3cl93dkltTXRWQWl1RHZyckpZSlBPek9MamZSdi1ncHdPcEJFWGt2OTltMldCeF9OWDk1OGtNZlR6SE5kYzlV?oc=5",
+      "source": "한국NGO신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T14:14:00+00:00",
+      "title": "‘삼성전자 노조 블랙리스트’ 초기업노조 위원장 검찰 송치 - JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OOVNkV3dLaGpOOTY4NUVDa25yZHB2X2tPTHM3ejNyQnRIRG5DRHIwbzUzVm8weF9kZmlXcVJ5a05UYXVBSWNFOXhhbG1LVkdLWGlmRw?oc=5",
+      "source": "JTBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T13:25:47+00:00",
+      "title": "삼성전자, ‘비스포크 AI 무풍콤보 프로 벽걸이’ IFA 2026 최고 혁신상 수상 - 인공지능신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91ODJ4NjZMa3c3cV9RSFloSkEtOGllZDFqX1ZDMUd5S09xaEx1cXVIRVpYOWtLRGRGSlpEaW9IYVdKZGhoTTlQMTVJVGU0UmptOFA5eFd0RUlfVmx1RG56QUNsUi1lY2s?oc=5",
+      "source": "인공지능신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T12:30:00+00:00",
+      "title": "삼성전자, 'IFA 2026'서 혁신상 4개 수상…'비스포크 AI 에어컨·냉장고' 경쟁력 입증 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PcG9IWXo1Nmg3Tlh4LUJDQjhkUkd5YXpwLWhSQjBXakJaLTF1VEZreDJuQVZ6aURLUjJNSWloWkhzUjVCOE9EaHhnM0dXU0d4SG4tRENDSHV4YjhtaDM0Sw?oc=5",
+      "source": "아시아경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T12:12:48+00:00",
+      "title": "삼성전자 '노조 블랙리스트' 초기업노조 위원장 송치 - KBC광주방송",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LZkFmNTVhOXdfeHdyU0k3Q3p4WnlRWXBDTE1KcHVPUlN4RzVKTEpRbmliNHFwUU83S0hSQ2x0bmdmckl5aVE1eFBWNUNjM2ZXa3JFZ21mZjNSYzBrS1M5Sw?oc=5",
+      "source": "KBC광주방송",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T10:58:00+00:00",
+      "title": "’삼성전자 노조 블랙리스트’…초기업노조 위원장 검찰 송치 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KMkozcFFBLThRQVpWUlpHb3B5OEZKTVRtd3dxeDl1YTZrRWlSclhubks4aGpwMkpwRUxJNkVRZUkzZjFMN2poMk9hN0ZnNzgxOEhRci1RbmpaaUZWX01YSlhwN2ZKeFk?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T09:59:00+00:00",
+      "title": "단독 삼성전자 '노조 블랙리스트' 초기업노조 위원장 송치 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15QW1PNm8wdXA5eEVCYlU0MnR1OW5XSERVOW9BRzBHTWFmN1NUR0t6aHVsRjFyVWVoZTdZendPUEZseW5qblVUclhSLU5YMUphMEQ3ckZ3bk04OEdIcFE?oc=5",
+      "source": "YTN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T08:24:00+00:00",
+      "title": "[비즈&] 삼성전자, 독일 IFA서 ’크리에이트 허브’ 운영 外 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UODg3Z3FuTFl0b1ZqZk1ULWxlNHJPcWNFcVdkQVVMWEswdHlKZVBXa3BlWFNtdGZMbG9sUlEwcXZWZENIbmhyaWRyM25pUFAxbVFLYTJyUWYtdWJObGxMREFSVU1lZmM?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T07:00:00+00:00",
+      "title": "한전의 25조원 청구서, 왜 삼성전자·하이닉스가 선납해야 하나 - investchosun.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFE0V3lhZHc1bDZ6Ykd0Z1V0dUlZSTVKdlBxOE56NGhLSGhPa1E3VGtQandsdTJOeXZOQ1pWdXpnOHE3eVVyZGx0b09EMGhhZDhqZV9LVHR0NE9UNDdvVkVFT0Q4MEtrT21ZenAyamx1OS1WR1QtTnhXNTNYcjhyWFpJZw?oc=5",
+      "source": "investchosun.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T07:00:00+00:00",
+      "title": "[단독] 삼성전자, Arm과 차세대 '온디바이스 AI 칩' 공동 개발 착수 - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41Qk9Zbzc2MXZkNFktWEI4UVpwX2xqaXI3dUdZM282RG01WDY3MUFnQ3NEb092b0UyVS1Rb3VhNUs3SEt3Q1k4QmFFcmo4MEZCcklqMUhUMGVhRVNPamo5ZjI5MWF0WFps?oc=5",
+      "source": "녹색경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T06:15:20+00:00",
+      "title": "삼성전자, IFA 2026서 '크리에이터 허브' 운영 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xeXBCdjd6NEp6OV9keHhWN2RTSGVJUU5OY1NudlJsakxkU1ctdmt2QTdxbEpUZnJvSUN5YzkxS2lMUTVrb1NTNV9KbWhYalNnMTVwdWdlOWVpWWJWY0NiUnJ4SHNWZw?oc=5",
+      "source": "디일렉",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T05:52:09+00:00",
+      "title": "경찰, 삼성전자 '노조 블랙리스트' 초기업노조 위원장 송치(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LLWpUUnpCLVhUcGg5S0MxQ2huVWx6b1Y4NU9DUTFjWXhlR2QxSWZ2OTd0b0Ywa0I1Y0lrSmFlNUh0dXJ1M0V0ZHl1NGJOdHpCaVdRTFgxV2JvS2fSAWBBVV95cUxPUXBlS3lmdWZkam5JaldaVVJ0bGRhMUxpYy1INXhkLXVjbjIxSDlkT2UzVHZqNkhqd1FuU0Y4d0JPV1luVDRMX2VWOEFRVVpXRkhEdzJIb19sd0FMWDJfQy0?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T00:43:25+00:00",
+      "title": "삼성전자, 순환자원 인정 누적 38건…폐기물 자원화 확대 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBicjVmVERFcV82ZGpiRGktVTBmdHlLaE15RWdUWFFJWkFLX3NFRlZKRkdvVl9lM0xITkNXUXVyV1l0NTBtaEhVYXlTVUtsMHpWazh6T3A3LWdCSFdNQ2NnctIBYEFVX3lxTFBicjVmVERFcV82ZGpiRGktVTBmdHlLaE15RWdUWFFJWkFLX3NFRlZKRkdvVl9lM0xITkNXUXVyV1l0NTBtaEhVYXlTVUtsMHpWazh6T3A3LWdCSFdNQ2Nncg?oc=5",
+      "source": "연합뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T23:00:00+00:00",
+      "title": "삼성전자, IFA 2026서 ‘삼성 크리에이터 허브’ 연다 - Samsung Global Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdmIxRVpoTzJJUzlsdUJjODl5SjZ6ekt1Ul92TnQxTVdERkFEMEZVWU1MRTgwME1Wckg4N3h0SGlKSG9XS29mcVVSaHZHSHVGR2FLeE1VNlczLVZfSDBJaVM2VElvUDdQQmp2Y2h4bUE3OExaNG00cFptWHVoZU92REdrNlVtRm13VzM2bjhBZGlWX3p6ZnFDZFowdnl1ZFI1b1cyZFBKNGd3LURyc2RkQVRHWUhVdEtXaTJ1UHhYaEcwdzJ1VTJpcWVpMEZHQWxSVVJJNjlYWWpQcnRGdzJ3THJheUZrcFlQSGxRYTR4NG44TS1JNGJYWEF5c3lqdnRhbWxycTU1UmZlMXROT0NpczVJMA?oc=5",
+      "source": "Samsung Global Newsroom",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T07:37:39+00:00",
+      "title": "삼성전자, 새 디자인전략 공개…\"갤럭시폴드, 삼성 혁신의 상징\"(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRd3dKR0FQMWRJTExoc0E5cXlpY0xSM0VOVWxXbGVoSzNnSzR4NEdXb1FOckFCamRwek1nU25sc19NVzZQVFJnS0U4YzZmS3BmRm8xM1FvSWJRdVhSN21pU9IBYEFVX3lxTFBRd3dKR0FQMWRJTExoc0E5cXlpY0xSM0VOVWxXbGVoSzNnSzR4NEdXb1FOckFCamRwek1nU25sc19NVzZQVFJnS0U4YzZmS3BmRm8xM1FvSWJRdVhSN21pUw?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T07:04:00+00:00",
+      "title": "삼성전자 2분기 HBM 점유율 21→33%…SK하이닉스 1위 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xUjBGTDlHVWVKekdKblFmcVVVZHJQbHd2S19Za1FXU1lCZWpEaENSMUlTYTg3aFZlMkpSZm1RUDlZdlVZbzhUczVyMDA5c0xnblpEOE9KOHhDaEJiN1U0eDBubmNGaFk?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T06:06:08+00:00",
+      "title": "씨티, 환율 부담 반영해 SK하이닉스·삼성전자 목표주가 하향 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKVDJaRVowQUY4VGVpY0JpcUpnd2MxcEFyVnlWSmdCNGdoTndVZnVmWWo3VVVZNVhPTWtNNE5vMk5ZdG1SMzBRRlo4Q1QtWUtSUHByUDhLSEFEVWFfWC1ldtIBYEFVX3lxTFBKVDJaRVowQUY4VGVpY0JpcUpnd2MxcEFyVnlWSmdCNGdoTndVZnVmWWo3VVVZNVhPTWtNNE5vMk5ZdG1SMzBRRlo4Q1QtWUtSUHByUDhLSEFEVWFfWC1ldg?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T23:00:00+00:00",
+      "title": "삼성전자, ‘갤럭시 S26 FE’ 국내 출시 - Samsung Global Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0IzTjA4Z1BPZTk5ZFp2TGZ2Y2tsOUJUOGwxeGoxN2pjcjNjRUNyTnZwSjRTNHZjXzhxQkVBV040emh0Ykp5OTJGbTRJQ0RMelRjNmZEQXRON05tSVdhMEdfRE9NT1FFNTZ0eXg2dkdTVjk0UXdqU3FHbnhLQ1psdWxfS1o1YTJoaUFZSUFFN0ZnRm5FNWUzcEZETFAxblpjLXg1SGdUMmFLbXlvbEVsM0NfVVBFOTR1WVFtZHQ2aVZZZ3MzeHRWcS14ZXFtOG44eldz?oc=5",
+      "source": "Samsung Global Newsroom",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T02:00:00+00:00",
+      "title": "삼성전자, IFA 2026서 일상을 혁신하는 ‘AI 리빙’ 경험 선보여 - Samsung Global Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOOVYycktCWXYtZUttS2xaSTlzNklQNlUwTm9fVTJIb296UHBoRVF1Y1ltQmo4bnNzNEwxZGpRQ2xzZGNWczZjejdHa3g4UjhmSkExbFVRUXMtTlE0eW53TDBrZUVUVnFxUHNfS1I1amNZY2QtZGZlSU50YWcyanh1ODRRdkt6bGpqeFpnclVrWGxuUFYxZjNpTkhoVkx1WGlDQXlBZ1JNUFp2ZkUwRFdVZXFSVXQ5Q3Z1NDRXX2U0ZW9oTE5nb3lVR3pJdW5FeHZrelM3TWtRUFFubXQ2MWxyWng4VDQxVTloYXZyRFlZZHVRNjBfT2k2M0NFQ3pyZDNjVzBkSUNIM0pKVWY4aHFEUW9xYjhNb01US1ZvRzZ4ckhVczFtWWpFSm96OENKdmJwdUtqdjBzVnU0QVZh?oc=5",
+      "source": "Samsung Global Newsroom",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-01",
+      "publishedAt": "2026-09-01T14:05:00+00:00",
+      "title": "“삼성전자 다니는데요“…반도체 머니에 시장 ’들썩’ - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSdGVTVDN2Y2l0MjhSQ24wRU03Tkc2LUJUNnNzeTBGbGpNMG5yaFphcGpWSXloUUpHZHoyY2dsNlE1dUhJR2ExY0RnTEJmaXY0elZYeTBIMklfVjBVczMwMS1ZMHlzRjQ?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-31",
+      "publishedAt": "2026-08-31T23:00:00+00:00",
+      "title": "삼성전자, ‘New 갤럭시 북6’ 국내 출시 - Samsung Global Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWXh1aHV6YnI3ZldTMVBfSlNNWEc0M0RxUGNndWl6MFZMTGJ1MkRLMERRNDNqUmxrZnRONkJ6cEM0N2tsbE9PMGF0WW1ORlFobGw5NGFoNElpZXROUmFiRUdManBGX2JOdTFfcUVIbWRkZktZYlZUZ3pSWXNvRDBoZzdFUTYxRTByTTNtNUZEWm9LSms1VTRNVkF2enNIRVlXU3RxTm5iSUMySlRSSTJYal9vN2oxUG5pLWlaTUFjUUxDMU14WDZ1VEFpc3NZSFE4Q3NRV1RqcmJNZ0JmV2c?oc=5",
+      "source": "Samsung Global Newsroom",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-21",
+      "publishedAt": "2026-08-21T07:00:00+00:00",
+      "title": "삼성전자 6만원일 때 \"무조건 사라\" 외쳤던 이채원이 요즘 사는 주식 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEVaVnd5OGpreXpXdzJPS1JEWFlLTVVEaWFmODkyMFcxZkFfQnNLSDVkUWF3blJpUXc0bkhkQWdEb1duQ1FZWVpvMFFucFVyMWpnZjY1ZGxJQ3l5VllnUjFGYWNBNXpZMzdCeWVyUnZMQ2plRTNKWHRiakwwZjBnUQ?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-08-21",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-31",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-01",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "count": 4,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-04",
+      "count": 19,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "count": 52,
+      "pos": 1,
+      "neg": 1
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-08-21T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-08-31T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-01T14:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-02T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-02T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-09-03T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T00:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T12:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T14:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T23:00:00+00:00",
+      "count": 6,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T00:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T01:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T02:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T05:00:00+00:00",
+      "count": 7,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T06:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T07:00:00+00:00",
+      "count": 9,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-09-05T08:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T09:00:00+00:00",
+      "count": 7,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T10:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T11:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T12:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T14:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T15:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}

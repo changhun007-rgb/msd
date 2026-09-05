@@ -1,0 +1,1081 @@
+{
+  "ticker": "MSFT",
+  "query": "Microsoft OR \"MSFT stock\" OR 마이크로소프트",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-09-05T21:06:58.580566+00:00",
+  "items": [
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T19:50:32+00:00",
+      "title": "Two more newsrooms join the case against OpenAI and Microsoft - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUHc2TlByWjNJWnlCWHF3MWNuTU5vOVp4by1HYU9QNjRUR3J6OWdzaUhpb2dYNE9IX21DQTBtRnZSLVY3TkhlQnZNUktkS3VuWGJuLUdQaktBNFBOalVsRzBzZXlwUEVSM2NMUW84by1YTWN5dVN2dzlBb2lQcnAxSlJKNElsYTRUMjZ4SmZidmUwb1Y1eUdPNURFYmJ5cnlIR1FhWElZYVpfZG91Q3ZpWkVJZGNvTGtqQkRaRFJOeDg1TG55RkltUzdUbEVnUXVXQWl3cW1LSEpWbXNDbU5WTw?oc=5",
+      "source": "The Next Web",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T19:30:13+00:00",
+      "title": "Microsoft has a better 25-year-old Task Manager that nobody knows about - MakeUseOf",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2trMUhEdWZxQ1MydGdWX3NqbHg1MTMyMUN1bDFHWmVpUjJMcWN5YnlwbGZxQ0hQRVhuaHZyLUh0Y2dxZzdOd3VrMFZTdUY1c2tjRVB6aF9jQzhCRUQ5U0xZZS1lMlpwTlVMZExXamJHWVRIcUhadzlMdzhhTktqWHdMekdwY0tQdUxBTDFxNGRKY2RHcHd4Nl9hWQ?oc=5",
+      "source": "MakeUseOf",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T18:31:04+00:00",
+      "title": "Microsoft (MSFT) Unveils 2027 Reporting Overhaul To Put AI And Cloud Up Front - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU0k4cFFJbDlfRDhSLXBwb3ZTTkNKejY2cV9CV2RLQjdUSXN3RHpwZ0YtMGVid3RDb01KRmc4WVpQZTQycUdHc2gxbmdqYnZMT0huZnRwX3gyTmduSk5sRzBKektiYUlmeUV0WTlFdGcxbjJuSFFXTjlJejI1S2p1VW1UWi1RbkJ0QS0tbVA3OGo4YUlIcjZod3g4ZDVwMzlmOFBhSE5EM0N4RHBaYzhPQ0JxNTBWOU1VTEMtX09tZFRaWUI2ZXFB0gHMAUFVX3lxTE9VS3FXVDc1Mk5OYnA1LUNNN0ZiZ1N2akx5ZGtNWUM2czJTcXFjaFE2ekthYnBhQ1F4WlVZVlhnaHJ0bHMybzhuQlJoNHZiMUtWSzhXVEhDNWJrSkc0ZXBvenZPQmVtZW5XVnE5blZpaTBHZWNSWEJFSlg3dGl5ZGE1NjJZV2t1YUFJU3hHZE5SVTYzdWJDUFd1WGk2eUg4Q0w4RFVzZF9meUptNTg5bG1zZE5reWIxeXFsczNCVDVPS0hwSmoxd08zc3I5aQ?oc=5",
+      "source": "simplywall.st",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T17:46:29+00:00",
+      "title": "Two More News Organizations Sue OpenAI And Microsoft For Copyright Infringement - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbFFsQzBfbkFCb09UNEZUa1dnR2xyZXlEeFJ0YXlyajBDYTgzdzdxYzNmQjEyakt0UzNKR0VCTnV0MV9zVWRtWWZnQ3dYZzUtVUFUZFJxdURpbTIzbTNOMk1uRFhFMnNLZXhSWVFzaTE4U0RLZ3VsVk9MR2VwWW80b0U1dGxzWldydzMtTWVoS1hwb2Nzajk5WWlfYk5BNmxFbERpMEN3?oc=5",
+      "source": "Engadget",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T17:34:51+00:00",
+      "title": "Get Microsoft Office 2024 for life for just $49.97 - Seattle Post-Intelligencer",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVlIczgxQUhSTXhrd3BuNHBVdWplaWxXay1vR1NjT1pIX3k0Yi1SSG5NSmVOZ0R1cmxqZ20xMExxRTY4OTFGSkZMUzhBVXBRNkRUQWthZXVVelpSczd6ZmIycEdMQWFXMk1KbjY4R29XelRaNkFoajNWR3drVzJ0QUhMa19aTkJ1UDgtM3ltQUhxaXhFcEE?oc=5",
+      "source": "Seattle Post-Intelligencer",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T17:13:15+00:00",
+      "title": "OpenAI GPT-6 Astra Hits GA in Microsoft Foundry: Computer Use, Agentic Execution, and $10 to $75 per Millio... - storagereview.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNlZKNFhFMDlsUFZJRzRnbEhsSnJSb2xjV2x3TFdqLWVGcFJfa1B0T0paM3hJM0RYZHVjZzZKeG1TVXhDNnZVbzNLQXo2aUd3VHllMTg0eVJVSnZUejJKd0swRjh6UTdmMW56YmxieUJXbjIyMlpLU094RVM5YmZrM2lOREc4MUVzbnNQYmdwS242MVRzSk8zUVAtM2lRNUpxSFdLaENqcTJLdDlKdnRDX2duOHZENnk1eTZSRC1DaHjSAcYBQVVfeXFMTkd3RDFxajVLejBEaEItMURId21PWktaNFBkOEJyYmtPTElieUJERUgxMmpNMWs3ZTF0UUE1UDRyUk43eVNET1hYNkNRWHN2a2JPeVgyVC1yVmRkMlJGS1BmVFFoTFk3YnBjUmFIcGdKTmJWVGppRWVieE01aUdDbmZYN2lDQ1RldjRtcWZBc1BrdGR2TFdnUVJaS2ZJVFREaVUzWGFzal9fRU9kOHVfLUcxNGtlWnEtUjExX1FrU3ZWWEZFVVBR?oc=5",
+      "source": "storagereview.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T17:00:53+00:00",
+      "title": "Entrepreneur Readers Can Get Windows 11 Pro and Microsoft Office for Life for $56 - entrepreneur.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOek5BUGpzZ0hZSFlOYy00ME1mcFFILTZDSEFSTmhUeE9GN3ZGMFluZU9LNGdSSkUyUllOVFVTYTk5dERWUkpKVXFSaXJGSEVvMFg2X2dZMTBZbVpsT29MNkw1M2VNaVAtUTlHVzFDbDc3XzhuZ0xXY0xtZGJxY2dDYXBxYlUzSldvU0JBVnlDT3hvVkU3T1RVenVxRVMxajRtblljdHh3dUk2QXBJRVc3SGJn?oc=5",
+      "source": "entrepreneur.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T17:00:22+00:00",
+      "title": "[Price Drop] Get Microsoft Office Classic and Windows 11 Pro at 92% off - Neowin",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYi1UZk5KVkZEbUNUc0RnSVp2N0VfdFFuWncwTmRROUk4OE11QURWZ2pUVWVvS3d1ZVJ1T2Y3eXU0bDE3eC1FYTJDYU54ZEFMZ0NvMXF0c3lUYUhIdC1Ody1za3pPU0xXZlY5ek0yNlFUeUlFQzRudGRIYi1uMTk0dmtLOFdsdWlBSXo5dktyNFpqb3dOS204RmRxTTRwbDg?oc=5",
+      "source": "Neowin",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T16:05:07+00:00",
+      "title": "City of Atlanta will mark Microsoft land donation with community event on Sept. 12 - Rough Draft Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSFVxaXotaTE3eG8yaFBsNkQtQ3BYRVkxNVR4a1I2eWtUeXBIVW81NVFpV1hWRkF2OXZDN1JtSGlHZVgyXzdzV1M4NmRVWmdjcDVHeUJFMVdfRUhpVzB1a3g1aEtqdVdCS0Nlenljek1OVEJicF9iSWtDeVNBeTZudnlkWQ?oc=5",
+      "source": "Rough Draft Atlanta",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T15:36:59+00:00",
+      "title": "Newsday sues OpenAI and Microsoft over copyright infringement - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KWlFLcGJpV2lkRkN0REw0Z25PdnZFVkFRUW03RkNoRWV4SXJuUlJya0pUaTgyb0xIWDc0MExvOGN0bDZnYUxUUjN6bTZ2b25faDBPOHBjTUVOTktfSEVDdTRqMlM1NzJhVHFDMXFUeERna0pBYVBrSA?oc=5",
+      "source": "Newsday",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T15:17:59+00:00",
+      "title": "Microsoft’s latest moves suggest Xbox Cloud Gaming is slipping out of the spotlight — and the strategy shift feels impossible to ignore - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWktHVGhLLXlpNVJRRWhvMGYxbzB1WEFQdHUyQnIyT0VJYnJ3VzR6d2Vmd1VzUWpXOWZYOVQ2djNhUzhlZHppZE5UMGxrYkNlbW9QUEdhZERVOUxfQ19QS3FocHBnU21qeHRTWjgxZHpqTU9IYjQ3N3hBYmtDN1R0YlVneHdnQnNaRkhNdXhjZXhjdUgyUHkxOEwyV1BiZzEzaVpjSTZlUGZDOS1VUHdB?oc=5",
+      "source": "Windows Central",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T10:28:00+00:00",
+      "title": "Amazon, Alphabet, and Microsoft: Two I'm Buying and One I'm Selling - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdnRRZFVna0wxLXNHNFI0bjc3R0NmYjJrOEkwT3RwejB5NVBQTnpyaXlGMkZKS21BdkxSZjYzUTJyYUFRejZxTFFZMWVMMEEyMmtjd3Z3bE9MMGFsbS0tT0ozWVpnZzZBcHRvY085YTYwQThLX1BpdDZmQ1JrR2Flc25ITzkyT0ktWEJrUXlpcVdKanlHVW0yZA?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T09:48:00+00:00",
+      "title": "Amazon, Alphabet, and Microsoft: Two I'm Buying and One I'm Selling - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVWxxUTQxZ1B2MzA0Qi1GdTBMbG9teVo0Ulp5Q2V6LWsyQ19EYmg0OEF2TjFaNlZ0ZDU2azB4V1JfbTdvOUFUNDJpZXRoeHZXbUtJaE1wWjNjTi0zb3E2OEtlZFZ4c3VzVlJWeEhXenF2R0hBZU1rcEZRaENZdFhwRVh1UXpkMDlrbmx3ekk2NF9Fa3ZVTmVzb1dfUUdFdw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T09:32:33+00:00",
+      "title": "Clearway Launches West Virginia Community Energy Fund with 20- year commitment, in collaboration with Microsoft - The Real WV",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNGlhenNYV2twdklfRVA1b1lTbUJQTlZjeFlvbDJkNGlSM190UlJRaGZYR3JKYndwcXBFMjF2bzhmZ19HUkg4NkFabjJVNUJFM29FcUtJcTh5VHJYOUxpVC1CeEhLSmo2bk9TQmpNQ0NldElFdFhiRGRNY3k1OUZiMlIzYlJENU1PSWZCaGEtQU9SSXZqYUJZdVZJZUFVeGJZZjB6WVUwdnNZODA1V083MWVIdWJTQldyaHBvWDZZQm4zUGNjUko4UE45VV9iLTk3R3RNanVyZWprdU0?oc=5",
+      "source": "The Real WV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T08:57:36+00:00",
+      "title": "Microsoft confirms official Windows Registry hack for uBlock Origin support still works - Neowin",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWTAxUW9Hb25MNGJXUDFKa3o2RG1ZcUR5TVRHREFLNzNHWHBSSjVDYVVzWkJnR1JjZXluMXd5bmh0dV9wSFVLTXFfM0xmalpUakNRb2pNV29wdjVkWVNTMTJyZ0ItLXJNZEZ0SzJsM2M4aUkyeWpGajJXZEg1b2Q2Q0lqUHFBajVQc2llc24zNlJpcXBHUWEyV0JUd3E2djZaNzBfRXUwUlMwRmpDakdSaUQyZDJ4STQ?oc=5",
+      "source": "Neowin",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T07:11:24+00:00",
+      "title": "Should Investors Buy Microsoft Stock Instead of Apple Stock? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3pXMFYwQmJIQXRueXVNazd1ZjNTNEN3aUxXcWpuVnYzaFFxYnpJU3lMRW9sOWtWbVVzNVk3RzlXRkZ1azh5WU9YZ0Naa2pycnVvWnlDdDc4cHE2UlB1c1hCZDRRS01Pck53NU9USGZjYmVlY3QwMW9GUWFLb3pLaEk0MDFINEE2YzZkTVJGbDVBWElRTzdqWA?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T06:07:36+00:00",
+      "title": "Seattle Times, Newsday sue OpenAI and Microsoft over AI training - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHVaaWwzSThHeURhUGNRTXRNMmFQeW5LVXVKc1BkSlZyb2k2R3pTTFpHSWpzd2d2NFdqUG01MGx6aVdvRzlGVmVBOXhmQTJvSjdXV2I5M1FGZG5BSF9sc2w3eWNoLTJaNGxZLUpqTEFPOHpSVm43angzTFBHS01vMjhkRUMwSXBoRjZXODBiNjhja1ctbWZ6bEVuWkIzdUxzYW9WaHQweGtBX0d0T0FFWnZLNFYwUQ?oc=5",
+      "source": "Investing.com",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T05:49:00+00:00",
+      "title": "Satya Nadella Sold $43 Million of Microsoft Under a Trading Plan. Is the Insider Signal Really Bearish? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUW5VRjk5U1llMldneFF4OFdzNEhSVjZUWGFMWUZpZFFmX29TTUZ4R1lLYjR1dnJ6OUlvMTZORVdiMW5YRVFxdXNPLUhNMFY4THRDM2g4cDlfMFBSUWV1bUFoRG9sbWZPZU00UzZkTjA4SnNhYjc4RXNmUUh5M0EtWjBzS0hOOWtMY3lib2pZN1NPWTM0ZERrMEdR?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T03:15:13+00:00",
+      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - The Lufkin Daily News",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYlptM0JreGIwOUpDYnB3Q0pSa241Vm81MGxqMDNBS0F4TGdMWjFYVnZKWkZtamlEUGpRcGJIM2EtcEZpQUdJVTZYLV9kU1B6SGdVUWxNd2I4a3dkNVQ5R3dkNDhqVlpfN3ZYNThIbGxpdjhHczdpLXMyZ0VNcjBrd2JBZmpla1BfbERQVTdhY2JhSTlNd2t4SFNqWGVjOXNOXzdLOUVLbFkzTGpVUkdZcm5pc0xTYVpoamYyNnpfMGZTa3QyNGdPS0Z0X0dsemVSaGdRMlBFUW84RV96N3h3YnNxMHhUZ2o1R2tZYlY4bnU2WG8xeHJmTG9FVkR4N200S0VoUQ?oc=5",
+      "source": "The Lufkin Daily News",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T03:00:00+00:00",
+      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T01:51:27+00:00",
+      "title": "Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTm5HWjM0eF9lNm1wYVcyUFZkS2R4ek1kdmtiWnhTZnpOSWNBaFFta2NLSEJpalZlV2RXVVhaenRubV9heWF6MVRYNDNrRUs2eXI2YnBUQTVUdGtuMDV4NUh5QndZeUp0Zm1DODhDUU02anBGNFVCdUg5ekRaUE81X2UzcTQ2TVdiUkxhZUZ3Ry1NaDRjaWhKSDdIMUFMMS0wRHpZaVltcGI3b1FPTEM0UDU1eWY5eWF1cVBN?oc=5",
+      "source": "GeekWire",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T01:26:47+00:00",
+      "title": "Microsoft Finds ASCII Smuggling Repurposed for Phishing Campaign - Security Boulevard",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUTVsR1J6Vmxpa0FlOHdFZHNQN2g2cG45OGQ4WUExMHEwSHZQVUh6RGI0MXAtenp2V256UDVzQkJaVm5qOXNPNGJvTlNfR0xPNnVsanBwbXh3US1Vd3UyY2N0N1JCbnJpRjJKZkFsUFRQcGdkeEZrVHVDd0VGQlNIdjdPbDdBNFZjeFFWUUJpYWlzVTYyQURJR1ZZYzRuRllPcG5NSmR3?oc=5",
+      "source": "Security Boulevard",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-05",
+      "publishedAt": "2026-09-05T00:02:25+00:00",
+      "title": "The Seattle Times sues OpenAI, Microsoft over copyright infringement - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGppTVBZSGZ4aDI3UWs4UTZpamZsZi1UM19peFlETjVTZEZScS16R1hpQzdIWklHN0NzOGpSbEFsSG9hem4tMW5vazdPTU1kaXJfV09pZGpqZmdlZTlCbTdfWWxkOFVLQmZRd243Nm9KbEljazRxQXVLX1hXMl9KZlBpM3BiaUlyRG1iNnhmckJfX0N0eUVfX1pjcVUwQk9YWExmWHF4bGRYNjhxQm9aODJ4ellVeGdk?oc=5",
+      "source": "The Seattle Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T23:10:34+00:00",
+      "title": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3Y5N1QteDA3VzcyWmRhVE9qRkVtdXJqRGRjQl9qakRxbmcxbmVTdjJ4cjFpRzViUDJJS1ZMd2cyNzhhUzhMT2VZZ0paT2Z0QXprUUFKUGJqQnhpMVhRYzQ4aWUtT3dXT3UzZGVyeUxjVmF3N04zNFVLRktlQXIybTdDcnFZUXVzU1R5SGVEN3kydXVxZ3VJ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T23:05:55+00:00",
+      "title": "What Will Microsoft (MSFT) Reveal With Its New AI And Cloud Reporting? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRm9VclZncDRQdkhXTE15M0tkRTJHTm5BM05LN3gxSGRFZWlPWXMwMjUxekVheVdGTFlkN1I5eFEwSjRCMVpWSVg1UHNybS12VEJvVGx4QW1HdmRPaWhVOWZPZ19GYjhEUDdGY1ZfclUycnkzVklKc0QzT280YnJMUnJlamNTZ0ZKOVcxaGhqMVExN3luS2ZWeWtR?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T19:39:35+00:00",
+      "title": "Microsoft Drops 1.6%, Opens Azure's $101.9 Billion Door - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0ltX01Pb2lpdjdiS0R1YUlTa05ET0pUQkRrWk5RRVBibW9GNnZEM25WUXNlOVJlUmhzVTY0U2hVVDFHS1prSG1pNzUtZDdVU3VjQWxCU1V3eGVUbE0zYUFiSlBjNlZfMzNhdFp2TmNUV3FTemdWZjdZTFlkclhUelktcVJwQXljV2pUWFZVbTBReE1h?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T19:32:31+00:00",
+      "title": "Microsoft Stock Gets Jaw-Dropping Price Target Hike From Stifel - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMHA3RkhGbWExU0dyU3RnUkhRaE1SMGdxVVBXb0xzOHdRemZSc3VhZ3NXcWpsQkhrZWNWWC14VGZNOVdiYWVZQ2xVdzd5eTZSYW5YcktubnA3RDVXWU9jN1g0YzVkaW9xYjl0RjBjUzFSaEJVdlYyVllZSnBxaVpGX3NPU1dKUHVxVzNzX3FYbWRaQnQtV1V6TmpnTHdRcnM?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T17:10:00+00:00",
+      "title": "After A Microsoft Stock Price Spike, An Options Strategy Aims For A Robust Profit In Weeks - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR2ZuTURuZkxDN0Vna1JzektPWFd4UTRFT3FzNjJhdTRGSC1OMENJWkswT2xUM1dONndTcExMdWpnaUVTTlFTUnhkcERHLUhGTjBRUE41WEx2NXF3MnRfRTJjT2VzTTBTRnRGRjRtT0I3WkpLUkhneC1Qd1pSeEpwQXJTaThQNDhUdTk2QlBIUnhTQThKT2xnM1JiVjRXMnd3S3hHOGh5V2JtaWhWVzd6SFdlZEpRODFSS25CZ29LOGNIWlQ5WVdYUXJDeGhfT2s?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T17:07:00+00:00",
+      "title": "Western Computer Achieves the 2026/2027 Microsoft AI Business Solutions Inner Circle Award - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMENYczhMQzRXTEFRcVFRb2lUbVlkb0kxckQ4ZFkta3FXeUxCLUYzQWxqcm1LaUtBSGZnMzRweEphNEhDcFVYQUx3c3VmTHBQLVhIWl8tSC04ck9TTnlYYklSNHRiNGdrYkVZREZIYTY3djZFaDhzQTFiRkIzSFJIbnNjcUw0dVlVUkQ5OHQ3T1E1RV9adnNTRjEzRldYemlU?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T16:58:56+00:00",
+      "title": "Microsoft inks long-term PPA for Washington solar project - ESG Dive",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXZvc25oRU5zRWJZM21SX2RwUXA5OW1uUXlOYVpTc3VtandZbTFfUGQ0ckhLZ0Y5V2lRX2oxTUtaeDVxTm9oVHFmMlFWMUxaelE4OXlvYnRYS0hCMEF0am5fT1pBN1hqU0l2dmxabVo4SnRqSmRQTFg2Rzd4dFM0WDFxQWttejRHa0F0U191Zno5dUdmS3dmRklB?oc=5",
+      "source": "ESG Dive",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T15:42:00+00:00",
+      "title": "Microsoft, OpenAI Urge Court to Find AI Training Is Fair Use (1) - Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUg1V2E5OGEtNnhBMzV3NE0wSWxXQlJ5RzFCM0JDYmNBMzJ3QktGZFJHZ3BRWG9zYWZrRHZwTklBV3c1MzdRY3ROUk9Nb3FmSy13MkdYSnBTcjJpMnF0bmVMQVo0X2REUHpZWGFieGhhSlEwbkpCa241RnNNTFVHTmxmemI4a3JfVWl6Z1FrTlg4NmtDVWVqeWd2ZGI?oc=5",
+      "source": "Bloomberg Law News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T15:19:00+00:00",
+      "title": "My Word. Microsoft's prepping Similarity Checker for retirement - The Register",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmE4emE0UUFSVmduS1BjanZ3WXRzNnRZQ0IzczR2OWxIeE9hY05ndUVZUzZ5UHRTd200N3JBTDRJeVhlVV9rSVVscTVfYjJCdFVzU3dDdFZ5Z2hUamJRWEcxSDZRdUozT2pablR2M1I0cXRjRzJubWxwN1daVno2cldpNVFWZ0xoSWx1NG4ySTh6UHU5bGM2Z0hfRFFkSzdyVFFuc1NHMTdtNVV4RDFEekktWGttUm9TeHZrZVJn?oc=5",
+      "source": "The Register",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T15:01:11+00:00",
+      "title": "Announcing Project Zenith: The ready-to-code Windows experience on developer-class devices - blogs.windows.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlBtZF9wOWMzVHU5cXU0eXViclQxb2hHTFc2UUVaa0pIT0dmQTM4ZG5yOHhNRjF3NlRwT055akdFUjhEck9ULTRiazg2aEZlZmhJVDA0cXJod1J2N25VWFUyUVd2UHctU0hzRGdTY1Y0U1AxT1RFWE5IaDdNTTJzOUFnWHRvbEY4VmRFYTJKM1l4c203bHdPY0ZXQ3MxajlVTmFpRnVEZGRIZ2RFZGtLbjBKWnlfbVd6?oc=5",
+      "source": "blogs.windows.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T14:54:00+00:00",
+      "title": "2 Reasons Why Microsoft Can Deliver on Its Massive AI Spending - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTGFKZFVGd19zcUp2OUZmdWZWWHFsOGtYSW5RY3p0OHVzc3ZDVE1Bb3pkdkJYOUQ0NUtPM1BCelRtNlJQNUZlYzFkNHY3YjFKanowc2VjV2p1Zk9CNkV3YUVmMlpMWnp1THpnRThqSGdJVG43NlBac0ptOWROOHhQTA?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T14:30:15+00:00",
+      "title": "Microsoft says some users can’t open the Teams desktop client - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPal9BYmhpREt1ZTZfOVZIV0NlZmtkYXNfLUd0V0dhOHpRY25JbU01TWVTVkpsWDQ1amRvRnUxRnRjRUVWeHVpVGVPLXJZd0oyUjFNa2l4elhUdEg3UkJJdE82cGF4cTk3Q1B4TldlcjBtNkFhdm5YUWx1RmtBUnhfbngtcXoxU1hYUGk5OEJvMVFobzBMVFJuaU9ZWFhFUjlTbkpGZHdWRWdxV3hQN3fSAbMBQVVfeXFMTVBJY0cwUUtxWkdzU2pqb0dYSkc5c0JlSjlDWU5pcEtMY0gtTTJET19Gc0o4cVRvZVp6R1ByZDJlVDB4VlE0d2syY2daVGRfLWhmT1lFWUdDZ2VGLUZMZ281cEVMRGVMN1FvX1A3RTZMMkEzeVFrU3kwM3ZtaVI1MzN4ajc2ODZzNGlEUnVoY04tdFF5WkpvVEFwQlpwUzdVdzk2MmFEal94cHc5THNPcDV1cG8?oc=5",
+      "source": "BleepingComputer",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T13:43:00+00:00",
+      "title": "Microsoft to bounce mail from outdated Exchange servers - The Register",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU5Mc3pBSGJQazhZTFRrNXpCd3cxMG51R05zQmZiTU14QXJEOUJPT3RRczNENkZWYkRJWlJHZXQ2ZDJROUtGNWVEVHo2c0o0X3dzeGI2X08yc2hjRkNTSGExdjdvdVR5alI5eG5obEZMcWM5TGZrOXpKRExzTl9POHJZaF9NYzVlZnVOemViZ3UzM09Ba3VDazlNekpJYkdSVFJkOGtHMmZ1bVpyTGlr?oc=5",
+      "source": "The Register",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T12:00:00+00:00",
+      "title": "Tech layoffs tracker 2026: All the job losses across Uber, Apple, TikTok, Meta, Microsoft, Oracle and others - Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPS1k3ejFlZlNKeXZOMENkUDJQVmZ2SHNnT1Jheko3NkgybnJ3V1RHbUE1VHItb2hZSDJyVFRVeGxKY05mclZ4RHNQcm1FZWxFZGYzVnlUOFdyQzlYTENlSW9RYWtHLTZ4QWJKZ182S1hxWFdQN1pPcjNFNlJZemtrUlk4SnRVc2J5UWdKQklMT25nMmliUzR4Wl9QU2FXZE1TQnhwXzVnU0hVcHlSODEtM00taUlnTy1Jcm5TRFVYOVFKazNMSEt3N0p2M1NMbDJiMEg5Q01LenpsQnY5S29Cb2piWUVYVTRxQnBuNQ?oc=5",
+      "source": "Yahoo Tech",
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T10:44:15+00:00",
+      "title": "Microsoft’s Project Zenith is a “distraction-free Windows experience” for developers - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGZMWTNhdnVOaHN0N1ZQZDI5bmIwckVkcEg3ZmFkUldFcGlWVGZvYzVySWs4ZDQ3elpUVmFBNWp3bUFBVHhIV1NfNzczb1ZOTmZoNTJoVEFWR1pPNzdkNEstcEZoZVA5V1lnLWhDVUVjbUttaXFYWjc0cEVZNHQyVVFaUnZiN2M?oc=5",
+      "source": "The Verge",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T10:32:35+00:00",
+      "title": "Microsoft names Miki Tsusaka and Yang Hou to lead its business across Asia - Microsoft Source",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYi01M0FGQW00WkJWa2IzWWRmNU1zODk1MzF5aDVJWUJCX09qa3p3eXpXZG1yOUZPWEZZWXdEZEdPMnRkUHd3VUd5MVN3UWdxVnNlN3JzcmltLWdWRjZpVkFKWlV3TjJQOVR1SzB3SV9kQUVuVi1LZTAtWVpRVFFlMUJja21pTFZoZ0ozZkk0dDV5MkNWdm9ndk0yUU9YUXZlWkZocGxkQ215TmdrMmRrak9sXzZiRGRFa0kxUzN3RU5ITFU?oc=5",
+      "source": "Microsoft Source",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T23:33:00+00:00",
+      "title": "Microsoft drops $101.9 billion surprise as AI reshapes company - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXp0RmJxLVEtZDU0WlF3QXpzd3BhNUNyWTFGZGhmaEYxeVg5Ym5yNllDTDB1aEhNNlFVd2ZDUEdYaVQ1SC11bllPeEMydzlyZ3h0RzltOWs4RnJxbEFNVEF0Q280dnJQRWxTdDh0cWVrNWlJR1UwNjIwRTFvN21QUEZ6UkxDblNOUmFmUTJGWWdEUUVBVHJ1Wm9ZS01PQQ?oc=5",
+      "source": "thestreet.com",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T20:03:24+00:00",
+      "title": "Microsoft challenges data centre costs after pledging to protect ratepayers - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbXpVbUVBYmJRelVZNVYtVWszdXZHMDNhUlhMa291UEhHeGdxVUxkTHZsN3R6TVdBa3U4eTdtNXlhQ0hLbzNDX1VNaHlnWnk0WDh4d2tueTZhMkNZMVI1ZzRpQlFVSXNFMkE2WWc4VE42Q3d0bUhiUVNHOWYyVXFFekpXWU8?oc=5",
+      "source": "Financial Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T19:55:42+00:00",
+      "title": "Workforce management meets AI: WEM MCP tools for Dynamics 365 Service Agent - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWHNTWU5XT1FkV3g5aWkzY3dlRU9OX3RnZC1Sbm1udGNCZk5BMU9EWjFtYThhdzdkS09VYmRPZTc2ZXMxX09hQ2FtZi0yUDAwWC1XUXFKNFVJM1B1ZTBrbWo3SGs4NHhNbC02SUJDLXBSV3JvaUFxVS1ZcUxJcGZOdUx2SzhFQzdpdmpRbDJrUkJST3BjRXN5TDFCN3pTUXJObFVYa2xOUHMtUWpUZC14WTV4N01CTWJxdkk4b19yR3J3elFxbU55RlA5bXQ?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T19:36:08+00:00",
+      "title": "Tech Moves: Microsoft names execs; DAT, Oracle and Hiya departures; new Zillow policy lead - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1ZuT0d6bFFZMFo0Z1hNTEpfTjVTN25sNUY1TlY5YzJ6MnZpRGJ3V0JlSFkwOWZyTk5kc3MySXNUd0ZZU25FOHhvdWpGekNrb1lGUDUtWjBkaDRrQ1VzUVZtSkVyWTcycnlZUFk0SVlrTHhDUkZlVy1JTktHdjBpaU1iclVBMWdBMm9MalNVT2ZTZTltVjdqLWdrbUJhR1BILWVsUG5jUGE3aEFMT2thVGpGMGJtS2F4?oc=5",
+      "source": "GeekWire",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T19:33:00+00:00",
+      "title": "Microsoft CEO Nadella Sells $43 Million of Stock - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FYmlQVGRKeUFMbDZzd2tqakNYTVpPbEhROG9DNTNjZGZGS3QzYV9SSVNNT2dtMkFpbWkxT1NTbndTTXM2bmlqUXhUcmJ5R19hdXZ4X2lSWWRQVzNHYWRUWEtoS3g0ZzRZVzJMOHk1OUhyR3dqczM3aw?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T18:15:00+00:00",
+      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry - Microsoft Azure",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOXdMUFVQUF8wMGROZEdmRlVneDFlTWdQVWo4eTJsejg5cVRULWJMWlRaZUdjNzdmNWhCWTFWMlU3c1JiZGxhSDAwYzlPbmNjeHdmUXlWazlmZWk5TG9PTFRtRXN3Q3RwdUV2bkRFT1pKTUhUWHBEUERCcTg1d1cxY2RnNENMb2dFMjVzT0ZyTWg3OGtjdU9jeDlaRVBTSVFpZHpCQnFTTGJGMlFTY3QyMXRrc0lhR0JRb0tGM0g2M3VtWjBvQ2c?oc=5",
+      "source": "Microsoft Azure",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T18:14:30+00:00",
+      "title": "What's behind Nvidia buying Hugging Face? A past Microsoft deal offers clues - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVU03VUwwUUZlRkRuU3cyT3p4NWRvRUZUd3NHRUNwZTdHNjg2dmZCajYxbl9kcVdNT0xxUlV3TVR3aVF2bXdwVFN5S1BzSktaa2ZSSGc2Zmw0ekwyWmZCenJwQkdJV3A5LVJKbjVLZ1lnWHNnRW00Uk84UXA4UFJoRGtORWQ0OFJ5dDZVYm1UWFg2djBVRnZncEp3?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T18:08:22+00:00",
+      "title": "Prolific Microsoft 0-day hunter drops CrowdStrike Falcon exploit PoC - The Register",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOWxOenB5dE1aWUJyakVydEotR1dJZlY3STlLei1vSkJaR18wSVJIbE0wc1M1VGZwaktvaHhvaTRWTWxONXhScHpJZGFkNDBzZjdQME0xYzVvNmdvVEZHM09lVV8tNmhibzZHeV9UNnZVY3V2dkd6bXpSZFJ3OFNCQjNCWUVOQmM0cWhhQUtObVZ3LUF4dVlQLVdQSW1qZmN5Y0tYNVRnV3VHSWljWEtUbGlVU1lKbzE0V3VvbWhWOHJEZw?oc=5",
+      "source": "The Register",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T18:02:16+00:00",
+      "title": "Microsoft: Sorry, But Time Limits Are Coming to Xbox's Cloud Gaming - pcmag.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFVtR1hDNkVQbk0tbDExVktMdG5zNE9GZFhGZ1UxOXd1MVBLNWhpWHZPMnExcUgtLUlLeXJ2VmFfRXh2QkRvc0RqUXhncE9sSEZzWkF6VkctMXlDdmZnQm8tT2FFNnYzV2hkLVdFa1lRNDVCRFpza3EtSlh0OE5nZF9BZDVRUnBzcmotd2swd29tb09JeWc?oc=5",
+      "source": "pcmag.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T17:00:01+00:00",
+      "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KNXpZOERfQmJsdnNOeGhfdC1HMy1pVGVkNG1KSEdPeVRTTHA0VGVBdXg5X0hoU2hCa2p2YUc3QlVsZU03NGJVQ0xzQWtJOTZUbFZudE9CZnJsVEh5VkhuZlZaMHJtQ0xNck50NnZvM0R3ODdCdnFlZVVOWklHa1HSAYQBQVVfeXFMUHJIMjJJaGo5c25zcDg1VDVFZVBteTh0UGp2a2xnR0hLYkdkQUZxZXZNZFdzRFVNM1VDeG5nRFkxQnJ3eWtnLUFvWktIVXRjclhZQnRSSldNQXA4c1VjLThDdVd4R0RSY1B0ZUU0OWtfRWZMTzctTHpjcDFqcG5Ra0ZwRGwx?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T17:00:00+00:00",
+      "title": "Microsoft is introducing hourly limits on Xbox Cloud Gaming starting in November — here's how it all works - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNTBzZTNlWFlBXzhDeWxKcjI3aUVjbTBzdnFwZ0JHa1UyS1FTcmhGRVVYdndFUUczeDlGaElrclFVbmlRWmFSY1QtM3dQWFVzOWgxeUc0dGVyWHgwc3hpdXo5bFU0NHJRZDdnb09wRUxjR1h2WkRLWVJCSVU5YXRIMGVZMVIyME5QOGV0cEhPRklfMGd4R0VQT0dKLUM3VzNLRDdmQQ?oc=5",
+      "source": "Windows Central",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T16:59:45+00:00",
+      "title": "Upcoming Changes to XBOX Cloud Gaming - XBOX Wire",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03Vzl4Rmc2c3NIek1mMnE1V1JZdklpWlhEREY4RjZQMk9nRThMbkNodEI3VUNCdDdvRXllWG50R3VkN05JeDBhYmMzSTl1dFVJNGNlbVkwcnlHSUM5OXk0elprM3FzRy0zaUFEMzc2enhLWTjSAXhBVV95cUxOUGRveVBSVVBpaDdGUDZackpmT1MzYXVmSDExZlh3MTJDNXlSZDJHcWxpN0p6MlNuZFlJaWVpN0xoWXFrVy1TVEJvWUFjLUx6WFFUTXVfUHVOUDNiMWlrVGQ3NGhWUTNQZWJjcU5KLUpWb1U4SVBjNUM?oc=5",
+      "source": "XBOX Wire",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T16:00:00+00:00",
+      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1lySXFOZDRveklMdlJwY3pNcXQ1NVhiZEFJbktacklPZFZ1N1VkSTBNUnI4bXRENFF5MHBQcVNoVkctX0k3c0k0bm5EdXFfMWZNZ0hnRld2M1BHaXdDZUJmeVJrVWlaelN0bWVVRnVtMGxfZE1uZkItNDJpaS1Id2xxRTc5YzZfUExXbmEtX1ZGbzA3N1plckctWUZ4eEZvZ1lEcDdLcnYzSTJvSTczYXBTcW95TDJKZTV0S29fU0tTWEdNeGpPdklScw?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T15:39:00+00:00",
+      "title": "Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBySmRqcFZ4YTUwQ2w0a3VqNTlpYmZXS0sxNkxFb0RBd2drcUFHMnN4clpyUHpvNVRiTXVoWWY2bnU0RnV3cG9nUGZtc3pTOW5OZC1TZEtKcHpEa3NqS0ZZaGxndlZqYXpkRUl6MkExdmM3THJpLW1xQlpCV1QxUkk?oc=5",
+      "source": "Barron's",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T15:00:00+00:00",
+      "title": "PPCC 2026: Bringing AI and your business processes together - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZW8xUkNJaEVUczNTUHdteXNTeDZNWkx5VEVOYnRzcDhqNVRNTl94bHhoNVo2bVp1djlrYUFQQ2wyaEpQb003ZnhPX2toQ05DZkg3R2FHYWQtWGpfWWVWZG5kTHM3QnU1UmxZdmxWTGUtRE5DSGc0eVU2ZE0tc0ViemhXVXNXZzNmR1E4elR2cU9na3hTZlpWSFNLbGg2ZUZMMi1GZkp6NnZ3cnhLQTJMaHNyTHVfQWREUVU5WWJn?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T14:14:20+00:00",
+      "title": "Microsoft Corporation (MSFT) Generates Revenues and Profits Beyond AI Theme - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNencwUUFlUkw5TkE5UXlqNmFXQkU1RVNZcTRwVENtTVNIc2YyWUVrZGQ1UWRPUXpWQjdTSnZ2eG91dThjeDd1OEJ3aGxUU2drS3pGblZpNUl1SnJLbEh1WmF3RV9LZ2x0SWw0RS1oSnNWSFA0ak5EU2oxM0dzT21XMEFSdkxnektMSFhHT2tERUhMUS1lQk5KZnFqNjM3OU9Wb0pHZG5uQnFyNUwyUlhB?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T14:00:00+00:00",
+      "title": "Microsoft AI’s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed - Venturebeat",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVk9udVhTbVRfQ0tXc3FjWDlzYzNCTVlvT2x5cktIRjZzeFNCaHc3aDhHVW1sVmFmY0paSVFvNC1fdnQ3cERRQjRvdHkzZDVxWWF0aGxfVVZ4cm5qRTRTTnpkVVliLXdySjZpSXJ4ZFI4ZEhFakNzNnhCQjRfZlBDaHlaNlIxZlRlWEE3UEtnNmQzWm8xV0Z5OGF1b1BFSERZZU04amdMUjl6Y2hLQzQzSWpNLU1rUDdlakE5VUM5MThiRHBfT2c?oc=5",
+      "source": "Venturebeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T13:30:25+00:00",
+      "title": "Why Microsoft Investors Should Fear Amazon More Than Google - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYUd6WXR6MkctU3oxOXpwdi1yX2Fqa0N6NWs4LVdnNjhkNnRUQV9qbEJTWmxRSl9wc0g4VGhTYU82ZERtOTEzenlZYk5nVG9ucWhBZWhNU1NaTFprYzNNa2tIOTVvamJVRG5PdDZGakxSNlZTemFmcTk4N2lURkFETVFKWXFGc3M0OWlJSFdTdGc4Mzc3Y2V5ZExvVW9ORkNpMVE?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T11:24:40+00:00",
+      "title": "Sony and Microsoft request dismissal of consumer lawsuits over tariff refunds - GamesIndustry.biz",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUlISEdnWUFQOG45YUd0WVlheDltSnNTb0tSeVVqUG5wRm42Y3lSYml3VUNoenQ3UWdzYmEzT2FNbEZmSTY4S05jUFhRRzZWMHl1bUUzQ2k3bkl0OExJSnRqTkphaThfWHNxUG5HMHhZZzdLQkp3Q3FfVmZEYXpORDJxck9PT1otUm1kbUVkMEw4NGFjY0h1REw4Qjh1ZWpEdlFlQnFILXQwdzg?oc=5",
+      "source": "GamesIndustry.biz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T08:59:09+00:00",
+      "title": "Microsoft discloses Azure revenue as part of major financial reporting changes - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2NydkpkcjNnVFp4UUxYTzZvWVBpYnRFMzdRRk5mX2x0akVnOXhIeWFYTjdDMDlNV0trUUZoZGJGZi11eWphbGFtMnJBdGstNXJHNDVUTGNXb1hHNVcxM0NsdlJEeld1emt2WFB6aE1HMjNtVkZpRS1lWHdWdVNsWGJCNA?oc=5",
+      "source": "The Verge",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T22:51:18+00:00",
+      "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdnFlV0stalFmbnliSno0TlhBTm5rSzFzdWNBMjZmZWpLSjV6UXNrelpxZ3VzQ21xZERzSmpqeUZsOU5IZHVJX2g3VHp4LXJ0M09mbWs3YWR6eVNicGJadkxKTUFXODdWVlktMXlDdDZIOVhrRDBrSnAzVmhEMm5vZG9ZVGhSNHJRR05IWmdwNHp0STkyaGhKTHEwM0tCRno2QzhUMzFfWWxsQ1V2VThCWEUzMll2ZW5ob2JsTDlpbUNkZFI4LXprbjVySjQtWVItall3S2xhMmJvdC1Z?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T22:38:32+00:00",
+      "title": "Microsoft Discloses Exact Azure Sales Figures For The First Time Following Longstanding Investor Demand - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWThJbWpTMjllejk0U3MwTFdoWXlqUXk2MzkxYjA1elFjMjF0Q2lRN3RFeUxjTHc2OFFjeGtmR0dOdVd5WGNNcDZGV1hZckhLX2U2Z3M3NUVvaDhjZXBfanlBZzYwOUhaRUVBMTZtYnlpNndjeURhbWdZRUJNRHFHU2ZZTFpFVk9MOUd2SGtwQW05MDlIOUJ1RDZWMVpoRm93WGVjdQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T21:35:26+00:00",
+      "title": "Microsoft reveals Azure cloud sales in financial reporting shift - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTBaZ3lMRnBoYVlRXzZ5Y2N4S3R2TmNrNFpfOV9jcVZUY0xyMml5QkNwUWRqMHkwY0ZpcGtSNzVMc092Y1A5ZW10ZFNia1g3VllrcDlNcDRQbHVKYVNYQVlvQ0x0T09Tc2xKeV9tYkROWk9mdmFfd0tDN2NKYjJUS082TTlRMXlObVVZOEZISUhDOVk3aU5xRlE0Y2ZlbWpsdmdaWkFkMkJEZ0NFaFdBQ2I4cmFNUzdTcDM1Wi1B?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T21:21:00+00:00",
+      "title": "Microsoft to Change Reporting Structure to Reflect Effects of AI - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3hZTS1LdVBJWUFVdjZ2ZUpUQ1hSMkJJYkRzVmJ5aWZ1UHdscUtrLW1WNzR3eEZBYW9DZFhYWERCaEtYVTZ5VDExelNWZTRzTHRjaTRqX3B3VTNMWjRIRlNVSjdDSEFPU21lRzZmZWh3cXhlVUlmNXZmTnpZc3p0ajZPUjFoNlRNVlAtVmkwdkJiQUgtczJ2MkpSR3FuLXdQZ29v?oc=5",
+      "source": "WSJ",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T20:57:44+00:00",
+      "title": "Microsoft to Disclose Azure Sales After Investor Gripes - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDVpOHh4SGUyYzZEaDh0SUotU2Zra0Z1UXY0aUdjSERRTGZaVVlaQ1JpcnRBSk5GWWJ0Ukh3WTlFTjNzSnpHN3ExUUQ3N0hISmpyYlkwdlo2X3ptc3dCY1hqbzN4T0Z5YjVzRkktVnNnbWJtS1A2Y1doYU9adndHa3RNclZkbXJZREFlSGFacjdzd0ltczI1Z1cyY05kQUR5RXk2UFoyTFhPUWVwbF9zRTFxVnpuQQ?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T20:30:01+00:00",
+      "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM21LX2w1UUF2N2t0X1ZKaEgzZW5BcEpuV1NhT2ZQelZIclZ3b05RWEEwT3VVWFEtclNHRmxMbXZYUG42bUZ5b0EzQXJqQll0amsxMTJfM2tGS284S0k3YXNtdkpWelFfaWxEbjE3Y2JGbzhhaktxd3B6Qi16SVVlS2FTeDRJbi1qQmFuVXg5WTZoeTctbmZzLXZlTmJ6ZXAw0gGmAUFVX3lxTFBfdmpXaW9SdzVILTE1UGpzZVhtUkwtUm1feGtTc1djeEY3R0NyQkUybVZWNm0xMTFLLW5ubHhHa1V2cE1RalJuWnJHWkpFcEFZVnBfWXdOUWhWcE9xcDdndTJXQzhZeXk0c2NJbkthTFFqOW1WcWwxTWNndDFYQ0JBaWhpaFlkNnRQbXhrdWhybGRwUTlrSDJKcW1Nak96VjZJRExSWUE?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T19:13:04+00:00",
+      "title": "Is Microsoft Stock Winning The Move To The Cloud Or Just The AI Boom? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbm1kT0R6Z2ZUV0NhZGc2dGRxdUJEeXNyOUt5Q055bGI3aUVxeVpUbTlvdEUzWERHdUNJcmtxMmNXeXVWUzd0cnF2UG5jb2pyMUUxZ1FJN3FYM0loQ2trQkdPSmVYTWxveTllT0VaTHJDbk5ZZ0RLakZQdUFsS3g4WVNsWHZubTRMNVFUa3pRUDV3YkwxX18xWHBsM1M4b3BVdHh3Mm9BYW9OLXktMFRBODZhMmc3ZmxVTVA0MVFIa1hfS2lhR3Vkbw?oc=5",
+      "source": "Trefis",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T16:41:00+00:00",
+      "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JTmd0UGRRcVRRU0JzdEdnT1ZKMG1BNEFCZW5sTTViMW1BS2NYc3hIWEtkVHlmS29FcVN0ZngtVEJkdEJjOUZYNkxwQW5UZk9mLUVvV1hmN3dlMjZXWUM2eTNYU3FOTW5nZk0tMXV1ZmVyNk10aGxRaEpDaw?oc=5",
+      "source": "The Hacker News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T16:26:31+00:00",
+      "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents - Microsoft Azure",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGpnN2dsNXo1b01BeXA0TEtTVFdDZDl5V2UtVnhSMHZoSnMybzZfZm5YZ3lza1VKTmV3UlpUQXZpeUM2RXhybkdTbW41TFM4WXN3Y1cySmFjYlczZVYtbXdiT1piZzBhUXFVT3Y0NlloVGNhVjcycXBVOFZSeHFqOHIxWVZCZU04TmhpMnh4WGZnUzZUZmN3OWg5VkdGSVcxWG9wQ2xDTUtKZTV4MVRvVllNcDAtZ2k2R3ZKMQ?oc=5",
+      "source": "Microsoft Azure",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T06:11:13+00:00",
+      "title": "The yield imperative: Turning AI infrastructure into useful intelligence - The Official Microsoft Blog",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWhLYjZIT01zTWNoQUxoVXgtcld2cnc3eHVOWE93clFKWU5LOVRoYl9HR3Uzb1QtWG1lMVl1NWpsYkRvS0l5SXRla3RSTGQtMldGT0xSMUFnanBwTWl6eUJJR1BiX3BQeThObFVtcEppWk1HbFBId1MzeXQzTTUxYWdFWEp1cHJzUkdsdkZpcTh4UGpjTXFWQkhMOWJhcnZlWmFaVUhGOFhHQ1pwaU9kZzVnYjlsY0U?oc=5",
+      "source": "The Official Microsoft Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-01",
+      "publishedAt": "2026-09-01T22:28:00+00:00",
+      "title": "Microsoft (MSFT) Stock Outlook for 2026 | September Edition - forbes.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVmtVQTVaakRua1c0cFJOeFNYWmxVakR4VkNPSjYtYk9tQWRmTkRjWWNYbzhfeEZuMFhqbjhXb0x6bFR0Q29XUGVVckNvcmRBVF9JeWUxbTA4ZzJKanlIakRBbVhXLWNkYTdwaVZKcXJJdmlWU1NSd21KQlVxRFVGeGREMkIyUXVCTHFkbg?oc=5",
+      "source": "forbes.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-01",
+      "publishedAt": "2026-09-01T17:44:47+00:00",
+      "title": "Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORGkzV21obDlVSUc5LW1DdFl1WFB6LTl5SUpDZ2EtQ0xQWkNQSzZETHVLWmY3N2RSQURpQmNUbWtsR0FxY0ZUaVM4cDJJWHhZd0w0eldzRXM0dVpWbWJwRDBuOG9qV0Jub3owemc0WHp3OWtrN0ZXLTJlM0ZIM056OXVzcmhnTmJWbFI1YlM5cjlZaEgwMHBWMjgteURBdw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-01",
+      "publishedAt": "2026-09-01T16:44:08+00:00",
+      "title": "Responsible AI in 2026: How we are adapting for what’s ahead - The Official Microsoft Blog",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlloVzNBSmE3MEc5ME5Ic0FSRDhxaE4wc2VEcXNJS0ZxbXBZLU1KS2Z2ZkZ4LXQyV1NrM0ltR0d1X2luRnJGWlZEOXJpSnl6T2R1QmlZbnBHNzN4c0I0QV9DbWlZSU5pYldZcUgwYUNmWGw2eXc1a0lTeVBhTUtpRjRfNnlNLUg2WXZZUnB4N0ZYWGNkckw2QWhuWXBYclRSNy1nN2lJV2x0WF9meEpORFln?oc=5",
+      "source": "The Official Microsoft Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-01",
+      "publishedAt": "2026-09-01T16:00:00+00:00",
+      "title": "Prediction: Microsoft Stock Will Double on This Date - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1VmTDl6eDdiSmZEdEpxTU5PQlFkSVNvd3NidUplVWo1bE9uaVY0cVlYMEdDaG84RWFSSTZuOFRXLWVielZnNEJGdFRTREVQelluWFl2bTdKRk5hWGlNbi1kZnM0QWdnVXFxN1o4aUw5cDBQVDJPTDhpRHl6WGxURG1haWREUllBNUVENTJNV0lxZjVjZktjOEthWQ?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-31",
+      "publishedAt": "2026-08-31T19:30:10+00:00",
+      "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFl3RjhRbTM3S3FIWG5Gam5pY1gyc3czWmpEcVpqZEtBak9PV1JBUDliUUlJY2otUEY5RHBCeXc3MXdzYVJwR2NEbHNISlVSbF93SGhUR0xGTWRnWUZCOU1GQWVROVlqbXNLRTdWOFUzMC1LSDRIYUVtcTdyem5Za0k3Nm16eHpvMlZUYjlENFFUQm5kN2hCd3l6aTFvYWg20gGmAUFVX3lxTE9meUduZS1qckpvNkd5VlU0aXotTjA5VUtVYWVGTVktQmpVaHBMU3VsMWZxTWo2dGRUTVJIWFZDYmVBeTladkdtMFp0a19NaWxJMWhFb3l2VGpzQ1RWVW5WdkRORXIxVHlybHQzTUF1aWVJbGdnRFhZVFJ5UWdDdEhfT1RxV3BWLWxuTk1ET1d2VGJCekxFYTBQaTl2OGt3Y3lQOFRxYUE?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-31",
+      "publishedAt": "2026-08-31T18:34:11+00:00",
+      "title": "AWS and Microsoft Azure collaborate to expand multicloud networking - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2tWbzBadkNwNXlNd0ZZRFpCZ1M0UGlVX2dUMmpmaHM0M3VrRnViN211aVNoM2FOTEtUUUc3aWdkQkJqYl96ellILWxzZEFhbUlORWFTVjVKVWdDa0JJQlFXaDI1NVp4bXNLSnlLLW1YYUplZlFxNmRyUi1PQXdzN0ZUZUZ2UUp4UnFDVDBSQTVPZWozeFNkVnFUMTJhTG5Udnh5NU5jblNqRTdPbExDbnY3NVFSZkVLZDNieFZncU54MzhzYTJSQw?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-31",
+      "publishedAt": "2026-08-31T18:00:00+00:00",
+      "title": "Introducing Azure Multicloud Interconnect for AWS - Microsoft Azure",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWl1SVNnd0Y2UW9uUjdEYWRqcFlsVDZ3OUlfVDVUTWc1UkpiNnN2d3FHRF9pMDd1SzI2dzhIeHZHczg3WXRHZjgzUG8yMlNPVmEybDJ1dno5UU9YVEszWEF5MnNwVFRNUkxfaTZub3dYY0Y1UFljaklmTC0yaWNMakxYYmFJRjBFUjNjbmt0QnN3cEk?oc=5",
+      "source": "Microsoft Azure",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-31",
+      "publishedAt": "2026-08-31T10:06:54+00:00",
+      "title": "Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams - Unit 42",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01WkZ0NGRnNlBfSG9XTTl4eUF2cUc2RjBBZkZUM2NReV9ORG5TME9RcE9QQnQ3STJVZFRGQkdBUTRWLWU0YlYxbkhJdXBjZkczeFFFMXFEMHFqaWVheW1wSk5CR3hTU3dScEJlSUU5ajdoN0txbG1jcE9VeDBaUQ?oc=5",
+      "source": "Unit 42",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-28",
+      "publishedAt": "2026-08-28T07:00:00+00:00",
+      "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXh5V3FkUTZEeDltYXE2ME94OHNIUUc5aVF5TGdTcHhGOVdkZUlPSEp2VldINy1uSXViVnZ2S0YtMkttTlhxRi1ibFhuZkRfdEl4eGFLSVpNNW1lbnVGSEMtZHhOazBLQ1c2aEo2ZGcyb1hKemp1U2pqOElxQ0p0ZWxyLUlWQU1RM3Brd1c0M2djRVM3ak1QMUdueGZBNmlhZUlYaHFRbDF5b21Ed2llZjVsSWpjMWNNbVdVT2xjZS1zaGlsdEVid0l3?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-27",
+      "publishedAt": "2026-07-27T07:00:00+00:00",
+      "title": "Rethinking security for the age of AI - The Official Microsoft Blog",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUE1SeFVsNUUtTlBQWG1TN2JZcVl3WWpTYzVudk1iekRabVRoNHNWREtjZ19SSklYOVlPWHZ3YnZ6cVRpTWtaVllFc2xCc09hZUhJdDBPdFBpXzVFTlRtR0xsSEtHSGxxYjdNblpiZTdNOEtpOXh0WEdSdGx5OWFjVlp1VW52YnpPMlE?oc=5",
+      "source": "The Official Microsoft Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-21",
+      "publishedAt": "2026-07-21T07:00:00+00:00",
+      "title": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control - Microsoft Source",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYXY2QVMzcXpqZGY5T3NmRl9BX3FQdWkybktodjNVQWxxTTFFSjhfcHFWdUVNRVlRUkNlWFNFT1hUa2pIQks0ek9DNGp5WFJ3VXROeVZDS1BMU3JGd0JNc3U3LTBJcUNIRHBELUM1UFBGcHdRWGNxdkJJbnU2bk5ZUFlLODFaY2xNaDhrMDFxUy02S3dCWFhtb2VxazZVdERlN3lDX1l6ZjdfVkwtUXM2N0JaaWQ4cGRtbkNWRXVqUEJEdS1WbVRBalZVeWZLLUVMZms2am5mdDBDYnJoNThMUTZwbWUyUUdMRUhMM0tPNUIzN3pXc2s2eTNZWWtjeDA?oc=5",
+      "source": "Microsoft Source",
+      "pos": 4,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-07-21",
+      "count": 1,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-27",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-28",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-31",
+      "count": 4,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-01",
+      "count": 4,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-02",
+      "count": 10,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "count": 20,
+      "pos": 4,
+      "neg": 4
+    },
+    {
+      "date": "2026-09-04",
+      "count": 16,
+      "pos": 2,
+      "neg": 6
+    },
+    {
+      "date": "2026-09-05",
+      "count": 23,
+      "pos": 0,
+      "neg": 12
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-07-21T07:00:00+00:00",
+      "count": 1,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-07-27T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-08-28T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-08-31T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-08-31T18:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-08-31T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-01T16:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-01T17:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-01T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-02T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-02T16:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-02T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-02T20:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-02T21:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-02T22:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T14:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T15:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T16:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T17:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T18:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-03T19:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T20:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-04T10:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T12:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-09-04T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T14:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T15:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T16:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T17:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T19:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-04T23:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T01:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T03:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-09-05T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-05T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-05T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T09:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T15:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T16:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T17:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-09-05T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-05T19:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}
