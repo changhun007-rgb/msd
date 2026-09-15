@@ -1,0 +1,979 @@
+{
+  "ticker": "NVDA",
+  "query": "NVIDIA OR \"NVDA stock\" OR 엔비디아",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-09-15T18:06:32.174368+00:00",
+  "items": [
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T17:49:01+00:00",
+      "title": "Nvidia Will Still Beat AMD Through 2028. Here's the Data Behind My Conviction. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZlR3SFI1aGJfbFVuRWVab1AwalpqYXQyczFxSUV5cW1nd0V3QWNTb1pwUEtiTURHcVd1Qnh3c21sa2h3Yk5RN3Z4MWVjdkVOQS1TdVJXSDRJQVFjb0N6bGlzbWNpY2phZWFpRTJ4OE9Ia3BxOG1LZHdETlpWVklIV05jaGQyVTUxLUxiSlpZdm9xOVE4bWYw?oc=5",
+      "source": "The Motley Fool",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T17:45:00+00:00",
+      "title": "Nvidia Just Invited a Rival Chipmaker Into Its Own Racks. Here’s Why - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjRYMy02cDZ0SHZXZEdRYm1iTFBkT1FRdHdQVjEzVzhRQmczQWVjcU9ORmtfZ2FZMF9vMlROU1Qtb2NUTUNwVzRRYVFpMmdva3pWWUdZMnVCRHFBVTFkS0pITHlaVnBlTHRPN2lLMkVLWjlBUmFfU0g4M1hYS1JrdWlGRUFSWnlETzZTZFBOVTIwZThYWk1xdUV0bHRZSUphdTRSd01SSzNGamlvYTNv?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T17:40:00+00:00",
+      "title": "Nvidia Will Still Beat AMD Through 2028. Here's the Data Behind My Conviction. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc01ZdUdoUXpvdlJBMC1qWU1WY3g3dG92OW1sUUlYYTZJcThLUThfcEpGaGhWeGF4NFJoTlNyS3hIcHlTSGVpOS1GaTVEcm9rLWZDSkVseWVvVkFkVUVlY09WdWtSTTJWeVU2WGZmNmIxVzhLT3ZVZXk2dXFIZ2l1ZzUxak1ucGNqUlY5ZWEyS1Z0VzM0UWc?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T16:55:53+00:00",
+      "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1JxZG4xVW9GenBnT0x1UkxBRGRDNlhQTDhfQVMtaVVKOXp0NUx4TURxcmw3cUwxWmVLQmJvTDlHTjdqVUFaTzh2OVVNR1dGc29CVENldHVlMTZjNnNqWk1WTDZ5c3drLTIxV2laTDNvZUR3dlZKZmV5SDN1SnljMUhoQ0JoV1Y0WUlNTFJvd3NZQ1drUGg5OGRvQTlmSU5TRkJHWHVR?oc=5",
+      "source": "NVIDIA Developer",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T16:53:00+00:00",
+      "title": "Nvidia, Coinbase, Skyworks, Axon, Tesla, Applied Aerospace, and More Stocks That Explain Today’s Market - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GQ2xYWFpyTFF0Tlo3ekxZMFlBSkFKR0VINVJrbWRoQWRyZlpnZ2tpUzdOaEc0aGlJVVkyNFZxWGN5YV84WjdhbTNhU1k4cURDNzlST1RGRzE3d29wSkF2Vlo3bVM?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T16:52:00+00:00",
+      "title": "What Nvidia CEO Huang Told Trump About the AI Doom Debate - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbV9OTFNlUzFyX05yZTlwOGpYTkxNOE5FU1I2SzhMSTAxb21ZYlM5bDZyYjJpY1M3QkstbU1yY0pxRkZPRnRJTDFaazQ5RHFwSHlCYmtwWEplY3Z6dms3eUdGUnZaN3Q2M09oQ2g2MW5hRXFXZ3B1VzZBdWpjSzVTeFU0eE1NRklnMDRITw?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T16:50:55+00:00",
+      "title": "Nvidia CEO Jensen Huang dismisses AI doomsday fears as 'not grounded in science' - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YMDJXQW1DSWdmR2trbjBMb25GMHlFeTR3eGxXdWVRMVdfdzJWenAycmJsSG1vVEZ0SUtRcF9faUhTRFVuQVNWTUctRVJTb2ZxdC1ScDlDUzhxZ1k?oc=5",
+      "source": "Fox Business",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T16:48:23+00:00",
+      "title": "Salesforce, NVIDIA unveil CRM domain-specific reasoning model - cio.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWJnWGJsYWdkZEhrZDZ2WGpmREg5OHVuSTJGakhaMjVKcVFoMzAyVWNuSmxWd1FBcWZEcXdUR0pHWGR6S1NMNnNCazZQTU0tQlc2QmZpaWpseFZ0bV9CWVJJTEJuSHg1eEg5NXRJalBaU2g3TUxkSy1aNDM2YWFQZ05wNWZVVHVmbFd3TGpRbjdDWkUtMUNVYzQ5cXR6bGJGS2pn?oc=5",
+      "source": "cio.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T16:20:06+00:00",
+      "title": "Cashing in on the Qubit: NVIDIA Takes the Quantum Leap - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1dqNEExbnFfMlVvNGFaLWVHZ0xyMWVHUUNRTXlmS1hYNFRqX1lBUlM0TlhKY0RZcnA3Z29zaURIMjdwbWYyQURWVHpGTWJYRzdpYWZ4Z2FUaDRlM3EtQklmX3Q0U3BKbERpMVQyZTRoYzFTdnNJaEZBa2xDVERUeWFhZlRjbDVFWXN4T2dfZGtQRzhO?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T16:16:06+00:00",
+      "title": "Salesforce Launches Koa AI Model Built On NVIDIA Nemotron - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTdOLVJpRmg1VkJuTTV3V1VJVnNydFhEbTF4Z1pXcnJTdmtPMGVnMy1WYkY4WmczVmFkcW0xbnhPYTZCb3JaTTZTdlFpeTRJcS1JallDeXdpU3gzZm1hWWR1c3N1eElPRzU4dURVelRmWmtvMkI0RnBpVW9sNlB3aDRiWW8zYVhndHNQUmlfcVhUTWxqY0NOdGN1UE12YjhKaEVsUDJZcTQ3aVA0NFJUMEtqUDYzQQ?oc=5",
+      "source": "Benzinga",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T16:10:10+00:00",
+      "title": "Salesforce And NVIDIA Unveil Koa CRM Reasoning Model Built On Nemotron: how 13 outlets framed it - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT2c3aUtYRUlMNndBUUdUanJPTUJUeERNM0JwNjkwZW9seFlob0R5cXhPVnFDWkFHT2s2MFRQTHpNV2pTeHlTdWJwa3JScnhsODEzYXd6YnFjSlN5djBPOXR1UVBoNzJaZENLMVBqUE93SnQ5ejBRdzQyU2NPZkxGLTRzcy1iX0tNV1JCUTVIdkdqLTlmc1pidW10MG9lZ2EtMUtncmxvVU5xTUpwSE00bUN3M1prdzJMcC1UblkyR3g3QTZoa2UxNHZEZng1M0NzaUx1NlFvRWg5aEFZ?oc=5",
+      "source": "NewsCord",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T16:09:00+00:00",
+      "title": "It’s All About the GPUs — 70% of Nvidia’s AI Supercomputer Cost Goes to Vera Rubin Chips - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVp5OVpXZWJBZWpLOXdrZjhhekVWcTl5VS1Gei04MnRMcjVyYWp2Q2tJOVVrbHFOM1dqbU9GM2FRc29xaUJ5UjBuSDc5V05WNC0xNU9nVnFHd1V2S0hwWE44UGhmVW5NemhaYzQxY3ZJcmNHdUU2akhpY1dQTGpqc05oNWwyRlh0UUV5MjZVNU5oOG40bWtvRkI0YV9xY2g4ZVlFZllqMjZUZWpjeWNGOS1mOUtQNVdCcUNXUm5rcV92SThVNkE?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T15:59:00+00:00",
+      "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHhHek92eVI1cjkwNFdHMFFYODJpZU0yMDJSZlo0V2JVQzI3MlE5cHdmaXo3QVZIUFo1VFNudXJCNXRIdi1UN3JaVTRlQmI5MC14cGdrdkhTSWpSeVQwVDdSRkp4aTEza3MycGZoMXpNMFFURzRBR29oTERUTlluR2lyeDRfQUgzaXlENnRxZnRQRUtHcEFF?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T15:56:46+00:00",
+      "title": "Nvidia CEO Jensen Huang Just Dropped Huge News for This Cybersecurity Stock - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDNnR2JZcGlqVWlwTVZvVG1YdjV0NTRiTHFHT1dCdXBhSTl2ZVEzRUFFWjNfWWJqREdUbEZKYThjSkE4YTkyOVR6aDBIbGtqLWl5MElXUDd3MFY4cmp1NW1aMFpHT0dHRTdXUEtXeUljYzhVQjZzTnlrQmppQ3pLc2ZYQ0J4QlY1WmV0N21QVjRDTzdkWTNDVE9xWjAtbmQ3MUtiQjMyeU9xSUVWZEtWeXR0d2JSZHBPQ2hB?oc=5",
+      "source": "Barchart.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T15:49:05+00:00",
+      "title": "Watch Nvidia CEO Puts Trump on Phone While Downplaying AI Risk - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnYxVW4tU2xrQl9nVkJybVkwRU1Rd0ZpU2lMR0ZFSWoteUtUN256bjFyRVpGZ1dJbEVVbWs5RDdaYk1mT2M1Y1dYZXNXbWl5WjRRUEVYanpjajZPc2lzVXBtcm16UGwxTkRyQnh3aXY5ZzBvWmpGTXB0b3NhcVcxRHhsS244czZRMmpxTVBTMkozM3pPUWFCSjM5MnI1Q0ttekNEazMtc0JKaG5QNnFlUA?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T15:44:54+00:00",
+      "title": "Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind Fast - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMWl5ck5ZOVY3X3l4YlVJcVlkTHU4cHVrY0FEcl80aWI2SnBrb0lscjhGLS1maE5SRENxVzdwUlY1aUI3QWkxZGl2WmpORTZzRXJmQ1JmeUF2bnhXQ3g4XzJGblY4bkZKWDBKUVJLWTdWUEhxWmJNdUV4YnkzS1pPVC1BNTBWZWg3Wnp5Z2xQNXJFNXZBYkF5VkU2anFyMHV4eWV2LTl5NFlSSlFEMkI2cnFlV3dQWnBEVUhFaDdibDZBVl94ZXc?oc=5",
+      "source": "TradingView",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T15:36:56+00:00",
+      "title": "Nvidia Rebounds, but AI's $1.08 Trillion Boom Faces Its First Brake - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOENSS0o1a1BwRmMxamZZcnBHdFQ5SUVFV2pSZlBQckNOMm5mN19nTTNnRnJaYncxYnJBMmQwb1d3bUdoVTAySm8weUV5cHdDUDY1ZHNVZFZTX1o4ejNrdU11Zy1KbE5lbW95U19JWHI3RWpiUUVubXFzT0xNODFkU20yV0RUR2VfVFpyUWltMGpfQQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T15:20:18+00:00",
+      "title": "QC Design Integrates Plaquette With NVIDIA CUDA-Q Logical for Hardware-Realistic QEC Simulation - The Quantum Insider",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXJvbHl5UmFPekRMT0MtVlJWNWxaZ04yVXU0VjUtaGN5cG4zay1pQndfTFhSMTBvdlJqbFl3NDd6UWt6ZFdmTlpMT2RsejBVc2lhMEpIejUyeUt5S2dPTnZpQzRrZE0tU0RFMnJvMGFiWVJxU1ZZX1ltbFJiQW4zRXItRmRUdVBXb3R6bHhsR1g0SWZpWTFmdXp5RHNQVEU?oc=5",
+      "source": "The Quantum Insider",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T15:15:00+00:00",
+      "title": "The AI Stock I’m Buying on Repeat (And It Isn’t Nvidia) - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXEtc2hNM1JERDVVS25Sb1BEdG5yZ1dra1BuYWQzUW9SeFRyUVIxaWcwZFdoVzRka2xrV2thRS01Tm4teUI1Z1UyQmhudHJ3OXl3azgzVmdtbXFESVVTLUhMS3hRTjJTeTd1VGxUWEpYQThZRDM4NDV5Zm5oM0hLREJ1aE5vV3lwRmNMMlEwSGpLY0dTVU1HT3hpWQ?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T15:13:59+00:00",
+      "title": "Salesforce Broadens Alliances With Nvidia, Google Cloud, AWS for Enterprise AI Integration - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUFXQWZ5SGZsTEo0Z2c3a0cxMWJxbkROM0R3Uk0xalQwZ1l6MjRqeFBOMTZHNUpUMjlHellQSHprQzdDejF0RGlSeDlTMUVsS2pZdThTZ254Y29wNnd6TFBmT2tiYXNMVzhSTkJaSFlYS2lieEpoUXRvTzVWMW9SV2taMTMyU0dMSkJCU2l2YjZvT2FXYnpTZW1pYlFERnFFXzN3dnYtZFBicmc?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T15:01:21+00:00",
+      "title": "NVIDIA & NDI: Advancing AI-Powered Multilingual Content - AI Magazine",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW5BSWlfVTFLSTd2bENtaFVlYTJWeENxSFRtMGt4dG5XVmlIMVBKTDB3WE9VUGQ1eXFZd0lUa3k3bVMzQ1pzS3R3cU9iWnFMUENlN19JM19FaWRqODQ5ajQwTVhtdDgxZWVIbVFfaHlGbE5XVWlzRTJSbk0wRW5jbVdoODFEa3M?oc=5",
+      "source": "AI Magazine",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T14:52:34+00:00",
+      "title": "Trump tells Nvidia's Jensen Huang AI fears are a 'hoax,' but can midterm voters be convinced? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUU2Q0RPQmthbnBsQk9yOUtPVC1zQUZCcVRnUWVOOUM4VkpkeTVCM0RNM0RWamxYc1hwX0FzU3JsT0lTZnE3OEJROHNzOVZubGg2Z0ZHY19UeWFPVndVOU9XOUZycGZQVE9DeTI2OVBZbzdsX1dEdW9sQ3lDb0dUMUQ0aGQwdw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T14:47:02+00:00",
+      "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM3JfelNNeXFoQmdqdzlhM2FkTEMxVFlCNGxIUnFOSmR1S28zVnV2elFES0R1RERBWEJ3anJXMzhDY3lKU2lNU0d1MEVwbjdSYV9JUUZROGhMMWlxc0gxOFRVQjlGcEF4QVpuMlZDTzl1VUdRZkk1WmVMS09pOVZoN2JCRQ?oc=5",
+      "source": "NVIDIA Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T14:43:29+00:00",
+      "title": "Salesforce Unveils Koa AI Model With NVIDIA To Power Agentforce – What Investors Need To Know - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ2pDaUJBMi1FZ292Tmp0Tm92UHc4SzZZWTh1WTRYVE9wakNTQUcwNkljUlI5SHY3WE95d0U4LW9oOTU3NHp0eXo1SW91eTBnRXFBSFBpQ2NKYVpfM0FWM2N6aU9JMnlySmpnbUh4Y0pGQ0ZVbnBIRXNWS3lxcFZDZWowVklwU3V1TmIxOGtmbnlYemhZdnFMVVAzTQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T14:35:09+00:00",
+      "title": "Cisco Delivers Trusted AI at Scale Through New Splunk Advancements - Cisco Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDV3dlpNVXhZUWhHNEE1M1NyeE1qN0NCTUJ4bl9qZTdkV1dsajJONGo2cmdWWWhrWlB3bndMbkY0MUVqWGpMLS1EajB3d3NfZWh1RzBvY3BDdlFfblJ2YThpS1drU21KZjAyY0NMbDFuZE5tb0d4X1RKR19oXzctM3pHdlJZXzZIQWFEeE96LTlLY0V4VHRRTGVvaFdlZUxnczl1a2IwazhnZVd1Q3V3S0ZEZDhJdmVjWUFJV0djSlFyY2pGeG5jag?oc=5",
+      "source": "Cisco Newsroom",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T14:28:36+00:00",
+      "title": "Nvidia’s Anthropic Investment: Securing AI Demand Amid Rising Competition - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3hZa2RPWnlPbUwwV2hVbUVRTTl2akRidzc5aG5CMzB4Vl9TSmlucEowRjJEXzJXeUd1anZFeUlCOGpndDJCTHdPcHZ5UXRBc2xQVjdHSmxPdWxSS0Y2aVYzT1JITFNvOHJsUzNBak9TUl8tYzliOEhvV014OU9pLUM4dkwydVRZMnpGNXJRZmtISFNCaTJNWEdlWVBRRUtVclZRTUd3?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T14:14:28+00:00",
+      "title": "Nvidia becomes landlord in Anthropic’s $175bn compute spree - capacityglobal.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQlNyd1BCZkk4T0tEb0NlUm9iTWRWM0N3b05rWjktYnVsMk42M0pDSGFONmd6bHB5SThJZDBoREItbGoxQzZ0TmZDS1BJelB1bHByWWNQbjN2dFJwM1hMZW02VlpTMlBnNER3UE5xV2p1eWR3Sk5UVFc1M0JMQ05BLWk1Uy1WX3ZRcXc2QUdlbFJsYU14?oc=5",
+      "source": "capacityglobal.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T14:05:00+00:00",
+      "title": "Nvidia, Coinbase, Robinhood, Coherent, and More Stocks That Explain Today's Market -- Barrons.com - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDZXLWk5Q3hpWk9wanl6WVJrOE41VzlLSnZ4VXlxLUZUSTkxTGhNbTdwQ0JnSkxmZWFOWW9Ydk1XYXRiRFEteGIyai1MbmJNQ2l4Ym83MjRvd3ZadWV5VXR2WnpWMjlJc0htd0ZVME5nc0ZTWm5JRGtHZmQ4NzhHaUdTNlZyalNWaVN5M2xwMmNHdW5QMjFBQlVYQks2Q2ZET2pBeTNmaFJ5d05oVXZKOQ?oc=5",
+      "source": "Moomoo",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T13:48:35+00:00",
+      "title": "Announcing Koa: Salesforce’s First CRM Reasoning Model, Built on NVIDIA Nemotron - Salesforce",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEZFRTRaU3FBVEVKVi1vYTdhLWJrNlVOaXZINDQ5aWo5dXB2Z3p6UmRiZTlWdWRXSTlEVU52XzJhZXpaaXQ1LUk3NmdMR0hlOTNmS2tROVE5MnVZUjRHWXk2WEJLcERYZVN1NUxqSnVWa2xsVldZMW14Ynk0dzhJaGlLajQ?oc=5",
+      "source": "Salesforce",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T13:46:56+00:00",
+      "title": "Salesforce, Nvidia Introduce CRM Reasoning Model for Agentforce - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRm5TM3g5bEl3NjZjbkFQb25sWV9aN2FUMmY1ajhodE81Rl92Z3pBdmVESlFjX2IzX2h0ekx6Tk5HQWlOZXl4cjBfUjlHZ2lFbGFTZlZ2dnpDNWtDaFdOQnNMX2JvQUF6S0Q3N2pYQU1vVkdRbi1ibUF4N3g5eHduVDRmQjZEeGxNWGhRbTZ5NXN3RjF2aWZwN0V6MmpqV3o5aERxaGJRNA?oc=5",
+      "source": "Moomoo",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T13:36:16+00:00",
+      "title": "007 First Light Path Tracing & DLSS Ray Reconstruction Update Out Now - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUVvUHNkME9VUmhSSUQ5OEZzQl9TRlp5TF9ZQkRfc1FzRzdrZnhRU216aWpSdkZ4TDUzbDJ6NzVWclIwVmhramQ4alJQWEZ2NVROR25OYlJvU3BwWWpQbkdvRXZzcWNTVHJWSHlSTEFKWXJFcmRsYy1MQkp6UUJ0OGRQR0xuUEJ3ZXFzekZoTXU2MlR6RXlhUGY0anJFaDlxOTVBc2hObm9iY2lEYWg2MFJFeTY?oc=5",
+      "source": "NVIDIA",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T13:30:00+00:00",
+      "title": "Why I’m Doubling Down on Nvidia Stock Hand Over Fist - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWEQyX0xpYnRpdzBBNjJ3X1d5LVJMM3RFRW8zdTBxbVdCQzFpMkVuRW4xS2FYaS1ac3BxSFFzdlQ3WVNTMWItZ3dONkxrZTFHZTU4a1FTeGJFZUNZV2xhMGZzMnBvQkxGU1h4UDRUZE52OUFITzBNWjRCN1FHSFQyckt4a3EtMm9WZnkzSWNVNTF0d3lZRzVKeDM1NA?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T13:00:00+00:00",
+      "title": "Trump calls Nvidia CEO, gets put on speakerphone praising AI during summit - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1c1dHhZc1RQNjItMFIxSFZQTGVKMmRqaldRajJkRGp6Vzd6WW1USDg0Y1pkWi1QcHJWM2hUTm4yZmJqcUJpU0xrRWVHN3lfMW12dFFramJGcUtLdGs1Q29MMVZGbmphc1FWLW9URlhBME9tcTZ0a0lqTGhmLWtGTzFPeVBLNkJHeXlQQW9FQnFhbHV2bHdFaEp5UXREbXNqNFF1SUJhYw?oc=5",
+      "source": "CBS News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T12:30:00+00:00",
+      "title": "What Will $5,000 Invested in Nvidia Stock Be Worth in 5 Years? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUUgwR0Jla0xDWnBMTllMaE9ZTVVwVGxmTUNJNU4tNUd1OEFkUHl4ZTY1b043alpCT1UzWXhfU3hyWm5DMVpBdUZFbEgwWFJXVktucFRBNDRpTFo4TlFJQWUxcEozcXA4c1NzRC1mZG5FYnNCT2JiQUl1TjRLbDdjLWNLWUpGWW9Dd2pDbVp0MEppbUdYZVZqQzRLS3JyYmF2QkZwa0Fn?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T12:14:38+00:00",
+      "title": "Trump and Huang unite against AI doomers in surprise on-stage call - Axios",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHY2dEtJQWxpM3RnUURFbmV6WW9EdS1Qekc1UzVZblNHUTJ0Rm94eWRsdW1RcjBsaWxSZ1hqMXRHbU5iYk0zLUZleXB5dHVCN2FGSkNUUnpFZXJXSHh0ekJwX0hrUnhRUVctdUlQQ2RETWtNdHZsZkhZZS1mOEJjRQ?oc=5",
+      "source": "Axios",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T12:00:00+00:00",
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3pZRml4TGIxQ2pRYVM1WTV3SUFNSTlBTlY4bkNtS3l0cW5abWwtQkxSV2szVEdmTVRrWmk0NDlVOW9NNW5rd2tEaUtGRGdQdkNId3RrME1udWV0V0FvMi1GcUJpeFhWVEcwQ3hMc3BFQWJLcV90dUl1Z2tJa2xwcm5TcjZCMWZxRTRpN0pqb2NueE9tb19EOEFONnV0QXpjSDc4RDVRYU5nQWY3WXFLRjZWRHk0Zw?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T12:00:00+00:00",
+      "title": "NVIDIA Is Buying the Distribution Layer of AI - arcweb.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5RjZQOGMyZzFGaVJ6TFNCU2RHcTBlZ1FFYlE4NDF0TURTQmxqYnJ4Njd2WlBmVzhPb1BLRzZYSzItYUtxcFFkTEswQUFESlpLOWdkcjBoQmpkTzZxTFRMV1hyeWtJV3pjeERtQ2tfYl8?oc=5",
+      "source": "arcweb.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T12:00:00+00:00",
+      "title": "Salesforce teams up with Nvidia to launch Koa, a dedicated CRM reasoning model - IT Pro",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU201LVdLQkk0Q2UzTUpnYndWVzBINUJ6V3NWVGV2eHo2TE41bVdPY3NpZWZJRTdERHUwbFloNVBxNjk1bi1qWDRuV1k2dHlXX1Vmeml0alR1bjBmN3ZqdVU1dms1Y2FUY3h0XzZvcEg5OW9yRFFBbkhCSFV3SEo2MFZVLW5MOU9maUVoQWkxZHVSYlVDN3JfRWJUbzIyQWhIZTBSdW9fR3hOdTNCNVYzMmtMUFVoY1JfekNUU2VGV2FMZExrNUp3aGRUT25LUWs?oc=5",
+      "source": "IT Pro",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T11:16:22+00:00",
+      "title": "Watch Trump Calls Nvidia’s Jensen Huang, Says AI Dangers Are a ‘Hoax’ - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEdHE4ZjlJSEMzZDVKcWd0Q3Jhck9jbU9OckZBbm02dmJkMmQ4eDN4ay1lR0dZc3ZPYU9rSXh6WEE1UFNkakhBUVktU2ZDQ3NidFBtVXVfX25zblYyMkRkTVJrRFFzYzZWQWhweWVLOGs1R2ozV2RTQ0hkUlo4Mmc?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T10:35:00+00:00",
+      "title": "Nvidia's Latest Move Spells Trouble for AMD and Intel Investors - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzZpakdMTVl2YnJ4ZEtzTnkzLXNmN0ZReGpMRW5Edl94aGtGWnZob2FlTE83dXZWVzJCTi00RC16WHdUaXlFREhHRFhwd3lCM1VFZlhFV3pQVzNKSW9yNS14VkRnZHJueFhJSUtYSjkzdVNId2tuSVFxbmNBUmVVSXphOExEdXY2d21JMTcwOTg?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T10:00:36+00:00",
+      "title": "Hyundai moves toward autonomous driving, partners with Nvidia on 2028 driver-assist system - CBT News",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56ZENEbDRrX0wwVDVPbFI5LU9YXzhvZlVwRUY1cC1QSWwwYlY1TDBUd0dneXpmNWhXR292RFRWR3B4OWQyU0ZkYlVBR244WVdHRjNxdU9GQU9hWmlhTkUtZDl2VGMzNVZ6ZHpnNFhsTzNldUR3aWJuTw?oc=5",
+      "source": "CBT News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T09:55:00+00:00",
+      "title": "Nvidia's Latest Move Spells Trouble for AMD and Intel Investors - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQzVtOGhVSl95Q09Jdi1LTExZWUMyUlhwYUd2eE04SEdNRGJsWjdVRE5aNy0tb3lmMElzbFdrbUhaUW1fV2JWM0RVcGRnS2ljaFpmcll0alFucUlqdC1hTVhBZHNZVUZ1bWYzWC1Oa3ZwdmhDaGxqc19XVFpCYWhBSko1YnBsZkVjQ2VjVGxMUFdrbUpvR3JDSEtwWWdkOVhB?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T09:00:00+00:00",
+      "title": "How Nvidia gutted a onetime rival and left behind a $3.5 billion AI cloud - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLW55VF9QQ3k5QnZBLUt3NkR0NWg5TjBkTU43bldRVm1VMmZxakZqRnVPc0xPUjJ4eERSYWU3UklvU1RZNms0NjRtNWdLY0kzWmhLaVV4QTZXRU91eThEUnQ3NHZBbG5sMjRydmQtOEQtaFpndWtXeDBYVkt4TTF2S0Z4STlmWUs0V1dqTGFTNFFIME56RUxRYQ?oc=5",
+      "source": "Business Insider",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T06:20:00+00:00",
+      "title": "Trump says AI fears a ‘hoax’ on call with Nvidia CEO - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSmhFcVhDVVJSTlN1SG5zUzRTNXB6MllSb0xpVTZYYzhHUE9rN21wM0Z2OHNpSzJMNUVFeGxad0ZGQV9LZGFpbUZxaUtudXJQM1FZMk1IdnlRVmRBbkpwcGhmOHJIVXhwMXY0eDNpWGJGU3ZOV3BoVTkxMkpueVY1OGJINkdVaG5kaVEzN01mRXQ5YURvUWdtX3NrenliS3lOZjVaU2psUnhGdw?oc=5",
+      "source": "CNN",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T06:09:09+00:00",
+      "title": "Nvidia announces project with Palantir to develop AI supply chain management - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1JGUk91ZkpKSFJSRzFsaml2U29idVQ1WjEwY1FUSi1pUDRycEVOSWs5XzJ6LTlCNmVxUUlSQlFSdUE4bFlBb0k2UGZtUHBOQ1BOWW1BODNYbWlQSVYtb2d4Wkt0RVJuMzdsYk9GaWZoYnhSeGlPMVAyb0IzanlVTm1WZEx4dw?oc=5",
+      "source": "The Jerusalem Post",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T04:09:00+00:00",
+      "title": "Donald Trump Rejects Calls For AI Slowdown. That Changes the Game for Nvidia and AMD - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb21jQ0VQX1haUy1SLUEyOEtjVW5za0VrWUpwRl92bkxmcEc5N3g0cU1UYWo1Qy1WWUY5LUFCUlhMdG45Z1BVNmVWSmlEenpDQjV5R1NqOWdtN3gybXhZNE81VUhSVHB4VTA3NUVfaE5NeENNN3E1VE5jczB0MFRoaWhvM0txQXdhQnBSMFFEOHFoNjRJLUdpOQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T03:47:52+00:00",
+      "title": "In onstage call with Nvidia CEO, Trump deems AI fears a ‘hoax’ - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3RBWGtraWt0SC0yTlFiNlNtUEtXcHZGMWpWR3MzTnJBNm9lb09NdEpfLWQ1OWg0by1uWmUwUTcwRGplNUVhRGs4OWNzV21VbkZPSzJFSWVSb1lrSHBLXzkxMVdPcGJlSVo1X2FCa1VLc3B4XzY0c1p1S2w0TllOVDZkOGU5Y3NZZEIxZUl5SmV3NG5kaWpDczZzN2NIOFAyYkNwU3AtbmREUQ?oc=5",
+      "source": "The Washington Post",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T03:45:56+00:00",
+      "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’ - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeFZmRG1RRVgxWlB6cU9TTG5qdmRFNF82ZlFVbnRCTnJISlB1Y3V0dWRJZC0wR1k5M19NaHBZTEFxUHRjV1RFTWE5VjU2MFVYaDh3RlBkcUZLN1djSTRXWldfTHplckEwSkE2b0VxTTJoLU9SZmd0UVAzUzh1clY5M0dfUlBSVDBiRWfSAY8BQVVfeXFMUG9yUC1XOGsxZFVJamJpNGJMRm9ZMTlKZXRDT3poRDB4bW91dUZfNTRUS2ZKODhyZnVJNkJ1aTB2RUoxdmN3SW9lOUVxekJwRGE2WFRyLWp1LVlUTnM1SnFMQ2xWdFR2d3NfeV8yNGVycUI5NFFPOVNmT05GYjQyMzVtQ0txcDVjWjAyS0ZpcUE?oc=5",
+      "source": "Al Jazeera",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T02:15:00+00:00",
+      "title": "Trump calls Nvidia CEO Jensen Huang during summit, dismisses AI fears as 'hoax' - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVkU4djhYWHladGZiY0N6amVYeHA5RmVsTTJ2NFZoRThpaUhaMjhXTElKQUVoMzlZTUtxYXRnLV80Zmp3NlNvNVB5TngtUmdveS1tVjVLZ2phblF5d050RnFnQWdhdmVBTWt2VlJ2N0Y5V05qN2Q1elJQdTgzMDNmUzNXNkhza3hHaUtySWwxb25raDBsTXc4dWg5NkpnTGtXQlg5eDZMOXhLenVGbzM5ekJ30gG3AUFVX3lxTE1WN2tTRGx1Tnp3N0xULUdhUFBmUTJIUjA0cEJ1a1ROd09GTU1hdExMeXg4a1NTU2pFZDdpeC1ucS1HYkphRFlhWjR1aUhyel9QWTRsVDU4UXhUb3BwOExkLUVMUnlNNXdwb2M5dUVxbUZLbllqVjdDQXRnQjRUTEk2WVZrc1JHWG9oRDR1QWo4X0dnQTZGZWFtSFd2TC1SYkJ3MlN0LVBKT3NJTkZQZm9KR1U3R01XZw?oc=5",
+      "source": "Fox Business",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T00:45:26+00:00",
+      "title": "Trump called Nvidia's Jensen Huang live onstage to call AI safety concerns 'a hoax' - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSjhjeDJzQ1FNNk94b1BjQ2h3N2JVR214QlJ4Q25taExpaDZSemdmaVQ3cTFYTTVqS3d1Q0FKb2YwVS1PVWZyYUw4cTRjc1FqVVdwaWtTaFFCMEtCZTQ1ejZ2SU5YY3dEU2Q4M19MbHV0YjdRc3ZJQXVmX0tjSjl6bHpR?oc=5",
+      "source": "qz.com",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T23:51:33+00:00",
+      "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRjhtdU1rR0ZPZzBMOGZwZUpnYk8tWWtnVk0tV2VsRF9abV9pR2RicmJGbmtld045bkdwZVpSbzNKVDlLQ3ltamh0amZ0SnpQVGwwYnNvSS14SEZKRlNPb05Tdkxxc3k3b3h1N1RhVTJDbmtLNDBFd2VMSlEzQWN5UzUwajJFQQ?oc=5",
+      "source": "nytimes.com",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T23:30:02+00:00",
+      "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ydVhNMHFzRmctZVp2Sjlsd0tXMm5pNTN6UGoyczRpZlBUTjhITy1ybEQ4SDh0MWNZb09ldElzWEZWS3BBTVZwdnlzQXRBM0FFSzEzOXNCVlJneEFydmdXQWc1MVVCZlZRN1lyWG1KM3U0OXd4aUHSAXtBVV95cUxQSWlJd0JfRlNxTVIwNjEyaG5JQWZwYTRic0lfNFVha09oLVF0UGlyemVpOW1USGN5SlpiWXRiVUxSaVllTnZoaXhGZ3dpR0lkUUlIYTVUWkxTaDJYOUYzYXktbnVRNmgzeDJiWFNLWE5icW5UZTRxVzU2UXc?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T23:26:08+00:00",
+      "title": "Nvidia CEO takes call from Trump on stage during summit - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVXAtYUZWd3dmN2pvdnB2SVZtdktINVVQMk9PdXlCel9JRmFlT0NJN3QtSWN4dWpHU1NvaFZKUEtkSGpDVllXc1RUYlNlOXM3UXBfOFZ1d2RlWGE3RV9welJUMGNISm9aM1RsRjRvUkJYTUdxM2hROXNOT2c5enBLYUNQczM0UW9CNU02ejIzU2dxSzlxVzc2NHpXMldCV3NKQ3U4d3B5QjY?oc=5",
+      "source": "NBC News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T23:06:00+00:00",
+      "title": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkF6Q0JLVjMyRkRmX2YxS3J3MlRGX2xGdzhDWTF2alBnQ19vSmhxNGJpTTZrcDZlOTV3VTJnN3BCOXkzYzduOGo0bmpIc09CZ1lGbzdmdkc1eVlrYUEwN1RDV1NWUGdqYzBTWlZqYUVHWjFMSEpoMnplbDhkYTkyeHhRb0tFU3V2MXVkLXc2alVVUGlXRnctRFpkTzNDLXhOWWJOYXpVM09vNF94UEFFbVBxeFE?oc=5",
+      "source": "NBC News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T21:51:02+00:00",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’ - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1hlbmpRM191TmRMWGdwUGhMcEJBZFQ4eHhiUXp6ZWd0MDZXRHFHaUpqbVdlZXhMY1ZQbE1kWjJpRm16dkNUb25fWXdFbDhrNlFFcUJxY0ktX01adi1qOXJ3Sy11Ynh0Um11TUh6MVMxS3QtT19URmhwVVRieWxGR19PanhQbVBhekFFcE5CdFBaM0M5a0tkV25aWlNpVzYxYm1UVHIwXy15bUJhai1IOHRQRHc?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T21:27:33+00:00",
+      "title": "Nvidia CEO Puts Trump on Phone While Downplaying AI Risks - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGxEd1BKNmZGeU8zblRFcmJLUHlscGgzR2hUdW5Yal94Uk9YRnJ0clAzalpwbDdxSDNyQmgwT3lYS29aS2diRk9UbENDS2IwdkcwNHRZZjhpNnhOSThCeHZXVmJkNXBzdGtGczkzWm5oX1pfb2licWxBc2lzRi13Zm1SdW95RFNEQjROSlotSEg4eWFXdVFYYUZLY2NuczRrdE5pQlZaWF9tOXRWS0FiSzVycWtaUQ?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T21:26:21+00:00",
+      "title": "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’ - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRW4yR0xHdW04SS1fQzA2WG14dkRkQ1VMRmJORW02WHZHeFlxLXRBUzVCbW1mV2RpcHdhd3Npa1ZJeGJveUptZXMyRGpfQV9peUk4WklnQTBZaHdwcnpzMjRJLVNvaDlpRzV0TkZQU1k4cFdiNFJYVndlRkk0T2V0WXFRVE1CTTlabmJNRDQwU2hlc1RlY290V3dSeDNNQ2hrU2pBU2p30gGrAUFVX3lxTFBwZHdyMWRHcDFvZnQ1ZDlPbklQYjFxNzljSC1JQUpOdFd2RG9zQXdSaTNuMXlvUWhlb3duUEU2dEZXTmgyUFd6LXZsbTQ2N3Z1bEJnRlo4QUFJWlktWEdwY2Z2djdHT3JVV1hhYmc0Nk5RMFcxMC01eldLMFhJZC1DVWNTaUVtb2taYmdmdE5wX1JaTEJlb1dlWWM5ZjJTVUY0SFdibkhKdUlkTQ?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T18:26:00+00:00",
+      "title": "Nvidia Stock Drops. It’s Still the Best Chip Bet in an AI Slowdown. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd28zaEgxYzJOZi1kWWhWa0Y5RG5za0VEUDN5dEVXTjVPdzhnTlhLX3BIaUdTNUEtN20zRWhkandEbDlZaTNiX0VrUkQ2aFQ3Z3BvbmlDeTI5enc2RUJqaTkzV3FZZWxZUmxqMXBNZ25MNnRLMDhPYmV1aTd0WWc3MERLWQ?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T15:11:30+00:00",
+      "title": "Palantir, Nvidia curb AI model use over data fears, The Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWNhdEVPc1dqTGMyRWxhWWFrWF9wM2J3NmhWRW1HS3VQT1U3ZjV5M1R1Qi1faVE0cVJzaXZEWHhac25nT1J4bFlGaVdkVHFOZklJcWxydE5OWk04anFNZURQeEVxZklRYk5rRDN0dXdMWlZSOC13RHY0eXJqVi1VQ2x1WHRWemZXMElNVm5JWHZBS3d3UmNGWXJwa2poV0VGdjBfRjM5WUNHZFhWTW5oRkZVaU4?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T15:05:43+00:00",
+      "title": "Pinterest builds a new foundation for multimodal AI with NVIDIA - Pinterest Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QX2ZJMjJLZmd3MUtnQXBDbmFuUUJ4S0JvQkZ1bXRBY0RFbUF6eUs1dTFaLW1tQ3gzdE9UdVREdkd6TTM1NllvWFhtQ0pLWXRxTG1XbXJVWXZqQmpSdW1BTUhUNTEzTWdhOUhCMDdQa0t1dw?oc=5",
+      "source": "Pinterest Newsroom",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T13:50:00+00:00",
+      "title": "Tech stocks are tumbling as AI apocalypse fears go mainstream - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNG5sa1kyUTFwUEs5eW4tNjRxbVhZWUIzNkloRHRiNFVXV0RXWG5CLWxjTTg3RXBjYXh1RTZ1TGxncklpUG1VY0hFSWg0b2tCYm03N1k1U2JNTVUxWGY0dnlPRmZCdnRUR2VicWljdVZodEgyTjFYa2g0eVktRG53TWR3QnpNcjJCMVpsekJWREVQNWlNTUNIVw?oc=5",
+      "source": "Business Insider",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T13:44:00+00:00",
+      "title": "NVIDIA vs. Marvell: Which AI Infrastructure Stock Is the Better Buy? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkRKVFNnNDR4d19VVXhqMEJia1JrTU15VGpzMDRiT0U5ckNudk1JVWx4NFk1a2dadGdoWTBfTl9BZWh3NzVOWWZIZlZkcHVOelR4MVVLTDFhTE1rbHhwQ2h2TjJWc3loYnlKTmdIT3pkdFBqUGtxTVc1M29zQWZBcm55eko0eFBMZjR4ZllFYm51R3dvbUNkczdUVXZhUzg2?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T13:06:29+00:00",
+      "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMjBPVXRfZFRUYmRtTUVFSXVfaUdHNTBFNjFONTkxWDhMMmUzRjBPcjdvRmNKbVNTLUxodExCS2RDZ1p2ZzhaaVM2ZTlFbUxmSnVfaWlaaTFnTzJHT09iMlZXTVRoTGxHNl9mS1NoZWJ1bDBPeXQyaFRUUEJyZGJJM3ZKOTZ1Nk03d3dnYk5YN3VFYm9RRnpYc0VabmUzb2lLZENBcUU2Z3B3ekd0YWtzcEtxRUg?oc=5",
+      "source": "NVIDIA Newsroom",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T13:02:37+00:00",
+      "title": "Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use - The Information",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0Vkb3BoV3lsNElhVzd2SEJCR0hjd3FXbWlmTnE0ZlBLZXk0QkliX0pMY1JFelNhMF8tNlZYUTI4bkNQeUh1M3RsU29UZWRZSkhVUC12RWpQczN0U1hMblBkSGlQNURDQVh5S0VhbEEtOHRKejJxckxKRndFbDlwTzkyWm1CSFZRQXpndGJPV2lVdTlOWUM3RFcxcmdGSFFCSmZBc3N2WkR6RzBLVEpmajFibw?oc=5",
+      "source": "The Information",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T11:32:34+00:00",
+      "title": "Chip stocks down: AMD, Nvidia, Intel, and Sandisk lead market selloff after AI bosses call for a pause - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjdTRlRpcXdoYWdFS3JwcG1EMVp0YzllMTNzenkwUEFibDBNdF8tZHk0bnZmQXlyUGIzNEtBRk92NWlacnRkYUFoSGtwbGJWMG5MX1RlVFlqcFBsdFd3SmVnOWdkNnZfZ3F5aFRDVTd2QTN2ZGEtWUpsc1BTQmd0c0pDWFU4WDVtbWtuTlZsZ09hYl9YblZvQ0RFTUlKMnl4?oc=5",
+      "source": "Fast Company",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T09:57:28+00:00",
+      "title": "Jim Cramer Tries To Predict NVIDIA Corporation (NASDAQ:NVDA) Share Price Movement Following Anthropic CEO’s Remarks - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWVhZM0FqUkQ1dEpUQU5ZNzBkbHZuYWJpaWxIendUTDNDQjhNb20wVGEtampJcHNPYlhtRENrY002VXhrZ1VnV3BLVFdSa3dJOW9nZmxyRFBIbnUzd2NrelJteXpKbFFwcXpSa0llbk1mQXJGdVRDVDZUNUdPbmFCWnZCUkdJUE9ZaUpzaHNaa3A2X3d6LUpNQTFOb3c?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-13",
+      "publishedAt": "2026-09-13T19:13:28+00:00",
+      "title": "Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVJtM1E5S2E0VmhVQXNKOHBsMkdITVdud3ZJNW5iWk1wc1Njb1Q2eHQzYlRBTG56OGhZVGZlelBFYkRxSVpPNzZkaHhtdFpIa2ZSOXFQNlpfbGo4cVB3LXNaRHd6YUpmSzdwYTRkdEtSLXQzTXhhb2Fidm9KYnlzeGlUSlJPbUthREV2REtGWkJ2VnRXSzQ5dVlR?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-13",
+      "publishedAt": "2026-09-13T13:01:01+00:00",
+      "title": "Is It Too Late to Buy Nvidia Stock? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFhQVlQxNzBxTjBEV19xUkVIMVJaNmN2WlVNclJ0Ni1PZnU3SUU3VU45dHlHUkM1UDJYNXV4bTJHT0JzOXRJaExyb3ByVk9VeTZoakJmR3Z0eTJIckZVQUZtcVQ5VGFDNW1wWW8zakFnWW8wbkRSbmlNZlBxWXNqOU5LYVB3RzR0cW94Z2RR?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-13",
+      "publishedAt": "2026-09-13T04:38:18+00:00",
+      "title": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmduYjZNYlh4TmVDd3dMTzZmU21ud1Q5WVVaYXBOM2hUQ201U2tjeDhoWHd6ZjhlQzdtUWxiNmFibkRpc2VlcmxjbWMzTWljZ0ZZSkF6VHFPWnJVUFQwc2g4RDNtb1FCWjN1R3BBcFRzUHkyTXJiRXZpa0NxV29IWFc1LV9lUXh0bXc3TWNrSHZhT0lPTVU2dEswYWhSVUw2SzFkRkVmSHU0S3c?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-12",
+      "publishedAt": "2026-09-12T09:23:00+00:00",
+      "title": "Nvidia Stock Could Reach $490 by End of 2027 Based on Current Growth Projections - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTUFlTmxpeXY4cDVrYzFCRXYwcE5rVFY5cjMtbXdTU2RmMzZIQVFGcm5aTEdFRmwxLW9wQlFVQU9kcGFDYUhJYUhxakt5RHBndjJ1cFR1a3Y2eXgxUnhvUXpxMFo4SEZhbF9TdVVDYk5hMG5fcHU4dEp2YVIwdTRUZko5cUtUVXJkSGlCbzRWVGhxUVd6ZzNCTA?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-11",
+      "publishedAt": "2026-09-11T17:04:52+00:00",
+      "title": "Nvidia’s Backstop Universe – Heads I Win, Tails Who Loses? - SemiAnalysis",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPVFRidmMwY0dSaU9yZkxMdEtNV1VxRnNfQkI0ZzhPaVlMRFdGcUJpa1VndGp2YUVkY2FhTUxzM1RsYXFVR243c0hiUTVJdVBLWVItM2p3WnJnMzZHZUNPT3FtaGpMdWtkQ0w3Z1lxLVhicWV6NktudlNVUQ?oc=5",
+      "source": "SemiAnalysis",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-09",
+      "publishedAt": "2026-09-09T13:00:00+00:00",
+      "title": "New GeForce Game Ready Driver Released For 007 First Light’s Path Tracing Update, Active Matter, Aniimo & WARDOGS - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMmlCUmlGNkIxV2taZDBvcGFyNHlZaU9PVHNhZGxncEhFYkpUcGZobTZyQmRfeUtxTHpmamdKVXpPbFhJRzRVY1lpNFdtTEdKOWl3NEhfWUJvR0Q4TURZSUJsYUx2XzhxSWxRV01sYjFfREoyRnJ0YmZxNUJWZmdNaGk4Q1Z2LTBjamhqSjVOWkE0QVRkM3V2anhJN1lwbHYzWXRIakdDQzVieWhmVTdrVC1R?oc=5",
+      "source": "NVIDIA",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "publishedAt": "2026-09-04T07:00:00+00:00",
+      "title": "Nvidia stock moves closer to all-time high - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUhYQzNDeE0tUk5IOExEUk9IcG5ydGZwQ3cwNGFVb2d0bWZIMXpFNGR2d0ZpczA3UlhVa2EzT0VtNXczV1VZWllzMkJZQ0dPc25zNWd6OXo3aDV6TFhjVndOX3pKUkxVOEJsSktsbEpKLWlSTHVvdkdEZUdtU3ZrbnZZU1p4QjhlWFlOY0lfejFNZUZ4eFNEQ3lVUVkxRXk3?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T07:00:00+00:00",
+      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026 - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc19tWkhaOGg5NWFFWGN5R0dnVkctSk1OTlQzdlJFeGxyOFdpcDl2VllVZTU3Vl9CeWZLTEkxZ3MtUG9Xam4yeVlvU0wtZTdaWmtUOFppY0ZDdVFWczNNWWVQd1FVM05XS09NZ3diemlBYlNoc0RCcUttaTB4VUozci1qbw?oc=5",
+      "source": "NVIDIA Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T07:00:00+00:00",
+      "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network | NVIDIA Technical Blog - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0FtcjkyUWhUaW5OQ3IzVFc0elRBSUUzakwwdnhJRndGLTVKT0YtaTNhMURwanRiVFQtNEhybHpzMDg5c1VUX2dfc0xxMEJLUGpJSTVnZDdmNTJTMzg0LUxWdDFheGkwNU5xVVBTb0NNT2dveUliMmRsSWxQQXpKRGVsZFY4cm1jT0RhNmpvdGY3OTJVN0ZpMWczQ3NOR2ZDbFhCc1JsM0ExUjlyRlhUVTgxMXltQkhvdVJv?oc=5",
+      "source": "NVIDIA Developer",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-01",
+      "publishedAt": "2026-09-01T07:00:00+00:00",
+      "title": "DLSS 5 3D-Guided Neural Rendering Debuts in NBA 2K27 - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHc3SVI4YWxNQUoybk51dWh5R1ZJb09iZHRkdUVoaXpJRUFOX3pFQnRPaXVjYkhxcGpZSGpVdERNV3Y4YzlSUF9yU2hHckhwWEs5azlkbHkzWjV0TE1mNFdGdFY0Q3VzalJZRk1lRlc4WTIzOXNmc29kVnRHUVE1VDd3?oc=5",
+      "source": "NVIDIA",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-01",
+      "publishedAt": "2026-09-01T07:00:00+00:00",
+      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFT2J4czliTUlxb1RWc3cwc3NXWDZ2dWF5aUcwcDZzazJUelROdlBSLWpZUWltLXNaLTB5WW02UFZUeldiYUtFbW5pU0tkTjhXYzBYUG5SZUkzdGlOM0RqbUtHODNuNlRiS3dRVm9SQQ?oc=5",
+      "source": "NVIDIA Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-26",
+      "publishedAt": "2026-08-26T07:00:00+00:00",
+      "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjZPeVV6eC01Z2tWOHlyVEhmMG9uZDgyaXdvVTV3MVVMWGdKVVhJdlNiRHBvejd0UnlSNFJfTFA4dXAxUk9fVi1RQ2h2VU1kd2FkSUoydEJheDVMNWRnYUdMa2RFcG8zcTROTl9ZX1lJQ0tRU1VZR2pkQjFRdEtkM0tpUUlOcXhsYTFGcGY5RHFQYWZyNkh6LXVCSmN0Y1J3WWc?oc=5",
+      "source": "NVIDIA Newsroom",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-26",
+      "publishedAt": "2026-08-26T07:00:00+00:00",
+      "title": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZUNocGNzT2FJb01QNmVWTHpoSXkxUUNVdlRDTVZET3hZZVBDN0JGTVBTUFF5aEdERTJOcU9LeV9VMW12ZlZSck5uQ194MjFmYVlMWGt1SzdVODFjY2hkV2RFamlFdzVaWkNYNUdnbXcxbF9rTGJwY005LTlwN1BtUDdTWDVaMk1kejdPRzJKaVRTUVB4X3FWVnVlNnNPcUxUZGNHSzNTV0liVVJaNTMwdEdYcENaOFVtZVc5TXFIY0xsUlZJZUg2bkJKVnJ2OUhqSVg3bDZrQTd3eWdTVmNvMlJkcw?oc=5",
+      "source": "NVIDIA Newsroom",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-26",
+      "publishedAt": "2026-08-26T07:00:00+00:00",
+      "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1pRSmtuWGd4ZW1YWTJOc3RUUWxNRmp6T0RCMmEwMGNNWDZCaWk0djVHTnkyUW5fZEZ5Q3VGalc0ZHhTYlBWYUt2V0RwcXlIMXJOWXVuOGxwdnFDb0ZDZDdKNlcxWGFsMXZmZGZBdjBJMjZNVjhNN3AxQTNxcFl4TVA4M1duZw?oc=5",
+      "source": "NVIDIA Blog",
+      "pos": 4,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-08-26",
+      "count": 3,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-01",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-04",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-09",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-11",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-12",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-13",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "count": 16,
+      "pos": 2,
+      "neg": 10
+    },
+    {
+      "date": "2026-09-15",
+      "count": 50,
+      "pos": 6,
+      "neg": 14
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-08-26T07:00:00+00:00",
+      "count": 3,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-01T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T07:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-04T07:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-09T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-11T17:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-12T09:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-13T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-13T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-13T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-14T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-14T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-14T13:00:00+00:00",
+      "count": 4,
+      "pos": 2,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-09-14T15:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-14T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-14T21:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-14T23:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-15T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-15T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-15T03:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-09-15T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T06:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-15T09:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T10:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T12:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T13:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T14:00:00+00:00",
+      "count": 7,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-15T15:00:00+00:00",
+      "count": 9,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T16:00:00+00:00",
+      "count": 9,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-15T17:00:00+00:00",
+      "count": 3,
+      "pos": 4,
+      "neg": 0
+    }
+  ]
+}

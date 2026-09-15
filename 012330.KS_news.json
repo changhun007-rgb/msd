@@ -1,0 +1,979 @@
+{
+  "ticker": "012330.KS",
+  "query": "현대모비스 OR Mobis OR 012330",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-09-15T18:06:50.109454+00:00",
+  "items": [
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:46:24+00:00",
+      "title": "현대모비스 주가, 9월 15일 394,500원 1.37% 하락 - 톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pWk1lNk5rUDNwcmg1UVp2akVQa1JYVEV4djdFOEdpZ1dDMmJsb2g5RzUwVGRmMXEzSGV3eVgwS2NnR2hTZ184Q1Fub0VDLWV6c1Rrc3FDWlp2LTRUd2E3N2ptajAzTXhaX3g3ZTlpNmZCQQ?oc=5",
+      "source": "톱스타뉴스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:00:01+00:00",
+      "title": "증권사 리포트 총정리, 한온시스템 상승여력 92.9% - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TODE5dnQtcnZ4THk4VDkzaDQwTTBycGdzb2JScFNiZ3FkSFZnbEFUSWZMQ2ZLQ0kyRFc0bEdkUGdoWkJaX3lmSklpZjBwSFpOcmc?oc=5",
+      "source": "매일경제 마켓",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T05:24:19+00:00",
+      "title": "“2500억 쏟아부었다…현대모비스, 연 28만 대 규모 슬로바키아 PE공장 전격 가동!” - 뉴스퀘스트",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjMm5YLTNCMUdzWW4zeUhFQWx3bk1jRzZfQ05XVnhDVG40VGRkcm5wUjFvR3BLeVJQNVJtYkR0b3lZTzFwNGpKYWJQZld2RnNjelhlUWlHNHc2alBveVJuUlo4VFhDanhSRUtvbkJ0SQ?oc=5",
+      "source": "뉴스퀘스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T03:53:06+00:00",
+      "title": "현대모비스, 액추에이터로 승부수..골드만삭스發 '로봇 빅뱅'에 부품 업계 판도 흔든다 - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTjZlVWJNU1J2NFN2eG93Q2dpZWpFR1NZYjlNNTRKNmdJT3BncmdYbnpGYlc5QWNRREhzbDVtai02dHVtR2FEcmtjLXBPUGprTW92YXc5RU4tZ3RIbjRMcUFwa1h1NTgySTJELXdUdmc4R09LbXB0UVg1a2sxemhxNQ?oc=5",
+      "source": "edaily.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T01:35:29+00:00",
+      "title": "'로봇 인재' 확보 나선 현대모비스 … '휴머노이드 심장' 액추에이터 양산 속도 - 뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mZUhERjJWLXZZYkZGQ3hfZGpXOW96X0pBRXM5WW9UcDNoSlBoWHhLS1hRRVRIcmxHVUxtcVQzOWdMUklyNXp6NVZ4N2N6YmYxWGVNYnoxOXN2Yjk0SXg3cjh2b1BteXhqSzJPYmhkd2Z0T3U2U2Z4dXhURdIBgAFBVV95cUxPQm9OMlBueHZDaXZSaHcxVnJlMnlJNzFILVoxNllrRjhhNExIZ0ZzRmhIcWpBajZyc3VZTHIzYVpsUTE5WmtZZ1hhaFRqUlVVQW5uel9sblB6aHB3YzRKd084Y2l6N0xqZS01dHZoN1JsV0c1SDNOUUFzOUFkcUhiNw?oc=5",
+      "source": "뉴데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T00:40:35+00:00",
+      "title": "현대모비스, 로봇 액추에이터 양산 채비…부품 경쟁력 이어갈까 - 민주신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkZTdUbWduaFlmMENHT1JldUlJbnktVDkwZG1CQVNrUWp0endydHNYSXdCV3dhcVVWM2FlTG9YQkcwVE0yRnJtTElQZmk0SElWb1N4UHZhMnhtQVlURkhWa0lQWUpKdlnSAWtBVV95cUxQcVFqSHdmMjhZdlVnWEVhWWtZcUZnWm9ZNzlzYzNEZllhTWI0NXV2cDk4dk9uYXE4c0tQUGF4dzBJRWxvZElJSGxEWDZ3WUV1RXgyQmFEUG1vMk9RN1B6cjNjd19iQ2Zwa2txVQ?oc=5",
+      "source": "민주신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T00:40:32+00:00",
+      "title": "현대모비스 주가 상승 중 - 아시아뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1admM2alBfTl9ZTXA3bXhvQXdveWVxOEVkRFpIeS1MUWNjMlFlQkhjRFVkVjNyOWhGbUNkUWtpc1FGUGFJVkdqbmZudzRaTnVkZ3lnbkFYMWxjVFNUcXhHbmhB?oc=5",
+      "source": "아시아뉴스통신",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T08:12:00+00:00",
+      "title": "車부품사, 로봇의 ‘심장’ 선점 격돌…현대모비스·HL만도 경쟁 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oNmJra0pzcmZocElkWlljRDZlV25OYl9UNE9zUHctdGJ6MlA0YWlxbks4OVh2V0V5NGZESi1FSlJFS2JBeDN4WTJmbVhKMngtNlU4aA?oc=5",
+      "source": "이투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T07:00:01+00:00",
+      "title": "증권사 리포트 총정리, 비에이치, 현대모비스 높은 목표가 제시 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iVU1zQWlvenF1QkxwSExNQTNCU3d1ckVsM2FyLXRDVzBUekM3Vm9YQWNaeEkwUGJmS0xoZERLbnFET3dtc0M1UUV6eU9nTk9jU1E?oc=5",
+      "source": "매일경제 마켓",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T01:36:40+00:00",
+      "title": "현대모비스 주가, 9월 14일 장중 397,250원 4.39% 하락 - 톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oSF9GMzNMd2hsX1FZM29NdkpVanYyUlpRQmcwVTViTWF4V0hlNUc2Q2QzS1VnNTdpQW5tcXpENmlmR0tvNHY5Ylp0TklRRWMyRTUzNTNvaW05SzNjMDFvRC03RXlrbkc4bUM3XzlYQWZOdw?oc=5",
+      "source": "톱스타뉴스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T01:02:00+00:00",
+      "title": "[리포트 브리핑]현대모비스, '로보틱스와 자율주행 아우르는 Physical AI 핵심 부품사' 목표가 810,000원 - 한화투자증권 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwTlZCUzhaVUEwbU9vT2ZlQXhENGtpUUNNa21ib1RzczRxWlk2YjJCN0JiZXJObjhEdUtReHRiNjJrTy1XSzJQRGM4YVU4eWpleTktRFBWR0pDeDF2?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-13",
+      "publishedAt": "2026-09-13T00:18:43+00:00",
+      "title": "현대모비스, 美 지프 행사 참여…스텔란티스 파트너십 접점 부각 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WQkJSNUZBTnpqWUhncWYxSHdMVG5iWTFobWdBUzh5TVdIcGxfaURONTJhRmlPNmJTb2xSdDQ1dy1JanlJY0FHV1oxcU5BQk02TndWSVRWQThQODZzd2c?oc=5",
+      "source": "더구루",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-12",
+      "publishedAt": "2026-09-12T16:08:32+00:00",
+      "title": "김천소방서, 현대모비스 물류센터서 불시출동훈련 실시 - hgnet.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11VXNEbVVWUGxpME5nazZJbFdteE40eTlYamlvTzRFUjMtQWt4RkstbmdERElfd0duc1plR3h5bUY0NUsxLVZOS1BBaHYwbjA?oc=5",
+      "source": "hgnet.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-11",
+      "publishedAt": "2026-09-11T22:50:35+00:00",
+      "title": "[주간 거래소 외국인] SK스퀘어 대한항공 SK이노베이션 현대모비스에 꽂혔다 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53Z1FkSUc5WEJta1NWTmNYRVp1SnBDUi1mbTd6aGdJVlJ6cFlNWnF1UmFWYTNQSlJ0RThDSFBpamh6Sms3WXU0bTRLamdiUXhVc0VXT0JwMzJMN1lqVXo2YnozNWVrMGRXS0lHNDU2cENHYk3SAXdBVV95cUxNNVFLWDlkZm0zMkk4TjZXeEhuUUJTMFlSNGxvOU5wWU5UelAwdkVnYzM2dldTN1ozN3NBZlRfRy1oT1dDT09CTVBsaktvQi1lZHJ4Qmo0WWJZb3JiOGFvakZwRTBCZTF3Sk0zYmlnUFh2SjJGalRpdw?oc=5",
+      "source": "핀포인트뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-11",
+      "publishedAt": "2026-09-11T19:57:42+00:00",
+      "title": "“SDV·전동화부터 로보틱스까지”..현대모비스가 공개한 차세대 기술 60종은? 현대모비스, ‘2026 R&D 테크데이’ 개최 - dailycar.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zQVFZYnN5ZGJxbTlyZnNHR01UbmxZbFVxcDhaYzdqbTRkdkxLRXM2OHl6ZkFqcldERzRDQzFRVG53OUY2dTVuOVRSUk8tYkhka0tVYXVvQXlhWWozWHFGZlhLWU45aGM3d3AtYVV3NFlQdENNVGc?oc=5",
+      "source": "dailycar.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-11",
+      "publishedAt": "2026-09-11T08:24:00+00:00",
+      "title": "현대모비스 노사갈등 격화 조짐…노측에 ‘경고문’ 취지 공문 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vYjMzd2MtQjRmOXNncFpweW9kbDNxNW1ucUthZnJYZVVfZ2ZfcVdyaGlaUEItTERoSTd0ZlpWdTE3ZWtQaFNpUTNjdWVGQWs?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-11",
+      "publishedAt": "2026-09-11T08:21:22+00:00",
+      "title": "램프 매각 놓고 ‘평행선’…현대모비스 노사 갈등 어디까지 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50RkdrcXBacl9ZZFFMZ2VxYVpNdm9oeWVrZU1zOV9pMy1PT2c2RDZEdnhORDNPMjZOOTU2WW95QmpieF9xc1ZqbFVzY2JvTFllTFhoMWZLNWRnMHJIZ01BcWJObWk?oc=5",
+      "source": "디지털데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-11",
+      "publishedAt": "2026-09-11T05:22:33+00:00",
+      "title": "액스비스, 현대모비스 로봇 액추에이터 생산라인 들어갔다‥\"양산체계 진입\" - 데이터투자",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94c0dTbGxRZXVxMC0zUDY0Q3lkNGZEZkhHeDBJQk1BcUp4ZnF2NXpJMWNkUVhoVG95MjM3bElpT3hVeEQ1bHpMaWF3TEhmdGNqNVA2TzZaTjI5Q3JrREJHU0ZBYlQ0VVFabkdPdHBTdk5TOXM?oc=5",
+      "source": "데이터투자",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-11",
+      "publishedAt": "2026-09-11T01:26:31+00:00",
+      "title": "현대모비스, 용인 기술연구소에서 ‘2026 R&D 테크데이’ 개최 - cnbnews.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pRHFZaVEtbDlrMHp0S3NVTzFVN3kwR1dtbG1aNHRscnBRcnI0SmhTMWZoZjlQQUpjWXkzSkdNWDlWQ3NNa0hnUHVReHlmT1hKTlg2M2FmRlpBWlItZ0hXVnpBSHpESHRiZ3RN?oc=5",
+      "source": "cnbnews.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T23:22:14+00:00",
+      "title": "현대모비스, R&D 테크데이서 차세대 신기술 60여 종 공개 - 강소기업뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wN2ljU2dpRmNRVW1jbTlSdnF1S0o5NEdoV0tfTzFyRFU4TVc2T3czaGwzd0ZWb2ZUd2p3NHdwZGpJa2VBZi1QMTlyTVBleGR4MW5v?oc=5",
+      "source": "강소기업뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T13:15:14+00:00",
+      "title": "현대모비스, '배터리·액추에이터' 미래 기술 60종 공개…\"車 넘어 로봇으로\" - 지피코리아",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oTjNUek9IT2M4R2FmbDZ2QmN1UExtYmZJWkwzVlVHX1dkVDV2X1BJaDZLbDI5UjVJQklYd3VYWEpDTFVhdDVlc09WM1pNcHZUeTloRE5pN3dBQ1dwWXZGLUEzMkJ2TmZIS2c?oc=5",
+      "source": "지피코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T09:33:00+00:00",
+      "title": "현대모비스, R&D 테크데이서 신기술 60여종 '공개' - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xaE5yYU1HanZuMDF5b2lTQ3RWMDFTeERiZ1loTVNoMDlwVjNjbVQtVzFKMkY4eHVMdGFXME9GTjFJUDdhSmtrSGE4OU9hWnM?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T09:32:26+00:00",
+      "title": "현대모비스, R&D 테크데이서 신기술 60여종 '공개' - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yWXV3UDlwZlhmcnVYc1oxTzhwOFJzeEFTY2dyaGJvVVpvNmI3cmNTTUQ4SEd4ODU3cW9OaHdldnRXYlZCUFo5eEh2Y3VnNHk3aHZmRmh2UkhjQdIBVEFVX3lxTE4tTFhoU1dhanY2NktlSDlGX0NTNlc1MFNPUWtvM05IaXFLLVJjQ2JyVTYxLUVMakdWVXYtMXExRWJKTm9pTWxBQ2FVdk5qRVFZSmp1ag?oc=5",
+      "source": "더팩트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T08:39:14+00:00",
+      "title": "현대모비스, 로봇용 액추에이터 2종 처음 공개한다 - 로봇신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yOWllSlVwR0pORTlscUg1YjdZQTVEVXk5SDJBU055Q0hkaktZaGZWSlM4X3lheFhGOHZENjhIcDJRdlhONmUxMU5YTmFIRE9BclE4eWkzMF93N2ZrTVB3QjNnOEdfcnk3V2l4dA?oc=5",
+      "source": "로봇신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T08:24:00+00:00",
+      "title": "현대모비스, 'R&D 테크데이'서 차세대 신기술 60여 종 공개 外 - 톱데일리",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiVFZrQ2tJOGhfMW9Wd3c5a0Q1dFJZd3FzU0ZiNGVCd3ZtMVAwMEVmOFY1dzNOWm9WU3RIdjRrbXo0Rkw3aEEtX3lLdlpUemQz?oc=5",
+      "source": "톱데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T07:38:28+00:00",
+      "title": "특허 기술 입은 '만능 배터리'…현대모비스, 하이브리드 시스템 공개 - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wR1FvNUtmRnQzT203WlBIcGlyREJZYTNkdDM4TzdNVllpQzhkbGh0di1QOTNBTUM5YmhKNDNCOEt0TF8yaDJEUkE4aXFYXzBONVdTMkNBeW1yeU9uY1pNd2lTa3V5VTNM?oc=5",
+      "source": "녹색경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T07:25:29+00:00",
+      "title": "현대모비스 '미래 로보틱스' 확장을 위한 미래 신기술 60여 종 공개 - auto.danawa.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3M0dwSjhpc1duMjdwNDlnQzYxMTlNWUdfNU81NHlGeVRRZ3ducUpaLVpaMXBPRjdCcDVtUkQzOXNFTFpKSklGeklHUUlmOWxzN2l6RnAwZVY4c3NQWmdaVEFXUXVHYVlfMmc?oc=5",
+      "source": "auto.danawa.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T07:19:38+00:00",
+      "title": "현대모비스, ‘R&D 테크데이’ 개최…SDV·로보틱스 신기술 공개 - 쿠키뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VV1VXVk1JNFVCdHBqaS1pNkUxbkVaUjhySDd2Yk0xdWFrcWhsbVJNaEd0SEFnTndSbXoxVDROemRDUTNyaDlHNkxJbk9CVTdGX2tEWGxrd0YtMnZ5R2NSdHBERQ?oc=5",
+      "source": "쿠키뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T07:06:21+00:00",
+      "title": "현대모비스, 전동화·SDV 등 신기술 60여종 공개…‘R&D 테크데이’ - 백세시대",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43X1ZDYWNmMkYxdDVVVXZjX2pFdDRnRWVJcF9jYXhzTkIzMVFNMm1DcXAtMS1aX0c3cE8tLWh0OFF1ZXNPc3JzbmF3Q0tIZVdScjBhbVc4ODZHTUNGY0loWWhrdUJtU2I0cDJv?oc=5",
+      "source": "백세시대",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T07:05:00+00:00",
+      "title": "마주 보는 좌석용 에어백, 좁은 길에서 한 번에 유턴…현대모비스의 ‘별별 기술’ - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoaTlZdUlya195WnJqVTdKWHpnMjhQY2VsV1RTRGlzSTktaVMwU20xcmJxdXNRYk5GWkc5SGQ1T3ctbWIzN2Nrc3JMU0lYUnM?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T06:54:06+00:00",
+      "title": "현대모비스, '2026 R&D 테크데이' 개최... 글로벌 고객사 방문 예정 - newslock.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCd1YtNzFNbGYtcmowMTRYRURQMTlTenV1eklpYTNGYjRQMWdEMFlwaDYyQWFZSDRIa1k5aThoM3RtVVBxbE9wVXBPcnNadmN4N0MyMjlzbTlVMjZLRDJsanZpTHhSNlVTXzFvNQ?oc=5",
+      "source": "newslock.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T06:53:58+00:00",
+      "title": "현대모비스, ‘2026 R&D 테크데이’ 개최…차세대 신기술 60여 종 대거 공개 - 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYcy14WVhyQXZfREllN1NfR2gtc2c3X1ZMczNXNEtueHRRbDFfWFFMV1k5S1FiT0JRWjZlZDNQeEs0bko4M3JHcmd4djMtYVI2dTNaNzlSZmtVY1ZEdXdFTGZNMG9uRk1VMGQ4aHp0ZDNoN2JTb1gwM1MyTHA?oc=5",
+      "source": "부산일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T06:39:06+00:00",
+      "title": "[로봇주 옥석가리기] 에스피지vs에스비비테크, 현대모비스 감속기 선진입 누구? - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaa09TbnNzQ1k2WkFXSmVoeDNpakVyNkRMS0puYlQ1Rmtfa09tRU5RTllfUl95S3lkUzhyNlVaYUNadXVaa0RwRXJoZWpvM0lmMVZ4eUd6bzdic3ppYUNJRWtISFc4TE9l?oc=5",
+      "source": "녹색경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T06:30:07+00:00",
+      "title": "현대모비스, 하이브리드 배터리부터 로보틱스까지 신기술 공개 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jUUtROUdMbFIwNzZLUGQ3aE5pQXlERkNQS2lpMUxuMElqMzFBVlFzcjRDTVRibXNvVHJRT0dFZGQ5TXo5eUE?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T06:14:51+00:00",
+      "title": "현대모비스, ‘2026 R&D 테크데이’ 개최... 차세대 신기술 공개 - 주간한국",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxUFhablBRYTdIMTZWQlJydHVITnM3SXVYWThFQ2h1ekwwcFM5VDE4RVhLR3dFS0hmUDZHdVBzOUk5X3FaM0Q2TFFfS2RvVTRQeUVxeGJMeEZjcUNlck9JeVI3bDRIYkpkQnpxSHEtMXbSAXRBVV95cUxOcE8tUEtGVXBqMlotOE9MS2dRZkpDMjVDTUtSTHI2VXIwa1Q4U0sta1E2bjBUamNWV3NhZktsMlhiWVEwWm1aMWVXWTRzUU9XWlBCLVhSaThfVFl0ZWYxZWpvVmFzV2FkcDYyZERLbkgwRlBBSg?oc=5",
+      "source": "주간한국",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T06:14:22+00:00",
+      "title": "자동차 부품서 로봇으로…현대모비스, 신기술 60종 공개 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WYUw2dVVLWkV1NzRrY3E4UzJ0c3RvOFZybkhlZ0J6OTNPSTJ3b2laR2tPUzkwZUZDbHBhczZCUC16eTNURzNkYjZZV0xKemprSFo4NjZfa3hPZms1VE1aMlp2RnbSAWhBVV95cUxPMG5pbUZZWTl6S0I1Slg1NmkzaW1GeWpNdG5UZlRfRVN4UjBmWndDMlJobVZMbDNpWk1yV2hWU3llb1BtLVozZ2NKTGY5bFFqejhpYmtNN2F3TkNXVl9POWJEQV9oTXNOeQ?oc=5",
+      "source": "매일일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T05:26:07+00:00",
+      "title": "현대모비스, 로보틱스 신사업 확대 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHSlZSZS13amg5SV9HN0VHemc4dTN1U1dVMnVyR1NPZFZETGd1aFg2bG5VLTBDR0ZEWml0UGpHRUFtanV3bVFRVm5WLURmajhkR2p1V00telR2Q1U0T21EOFlWMTVTZw?oc=5",
+      "source": "디일렉",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T05:13:40+00:00",
+      "title": "현대모비스, 'R&D 테크데이’ 열고 전동화·SDV 등 차세대 기술 60여종 공개 - 글로벌경제신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTmlsQ0JwZ1dyWHBkaGNCLTFERVhFanplMXlEQnExaWJJakduSkx0dmxhLXlNNC1VN010UWVneGR6c3FhSlBNN1o3MlhmTG1QQWtyYXlqM19wQVdRRkk5Ynh0TXM4MndINm5GR9IBcEFVX3lxTE1NRkhfeFpPU0tlcDFEbW13RXhneWpFd0pVbG1fOTdyQjJHakRFcF9GUnpYLWl4RXhWb19vV0RPUEk4cmlLUC1fMmlUYkpfS0o0N0NQTjEtdGhrLXpWOEZXajQ0MXlqLXhzVnQ2cXctM0Q?oc=5",
+      "source": "글로벌경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T05:06:57+00:00",
+      "title": "현대모비스 멕시코 법인, 몬테레이 공장 EV 부품 품질 관리 강화 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kVTdNSjRIX2VNd1NPVE1qNG82ZXNDVnhKd05GN1VkbDNCNkpSVFVFcDNuMDd4Mk1pR1VETXB2MFAxb2NwZjNTbzJDclVpWTdZUlBtMnZ3Vm5HeXRTTFdCdlJEaw?oc=5",
+      "source": "더구루",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T05:05:51+00:00",
+      "title": "현대모비스, 하이브리드 배터리·로봇 액추에이터 등 신기술 60종 공개 - 뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UQjRyVS1tLTNwODU0WmZJY3RBbjdGMU1LNC11dGZxUlVfVG5zVzBNamJ5MmUxTFZTRy1NeU5rNGt3STNJZ1YxcXhvT25ta3ZlWlBkOEIxLWlHbDdUSFdwYW03MjVLWGhRbUt6ako1MV8xWTkxZWR6S3hqZ9IBgAFBVV95cUxQVERJeFpiWEoyTWc0b2k1Y1lfUmpZcUZabDZKZDczcURkZnpuWEJIeXhYaDJNaFhQZ2dTTGFON0I2SHZQZE5VU190aDM1ZUFYR1FJWXU5c3hLSjBUOGFxMk4tSFJabHpZMk5lMmRjRUYzb052QjN0M29KaDlvZ1lhTg?oc=5",
+      "source": "뉴데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T05:05:40+00:00",
+      "title": "현대모비스, 미래차 넘어 로보틱스까지…차세대 신기술 60종 공개 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWjM1VE1PdVJiMEZWSFdRbjBublhXSDd6cDBmNUtsTmdTMkQ5NEJoZXNBQURPTTlWRmc5X2pfNFUzUFREdDU3aGhRUVhscEN1ejJMYjVia3BOR0prRlRBZjV1T0p6UE5UNURFVHExMUdJaVc5N1Q3alpfMUFGVjlyVy1qV2w0dw?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T04:58:17+00:00",
+      "title": "기아, IAA서 대형 전동화 PBV 'PV7' 최초 공개... 현대모비스, ‘2026 R&D 테크데이’ 개최 외[시경Today-자동차] - meconomynews.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxTm9DeDBkWEs4RnBudnB4UjN2aU1GdElVTmRjUEhoYm5oWHBKMVg0bE82dEtQLTVBa2g2ZGFGNnc4MWV2OWpjd3N6bllWdTNQN3JXNUVLRndFbENtNUNwUVdKRlVtMjBTYXhieU5EcFU?oc=5",
+      "source": "meconomynews.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T04:55:03+00:00",
+      "title": "현대모비스, 하이브리드 배터리·PBV 에어백 등 미래기술 60종 공개 - 뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IYm9SMVZHX3hEMmZvTnZkeGdyMExvak1WR2pTZ0c2bTVUYlJLbEdpVjNlbURyWEFFel9LMTIzVFNENkVKbUdmT0I5TDZGTUhhTnU1NVpseUxsdVl3NkxmYktWM2tzZEJvOVYtQndUNkhlSlB2S2RKNTAySdIBgAFBVV95cUxQX2JSMFFPNXNHekI0dDd0VE5UMmlpczFkRG1kdGw1dWkzWWd3dVQyTlJvRk5RS2E4RE9ZQ0lUWWkwQmtpVnoyWDJyOXhBZWVQRkUxMHJtZzFqX3kzeFMxa0Npb3NzX3M0T3VqRVJDc2xKUmFQZ0ZlQlA0bDZpSllaQQ?oc=5",
+      "source": "뉴데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T04:54:00+00:00",
+      "title": "현대모비스, ‘R&D 테크데이’ 개최…미래 기술 60여종 공개 - businessnews.chosun.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzFPVEVVN2x2aUhGOF9UTWdGbWlNeFU2OEtxeDlESDlEVUY3dkNaX0xJMjBoQ01OMzlsdFZaNFB1Q3NNOExDYkhoZlZQTmhFRHNhVmdOcWlvNVhXdFg0YTAwaHVZWWFrQjlMZWRMaUNldXFQQzYzVU5IVGlKXzBMdEpDSW5iZw?oc=5",
+      "source": "businessnews.chosun.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T04:07:00+00:00",
+      "title": "현대모비스, 로봇 근육 '액추에이터' 2종 첫선 - SBS Biz",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ocG1WOWdDQnhsTEMyZ0YwU19nZEJfTTE2WGw1MzhKUmxVNjNobWJrcUs4UXZOTzgtUG5ib1p6djY0anE1em56bm5tWUI2LUYxYW9F0gFYQVVfeXFMT29SYm1LNGZJR2U4bnNaRVUyVUd4Z25NelV5MWV2eEVlQ3J1cklqR3RHUkN4UldIZDA2MTVRZE1QYXdpU2VKbGFGT0l5dURoU1l0SUlpb295bg?oc=5",
+      "source": "SBS Biz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T03:30:25+00:00",
+      "title": "현대모비스, ‘모빌리티에서 로보틱스로’…차세대 신기술 60종 한꺼번에 공개 - 뉴스로드",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmUXZEUzZVVjd6WUNSWVRIUlhQbEF5S29FTTVGOTFTZDhZVXJLVjZ3Nkc3MnpBdkV4SzQ2Qk5oZGNZVmZzdlFvWHlibUE2Xzd6Nk9ic0NyaWRZZndvMTUtNmNQbWFCV1pCd3Uw0gFvQVVfeXFMUGhRb00yeEdKQTc5RFJ2b1VtVEp5Q2VRaThhbWE0ME52VGJSN3VDbFhLTFU1ME1tM1NEeWVJa2ZDZ0VPYi1Bc1cxcWdYbzAyeVhDUUp4MzliZW51Q3k1bjNJQkNRdjlIRW41S1E0dnpZ?oc=5",
+      "source": "뉴스로드",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T03:25:00+00:00",
+      "title": "현대모비스, 자체 신기술 ‘2026 R&D 테크데이’에서 공개 - lcnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2a01DTFY3N240NjRUS1RlWngzZEk4VldfZDhiOG1YMlRGMy1PLVc2YXBtLTBQZHk1cTJ5WldmMEw3czRtd2c4OXBLY2pzRGF3dmV5RjllcHVMamVobnlpZXM4ZFYzXzVQSUh3?oc=5",
+      "source": "lcnews.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T03:18:08+00:00",
+      "title": "현대모비스, '2026 R&D 테크데이' 개최, 신기술 60종 집결 - mocar.kr",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xRnFjU0xiWE5IRndoaGJWUjBRdlgwUXJYODlILTJMczZhWk9YdWM3QTJPVl81aklmc2ZWbFZOMHktSnZ3VGhrZ3d3Ni1SaENDQ3pVOWI4WXJWeGdCNTJBUFE0QQ?oc=5",
+      "source": "mocar.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T03:09:16+00:00",
+      "title": "현대모비스, 배터리부터 로보틱스까지 ‘히어로 기술’ 60종 공개 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRZkxQa2l2MEFUczBuYmFpT25yQ3A3MFItRmE5UlgxNTVPdEZ6QW54SncyYnRrbkd5MVBaU1JfY1YtMW9zZlJKX01VcjZnNm5IY0pCLTFR?oc=5",
+      "source": "매일경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T03:01:00+00:00",
+      "title": "로봇 원가 60% 잡는다…현대모비스, 新먹거리 장전 - 경제타임스",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yYUNzbF9aNlN2NTVZUDBEWWJ4VER3YTlEZzZMeWZpazU1eEl3MUxoZmt2aGhYMXRVTmd5cms4VUNKTURydWVHOURJeVRUZWkyWlNF?oc=5",
+      "source": "경제타임스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T03:00:02+00:00",
+      "title": "현대모비스, ‘2026 R&D 테크데이’ 개최…차세대 기술 60여 종 공개 - 서남투데이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1na2FkMFNfU1BVSTlUVzQ1TUswZnJLYTdtYmluU0JvM0xMYXFVUXlOQkx0VlJRR3RaNTFmUzN0OHI3N2gxbmdJcjNjVjFzOUVXS0xCRGJLZEV1UQ?oc=5",
+      "source": "서남투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:40:20+00:00",
+      "title": "현대모비스, 하이브리드 배터리부터 로보틱스까지 차세대 기술 60여 종 공개 - 오토레이싱",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ad1lfajY4SHZKRDhRM2xQTU9TQURsb3E1OEFiTWR5SzJwWkxRaE55WUJsd2pISlpnRTZ0dzJsdlpDbXl5cTlZS1lvdjlzMmh1d0N2NDhfOUNyaktqaTRLbHhDWDJDdXhnU28zMk0tWQ?oc=5",
+      "source": "오토레이싱",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:35:56+00:00",
+      "title": "현대모비스, 차부품 넘어 '로봇 관절' 만든다…액추에이터 2종 선보여 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mbk8zRDBTSW5yMWlkSG1qZG1TMzRDZzdvQmpab1BCUUxPenZGNU9UcWJsRVFyb19Qel9Uak8xT3ZKclA0RzI1OTBKV1V1cndOYk5Jc29FdEY2NlZQcjdsWXdYZS1hMllLZ21lb3djS2o?oc=5",
+      "source": "신아일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:29:34+00:00",
+      "title": "현대모비스, 차세대 기술 60여종 공개…로보틱스 사업 확장 - 조세일보",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95cno1V2NDRUlGb0lTU0RPSm8wZ2h5WG5LeXphUXp4V053VXBGVzZXclRxX1J5Wnd5UUtXc0hCT3BITUVmSEZtQ3JtRDBJREI3VkpiVGNrZVdQd1dERkdZ?oc=5",
+      "source": "조세일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:18:00+00:00",
+      "title": "현대모비스, ‘2026 RD 테크데이’ 개최... 차세대 신기술 60여 종 대거 공개! | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV3dETE85dFBqN2c4QkdubVF1dkNQVDZMSHMzR3FDSmdWUzdiaU1jSmdxM1V4dWlybXV5cDlJTTBCNThKUGJHeUZubkY5cGJVbjY5QWJlblpDNGplY3YyV3pCMkRISGV2MU96akg0WnhMQlh0ZHhWZGRHY2pzMXF5NUVlRUZmc1RZVTB4UE16SFlEdkg5d1hRcnhGbUVkTUY1?oc=5",
+      "source": "Hyundai Motor Group",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:10:14+00:00",
+      "title": "현대모비스, ‘R&D 테크데이’서 차세대 모빌리티 기술 공개 - 데이터뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DU1IyM2dyZ3RQVkNXTGppNnhzUmdzUVhiUjNYTjBUZ0taSVdGY2tUUnVsZDRfa1RzYmpmalc5cUpWZ2JNVHRPOEZWN0hmalp3YS04SjNKRTNWUXdDTFdF?oc=5",
+      "source": "데이터뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:07:18+00:00",
+      "title": "현대모비스, '2026 R&D 테크데이' 개막…차세대 신기술 60여 종 공개 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pN0NGQm1JVzVQQkJtVm01RUZNM3Z4RTZMV3pOQXBDOFBRcm1FTm93YUpiaE1zQVhxUTJSZTM2T3BPN2kyS0xMWDNxVEZhZw?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:06:00+00:00",
+      "title": "현대모비스, 연구·개발 테크데이 개최…배터리 관리시스템·로봇 액추에이터 등 미래 부품 선보여 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QMWVKOVZOZW16dTEtdXhqUkVMeS1zVTg2T3hVMFB3TXVvb09uNlA2VjVoaUR3V19DS3BFdWlQOHdDR2pFQWYzNjRCTGtoS3VlTDd2SHR0eXhqQdIBX0FVX3lxTE51VkZrX014UUx1dV83a1BlNTdtVy1ZeFJ3d2dBQ0RRSy1TWkoyRUtjd2RrZm1hUkhfVTFQQVo4V0stdlpmcFlzSVJBeENsZU1OSnNSR2FOMVl1SGF6NGU0?oc=5",
+      "source": "경향신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:02:44+00:00",
+      "title": "현대모비스 \"모빌리티 넘어 '로보틱스'로\"… 미래 기술 60종 뽐내 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iYno4RG9qUGJrcE9ZYW9WRExZZUdER2pLdjdwLXF0VlVNMDluOG82aTZkb3hmYlI1R290UW9NZEpGbnlMTDNwa3B1T19xajA?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:01:00+00:00",
+      "title": "파우치·각형·원통형 ‘자유자재’⋯ 현대모비스, 하이브리드 배터리 수주 정조준 - viva100.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fNjl1RmxPYXNuakRCcEV5YzVGaHN4TnhWMUJydUpvOGdiS256M282TGV3bThZZkdNVUFMNXpBeFp1STh6ZWRrM3FKY3BaWTYtNUFpUW80YkhWUQ?oc=5",
+      "source": "viva100.com",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:01:00+00:00",
+      "title": "현대모비스, ‘2026 R&D 테크데이’서 차세대 신기술 60여종 공개 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MXzRLVXpkSlA5c25IYXk1a1VBN2w2dGRIYU00ZUp1T01jczVqekdadTBxc1QyMkYzdU9FdzQ1aFQzZ0szOVB3OGtJMWVocnBMR1JUMXN4OW1NcktfdG1mV2JNV194S1FNclVSOWNR?oc=5",
+      "source": "아시아투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:00:30+00:00",
+      "title": "현대모비스, 하이브리드 배터리 시스템·로봇 액추에이터 공개 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KN0NPYVpCQThqdWFXTDdmMHByVGJoczIxczloUXVpai10RWV3ekdQNnMxQ2lWZGFXVm5OZEVWUXJPWGRPbnBBbGhkQ0djSGhJTmR5elAxazByN2_SAWBBVV95cUxPMlRHY1FsTV9ULWUyY3FqeXhySjRjU29iVURiWnpFWGc0amxoV2dfa09nN3YwS0ZzNi1CMjRHamtlTllxZ25leFZXQ3lkaDEzTTZLMFB4eEpNWmFYSFhnYU4?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:00:29+00:00",
+      "title": "현대모비스, 'R&D 테크데이'서 신기술 60여종 공개 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQnczdkpmcUxNOEZwXzFnODRrdFdMZWhvQUE2VGwzb3Y1TmdFNjFwR09tbEliQVdaSjhQQ1pCblU4aEg0MmVDN0c1UzZiWmZfM3RRSURuWkdDYXl4bHBmU3JGQy1IVnRHWmlaYU5Zbi0?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:00:11+00:00",
+      "title": "자율주행 주차기능 통합제어기 등…'히어로' 선보인 현대모비스 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SV1g3X0RzSFhWeVFXTm5TcFhqVU5MY2N3UUVEZmpILVR3dXZSYUNZUHZjTmNIb09aMUNnNE5acWJ0R1JmOUozOFRRX1hGWTU4aU51U0tfc0tlUQ?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:00:00+00:00",
+      "title": "로봇 핵심 부품 '액추에이터' 첫 공개..현대모비스, R&D 테크데이 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hdTJFY0w1ZC1lSFZvME5mQU9XNnRqQkFjeGJLazM0UHY5ZmpHTkFsenhDOERSQTRpTlZQLWE3ZVJibnlwV1N4cy0tb1Z1SlBrNzZVaVZseWpIQllaQ2FyZmUydGpyQnNMYUJnZtIBckFVX3lxTE9SX0pvNmlmOVR2SEM1MkJDVm9YWFZ3aXhGZU9qQ3JUWnVLVmpGRnBUdkJGeEdCQUF4RzZKbG80WWRERDNOVndDWjE2WmZWeGZldlBOVzhIdnJKT3RNbXZfdnE1R3JKMDVwcXhRTTBoeTN5UQ?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:00:00+00:00",
+      "title": "\"아틀라스 움직일 액추에이터 최초 공개\"…현대모비스 테크데이 '신기술 뿜뿜' - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUWU5PdEJIMjNBa25SaXpPb0p0V0xpbjR6VUpyS0FjOEdNVWt0TGtneXl0eV9VT2JDckx6M2Z4eXNBdjRObHE5TW9Va0F1NkU?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:00:00+00:00",
+      "title": "현대모비스, 휴머노이드용 액추에이터 실물 첫 공개 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90bEFKU3pxZURDRUpJMktwRlNsMEloVjFVb282LTJoMU1Sd3d0R2JPNnpvUEJqejAyR0liWFhhLXF1WktoVFVPb3BSdngxSU0zcFHSAVNBVV95cUxPVFM4VHBKSGplQTFaVHFrb1B3cWNaOU1CUndhQlZJbU0zMXlhX05weXQwcVc1aVBnNEo1UlNUc3RYVmFybFZENXpNdUVXQWxhcVREZw?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:00:00+00:00",
+      "title": "현대모비스, 전동화·SDV 신기술 60여종 공개…로보틱스로 기술 확장 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pU3I0Rk1veHhiMElZRjJvM0p2aTJVZmVMcThKNWRoLUhocHdRRWZKaUdOYkF4aEtDb2VTV1VxX1c1eWxPd3N2cVpWaEROaHp1TWdmVw?oc=5",
+      "source": "이투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:00:00+00:00",
+      "title": "현대모비스, 전동화·SDV 넘어 로보틱스로…차세대 기술 60여종 공개 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FSUh1eDloenJlaEZSVGItaDhhZzRhNzhObjJidF9HTDY4dElSNDNyNGhPTC1mQWp5TS1wTkhGcmYxMHFvcTZ0MmYybV9Ib0RrUjhGWmt1QlJqdnZxT1czQdIBZkFVX3lxTFB5d25xU0xNbkw4U19Jd04ydXhRZ2E3RmpNckhBUDJuc3pzX2pUVW5VemZvYzJ6LTF5R3lueTRlWlJzc3g3d19HUmJwenNiRFNrR1UwOWliOVhDOWZzVVVXSHpHN2Fudw?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:00:00+00:00",
+      "title": "현대모비스 ‘2026 R&D 테크데이’에서 차세대 신기술 60여 종 공개 - 교통뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKcjNjTVpuZ0p4NWplUVVzVjcyZzBJc0YtRUdRZGhmZ0VjZnFmWVMwM2FDT1lvcGRtZlRDT1JIZTUtV0pnRG5jN2tuaU9DbGx4R0ZQV0lKUjk0cHFDLUZ1Skl6NG5IMkJjRDliWQ?oc=5",
+      "source": "교통뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T02:00:00+00:00",
+      "title": "현대모비스, '로봇 관절' 액추에이터 첫 공개…\"로봇 기술로 확장\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmRmp5X3pDWUpfUUM5V3owdUFWMDJTYkhwMktVV3JtSVRXSjNOanpLYngzTUtVd2hENVo0cG9Gb1FwN19Sb1dlWmdWUTE0RXhHMFhUbFRHU21RbmV5NlF6WNIBeEFVX3lxTE9kc2t6Nl9YYVB1ZFJMRjVVajVwYXlFeUxzdFFMQ3hja1h2aGRnQl9QaVhzekxfaVVFVmhCZVdfek5HZm13bGJtaE9SYmNVZk5EbTZsOG9JdFVaZ0FRY21MREhNUzNzT1pVaUNrZG52dTM2cndEb3BLRQ?oc=5",
+      "source": "뉴시스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-06",
+      "publishedAt": "2026-09-06T10:09:57+00:00",
+      "title": "톱텍, 현대모비스 체코 배터리 장비 256억원 수주 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDSmd2MUJLOGl2TTBtMWZtb1djQmxFa1NIVXZtaEc3bFZUblJhaHFKdllnME5DOWNiZmF2T3VTcGN1bXpTVFZGdDg3TzBCa1Fla0VNX1EzenNTbzY5TjctVGpyVVNmQQ?oc=5",
+      "source": "디일렉",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T07:00:00+00:00",
+      "title": "현대모비스, 슬로바키아서 ‘전기차 심장’ PE 양산…유럽 확대 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92MUpsRWNCZkVBRjlCUFJGY0drYy1MZW16OUdyQ2J6bG0xRDVBckRfeVNESHZ6eTF6TjZ6eVZVbHp4bC0ybnlQLVV6SmhXc0NIdVdTbjdR?oc=5",
+      "source": "매일경제",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T07:00:00+00:00",
+      "title": "현대모비스, 유럽서 전동화 가속 페달 밟는다… 슬로바키아 전동화 신공장 오픈! | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHFDZDdxMzZ2QkctOHhEVDZnYXRteHlOdW1MNlFtU3puT0hZVUxZV2hEZGd5N0FqbURzVXhTSzM5ZjVBc3NERnZrNGloSHByMFMtOERGREpYRE9ac0pFOWdlMVFZX0xFUld0OVJCZnI0eU1PbWc4TThEOHZReG9hRkdvakgxNkxOUko4SDRhdFNZa0kxUlhSMEF3?oc=5",
+      "source": "Hyundai Motor Group",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T07:00:00+00:00",
+      "title": "현대모비스, 슬로바키아서 ’전기차 심장’ PE 양산…전동화 가속 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3R3M2Slk3TmIxWHJhVnlZTi1NRVBCQ3ZzS1cySGozenpVM3AtNVk1MXdQUEFXcldyMVhRUkhjMUpTMEJrbGo5TkxtZHdUWjNQcnFsTE53bWg5NDRTSWpwb1dkSFlvVEU?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T07:00:00+00:00",
+      "title": "현대모비스, 슬로바키아서 '전기차 심장' PE 양산…유럽 확대 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DUkZOcnFwWld5SDNHcTM3WXVXYXdoZXJZUHkycDlqUmZudTYwRURUT3JqLXdkUVR6OHNRSzlWcG0xVUN3a2stRVJCSWhPT1dGSUExM3ZaQ3JadXfSAWBBVV95cUxPaDh1TWpDU01wZGlIMzVaM1djdnBrdjc4dFBoUHFHZER0TjQ0d1JEcHZJV083M3BjZmRhWnlRb05PcVZPT1lmSEE4dENEU0ZoN1ZDVTVFMVAxZGdDUnVHOVU?oc=5",
+      "source": "연합뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T07:00:00+00:00",
+      "title": "유럽 거점 확대하는 현대모비스…슬로바키아 PE공장 가동 - 비즈워치",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rNE5Jd0J5UElpMGRzMXRiVUo2SGNZVjhyVm1VZzB3SmpZOFAybmZ1NzFTcEdzMWYtVV9FRDY3ZDBvMmFyUHAtaWdqQWdkcHBmZ0VHdFE0VVRFdlhET2NOLTRTTTM5eUtFdlJQeA?oc=5",
+      "source": "비즈워치",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-31",
+      "publishedAt": "2026-08-31T07:00:00+00:00",
+      "title": "현대모비스, 로봇 양산 준비 본격화…\"R&D 넘어 구매·품질까지\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2WktpMXVWRzl0ODRLbHNaUzVmZ3Q5NVhEb09CWEpjakRKZjh5YTBqelRqUjVzOGt4R2FZYUxxVDFDdVJrdnJmVjVDSnZPWmtMdDNjVkVhakdObjEtZTJEUNIBeEFVX3lxTE51ZUh2UkZMYTZmV0RvZ29jRDYxRVpRY2NNUy1BSTNsVjZSQm9RaVRrX29QNzhSSVV3MmRtYU9GVTV6eGk2dm4wYmFyZEd3bnVTTjZmdXV0LS1McHljSWhiYWUyLXh4WWRHR1hMTmpLb1pyeGpCeVFMYQ?oc=5",
+      "source": "뉴시스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-28",
+      "publishedAt": "2026-08-28T07:00:00+00:00",
+      "title": "현대모비스, 연내 美 배터리 생산시설에 1000억원 투자 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tenFmbW1zQndIVGNxNlFOaEhUQ1BsLVFpWEl3OUJjVWxOLS1NQVZnMTd1N2JkektSdDYxUGlOeG8zemFTbUZMajA4S2dHZkR3UHdlRnZydUJlWXlfNF9rM0Y1VE5IUQ?oc=5",
+      "source": "디일렉",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-26",
+      "publishedAt": "2026-08-26T07:00:00+00:00",
+      "title": "현대모비스 노사, 임단협 잠정합의…성과금 400%+1320만원 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMzcxMHNMcmJ1dUNqN1BoRG5PTnVGeEpaaDVuZUlXdXAwcDc0VnVOQjZRelpqVDZvMTlYSkdQQ1g5V0JhUHh3YXVFbmw0MGd6UFJuZmx1clJUbmlHQUc2aWdMcDdCMDhoTG5NX0lERVd6UHozRmxiRks4Uy1WTG9UVUktNUoxdw?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-08-26",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-28",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-31",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "count": 5,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-06",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "count": 52,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-11",
+      "count": 6,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-12",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-13",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "count": 4,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-15",
+      "count": 7,
+      "pos": 2,
+      "neg": 1
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-08-26T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-08-28T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-08-31T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T07:00:00+00:00",
+      "count": 5,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-06T10:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-10T02:00:00+00:00",
+      "count": 20,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-10T03:00:00+00:00",
+      "count": 6,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-10T04:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-10T05:00:00+00:00",
+      "count": 5,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-10T06:00:00+00:00",
+      "count": 6,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-10T07:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-10T08:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-10T09:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-10T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-10T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-11T01:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-11T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-11T08:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-09-11T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-11T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-12T16:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-13T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-14T01:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-09-14T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-14T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T00:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T01:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T07:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 1
+    }
+  ]
+}

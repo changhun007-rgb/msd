@@ -1,0 +1,889 @@
+{
+  "ticker": "000660.KS",
+  "query": "SK하이닉스 OR Hynix OR 000660",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-09-15T18:06:47.576786+00:00",
+  "items": [
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T15:35:00+00:00",
+      "title": "삼성전자 3분기 영업익 전망치, 석달 새 12조 넘게 상향 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnJ3QUZNdW9RNkNZRmQzVXRDbl8tU3p0UFRFRUFNYWZpZkltNkxvazRvQzVlVnYxSXZReFlmQnFRQVZVdjl3MVgwR2FWTEpsMFZVVi1MU3NzcG9aWXM5Rnkwb3BENFl5bjNLNk9wX2hUY3dySnVOclpRRGYwOE0wNVVZZUViV2g3SlN3?oc=5",
+      "source": "조선일보",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T15:02:51+00:00",
+      "title": "SK하이닉스(000660) - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc241eVFubXNQaVJTV2UtSXFhaWpCLTJwc3VHNUxhOTdBTFZpUFV4djlmZzVWTk53cFVpUkMySVl4QlpvNWxCSnZmbjEtUHNpMV9SckIxVXRFZ1NvZWlDeDhfSjItOW5EYlBxUWFvNWZvQk5FWUh2VVU0WTk4SF93MGVRSjJsejNtM3FhZm5kRDE3Q2ZOOWJz?oc=5",
+      "source": "매일경제 마켓",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T14:21:50+00:00",
+      "title": "삼성전자와 SK하이닉스, 한전의 전기요금 선납 제안 거절…왜? - 공감신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6cnFfbGxqTG8tLTdxdmJrY1poTEZWWDR3NTlpRUx3T185TlZ3YllFQlZQcmZQekNnSm9vUTNJTGEyQjZKUGgzMWRRYUNkRWpzdkRoV0NCVFR5QjYtTkxyUUVYdl9OX2c?oc=5",
+      "source": "공감신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T11:48:00+00:00",
+      "title": "이상일 용인특례시장, “삼성전자와 SK하이닉스의 용인 반도체 산단 조성에 약 1600조원 투자 전망” - 전국안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rUDhFM2FJZnI3aDI4UzIwczJ2bW9RZXdwN3NNRlBZcTF6OGdtMmtNbWlYblpJQnVsWm9Zd2JPU1JDNTVsTlAwSkhyWTQ?oc=5",
+      "source": "전국안전신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T11:28:00+00:00",
+      "title": "삼성전자·SK하이닉스 애프터마켓서 소폭 반등 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JVzZ6dzVKd3VEamxVTFFpT182Q2wya0lsNFRwX0loVE0taWI5ZllFSFF5bWQ4cks0Rnl5MHFRNE1peVRLN1FyeUVfRVE3Zms?oc=5",
+      "source": "v.daum.net",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T10:58:00+00:00",
+      "title": "대입판에도 ‘하이닉스’ 열풍…‘대기업 계약학과’ 수시 지원자 ‘역대 최고’ - 농민신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KOFpLVTlEcmkxbW5pa0NGRTRIOTRYblJiZDduS2kzOUdBVEVwbnRVbmREVlFkMDA0WXR5QVFTYmZiSWtXZ2d2c0dIVUVPOFNsd0pqZ1lWRDBfUQ?oc=5",
+      "source": "농민신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T10:33:00+00:00",
+      "title": "SK하이닉스 'ICT 해피에이징 서포터즈' 3기 출범…\"노노케어 확산\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOT2hMenRSNzJOQkE3YS1HODdvZnlULTVETTh5Nko0Z191QXdPM29BSkdPa1VkODRIeThOT25KQ1dqWEFUT0VKZGMtQVcwSkk?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T09:50:03+00:00",
+      "title": "SK하이닉스 시니어 서포터즈 새출발 - 충청매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9felNycm9vdXhUbVFaVlZLY1VWTzJKWElqN3NnQXZqMm85M1A5RkdpZ3FiYXNlN2dNdFRjZGhmVDI4VEVEeFNhZ1NJbzRqSTFFTVdxX0M1NEtrTFVZOFVIb05WZDUzWVA3WXc?oc=5",
+      "source": "충청매일",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T09:45:07+00:00",
+      "title": "청주시, SK하이닉스 현장서 재이용수 공급 점검 - 충청매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pMTB0UW5LVWl4UVZNZUxrb3AweV9IS04yNmx3bS1LNTBkMjdIWWI1cVRHeEtUZWc4blNsNWNXQnBCUXBYVkJ3c1N4XzQxZUZaelFMRHdfbjJ2ajI1QTJCRW1DazNZRVdkWXc?oc=5",
+      "source": "충청매일",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T09:30:14+00:00",
+      "title": "대한항공·SK하이닉스 등 100여 곳 모인다…경상국립대 채용 박람회 개막 - 경남도민뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTRHZFbFl5M2NpNmNsZTIwUUlKcEJESW5Fa0s5dDYwU0Z0QmF5WFlXUjVqeTAwYjdCMEhLa0dYOG9MNmNzdVJHa01pNWVNNzJvZlpCWWF4VE52UnI0SEdOTHJRaw?oc=5",
+      "source": "경남도민뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T08:51:08+00:00",
+      "title": "SK하이닉스, 임단협 재투표 ‘돌입’…가결 땐 ‘자사주 매입’·부결 땐 ‘3차 협상’ - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6V1l6b1BPenpWWnFmODRNaGI3N3JQU0VUSERydGRMNUZKeVJ6RThYTHI5cDR4Nm1Rc0VLelRLNGZvcUtxdlBEOEZUN3ZqdXJlZ0FCMDdEVnQ4RTZORENlb203ZTVCaGQ5VktoeFRB?oc=5",
+      "source": "아시아투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T08:30:00+00:00",
+      "title": "삼성전자와 SK하이닉스 하락에 개인투자자 저가 매수 행렬 - 2news.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yVGZibU9QSE95djkzOVF6dW8yMXhIdjdsN05LRk1OMlJqLUtXaGFEQnhKLWw0YXJ4Y2o4Uk5BeGdJTGRGZ2hhSGtYanMtVHJzYmc0WkNkeW0zLVZBbEJkUmJpVGRRcUlS?oc=5",
+      "source": "2news.co.kr",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T08:05:56+00:00",
+      "title": "안성 고삼면 주민들, SK하이닉스 오폐수 직방류 철회 요구…3보1배 행진 - 기호일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TTWJfRXBicGVfWVdZdzNnbzdJUEthZWhHREZGdzRTR3pIT01hOXJPS0t2RzMzLVlLODI5VV9NVjFNcGdiTjNZWTVJd25Gcy1TUTJPT0Eyd3Jzcjh1c0NUOFdjVGFyalAxVlNmektoSQ?oc=5",
+      "source": "기호일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T08:00:06+00:00",
+      "title": "SK하이닉스 성과급 재투표 돌입…삼성·마이크론도 노조 진통 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DSk43VElSbUpPLUZKS0xmSS1xekhyM0UtVDBlRHBobEhUd3NodF9VQ0tiQ0JsUFNHX3BzaUlzeko3T1ZGdkhrd1BHanUwV0RCdVE?oc=5",
+      "source": "매일경제 마켓",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:42:49+00:00",
+      "title": "경기동부보훈지청-SK하이닉스, 일상 속 보훈문화 확산 위해 손잡는다 - dtoday.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vd2k2eTNiQS00WlZBZW5WY0ZqbmpTeEU1UlRjVGd6azEtNU9EWEsxdm0xbWRBVTQtdHFVcHpudVdidHlqWmJIQkFESG4zOHk3WTB5STZZMkotemR2MHNNdWRINWlJaFFzdkxJ?oc=5",
+      "source": "dtoday.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:35:14+00:00",
+      "title": "청주시 하수정책과, SK하이닉스 청주4캠퍼스 현장견학 실시 - 서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SZDE2NHFtaEdrMUtvNXVTa3NSVjdWbWk3bDVCMDl5U3hOa2dfMkVVUldTcjdIZGd3bEtvQ3hTdU5tcTJ3MkRtOVJ0RUUyOHVvajYxdDRkUElYV3N3WWI2YlhSbEJVUjFfRnpN?oc=5",
+      "source": "서울뉴스통신",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:34:36+00:00",
+      "title": "삼성 이어 SK하이닉스까지…주주단체, 이사회·노조 ‘성과급 배임’ 고발 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HWHR3MkpLWjBzQzdKblh6VG5nUkJYUXZtdXJnNTVTX3VVLWwxYnVyellVUEg0T3FxNWd3WE9aYmxvcjdKbkxDYUtiZGFpTXg2T3gyNTNn?oc=5",
+      "source": "헤럴드경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:30:18+00:00",
+      "title": "잘 벌수록 더 주던 'N% 성과급' 손본다…SK하이닉스 이어 삼성도 '만지작' - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Vb3czZjJIby1vbU5qSjNYR0NoMFZSUzVibFktSDNRNTRSbUJOQy12bG1ZWGJHS0ZYQlg5TmpQajkwVGtmU2E3M3ZtalJIVEU?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:29:01+00:00",
+      "title": "SK하이닉스 '현금·주식 각 50%' 합의안 가결되나, 50% 현금만도 인당 3억5천만 원 받는다 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96RW1lelQ5RnFrM0F0NURURUNhenFpbWdxQ0NtR3lpZVplUW9PMHFNYVJ0a2hXWHFJaEU0LTlNQmR1Y1Q2VENZOTk1MTlZd3o2SnJDOGpJdGp3R0ZpLXBHQ0hPZnJkdzhaVGNPUWFTYU55MEU?oc=5",
+      "source": "비즈니스포스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:29:00+00:00",
+      "title": "안성시민 삼보일배… “SK하이닉스 오폐수 직방류 중단하라” - 중부일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12T1NOenlEb3c1OGhwQlVVemRocS1DOWxRV2FpV0loRGNCMXNtWkZTMWR0Tm5hd0hOZW13SjZLUm8xZ2dKbHRkLVdrT1hJUnRCNXEwZTZNcFpoR0ltRGxydFBBWnZ1MEs3VjZoWXVB?oc=5",
+      "source": "중부일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:04:47+00:00",
+      "title": "삼성·SK하이닉스, 차세대 D램 ‘원가 전쟁’…5000억 High-NA에 승부 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS0hrd0hPMVlsZGhjVWFrS0FEb2ZNRXZpVVB5LUFsYkR1ei1GYTQ4M1dRb1dpaG1CSDdWRDIxUHotYTJwaU9PYVp3ZWNBbDBOOWtMX2dSY2tMZWEwWUNGd1JlaHdMWDJaS3NCOUs2RWVzdnF0TnRkSURFblIxVlBxTnZzSjJHZw?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T06:56:03+00:00",
+      "title": "경기동부보훈지청-SK하이닉스, 보훈문화 확산 맞손 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ca3Q1aEpKaUI2MDF1NHdnLUxBYkZfWXZ1em9JVzVvU2xHeXBUcXdSdWNaem5SV1VkUjRKUGlSck5FcTFSUHJVTHBPMXVVZnZJc29yRHlQMXRSZHppVWg4RUd1QmnSAWhBVV95cUxQc1JUZ2NzU0hTVGZ3UVkzeFB2c0QtNnpidzJJOGFmbW51UkxPLU1rNndPS010OGwyVUJ2empQZXJ0RmR3b3RuOGxUaE8zcXhHRWFFVVRTaUlvNU9HcV9qRXFEV0xSNjVSWA?oc=5",
+      "source": "매일일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T06:52:39+00:00",
+      "title": "[특징주] 삼전·닉스, 0.2∼0.4% 하락 마감(종합) - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NM21QdTcxVG1jVFlVTkpGbHBPYXVoOHlvdjRTZWpsUndld1gzXzlFamhHWXNXY0gwTzNjMUZJOHEzODQ2LWswcWZDVTdPLTdiWkE?oc=5",
+      "source": "매일경제 마켓",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T06:44:46+00:00",
+      "title": "D램에 연산 맡겼더니…SK하이닉스, AI 추론 3.2배↑ - 뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54bWNYM2pPQTUyQVBSVmpjZzRJRFducmQ3Wk93VUc1T0N2dXhHdTFQTmlhZllETkt1XzBZcTdXeDhCQ25uNFcwOHVPOWFNY241NWZwTFlhUmppLW1FNGN2TA?oc=5",
+      "source": "뉴스토마토",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T06:42:46+00:00",
+      "title": "“화재 발생” SK하이닉스 청주공장 2500명 ‘우르르’…가스 누출·화재 훈련 첫 공개 - kado.net",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EUTdvVVZuZkwtQ1VzZFJzaWZVdjVDUEsyaWNONUs1X0Z1WUg2bGVNUDNvd29qd3ZCVl9pWjk3dTRjZENXTHlzT3JPT1dLbE01OWFoWE52TGZVbEQ1NTJsaG5QeE4wWTFJ?oc=5",
+      "source": "kado.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T06:33:00+00:00",
+      "title": "\"삼전닉스, 과거 주가 회복 쉽지 않다\" 고점론 띄웠던 증권사, 또다시 경고 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1adVJPc3I2eUlBcjI3b2FZcjBaYlpSYUk5c1d6RllqdTYwa1JDaHZCTFZPZUVnZjh4SU1UT0J1a05tOFg1azU0Y0lmcUhmSzA?oc=5",
+      "source": "v.daum.net",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T06:32:24+00:00",
+      "title": "25표 차 부결 SK하이닉스 임단협…성과급 손질해 재표결 돌입 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rSHlvY0JMS29YSlU5TlpPMktHR01YRmUxNW9UdVprOEotNEhUQi1UWVdILUU5WGhJMnl6djFRdXZ0YXhLTDBnRVBubkY2aHRHNzQxUnQ5Q1hLVUpmazJwQQ?oc=5",
+      "source": "메트로신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T06:27:56+00:00",
+      "title": "대한항공/SK하이닉스 등 100여 곳 모인다…경상국립대 채용 박람회 개막 - 베리타스알파",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aQjFFNExZV3doanE2MHR3QTFoTkhfaTlWd0owd0k5Qk54aDNzc0tCeXE0Nzc2ZlJHUkloNE1XNmw0ZGlQbEJLVjVlWlhCLVV6WjNBa0NaOFpjdVRPbzR4LTJyS1c1SGIzQXpDUw?oc=5",
+      "source": "베리타스알파",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T06:25:28+00:00",
+      "title": "SK하이닉스 임단협 다시 표결…현금 늘린 수정안 통과될까 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4TnJjSllqcV85UWV1UjNfMjJvdTdPNlVjRVZxQ0V5MnB3cnBZdmFXTF9xTnAtRGloVEJ3eTJIOUVZTVFaVUZ2QmdQWlU5Z00?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T06:25:19+00:00",
+      "title": "SK하이닉스 'ICT 해피에이징 서포터즈 3기' 출범 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02WXFwdHFLM1hzS3k5b2EzUV9mQUdBeGRoUmF0UndFQ0pWbmt3N1l6cDROWVRUMG01RnBVeVhMS0djb04tanE0VTBHMEthc1pMNjRVbzdUYmZDXzFtclNaS9IBeEFVX3lxTE1tUFRkalphZXNpdE0tUTdrSVFTeURsOEdmcGQ2M2ZCalJyWGFRS0lsRTJ6NVh2eVJRcERYUndLdjBfaDcyYnNubHZDRlpWc1JSY2hvWWRjRG1lYkV6T2d5eFp3YTFDbGtOb25VNTRONVZqeW9McXAwZQ?oc=5",
+      "source": "뉴시스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T06:19:13+00:00",
+      "title": "사이렌 울리자 2천500명 우르르…SK하이닉스 방재훈련 첫 공개 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zcVRNa2FRSWtZc2pHTFFSV1R3dUJ6bWxLVGpZVmRfdzJuTXBOb05ubkpqbHh3MGZsRDk3ZzdtWGwwNEpJMndYbnlGTmxnTHc?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T06:00:27+00:00",
+      "title": "안성 농민들, SK하이닉스 고삼저수지 오폐수 방류 반대 '3보1배' - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16TFNnV3lXeFVfRWQ1V3ZmbXNLR1c1N252SkhXSnRGc2J2cHJLTE9tamtGWHRIRHptZ0tibzJpNjRPUzN2cXFrU1UxYkxVU0VNS1NlMXIyeEYwNG5oVE1fUnRuZmxLVDJtLURz?oc=5",
+      "source": "프레시안",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T05:40:46+00:00",
+      "title": "안성 농민들 “SK하이닉스 오폐수 고삼저수지 직방류 철회하라” - 경인일보",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lUWFiOXJhcDFiV1RyU1M1SXZmQnIyaUkwYU11eVJ2OTQ5NF90ZS1USjFFZEw0a3ZiT0txY2pBZHM4VFkybnFHQW44RFVaNkRidUE?oc=5",
+      "source": "경인일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T05:40:25+00:00",
+      "title": "SK하이닉스, ICT해피에이징 서포터즈 3기 출범…노노케어로 디지털 역량 향상 - BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Fdks1TUxTWnlidXB6cDMwTVlXaHpLRjdUQmlncm5EMExHNGhsQVFxeE9ia0tlM0tpUjktcVZhWjZLRDVYZS1wSXZNaVhndXcyQTA1LU1yeFMxNmRrY3J5aW0tYUJ1TkloSGdv?oc=5",
+      "source": "BBS불교방송",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T05:40:08+00:00",
+      "title": "AI 반도체 시장에 '저용량 HBM' 확산 조짐, 삼성전자 SK하이닉스 중장기 실적에 변수 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55LWtJWjlvOTN3NFI4N3VWeXZNRW4wdmxtNnRhbm9YQ3F1R19FdlJfM05KY2RUWExzSEJwQU9pelpQNU9WX3M1RFJ3eUlteXVVc3lzREVRUHBBNjdFTnRsdVlOMjFJWGVMZDB2TUh5NEQxQ3M?oc=5",
+      "source": "비즈니스포스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T05:38:12+00:00",
+      "title": "SK하이닉스 노조, 임단협 수정안 재투표 돌입…PS 현금 비중 50%로 확대 - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43Nm4zdUIzamFGdkJwXzN6THdNZmw1TjlCNmVLQnFXYVdoaHVTc3YtTkxBdC1sUUJuMUtNX3pHdGFicnhrMV9zdUJyUndxQWliSkNPUnIwUGdSelZGRnVIV3ZBYWc5S2p4?oc=5",
+      "source": "녹색경제신문",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T05:32:05+00:00",
+      "title": "SK하이닉스, 80여개 협력사에 '커피 2만잔'…25년 상생 행보 - ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IM21yX0x0cXVmWkliem01Q1V6Y3poNFczaWtEcUt0R2k3bGlyV3ZlX2dKR25pU1pjYUZZWnk0eU5IbTljM28yU3FreVpoa18xREdvOWtjWjU2Wmd6VVVZMGs5ZkpURHBN?oc=5",
+      "source": "ebn.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T05:30:54+00:00",
+      "title": "SK하이닉스처럼…日 키옥시아, 美 ADR 상장 검토 \"세부사항 조율 중\" - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VbVdOWjRHdjVCX2YtdEN4QUZEX2dmSGZGa1BNUTduS3BNZzZfSTJrM0ZZa0U1SURhNzdrU3J6NVhvVEtCQUJtZnpodXRpZ05TYmZ0SjZOWXNScHlNTldjbw?oc=5",
+      "source": "아시아경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T05:28:58+00:00",
+      "title": "대기업 계약학과 수시 지원자 '역대 최다'…SK하이닉스 27.3% 급증 - news21tongsin.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuQUFhZklGc3JrdHJHWU5pYXJqM0tYUHhwenVndzhoV2xBZzZfMTA5ZWdkTU01WXhWS29xT0p5bV92Z0ZGX3BiN09HbjFfNGxueVJQNWZB?oc=5",
+      "source": "news21tongsin.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T05:28:57+00:00",
+      "title": "범용이 HBM 격차 메운다…삼성, D램 실적 SK하이닉스 추월 전망 - 블로터",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KNW82cE5Ha0JzQktDLVRpdDk1dUk5UmJRY1gtWjBsTHJ4ZkRPMW1GQVVsVEIwNGRLZUg1UlM1SkotbUFSRmYtLWt3dFR1OHYwcWZEUXlDZ2cwWDJsQkdZWFpyelRIWHo10gFsQVVfeXFMUERFSThkMzJaMW5DVUhfNG94MDVVSk41U25aaVhMMS1wR3hETVhJZ2tBOUVDMnJ3OGFubTJ2eVpPS09GZWZpdDhpOUkxdE43Zmt5eVhRdzdwVU9ScUxPRGZkVHlSSjNPbXhuUXJa?oc=5",
+      "source": "블로터",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T05:20:14+00:00",
+      "title": "SK하이닉스, 노인 정보격차 해소 'ICT 해피에이징' 3기 배출 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45eUdTcmlsQlVVWjlKMmsyQVZoVFlmTllneTlFWDQtaXQzWmVINkxPVEZUMU9FZk9ISlpKTUFlT2t0RXFSRFBGUlBtSzdGX19tTDBLc3VGV2FVcFhTOUxF0gFkQVVfeXFMT2Zmd2pMbTJ1WkEzNzhQZXd6S0w5Zy1hVmplVzlzZl9GdFdVXzZ0Vmhxd1BhTmtJWjFrRy0xTFRTWVJueWhGdkRLZzVOb3ZpTGZFaERNMXlrSC1jeTJoRm1DN3NnOQ?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T05:02:00+00:00",
+      "title": "삼성전자·SK하이닉스 글로벌 IR 한자리에…'코리아 프리미엄 위크' 첫발 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vWVJOeWpYdkdBSDZVMl95alN0QTRIMGRBREFlcWFaUGtOSm5fRFRVMUh1SjlpZTViekQzYVJyeHhJQTFTUE55RDBxWlczVFB1WGxKQjBPSDRXS3pw?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T04:34:51+00:00",
+      "title": "\"함께해줘 고맙습니다\"...SK하이닉스, 협력사에 '감사 커피' 2만잔 선물 - 뉴스포스트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xeUlCTnpiUFVVYzA0OHozYWVMTzJxdW5lc2k4VEZaVlZYdGxOSkx5bDUyOE5pSjd1aW9YYzdUdlQ2ZC1lVUhFc0NIRGxGRE1na2stOHpXaTlDTFdKVmxvOWxqTkRIcmdzd0E?oc=5",
+      "source": "뉴스포스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T04:12:40+00:00",
+      "title": "SK하이닉스 노조, 임단협 수정안 재투표…성과급 현금 50%로 확대 - 서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yenljOVM4c0szeFJlTXM2RlR6WTdsMDJDejZfNi1wckVhdl9pZ2lfVUpXSkZlRGZhNDk1MkRpREJ4dHRxVUxvTE94YnUwdV9EX0g4VHFkbFFScUR4cExEaFg3YmlaT2YxVXFJ?oc=5",
+      "source": "서울뉴스통신",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T03:21:00+00:00",
+      "title": "日·대만에 밀릴라…삼성전자·SK하이닉스 앞세운 ‘K증시 세일즈’ - 조세일보",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BU05aRGJ5RXEwbEZPYU5Gem1yb2Z3MkN3ZC1rZnJqWWx3WGhhb1piQmVoVUhJaFlWSnY3Mm5haTFKcjB0WVA3UmNEVTdlWlByZmRRRENNYVJ6UENncmxJ?oc=5",
+      "source": "조세일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T03:20:22+00:00",
+      "title": "BNK투자증권, 삼성전자와 SK하이닉스 목표가 27만원과 148만원 제시...타 증권사의 절반에도 못 미쳐 - 비욘드포스트",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BRFp1S3hfaEZEdTFIc0RTNkV2MEZieTVSMHU4OHlTUnB2SkpGbVVkRDRUdGVCVDhEVmJlUDViWW9DbFZESW92QVFYOU42VVdfMUk5R0E3dS1wZU5ZVHFCOXFuaUx5cEU2UU9pT2xOMDJoRG1VSV9XcDE3R0I?oc=5",
+      "source": "비욘드포스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T03:01:08+00:00",
+      "title": "거래소, '코리아 프리미엄 위크' 첫 개최…삼성전자·SK하이닉스 등 55개사 참여 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Oamt2U3g5RFBWZ3dCYUV6U3F0YmQxM296MFQzd0VFYVd2ZDZkNEhNd2JBajRFUUNFUjRxendFYmV6WXR3QXd4ZlJLRUQ5NFE?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T03:00:00+00:00",
+      "title": "금융위, ‘코리아 프리미엄 위크’ 첫 개최…삼성전자·SK하이닉스 글로벌 IR - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56UE5LQTgzM2RndmtFcWhFeFlaNEw1cm5FOUJ6a0tlay00aW1SMVBId1ZXODVBa3FwMnY4UWZrbkNVNC1Dd3VHU0tpUUxfdFE?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T03:00:00+00:00",
+      "title": "금융위, ‘코리아 프리미엄 위크’ 첫 개최…삼성전자·SK하이닉스 글로벌 IR - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JaTZiR3dOSldHUzFDUjNzQ2tDS1UxQmVwVldLdmdlYkpkX2JTNTN1UHVBTXVQQnFLRmNSTm9kM3pWaWdKWl95Y2lTZkJ6YnBiNmFtcw?oc=5",
+      "source": "이투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T02:35:15+00:00",
+      "title": "삼성전자·SK하이닉스, 한전 '25조 전기료 선납' 전격 거절… 나경원 \"위헌적 준조세 압박 중단하라\" - 청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lbHJaWFM3anVpeDdtUEFVcmI4SGRXbGRuMjdQWm5QbTF4T0czZE1NR1BtamxZa2M2Y201bHVpZ1F0bm5DV0tvUzNwWnZZc2pHMTZJenIyaVRucUVpQm1rbVdiaktjS3c3TVE?oc=5",
+      "source": "청년투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T02:33:24+00:00",
+      "title": "SK하이닉스 이어 키옥시아도 美로…14조원 조달 검토 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KUk15OEJfOG9mblh1VFNfaTVaZGo3YnJueGJZVG5XWk5mYkxON2hfWUx0Y08yQnhwUnVYLVlIYmNvN0JtYm1mVkpIaw?oc=5",
+      "source": "아이뉴스24",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T01:54:12+00:00",
+      "title": "SK하이닉스, 협력사 80여곳에 커피차…전국 돌며 2만잔 쏜다 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81d3VmcThmaGlzZi1sdV9raXRxbk9FTmtJN2FJOW1NZkY1blVoZ2lSdHVYM0xaQjJQdzFVa2d3Z211cGJYZVNGSl9pMTloc3M?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T01:52:34+00:00",
+      "title": "대기업 계약학과 수시 지원자 역대 최다…SK하이닉스 27.3% 증가 - 서울이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HaGNpQ2I0QjBPeGQzdnVidUhpaUJmSDZHWWlqUDczZnRJU0h2SVhOLVlmLUlRMHFZdl9GN3UyaUJrMF9JYXNOTUtsUE45bngxMG1iWG5lb0RBLW9HeURmdFVtVE9Ma05TQmlqWDh3?oc=5",
+      "source": "서울이코노미뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T01:51:52+00:00",
+      "title": "본주보다 40% 비싼 SK하이닉스 ADR 개미들 본주 3조 팔고 ADR 1조 사들여 - 중소기업신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIckxxR0FGWnB6cHpVU2lwZldwbUdvU09CSTBJUmFrUlYtbEx5T1ZfdG01clpRUnFFTHBBZFR2djVUWHFLdnpSVEFsd1BYXzgwdVpkX2NNdkh0dHdMeTl2ck1FbkV0YlBmZ3BnWQ?oc=5",
+      "source": "중소기업신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T01:25:06+00:00",
+      "title": "대기업 계약학과 수시 9000명 몰렸다…SK하이닉스 지원자 27%↑ - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SLTVlOEpMa1pTcDdGbzRLNF9PWHZ2MTBkSWxEclJTcThKWGxBSnZ1ZmVIRnBnMmhlMUU1M1pjQVkwZTNuRFlIc0YwUjB0OElWaWfSAVNBVV95cUxQWHpYZThfUG1hMDR1cVVQSHNBZjRmT1kteDVNeGNRdjRRSmV2M1VBLW8tQXFHUFloNmw1Q1FkUHZOUUd0cmpPek84azRVbkhIZjlkNA?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T01:04:53+00:00",
+      "title": "[특징주] 삼성전자·SK하이닉스, 美 증시 충격 딛고 장 초반 강보합 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJSVZicEtya28yNjVTSDJFZFBqci1NTnhoTFo3N2d4amRBcFlDTy10cXRfX1FTdlF4d1p4SERVQUN6MHhSZ0V0VDJwU3R5ZDFOWmJUaWE5QkhMUdIBWEFVX3lxTE5ybTNYM1V3d2VjNEhPclNGTGZhLU9lTHU3NEk4aWRjMm9xTDRacGJrMGg2UUQ4d1N6SXlRNGNZUWQzVUNvdnEyNUlpUk5pb3dfelJ3NzREbkU?oc=5",
+      "source": "아주경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T00:55:32+00:00",
+      "title": "[특징주] 삼성전자·SK하이닉스, 저가 매수세 유입.. 동반 '상승세' - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZy1KQTM5RFFqWlY2TmVYN0tVU1NWYTNoUXdCT0JleVlKNTh3Z19oRUFJOWxHMDlCYkNCakVROWhTa296bkJCandDVEZTSHMtVFhYWjZVdmpxVFo3Zk1LTTh1WmtZaVA3RDQxVTlQV3JUOUo4ajNiaGFFRlJRSU01UzNqLTVrdFdl?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T00:53:00+00:00",
+      "title": "SK하이닉스, 협력사 80여곳에 ’감사 커피’…“동반 성장“ - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kb205YnQ0S0d1Q3lobEhlZXdoOXdyb3VieS1MM2loLUNxQjhJblk5NklCNGM2bnRqOWRXZnE1Q0RUMWtwa2FzOTY0TkQ2cTJqTDlFOTg4aFFmMUNncndvdjRkQWE1cGc?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T00:45:38+00:00",
+      "title": "대기업 계약학과 수시 지원자 역대 최다…SK하이닉스 27.3%↑ - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ubFQ2cGNKOTFsYUxiVkJDMlZmM0I3bVQwRm8teVJWX3dYTjJVc0RqWGhkLUJ1WTdiV0pCNEp2SWtsMDZQalJHSkZmbGphVDA?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T00:37:59+00:00",
+      "title": "삼성전자·SK하이닉스 'AI 속도조절론' 비껴가나⋯코스피 약보합 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kSXA5QTEtZjFWWmszNi1mbjB3MzlYbG5Mc1BJUFV5LW1EQTVjRnRfb19zZzhzdVRMWW1uVWlsZ2ZYS3hUekk3TzNRRQ?oc=5",
+      "source": "아이뉴스24",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T00:34:05+00:00",
+      "title": "삼성전자·SK하이닉스, 전날 급락 딛고 보합권…저가매수 유입 - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OOEJyUTN5NnlEczNuYkVxazNmUTZHN2VyNjBwWEhBZFE3b3A5OVB2S3RaNnZNSS10dDh3ZnlRT1ZTaUU0RTFPLWFuanBfVGUy?oc=5",
+      "source": "블루밍비트",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T00:11:02+00:00",
+      "title": "“삼성전자·SK하이닉스 방향성에 투자”…한국투자증권, ELW 268종목 상장 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MUHZ3ZzUtODEwZFJxRjdDYmZlZUE0THFBTUhpS2Y4UTVrcElxbnNNZUhxYzQ0eVB4VWV4R1B6SW5UekRoNENld0JSdXJVdDE3eU9xZmtfa3M4M1VEcjZfRS1kS0M?oc=5",
+      "source": "디지털데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T23:50:20+00:00",
+      "title": "삼전·SK하이닉스 등 ‘대기업계약학과’ 수시지원 역대 최다 - 한국대학신문",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZemRlaG9QWFVMTldjc2RzX3BKLTYzS05GSTYzNGxnYzNKNW5xVTJiYUdMcVdGQzM4YnpiM3B0WXdPUnJsQUd3enlWWE5nbUVpNFp3ck90WVplSVRod29nOVotcTFldw?oc=5",
+      "source": "한국대학신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T23:44:00+00:00",
+      "title": "SK하이닉스, 협력사 80여곳에 '감사 커피' 2만잔 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjdUo3eFdwWllTMzBYcWNycmNkUjR1VEVjeHlodWJWaGxKTVE3azVTMXZaU25qR1YwVVlCQXp2ZUg4X3pFci1MWnFFV3VLT3c?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T23:39:00+00:00",
+      "title": "\"SK하이닉스처럼\"...키옥시아 미국 ADR 상장 검토 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FUVBwUDR4M1FQR00xZUhzVEFoQmVqSGprQWw2TVROUWE4SnpJMGF1dC1fTm9OV3pkUVZkcHhVUm4wY0hyTXNNNUgtZTQxejdydTZ0YjlvMFNjcXJWeEE?oc=5",
+      "source": "YTN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T23:38:31+00:00",
+      "title": "SK하이닉스 ADR, 월요일 주가 7% 이상 하락한 이유는? - kr.benzinga.com",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOanFfRjNiZElkRlV6SERQcmpEbVhZOWlMZFZtSVNRUXZPUGxZZm92b2VfQ2Nib2hPQzhmV3JaQzVHdUhzdVk3ZFpNVDctbFBENk95a2thX1NtMHlGUGVPUVFPdmdlZVlxUG82OGkxdDBLa05NWG1pajd5dnFqeUdFMlNUYlBuU2c3RkE3aEd5a2tSZGxxZTZrMjlyRUZkOFc4RWZSVHhjQ05rQnhiY1NKbmZSYURjb2lCeHFoamF2S0ZwR21sa0NXZUJBRzQ2U013UEZKcEpMdjZjZTQ5SzZheGg5Mjd3bDM1cm9mTkMzWTNKbUF3S000YVZoc2s4dTJreW5CcG5qaFgydUROWEVNb0o0RHV0ZTlDTGZCQ0NzeV9nQjB6RmYwU2ZNMlliYkp4OXc?oc=5",
+      "source": "kr.benzinga.com",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T23:25:03+00:00",
+      "title": "'AI 속도조절 여진' 삼성전자·SK하이닉스 프리마켓서 약보합 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zNkFUc2lyM05RcmpZUkNpVzZLOWsyS0J3LW1OLUJ6QTVOSlM5ZHdPQS1nR0RuSTRKZ04xaUt4ZC00LV9FUnpnT1VKWUh1eDVLNFdZN2syaE1GRWoxOUNF0gFkQVVfeXFMUExfN1FxRUJ2SENjZnE1azRnbXJrRHpUcTJJcVpBZHAxeTREUUUxMUI3SlZqem10aE9zelFPODJjZ1VFUGR3QlRaSEJ2OWI0Wkt3R1lxVGlCQVFMYzdCMUhabGlpYg?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T22:52:02+00:00",
+      "title": "SK하이닉스 ADR 7.6% 급락…AI 속도조절론에 반도체주 패닉 - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wTlc3RVd1LVRpdXZ6LWVPbmc3Rmdhc1haZW5DVm1WOU1GMGI3WmVpT2RRYmFHajhGSU1ORS04YUNvUENTVms2NldNYU5IN3Nhd3pjLXZ1UEV6RzFQQXFRMzNn?oc=5",
+      "source": "매일신문",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T22:28:00+00:00",
+      "title": "[와글와글 플러스] 삼성전자·SK하이닉스 '25조 전기료 선납' 거절 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IVWVQb0dBSUc3dW1WbkZ6YjloTExqSlhUNk9HX3I5NFhrRVZ3YnI1Z2ljdGplaFZ3VUU3S1A5ZzF3VXp4WFZGOXlQZ1lhT3h0WFFKcFluMUFDYVk4Q3BkMHA0cklMUWx5NjQwcVc1MU1QMXZEUXVmLTFR0gF6QVVfeXFMUHZaMXo2OEJVcUd3SGxvMUdHN3ZVZGZ5V3g2cU5EZklYdnBLVXFCbE9rUWtac3BUTVVtRjF3UWlYOVNRb19QYU9lZ21PNmx2M3lCNXpOMm82akhNdHBNaVJnekVOdWVSS0pyYVdSOTB0X3pJQjlLcHhGVkE?oc=5",
+      "source": "MBC 뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T21:23:56+00:00",
+      "title": "\"AI 속도 늦춰라\" 거물들의 폭탄 발언…SK하이닉스 7.6% '패닉 셀' - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3pVUWc1bW5HRHAwdEwwdEhfY3dUWTFYTmY0bWc4SG9rS3FST1NLTGlaUlNuYzFsSkhjTzMtRTJ0Rk9XTHN6djBSYURUYU9mbGVETVRzdHlNRG9qenBzUmVrMF9pQnBmazhiUjlSSzZNWkxteGJRSTNsVmpyMHluQl9sN1Q4SW90?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T21:04:05+00:00",
+      "title": "삼성전자·SK하이닉스, 3분기 영업익 전망치 급상향… “HBM4 성적은 삼성 우세” - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRFpkSGdsTFFkcG9vNHhJTVpTZE1feEZNTmVvSFRsajB0YXh4Nlg0YVlPREhOWHFhMUxmREs5OGFHa0kzeEs4bTBwRVdIMGlrODcyOG5oOVNaakk4b2F4SmpiVlItNUZkcG9CbngwMzJtS1ZqcDdISWNKd0NFd0N1UHVR0gGWAUFVX3lxTE9kUmJlcUlwZkR0SE9CbmIzbmFkdjdsd2x3U0RwbW1YYTFfSE9vajd0VV9rYndvbGd4T1pocWxGYlJuZWFQOGNLcEo5V2xyYjl1dmlINVcwQnJ6dVBOUHlLSXg4ZmNid3NhdHc3aWUtTVN0aWNoSlZOaHFONTRRSHZUMFQ5SE1NYXQyNldMR0c0NnZzSkd1QQ?oc=5",
+      "source": "Chosunbiz",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T20:03:00+00:00",
+      "title": "서동주도 물린 SK하이닉스…29% 내렸는데 본전엔 41% 뛰어야 하는 이유 [숫자 뒤의 진실] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mNjctTGY4YTNmMjZSc2p4dktBTTM2QlJLTjZHVHBDQVJjVWtFMlo4UVBmY2pzNFB4VjE5UGliRHRFN1N6WGYyS3o4SWs0Zms?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T10:51:00+00:00",
+      "title": "삼성전자·SK하이닉스 모두 '거절'...속 타는 한전 [자막뉴스] - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YRk1VWk9VMEJzZ2JzaDdMOExoVXduRGlMRkpKQjVQU3dqU0cydGVfUHBiaHBpcDFLQXVOeVFlRFVUZU5vMVFDd0tsMUY0Rnlqa0FmbmkyNFFZOTIxRHc?oc=5",
+      "source": "YTN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T07:43:00+00:00",
+      "title": "코스피, 3%대 하락 마감...SK하이닉스 6%대 급락 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkRHFZVElRUEdham9rU2stcXRpS3ZKUElYWXgxeWFoVl9HV241SlE4M1BkWGFBRTZGNnpDNGtsb1BDOXdDell5WjFSQzRrYzdwX2RpZTdxbnlWWTlLZ0E?oc=5",
+      "source": "YTN",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T07:37:06+00:00",
+      "title": "삼성전자·SK하이닉스, 한전 '25조 전기료 선납' 제안 거절 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Cam1jOGxoZzF4UDRyVjhNM1hHVHdDZFd4ZEpBdVM5MnRJcGVRcDBreWY4bGl2N2pwdDI5bjNJTnU4NmtVNU9TcVhYS3VlUQ?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T01:20:43+00:00",
+      "title": "삼성·SK하이닉스, 한전 ‘25조 전기료 선납’ 제안 거절 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YRnJtUENFSkctOWpCRmxzUzdBdmNxN01EUk43STFmcjV0cVFuaVFxdGFaYnpyblhzY0xqZlN2TVRpbWt0NUpmRDQ3cGxndmg1TmNEYlh3UkItTTQ?oc=5",
+      "source": "에너지경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T01:05:05+00:00",
+      "title": "[특징주] 삼성전자·SK하이닉스, 美 국채 금리 상승 여파.. '약세' - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2EzUkl2bXFjTFcxeW54ZjBIR0phUFFIemVXdldlZ2NvLVFoSVdGamoyWWpaWjhUN1hXdTNWV0UxTzM4SWNzTnhXai1WM2U0VUpWT2d3WkdCbWc4RkRfSVlVelQ4VkpQczF6a2VjdVRrQzd3M1hfalR3LUNDbmlmd1ZmVVUzVzdo?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T00:24:47+00:00",
+      "title": "[특징주] 삼성전자 장 초반 3.5% 급락…SK하이닉스도 5.2%↓ - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCcnRocWhFZ2Z2NjJaTlpXaFVlbmNTanYxU0NZN0NtNEk3WXpILXd3eVVmRXpIaVRrSEpxRG5KeFpWZG02ajR2UUxVaG5LYklPcXhGMlg5XzNKQUxVU2JTV9IBYEFVX3lxTFBCcnRocWhFZ2Z2NjJaTlpXaFVlbmNTanYxU0NZN0NtNEk3WXpILXd3eVVmRXpIaVRrSEpxRG5KeFpWZG02ajR2UUxVaG5LYklPcXhGMlg5XzNKQUxVU2JTVw?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-13",
+      "publishedAt": "2026-09-13T21:30:04+00:00",
+      "title": "[단독-메가특구법 노동특례?] 삼성전자·SK하이닉스, 기간제·파견 확대 ‘관심 없다’ - labortoday.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkdW9PcFUyZ0xmZVZVVVNaY3ZsOVMtNjRBX3NrU0ladWIwNDNLODFMQURybnRDWW5uS2MzREVMa1ctNk1BVmlQaWVDMGpMTGhMeEYzWEV4bDZ0LWlSNGRpTFZLNk1UOXlzLWtrSjBQaFg?oc=5",
+      "source": "labortoday.co.kr",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-13",
+      "publishedAt": "2026-09-13T21:03:00+00:00",
+      "title": "[비즈톡톡] ‘메모리 초호황기’에 D램 점유율 25%로 하락… ‘HBM 왕좌’ SK하이닉스의 고민 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUNueWJNOHp0Nkw1ZDlTUWl6a1FQcjhtZ2I2UHd5LVhka1NIR2poY1ZKRTF5SnY4QkFwRnpqUWFoSDQ3RWlIUW5MX3FzR3FiNlNkMndCZTFRd0FpYVk4ZHlnVUY0ZFRkYTFrc0loRDdHNl9mMDY2Mm4zYThBUVJiX21R0gGWAUFVX3lxTFA3UWdaVWprWGNVWmZLQXN0blhiZ0lJRHoyUldpbWtmcWswbVU4UVMyc2NkT2kzZGtoQ3JSbW9ZaXRWRHltZFJFcG1lTElFdzI3TjVidlRVZEpWWlEzMHNyeTdWVll2T3JUVzh0R2JrejNpdWlGN3YwQklEZjJkUE92MTVNUUVtVDQwbHVCOS1uLXRHM21rUQ?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 1
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-09-13",
+      "count": 2,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-14",
+      "count": 16,
+      "pos": 2,
+      "neg": 6
+    },
+    {
+      "date": "2026-09-15",
+      "count": 62,
+      "pos": 12,
+      "neg": 4
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-09-13T21:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-09-14T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-09-14T01:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-09-14T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-14T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-14T20:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-14T21:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-14T22:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-09-14T23:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-09-15T00:00:00+00:00",
+      "count": 6,
+      "pos": 4,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-09-15T01:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T02:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T03:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T04:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T05:00:00+00:00",
+      "count": 10,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T06:00:00+00:00",
+      "count": 11,
+      "pos": 1,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-15T07:00:00+00:00",
+      "count": 7,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T08:00:00+00:00",
+      "count": 4,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-09-15T09:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T10:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T11:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T14:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T15:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    }
+  ]
+}
