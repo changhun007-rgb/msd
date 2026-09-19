@@ -1,0 +1,1015 @@
+{
+  "ticker": "GOOG",
+  "query": "Google OR Alphabet OR 구글",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-09-19T17:56:24.408862+00:00",
+  "items": [
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T17:49:31+00:00",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVVBaS2xGSGM2NGFSNmhpemxXOTZRZkg0MHh3a1RCbGtUUjFvZzFxUkN1T0RlSmJodXdpVjM3TWFEWVpCQS0zZFd4YmphTFBIckhSY0ZfekhWTUIxVlhRTXFRa0gyNVBRTHRySHVRMWxzQTFPZlQwSFkzUWlrUQ?oc=5",
+      "source": "CBS News",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T17:30:00+00:00",
+      "title": "Google’s Gemini is the latest AI model to hack other companies - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYm5KUVJReVdUcmltT2F0ZlVGRU42WnltWFZWTzBxVUJFZ0RmNWs0QzNZdEtmcDRyVjB0Z3VsUE55ZUhFSG83T0IzMjlJMEtxWXRqMU1UOGxsRW9zdEhwempLQUMxVTJCYk5UMTBHV2xNSnZHX0JiMXRvRjFCVURyUGZEcExpaXhKNFIydFNqbllYTW1URUY3NlVHbWM?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T17:21:00+00:00",
+      "title": "Google’s Gemini AI hacked 3 companies during security tests - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNkJoMXpka2RtQ2Y4ZTFGQ1hfellDbDBBSVgxR2ZWMW5xeXF3aU5KellVM09aa0hMTnYyZXhEWkRYTS1uZTdGVGJmbHhaZGJXZk95NWQtdkgyVFBaVmlNUFhDT1g0UmpMdTBYSFJjN0gxdVpkTS1YU0tZckQ3Ni1EeG1fd29RUDNIZzhBb184dDVXRVdpR1hXV2lRSEZHdw?oc=5",
+      "source": "New York Post",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T17:00:00+00:00",
+      "title": "Google Now Asking For Users’ Video Selfies to Verify Their Identities - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94eDJteHB0MDl3dmtCLUN5WXktbVJES0NlTnFScXpLUDRQZk40UG9wZjBGYWg1SkZqa2E5eTllUWwzWDkyZnpKVnFvbXRFaXRybnB1WmNNMnROT3R2ZjRtZjZySFJIdjFCdnJkVF9QeTJSZEpFUTRUMkFR?oc=5",
+      "source": "Futurism",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T16:52:00+00:00",
+      "title": "Google’s Gemini hacked real companies during a cyber test linked to Israeli startup Irregular - calcalistech.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9abUpjT1NWNjBiSEZrbmNfeHVRd2JWamhMVUJJUURwZzc4UUZTU20wUy1pcXpvUTlOcjhRNF9Mc0tmb3gxdGs3RzVWNWdJdVhtMndZSklUR19uemJtcHFLZlphcHBwUDlN?oc=5",
+      "source": "calcalistech.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T16:45:00+00:00",
+      "title": "Opinion | Another own goal: The E.U. just made Google less useful for Europeans - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3lCc3pfeVVrTkVuemJRSkFoeXczdFliWmF1OWlQbFplZjd4dGctTlEtNnZGclkwNUphemc5NmRhdzI3ZkVrcm9RMU9zaWRUTFRPVndJOU5IVDczZVNzeXlRTm43QmlnWUdtTlFpSnc1Ty0yZDlfR2Fra2NLOVgtWXZBaUlyaEc0cUFldktYcTV5czN4N2VvV0FfVUNaRS1tRmxJSkhEMnd4UEZQM0FOV2N2UWkyUQ?oc=5",
+      "source": "The Washington Post",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T16:39:14+00:00",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - Bozeman Daily Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOM0VjTlQyQmZYR2gteGQ3eE5WbVIxWnNTVzM3WUczLVhOd2M4Vk9abHQxNzhmR0RNLXJxcjQwMVNRMmU5NTRxLUhVZFYxX3RucDk5RkpwcVk4Z3RNckNibTd4emV0Q0luY3NoNzlLVWJZdzhPSzhXbngwazVkQVo2THlkaE94ZWw5UVBfV0xSejl4UVdXSFFVUFRfNWtFaGJ4WlFUdjMzNXBDYVVDOTRUSzIxdGdoS2dDTldJbm53d1Y3cDA4VHRJYUd0VkRVaVUtM2txa3RpNkF6SFlyYlpjQXlwTE1fNjlqTmpSbXBEcHNQWXpBeFVEX1VZWm9DQURiOFFRV0pYcHpjcnJyaFB2X0JpeXpsajBH?oc=5",
+      "source": "Bozeman Daily Chronicle",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T16:39:14+00:00",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - CoastTV",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV1pQUUF0dE9xenBZM241aUsteUY1Z1ZYWTNzLXJpMTVfcjhsNTNoLUFzOTRnWXFmbmJVMENvaVg2aHlvTU0wSS1IbjdBWEl4aENzTVJLbTV0Rng4TFNTT1pkUkl0Sy1ibjhrSFg4bFk2NUdscktXQzVrQWdwVFZiWUZ0U2RzT21VU3dMa084R00wZmlkaXVOczVUYkdpNldIWU9EZDNZLUpHd3Y1Tl9GRlFrNU42b0hVanhWZEhJdG5nUEduLUhuNjZjcXNYb3N3akxhaTdTYWgybHFYd3hPMlZKZEFHMW1DMUoybmZ5WDRpT0FtTXQ3WHI2Zw?oc=5",
+      "source": "CoastTV",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T16:39:00+00:00",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - The Journal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORkFBM1UwY1RsS1NJSkFQYXdpTEJSb3Ntb3V1bm9xVmVLbmNNXzM2Nk43X0p1TkJyYUpQUFp5REZqS3pBb1Q0SnNyRDB3TE92S1pXUjV1bjl3TnJPZzhzYl8zWUkwWWxCc1pNbzUydC1vRU9CR2RXclFnb1NSUGR5MGptbkViRURISnY0dkxRX3E5UE02M3Y2YmRXS0xPQW5rTGlTWHZWWjdtcURwZDYyQlFmanNwWndRN1lvNEl3XzRRNWxjQTNiTi1tVDVmcWgwOTFLS25ya0JsM2lyWkRUUndaTDlIUDZVd3ZMS0Z0UzZHWV9aWjBaZmdiWHpENG1ueXpKcnpvQm0?oc=5",
+      "source": "The Journal Gazette",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T16:39:00+00:00",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
+      "source": "AP News",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T16:01:15+00:00",
+      "title": "Google Gemini Hacked Three Companies As Wall Street Misses The Risk - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkFnd2JfSVY0ckVQZnRvaDRlQjFkTU5iSHo1ZXEzMzM1Tjd1SnBIRldpaXlBZXRablZxck56OWxoeldPZ0pLaGdQQzVKMmxPUmhQem1DZDBnVG9GNnVXeUZCcGZIVU1zdi1Gak5hOVM3NWt0Y2R2VlNzdF9BT3ZraGRLenY4TFJ3aXZMNXNpVlZrNVRwVjVKVENxbUZXMHNGVDQ4MEhyYXU4b3F1V2M1QmswN25PYWhj?oc=5",
+      "source": "Forbes",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T15:48:47+00:00",
+      "title": "Google Teases Pixel 11 ‘Special Offer’ Before Imminent Sale - Currently.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0lHUEdlQmRtMzhaeS1CeHplWUpCaEJhcXVuYmNJYnp6NTBsdEUzX2hxWU5GTWtRMXpNY180Y2ZKRkJ0bWpIV2NPdmt6cGNvdTg5YnFSVTAxWHl3dnNZb2I1cFA0ZjRPV0VSckgwQjlMT1JRTWZENzYxQzF1RTdFMTBiT3M0dHRS?oc=5",
+      "source": "Currently.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T15:48:47+00:00",
+      "title": "Google Teases Pixel 11 ‘Special Offer’ Before Imminent Sale - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2NCMThHclVCNmlBY0J4NDRfU0xvcEZRckJ5LWlWQVJWTVozYnBuODVNalFvaWZZVkUxZVpsM1pMNnZVV25BQ3lwTzM1UVZ4bmNaSXNNaVhIUlNMaDVxOGQwb01Sb1JZNTdBYkh3NU5Tb2xfOW9PaHUxb1pjM0FFU2VwMkxOdks2LXQzdTRLYjhYbV83cy1nWm9iN3ZiOHRSQ190bnhGQ3dXaW13Uzd1QmQ4bw?oc=5",
+      "source": "Forbes",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T15:46:01+00:00",
+      "title": "DNA Has a Four-Letter Alphabet. Scientists Just Expanded It to Eight - SciTechDaily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGs0WWZXUEZHRnhJcHpWb0czR2tZVkNUWkgzNGJvYTAxYTVnMkd3U3BobVp5RGpKX1RYVERWM2c3ZnB6M3h5VUNtSDd4RHU0YkUyRVR2WFpKZUhOejlSVll5ZkwteFhTZHFOTlVzS2RxeEY2LXMxd3FOT1ZVUEhQV0F6WXVzc3dOVzBSbkV4d3lMREZCZ3Q2Vw?oc=5",
+      "source": "SciTechDaily",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T15:25:03+00:00",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcGpXTktURm1aS1ZPRmR2WjVjZlNhUlREcnU0dEVDRlFVckw0Y1g5OTVtZE5YMHVFRi1GSi1Dbmd6YWpDX2stbkQyeVJFcUJsbzJZVmFUREtFLTlBWWVjcUpoWS1RTG1iTGtFNldWWE1EN2tQTHJEUzkxWFBkQXVqX0hETlRTc1ZmMFpCcnpXOA?oc=5",
+      "source": "The Verge",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T15:13:03+00:00",
+      "title": "Google says its Gemini AI model hacked 3 other companies: reports - WJAR",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQYjQ2UzB6MzJnbG1PQnZUa0lpMGJlMWd6SXdMbl84V21RcC1BLS03UkxHN0FjLUlucEJlRE8wM05hSGdyUFcwWDN6TDkwbjc0LXg1em5WWGltbWliVlVfeWk0UGN3Y0tvV3cyOFk0cEZlX3RsQWJkQTlNdGFNS0IyS1hxZFZla3VIQ0VpM1ZjUzNvNWtnM0JSbHJXbll0aWUtTmx2NHVKTF96ZnppVVhkWk1hazA1aklnRWJjOW5yU3JaeHlVd1lUOVBFeDhELWpuTkJWb1dZWUpJTmpqTTFTazhPb0M4M0RuN3JlY3VVMTFCN0dfOUQ0d2xNNHliVFBfNUwzaEhPLUgyd3EzV3BIdmFGUk5VY2ZlOXg1QS1YU3ZJaGUzMk1INg?oc=5",
+      "source": "WJAR",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T15:00:10+00:00",
+      "title": "Samsung's AI privacy switch doesn't stop Google from collecting your data - Android Police",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYUJGbGlyQWVEeWs4Z3B2MUM0MzF0QVNyNzlLTzFwSXgxMHpPYThxbGp1dndZWjJLSEZvZkRzTlhvc1pIVXZZTndiakF2MldJaTV4MlJzQ1V4OUd5U25QQWlMelNKU2ZZS0xZYzI2cWNfZ3hrbl9DS3MzcmxQRWxWakh3UmpqbkRCWUU0a2hrWlFaMVM3ZmpzbWZIUmx4QQ?oc=5",
+      "source": "Android Police",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T14:50:00+00:00",
+      "title": "Warren Buffett Watched Alphabet's Stock Price Climb 9,000% Before He Decided to Invest. Here's Why He and Greg Abel Are Making It One of Berkshire Hathaway's Biggest Investments Now. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXpqdHp2eVlwa0ZOTEJVX0RGSnl6T0stM201WF8zekdSNWhqeXdId3FFbGZuVzE3NDc5ZS1BNDZUOXdDOEgwYWdmYmxIdWRhZHZZSHZnQ2tYekxMZzhIWjh4Z00xc3ZKQWZjVXRuRk00MklRbFJadTY5bG9PRlF6VmM1ZlR2cmlPNWU5N3JEaEZfU05mMHc4RWZHNHM0aHFDM3o5bzZB?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T14:44:56+00:00",
+      "title": "Google's Gemini AI kept trying passwords and hacked a real company - news.cgtn.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZl9xOFpzSUFxd1BxeGI3a3RQVHh4cE9XSXVsc0lzQmViYlpuSlZRdGh4bzBfUlBYZEc2M1hKYVJFNWJ6NDdLeFBtb2pIOXIya2ZuVWxCTlNSM1N5MnZUMFhOZGJGTkIwM1NwU0hMZEZfUXlORk9zd2lxSGdtZTRDLXVCSmNqUHlGQmFVMVVZSGg1cm8weUFmbUdMc1RXYzczM1d2ZGRFbWRtOHd6TnF0VFl1UFhqMTRlSDRpNVM4dVk?oc=5",
+      "source": "news.cgtn.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T14:32:00+00:00",
+      "title": "Is Google Chrome Safer To Use Than Microsoft Edge? - bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XTGI3QXk3UnN5dFdhUVJLVzQ5NTBfRTFqeTJoNGJTMFd6amVkTV8zM19TeHBteDBZa0l1MjgwVzJDN1owVk5QQW9rX3p3LWVxcjBRaEJkYnVybE92bnhzMl9UZkxiR2p4SnFaV0lOVFdyNDNyTXhDLTlQNWI?oc=5",
+      "source": "bgr.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T14:31:31+00:00",
+      "title": "Google says Gemini AI model hacked three companies in security test - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2ptSldFVkI3bVNhVzUwM2RkeFZpSUlLN3JYQXhRQkpGTDNCQ18zaXVXcVZsM1d3dDBfbTBSODJIRkpZcjFnUUg0Mk1QU2ZtdkN2dk5wUVBNMzBkZ3FySldMT1JEM2N2TV95cU5jN25SM0p5OVQwM0xGTm1aQUFlMW1DcDNQdGV2SHcw?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T14:19:51+00:00",
+      "title": "Google Gemini also Broke Out of Its Test Environment - Security Affairs",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdkNoYkh1c3Q5M202YVZEV0FvWVRPVGxndFRkR3hNMGpZT2I2N0JUSGlsZWZHVDFUM2R1cXBPRjFxbS1CZkhjS3lrRFN1eTFkWWloT1Q2VHNNOVVWSVVOUHFIbkNjT3g5VXVFQ3dTeEhaTjdXd0dleVhmVHRGcEh0MFdUZ1dTbnhwYjVTNDBqdzZaTm1hSDVhRnlEQdIBoAFBVV95cUxOc1hic1lOWTVoak1NUE1raHJ4QVV5aDlZNmxFVndqV1A4eTVPN19FNWhCNElfMDAycHNWbG12dktoS29WX1RuSGg1RFBqOFE3cENSVXNtZW1sQm9QYzdvRmVKMkRCNjdnT3lpWmY4dmM5TXRUaHFSbTJLcmVkVGZzdC10TXhfTWNFWWMxOHR1c0hua0lYbHhjcll6SlNuZEl2?oc=5",
+      "source": "Security Affairs",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T14:17:43+00:00",
+      "title": "Google says its Gemini AI hacked 3 other companies - Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONXI0X3lCNVJ6YmNENHJhdGdYZUJhbVlKaEJ3akFQSURLNWx0bHZTdGN6ejNPd0NMMUZKR0RoRFBLbjRSSEZDeFFfekpXRW9aV29jN0pmM2ZWeEoyNUZIa2txY2pWY3VGVHhwUGdCWnFQejh3MEFwTV92TUdFUFExcnVJQXhrai0yWjVlOFFR?oc=5",
+      "source": "Yahoo Tech",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T14:16:32+00:00",
+      "title": "Anthropic, OpenAI, Google, SpaceXAI Accused of Collusion - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmpicXZGTzNFSnBMTWplcFNUMERSWkdJbXhoOUVhTEtXNk9QdEZObjB6cUt1UzJIczQzUXdiNVlXV3JRY1NTV1hVVXZuZDFFRzdsbVRWV21PQUk5OFpEeWlzR0JlcTdnZ1dVVGtIcDhBbC1RM0MwTWNfRXBqbEVoWWQxZ2xIM28wMWZSUFFJSzl6U0hsQlpuZzdoY2dXTTZYWDdLRGxXWQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T13:59:22+00:00",
+      "title": "Google Gemini Becomes the Latest AI Found Hacking Real Companies - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZV9wS2s4eXpXR2FqQm10UUN5RjEtdno4YUtaS3d6ZlR3blFPcWhsNnhxUUZwcmVhQjBFNFBUY0FTQ0RKTS0wMlh0bFcwZGp1OVliRDVuVElNNlNXMU5adS1lSnlLOGZWWlkzQUgxR3BEWHVndHBlRVBWZGhubTN4TF91ekFkYk5HOU9MSTdYOHljX2lJTnc?oc=5",
+      "source": "PCMag",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T13:39:32+00:00",
+      "title": "Google's Gemini AI hacked three companies in security test - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xQ25WNU1mQW41eU9JajRkSzl3M3NNSVJ3dVM4TmRzZTByWm84clhCYWpXZzJuTGE0LWpBUERxWXNuQVhiSHhabGlBOGFrWVZNaVA0U21nbExmOW8?oc=5",
+      "source": "BBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T13:31:20+00:00",
+      "title": "Dance the Alphabet story time at NoBo Library branch and other Boulder events for Saturday - dailycamera.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3RSUmlZVUNCS2VvT2JPOF94bDZfSXBTa0Uxc1dpMXlCUnhsYnNhYkIxM3Uwa3RGZXBSS1VNYlI0d3NUbWpSVFNXQzU4TTN0dkgtR2s2ZkhvUnRnbGZ3WVlEdkFYNmJsc2FhRWk2bDZoVm9vYlkzNVA4VXJwYnY4akxnSE5xaVQ4Mk1wN2NMeGhQSmpuOTFZb1l2NzlFSjVzU3JESTB2SmVKNUNqd2ZVaDhpdUtpWU9mRzJtX2xMMVROemU2ckg0VjNR?oc=5",
+      "source": "dailycamera.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T13:30:10+00:00",
+      "title": "I abandoned Google Calendar's half-baked task system for an Android app that actually keeps me organized - Android Police",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTZXb2RuYnMtZW5RMjZ1U3Z2aS1GNktsUHpZZE9PRnpzaktXU3BzRUM1dGZGcDJBdkhMOEZycGFudXQtYll0Y05zUFd5RkhOdElQdVZlZFBWejI2QkZwZDNPN2ZSNWtYVGt3Ti05MVlpUHRQX0ptTThFZ3NkT214TUl1X09qQ3RpNnIwdmlHQ25DZ09pNk9IRkdOSlVDY204aWFsMU1GTU5XTnBm?oc=5",
+      "source": "Android Police",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T13:05:53+00:00",
+      "title": "Google Gemini Also Escaped Its Testing Environment And Hacked Three Companies - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObjFsMzdxLW8wdjRRdjhSZWw1cnBuQnBkMG1SdXMxUlVUUDltVDFJM1FpNm9uQlk0OE5Na3FuQjY0SW9Bamxianl3OTlYREFEMXVuWEFsQ0l1Y3pvMTVpaVNoZ2RFdm1BTDI3aGV2YVFnQmJfTFNydXhwc3pTVHRNcTVvYnNMSFU5d0xzNi1OcUl2aFlsQzBqVTRwRk1hbHc?oc=5",
+      "source": "Engadget",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T12:47:00+00:00",
+      "title": "Change This Google Maps Setting To Always See The Fastest Route - bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBla0pwUXJaLWVfR1Bha1BxckNSYW9iRmx5RUg2dmtFRWtnaU9PRkdwRTE1NHZBVGZ0LU9KWFpSVVZNRnZ2WDc0am90V2pEZ1pHdmZ0cmVUcElHb09NNVFzQ1VIUHhkdGhHYUFHUzJ4VGNPNVBja1kxS0Zn?oc=5",
+      "source": "bgr.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T12:33:07+00:00",
+      "title": "Explaining Google Discover - PPC Land",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5azBRMFVSNWM1SHQwcU5WanVRT1hZSTczVV8zcjJYOURFXzdwYVA4N0RiaU9zOHZISUNYLTNrQk41U2habXVkMw?oc=5",
+      "source": "PPC Land",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T12:30:42+00:00",
+      "title": "Google AI Payment Pilot, Search Profiles At 10,000 – SEO Pulse - searchenginejournal.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc2ZCVnI0Mk1iUFNRSUs0N2ZWREgyMXB4RkNzOXYyNktIUkY2UXBmOWtmNUMwcDBRNEZiQmNMR2JtM2lvdm1QeDhyRFNVVjRrTEFVVGVteGxDd2I3RGdkM1hrc2gwNUJ1MXd0T3JFVktCNmd3U2c5YmU3XzVzUFFaVWgzbDRqeWszWm9lYlBRR1FUZFdTYU80QUljTUZRanNMeXplRA?oc=5",
+      "source": "searchenginejournal.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T12:16:00+00:00",
+      "title": "Lawsuit accuses Anthropic, OpenAI, SpaceXAI, Google of AI pacing ‘collusion’ - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWWVIVFBBZXNMaUFydnNvNEFCMlFBWmFqUFBoRDZmZTh1UFpZSWVTVktMeUNCUUZpM2N1Y3lwTUtfc1lhMzJHX0tLZm9BRHVxMnB1OTRxUFpkWnZ3NHJDckNSRzJvdDY3WGFiajJkYm5BUGJtREpQelo0akwzTy0yWFlBdkFmTVYwWDM2TUtMbkxqUnlKaGttTFNYZ3NlM3VQTVZKREl0SW5zb0lHNmw0bXEyemdRNHI1NlHSAb8BQVVfeXFMTS1rUzBrNTdEZnNTWGdZeTNhNkZGd3BWemtLbnk4UjRQZ0FrSXhYNk84RnBrNnNLNWFDVWR1RUJsLU1lSjVESGVZdm5URy1PMGxUcnJpY2Y4LS1KSVA1T3YyblJTQXNVM210MkNxQ0FEZUxQWmRzeDRyal9YbXlmR2FHUmpmdlhhQzVHVWlIOUNLQ0dvYnRpaWxPSUJ3SzBGZFk1REUwNXEyS0pSRFFTUFRtY2Z2eHlaUl9MQUpaM3M?oc=5",
+      "source": "The Hill",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T11:48:07+00:00",
+      "title": "Google Discover test button sends readers to AI overview, not publisher - PPC Land",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGRxNUlPZWh5OEg2VV9KVi1hS1hQeTY5MHN4dlF3UmxCaGR3SnFoYm9rdjlyeV83czBIMS1QbEpBNVZ0RDJNNVdLSXkzS0hpZG5NeGhiM3J6c1dVc1hzVlA0U3hpTUk1ZXctT2xUMi1sTDlhN1o0dDlIQVltbVF6amlDWkV5U1JuZXNzZzdRTkUyQQ?oc=5",
+      "source": "PPC Land",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T11:47:00+00:00",
+      "title": "Is The Google Pixel 11 Pro Fold Worth Buying Over The Samsung Galaxy Z Fold 8? - bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUVycnZ2LWc4NDAzUDhrdzZXbmtiWHB5NXJBenhFZ2R2bHJ3WXlWRGxvTGR0ek9HUm9qRnRKcl9ha2tFQzY5bjl4cGg3N0tJV0dwbmtxdmd2LUI1U3RPMWZjVjB2M3JKWi1OOWRjbUdhTldXWU1RT3hOYUJ1TDVaZjhmSDBVblk?oc=5",
+      "source": "bgr.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T10:47:39+00:00",
+      "title": "Google's Gemini AI hacked 3 companies during testing - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXJYR2dwYkc1WE0yQk4xeXAyd084TGJfbnJpMVY2OWdEUl9oeWhheC1SYTdRNUhvTkM2OE5KM05xRnRudlJ6cC1uRnl6UFVMVEp3c1hnLXNFOEU1V2ptSnJlUy1fR2VNbGRlMmpGLUFld0FTQ1NnQmZlWnBSODRUUGprMG5kZzBKamdrS9IBjAFBVV95cUxNckdqM0VhZDJTQzFKbUZlQ21LVmpNREFuRGJPMVViUFhtQjEyd2lBclZVZG9Mb3FhdTBUUl95dVVXU3RnS1B4M2pxMm9yRUpiQmU5YWtFYWZsMmR6bFczR2JTeTJQVkpBODZod09TazJ6TzloZkdGTkY0U3VUdVFZeVA5aDFJQ1FTWk9ILQ?oc=5",
+      "source": "DW.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T09:29:00+00:00",
+      "title": "Google Gemini accessed protected systems of 3 real companies during artificial intelligence cybersecurity test - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRlVBX056RkFDRWd5OVRCMFBsNExBS0VOd19UY3pnRnhFcGd3dGxTQUJCdzV1elVFRkFOQTh3dDJPTlRnLXQ3UEUxYTFRdURXWUQ3SWJLVVpBNXBIcmNqdGF0bXYtMGhYNzVaMVFGdkhneXl1SUhsWDBOTVFZMEdiYm1hOU53RXRPY0JBOGRtd3VaY2RuSFpLT19peGc5ZVJiWk1wSE04WU1MY3l5ZVNR0gG0AUFVX3lxTE9ZcURZSEViQkExbGRlYkFCZFN3SmE3V2FkOEl5ZEt5cWRfeHViTUd5b0p5dktXMTVuS2wwRFVvNGJEckJKeG1GeWtSRmNleDl3U01GVXJudUphYUNjSDVQeWVRSWd1NUxKRnU1S2M5OTR5cFZJandNcEVGQ0s1U3BScHhZVl9nako5c2pRMWdPdmxHTlBVSjJLSlAxbjFsUEdtcVFmXzFkbmt2MTBfaUJ5R2RuSA?oc=5",
+      "source": "Fox Business",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T08:59:11+00:00",
+      "title": "Google's Gemini AI hacks three other companies during security test - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUNtRzVMekhGRUNEeEpJTkE3bkhiVU1Oa3hDdzY2bG92Z19MdWZ3bC1RZ1lMYjVIWmJfYlRRU0hQV3JJZml4MklVNDhNV1NqdzhUTUx1dnZmQUxvWU9GV0JQQjh2REtfNUUyclg4WVZuQnJac0JRb2lCaFNUSzg5eGcwVWhGdHRCTldESFRtd3RHTkprVi1WR1NDS3lwNmNyZzVRbA?oc=5",
+      "source": "Sky News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T07:51:00+00:00",
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONV9aTW53YlMzR1RyNVVnT01TWGJIM2xSbzcwUHI3aURlNlhIZ2NLUVV1Q2Jpb1hkeGFLcC1qTzdQRGV6OXBQNFIwRnZIR0s1TUM0VUpqMFcwTWtibm1qTE90NkJOb3NCTzFkS3FOaml1SzVvZ1M1OXU0VjNDSVc0R3BR?oc=5",
+      "source": "The Hacker News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T03:12:00+00:00",
+      "title": "Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidents - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObDczME9pUnhHR24xcnk3RFM4VnpQcENlT0FPWHlsdElISG1wNWU2R3JYZHU0anN0b0YtNUFzazBfWmVRNXlST0txdTRwbnB0RXNpdE5HUU9PUU5tNnFnVVdIRy1RaUNObnROU281al9hM3IwOUpVVTU5MHZJTzFheWNsM003cHZ2SzhpWmlWN18wSl9yNVR3OHNHWlFHZTJzbHFocXdEXzdQMG5tdmtpUWlpamlrOGFBS3pId1pkSQ?oc=5",
+      "source": "The Washington Post",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T02:27:00+00:00",
+      "title": "Google Gemini AI model hacks three other companies - kmbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxQktjNzhrMnJlcnJPbERkOVpuSVpadUE4aU9NS3RRYmMxUEVNaHNMVHVQOU15bW95Z2NvZ0pqaDZDRGlUeE12anIzOFRqTGIxZ2ctRThPc3pRTDlTR1B3ZDVySDNEcVUwU1R2RUJ4Mm1xTFVWU1pGMTV3?oc=5",
+      "source": "kmbc.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T02:01:37+00:00",
+      "title": "Google’s Gemini AI hacks 3 companies in security test, then stops - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWZPMlZuOVJIUXh6RWxndUJmdmVUVEhpa0E4NGZ1WWlQWHZ5alkxbmhwWmRRU1VLQjRSZEYzanA3M2Z1MXFoVDJiSFNCWGw4dWNuVXB0UEJFWDBBQ1FWMDhsVUVYWDZfTlRuUE1pYUVlOHpQTFdaX19vV3NpMTZDd2hwQWJubXc2WW83RWZTNDhYLTZDNGgwZGZyVjRIbGwxdnBQZE5Eb9IBrAFBVV95cUxPaUxhcXdfcWc1RUFfQWhiX2JNS0hhbGlMQ0s5VzRYV0NHdjNVRXJOSkVjQ0xYTlpfMndoeVZDdHVWWDNQMTg2YkhmUkNIY3VYV1dDTUFYaU1UU0E4SzU5eVR3UHMzR3Zla0NtUmxLaFo0QWcxeXhLMU1yeTJsbmlsSjBZNGJ5RWZJUVdYQWtMVVpDcDlPVGNwWFdXd0dhVmVWSVhNREcyTEhVR2FN?oc=5",
+      "source": "Al Jazeera",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T01:37:00+00:00",
+      "title": "Google says its AI model gained unauthorized access to three outside systems - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkUxYkZTMHVHckpBRjZWSHFGa1J0VnV3VlhxbWpPQ0xmVnVyS0JuVGV0eUZ2THBCRUxWZE5pd0tIMzdleFBLOW9GcWN6MFVnVFFwU1ZrWkNrUno5TVFZM0JCSGI2MFZ2WktfVk1XTmdodGJsV3VJQzJtRTRqekRfZ0dVRVl1S2x5d1ZoYndrMmRkeFY5cm9oSmZmR05qbmptN1dSZl9BOG80c3htVVIxUw?oc=5",
+      "source": "NBC News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T01:29:51+00:00",
+      "title": "Google’s Gemini hacked three companies in new AI safety incident - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWS1LS1lPeHExdWFnaXFfQmtzM0ZNWjVDbEhRTUxua1o5TXJwMk9ma1JManNHa2JTQldXU3FQc0ZoT29OYlp2MnhsbzdZdXhJT2YtUmpxODJMaWdDTGJlQ3NGam1XRHdWZmh3Q3RiN083el9jcDhPakxRdTFEdEw0NF9ZdTQ?oc=5",
+      "source": "Financial Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T01:04:00+00:00",
+      "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development - Politico",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RBMnFCQ3BDbW1ZM0VJa2lWbGd6cExDbVI5elZTSmdvTUlmSDZ1S3BzYnRLLU9LSlltWTZCektKb2FQSU1tX1FKWWFuWUs0Q1JiUndJRGpJc3pQbGlvN0J3WTBLTE5ycnFtN3Q4Z0FuWUNlLUxNYmlyazhranVVZGlBSS1aTmlXWWViT2sxaEgwZTh0bnRIQk1zRWMtbGNxNkZGYXlWVWE4c2ZBbHZxQzVLeXpQMTlqZFI1Wmhn?oc=5",
+      "source": "Politico",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T01:00:00+00:00",
+      "title": "Alphabet's Ad Business Got a Lift From a Key Antitrust Ruling, Helping End Google's Worst Losing Streak in Over a Decade. Is Sundar Pichai's Alphabet Stock a Buy Now? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnpJZDhSRC1yR19jYU9ZdXpYbkNxZHdOSlJuNkxfRTZVVnFRMGo3Vlc2cjh1RThyNjdka0R3RjItUlNwVzdzSkRfSVJaQ0VKb19zWmhMbk1PUzRTS2xrNXJ4UDRyTWI1T0lJWW9UUENISEVURUJhR3JTMlNLSlZQZkoyeEkyRFpmUzRjRzNMYnhxT2otdmdSaw?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T00:54:00+00:00",
+      "title": "Google says its Gemini AI model hacked three other companies - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85VF8ycUc0clZxaXpqd0pVQlROek9HT1pQZ3NVYzg1ekpCdHZocmZtRGZCMm5HOUdNejF3QlBoVjFnNEdZSFFRTnVLZWQ0d3hEcmY3Y3h1aWFoUHlWakRIbTRGNDZLLW5pSXljX2J6eXp1bWJxV2I3d01jSjA?oc=5",
+      "source": "The Guardian",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T00:50:00+00:00",
+      "title": "Google's Gemini becomes latest AI model to break out and hack computer systems - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSE5KMl90SzkycnBlRWtLSVAyYmtzTWxiNDdnUlpvbWx2MGI4TVBaRFFIRDB2X0Nnc3FTOUdUMDRHY2o3aG5EV3dILW1oS0lDYS05dXphNjN0RGxQQXg3QVJfTVdtLW9wV2lqUkVlT3NrZVBZanp6bHRwSkZpT1NsWnZtNEs4MFBKTlA1OE1HUU12NnlfdUtyd3k1RXlJSjRlVmVZb2xXblJCVm1NWVl0ZUdoa23SAboBQVVfeXFMTnp4LUJSVnR6TWs0eG54TU1ZMDNtYVl4OE9MbFVyaTJyVlNUdFpjNWdLN1FZWDVzUGU3Qm1KQ0xpZ0pfeXE1N1FSdFU1UVNTa2QxWnE3dmxLVUg3dE5wUTN3WG5wQ3NsMk1vdzhkT21pWnEzQmEwZDd3dmR1YXgtRzU1bV83TFBLeVBTYTNza0pVQlNlWmRqbTctaDhUZ1ZpR2VFb1dEWXE5THlRbldGLW5kWFJCekV4UGxR?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T00:21:36+00:00",
+      "title": "Google is the latest AI lab with a security testing mishap - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uQTYtMzFHOXh2N05IRTFBZks5VERQX05BLUs1T1c4eXhLNlBaWFc1NWttWnBzN3RMdkVCbzNWT2owNmNEN21vbDJNWDR1c3dsU3VKSEQyN0d2SkdnU25ILUxXcFcxQTBGZTBkVENocU5sMUstNkhkamJR?oc=5",
+      "source": "Axios",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T00:04:48+00:00",
+      "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5",
+      "source": "The New York Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "publishedAt": "2026-09-18T23:42:25+00:00",
+      "title": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmN1NFNDNEZ6STRONFMyMVR2T0ZVN0gtSkM5RjZGbllCX0VfMzgxdTdpNXlNNlAtMFB1RTdaT05TLTFIRmo5Wk1lakJQV01SeGswT0hBeVVZVmpSTDgxNzJhc2Z6dEJ1bGNyUlZiLVZUeFdqdnFwNEpzYnB3cHFqcFEzc0VCTmt5ZUw5RHNVN0VYUEhyYTRFdmZtZndmR01ndXRtX05UN1hWSFRWSlNRNVBLdw?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "publishedAt": "2026-09-18T22:48:42+00:00",
+      "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports - ca.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLTNiU3BHamlVNTc2cTRueHFsTjhmdllpU2dfWnRMLUZPLVhfakE1QlFaN1ZzeERranhyVk5tYmJfaFZwRWRCeTJXUk0xMUdEREp3OGM0Q3hnb3ZpNktDY3VsZGZCa0lDbWxqZEhSMDhPYTYyaFZ5OURTcm1DUXIwZEVLZFdMcmtndndYNQ?oc=5",
+      "source": "ca.finance.yahoo.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "publishedAt": "2026-09-18T22:25:00+00:00",
+      "title": "Gemini hacked three companies in first known breakout by Google's AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "publishedAt": "2026-09-18T22:10:00+00:00",
+      "title": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5",
+      "source": "WSJ",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "publishedAt": "2026-09-18T18:43:26+00:00",
+      "title": "Analyst Sets Jaw-Dropping Price Target on Alphabet Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTC04MkwxU3hMaVRTRmx3T2I5UXk2bVktQUJIRzJtZHRUNGpvMFVMSE9SME5MNDBUR0k5QkNQem50TTI1cVBySlJzaEpWdHNibWszWTdrNVhGT2Nhb01veWt5Y0g5MEpMYWU1TkdtS2FtNWZjVFlhaG9EdDVOZHhQcTBFNDRyMXNzT1RWemhybkRER0pWM2xQUE1TSHU?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "publishedAt": "2026-09-18T17:33:50+00:00",
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2ZzZVhmYzUzbWJSbkdnV1QtYnBxT2pwUy1xckI5NFVNRkRHMVUzU0FVcVNxbFEySjNnMlQ1LU9Kc2JLbXpLUmFHb0pqdWNRZVNuVng5Vk9uTmpXYW1NcUdkcXJjdjA1emw2Zk02d3lOdUFQNXo2OFlNZjBvUHl3XzJuNVRUZmJJMXlwbjdJVFhweG1VTUwxZ0dHREFUdGlMUTFuc2ZydGQ?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "publishedAt": "2026-09-18T16:00:00+00:00",
+      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnZtZmk4cDZFRm4xS0E4cS1rVUVWX2ZBZUZ0WkYtcXVrYnd1NWtGaG1BLVdsZThaa3c2cEx6LWFvZ2g2WEFkdFRGVGVHbkc2MmtLMmNRcWxqRUs2aHB0dlU5SGpESmMzSDAwcGp2NDlGUG9iUDZhVThOOVpfb3FZR0J5aXRPcjRRQWVIYTRQUzhMeVl6OVY0U3BhRWlhd0xEYWtzRG52bnNqTzQ?oc=5",
+      "source": "WIRED",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "publishedAt": "2026-09-18T15:36:53+00:00",
+      "title": "Why Alphabet Stock Popped This Morning - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWtPRzVpa24tSzJ5dTl5RnFVTTNQcDl1MHpHbC1fSUppOUJudm9kWThBVndPLWpaWlhabnRxRzBkX1ZPWHljcDF5TE9xX2dVbXVQU1pYNGVxTXZtSHdZOWhBd2hhUTEzZE5UUmpkNEpFQXBQNlM1dkM4N0w1M2publV2YktBT0ZCUkxPUk9iaXA4SWh5UVhQR3FzZ1JGT2s?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "publishedAt": "2026-09-18T14:18:24+00:00",
+      "title": "New experts join Google’s AI & Economy team - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOHJIemhiNW1UUFU5UTFCNWktTlAxUXROaGZiZC03NjlLeFdTVHYyS0JmQVVGVXBScThnaHlWMTllX2xnc0pXTkxLLUx2aExkeHZPcXVEREVucE5zZ1dBMkdCTFFVaDBlWXJRaEFLWjZQcGQ3RHc0VlVrREh0UE9xNDBDZHJyTTE3YmFzTmRiZTdiUQ?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "publishedAt": "2026-09-18T13:07:17+00:00",
+      "title": "Co-creating the future of fashion with Google - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUGRNc25HYi0xc0E5a29DQll6WGRIaUpqUWlRZjZ6SHc2S2h2R1dnb1ZpVEFUeFRyWGtfNm1fc2k0NTk0OTZqMnhmdkxQOVAtb2txTC04YWFiYnVqM3lnMmFHb2RiRkpkdDM3dmxPYjh5dUstbXQ4UFR3UHVEaUpPVVFtYw?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "publishedAt": "2026-09-18T09:00:00+00:00",
+      "title": "How Google is drafting AI chatbot laws around the country - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnRCNjZod1BNNFhUVzU4WWJfWW90VnE3VDc5Q08wQjYzTkp6M3ZBa21XQWR3Zk9HN0NBazZvWEUxZ3U2Y0JDNHBveTBZc1FqUG4zWkNEU3diXzdWTTB5NVlOY01jd0twUlYxN0g4VjNrVmNKd0oyVW9oYzFsdlRwR203dWVELVBO?oc=5",
+      "source": "NPR",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-17",
+      "publishedAt": "2026-09-17T23:21:17+00:00",
+      "title": "Google DeepMind launches institute to widen the AGI debate - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUlsdFN3V3lpNmQ1b0VyLWJsUHQ1VXdOQkVoTmp6dHFzc29fWmJOREs5bjFWMXB5bDUtbEpQc0RtWnc2dXNTbDdLUjRZWlk3LVp1RmFjbWl3TG5yQmEydGloUmFrOXZlY3pvX2xjMU9zYWdRdW9UU1Z2eG0wLWREcVFDbmZPRWxQR2dVU0dmTmdhR0ZOUDRBTA?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-17",
+      "publishedAt": "2026-09-17T20:48:28+00:00",
+      "title": "The future of practice: Enabling teachers to create learning interactives with generative UI - Google Research",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYUd4VHNzYnpwbDQ1MTc1SUpJbXVVcl94NWwtd3BibzJvZFc0SlJEQ3BweURFdnhiTlc3NXRNSTlaZXVHajdGcXBmTE52UlByY0FSWVQ5XzV2UDBSYWpUUUdiM1M3cDVaQ2tqMFlLZURnbS1zZ0lRWkRxeUFGX0oxWklQVnlmSmZUTDhtSXJIenpBTmpfekNUeDBOTzJzSFVLZnNESTFSV0lQUlk4ZGtwM1dfS1gyQ1hFemR0VnVn?oc=5",
+      "source": "Google Research",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-17",
+      "publishedAt": "2026-09-17T20:24:34+00:00",
+      "title": "Google announces new experimental \"CC\" AI agent for families - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGRYVVFzNUR1VHBOQ0RZR1BOdVlheVl4NmRlckpWNjVCc1pwWmk0d00wLTdQZ1RyLVpFbTNLLWFqemlCV1o4Q3dnRU9pTWJPUGlPdWlLcFlFWnI3Sm5UNnd3cUVjZlB1TGZvcGxOVEw1Nnd0QnpHSHBmU3pZQ3pldUVKSmVGaDQyZ0hwNEZyNjVPa2ZlaEtjM0FzOHhxZWs?oc=5",
+      "source": "Ars Technica",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-17",
+      "publishedAt": "2026-09-17T20:08:15+00:00",
+      "title": "Making global data easier to explore - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenNwVm9DX09YWXk5QkFvRmJseENwNVlZUUl0QkxpWjhTZjFraDl5WTFzVlExWHRNTF9lcDBjS2ZwRHI4X3dhcDh5U09na040enNySEZTZWRuM1gwRUhHNVBwQWI0ZzU1cXFKVFR6S2F3OHZGOVRPSHluNURFNHZxaHhJNkJUak1QMGFxXw?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-17",
+      "publishedAt": "2026-09-17T18:26:50+00:00",
+      "title": "The new CC, an AI agent built for families - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1Yyb2o3UElpUVd5dGExbzlPaDdpakhNZl9zamk4VHl6eV94bVRleTBWaWdlcXVadDJvUkJnSGxhSDkxSzJ0SWdUQ3VJWVF0MHRxWE9IQjdQYXBSeEIzY09FZU1RNEx2a1FEVncyNzJ4NHhKXy1IYVYzQmY5SjV1N3JDZldCcFlKZjZYWkh2QU5vSFBEYkJzYQ?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-16",
+      "publishedAt": "2026-09-16T17:00:00+00:00",
+      "title": "Your AI agents can now control your Google Home devices - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUMzdnhvVTFGWjdfOEtJbnpSczJadWo5TXlmOGRrRmh0eG5aQzVfUU1Bbnh3TklyVkZWcWdjVTl0enBSSWtObm9UcUt2YlpsOGlNa3pQU0lsM2t2YnBGVHB5UmJaTFQwal8zcml0N1FFSFN3eklhYTdSUzNfSEltZmdnNWsxdkFpZFlEMmctOVQyeEk5?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T20:01:43+00:00",
+      "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train - Google Research",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjYwVDI5dkh1QzFCaFhNbzlvRW9jRV9XMVhKSXhWblAwMy10VDBabFM4QkoxWDg4NGo3blNuSUlWbTA3M2RzdE5rTC1iVXRCUnN0X2RvczN2em5tUFVubkEyUFduQUdGeENObWNnRWFjX0FDZWoxeU5sM2xiMlREVXpDX2R2TDRKWDZWaFhDUUZfMFJtVkJlcEhuODZubmkzRjFXa1VVSGR3QnBmSjNoSjdJTWpLWm8?oc=5",
+      "source": "Google Research",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T17:07:08+00:00",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZTNBTjVVXzE2ZXpJdkoxcHo2cTNVVG1pZEs0dXhMU0d4dnNzcU5iZWppYkJMeVpCeWZVQ3dKSzVzZXNoeTltY3RJaXJtckQ2LXZnWlpGQ1V4Yi1HZUdjdFdPMUFua18weUpTazgweFp5YnlVTjB2RVJiTnVFMllTUThtQVlrT3liYnd1dmhfUGxiRHZOb3pub1dGR3pXbk9UMnZzV1hZdF96UUVLcTdWanZVc2YtaGtkZXNzY1ZCQQ?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T15:47:03+00:00",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEsxMFYwMkNyVXR5cjZjNERGREFUenN6YWNuOU5oTEpkZElOdlQxMVQ0Q0ZUMF9aNlFqSmNYWUVOZ2VHS0pBYmM3bnhFbjhHYXB1eUQ1TDg3NE55blEtdEU0eDZ2SXM2OVFWbHp3X05fdEtEazI0SmxhSmJ0R040WGRralJxTFZXQjlKV2tOT2pKamUtNmNmc1pFZTAxdzJRd3c?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T12:58:40+00:00",
+      "title": "Salesforce and Google Cloud Unify Infrastructure and Agents for One Connected AI Stack - Salesforce",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTkxYVjFxVjhPN2lTelZxMF9JN0ZweFkxaXVhLUhxM3oxV1FsRTVKTG41UC1FaWZsNUJvSnFGU2Rrc21OWXFDOUdGTmluUjdNaV9xMkpZaGdqNktYOFROSVBtbGFlZ2Vuc216d1N2MC01cmtiMEFkNUhwbDBicGl3T2xUUjJRaS1MSUJmVE1IUVZpdTEwTTFFSkZlYVE?oc=5",
+      "source": "Salesforce",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "title": "The Gemini app is now available for Windows - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDIzNzRDTUpFM3hvblJLcHFBX3B6YUV4OVR1Qmc5TnMwd1dfU1RleU9tdlNpb1R6NDBkRVdNX2lzX0lZd0ZER2l6UENTQkw1NEQ3N2xOOFBuLW5SWTFWMmFKdlJnc1RWdWhoaVpNWUFBU1l3Z3JQMjlYYUNOZXRHNFhOckYwR1ZUbXRpWA?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "title": "Switching password managers is easy and safe on Android - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3VXb0VONXhTa2l5bmZGWGxlcDdHNkhTckxjWk9CdXBhTjN0blhSZURBcTJ3N1p6U0tFNmI4VVVVcElsSnF0QXFIOThsLTN6YzhjNkx2RU8zR24tZzJxeWd5QklNQVFKbkRqMDN3RjNMa0hfTGZETlFYRkRXOFZWWW5iVU5yUFI0Z2p4bzR0UQ?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-09",
+      "publishedAt": "2026-09-09T07:00:00+00:00",
+      "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHFqVUxBYVJnaWdudjhTVVZoakRwSUZqbHVKcWFxNlNRT2JNTDdwQk0tT3ppYmxNczFwWXluNDhoVHh4UUR1TlZHSlpWaGpBdDZwMTZsdldCMXVkd0t3eXJWVEl4RmpUVGJ4aHBrT1RpZEt2Umw3dDBXTVQ5VDM2a3c0a1l6QlZVRmxuUzZqLUtaVlVNYUYxanAyZDVlVVpIdUFXbzFuYXhScmNleE9R?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-09",
+      "publishedAt": "2026-09-09T07:00:00+00:00",
+      "title": "Google Deepens Commitment to Finland with Two-Year €13 Billion investment in AI Infrastructure - Google Cloud Press Corner",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORUh0cVRJb2JtWWxYWUV3NF9CSFZweVdNNzFVeWRuV0MyX0xkaE51RkF6VXFjWXg4WWRWYmtWenpkQTZTVmdkbUZkWk5fUWpBOEdYVEZyS2Z0SnI3Rnl2SHRmUTBDLTBmeHhxTzUwb2R5OXg4aTRUd21QdWd2NFpuNTZDaHNoVTdRbjNZaHBPajlmNWhtUDZxTXJkQmF6WGFRWGN1VHFXckRFSlhaYmZKamdSMmtUT1J0VmU2ZzY1cnRpb1ZYWHFOQVhseFMzRjFBUWJLSXc0QVZnZ2QzN21j?oc=5",
+      "source": "Google Cloud Press Corner",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T07:00:00+00:00",
+      "title": "Use your voice to get more done in Gmail, Docs, and Keep - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1ladVJQOEdFbEpDekU2WDZmb21PYW5qSkZWNnNRRjNoV1JEM0NBUjQ3TDlfNVdQX1JlVEkxQUc5aW5zVFlMRFhZV3Q3WXczN0V0UWJjWjZ5UEFtakRlQ3V3LWt1TUg2RzVCb0ZOWDRWZkxqQ2lJNWhwZXQzZk4zdDkyU1ZIWWQxMFhub2N0Q3FLVU9sZXBrbg?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "publishedAt": "2026-09-03T07:00:00+00:00",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUW1VQ0hUakJ5T0M1UUk4RlBPcUtBUWtsSC0wX2xIS3B6bDNyOEJqNWxfaHVETTZTNEFCeWpOMWl0VDM1V1JWT2U5RE5qY3NrUDBjSlNGcF9IUEZCWEI0MXk0QzRseU9pYlFEUUF4MGZNOXN2VWFlMmdCV3R4WGRhTXZKNHZvRFJUdDk3aFJNdHJXRm90eEhJaHNnaWNzOW9VWEE?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPam1wVmhCUF9BYU11WDFMS1ZOSmlIQUpiTlF6a1RLQlpQZ0R0Y3M5M0hoTExZN0t5Q0FwbTZ5c3B3T2pzWFdZTnp1ZWVfdi1QZmdQeHlHcEFYUFhvbWw4TEdJamNqT3pYZnM3VGU1ckRYVXJWTzRyeXIzb21XT0NscnBqUXZzRW1HcS1lT05IODJOWGp2eC02bDd0ejRIRXRYTXMtbQ?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "title": "Proactive cyber defense for governments and enterprises - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORXRucWNOVHBkV0JpcUdWZGRIM1VGTWdJaVBEUlAzV1NtbFJLZXhUb1Q5ejVvV2NjdjI2TVI2MkI5ZkNiakZfeVpCaFJHZHgzRlVGZDY5LVJOa09CN1E5bnNBa0xIWFdNbEhpYjBXdDMzbmtNQXJOaFN2ajUxbkhDT0FoZWxRVUYtUmc?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-01",
+      "publishedAt": "2026-09-01T07:00:00+00:00",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBc1BuNXB2c040QnpmOXN1MjhKLW9lUzFnTXVlNGcteUROQlREOWxvRjByWkpyYk9mQU0zZlh0X0JCeGhuWlpQOV9sXzdnWjNxNzFlWEZVTC1XUmNZZV9ydm15eEpMQlNfUVRvb1BZSE4tUGhYVlF2S3E0dm9MRDQ?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-09-01",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-03",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-09",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-15",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-16",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-17",
+      "count": 5,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "count": 11,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "count": 50,
+      "pos": 0,
+      "neg": 17
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-09-01T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-02T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-03T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-09T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-10T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T12:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T17:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-15T20:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-16T17:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-17T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-17T20:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-17T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-18T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-18T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-18T14:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-18T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-18T16:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-18T17:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-18T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-18T22:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-18T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-19T00:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-19T01:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-19T02:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-19T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-19T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-19T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-19T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-19T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-19T11:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-19T12:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-19T13:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-19T14:00:00+00:00",
+      "count": 7,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-09-19T15:00:00+00:00",
+      "count": 6,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-19T16:00:00+00:00",
+      "count": 7,
+      "pos": 0,
+      "neg": 10
+    },
+    {
+      "datetime": "2026-09-19T17:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 2
+    }
+  ]
+}
