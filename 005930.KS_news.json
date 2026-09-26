@@ -1,0 +1,10 @@
+{
+  "ticker": "005930.KS",
+  "query": "삼성전자 OR \"Samsung Electronics\" OR 005930",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-09-26T19:46:38.158039+00:00",
+  "items": [],
+  "byDay": [],
+  "byHour": []
+}

@@ -1,0 +1,10 @@
+{
+  "ticker": "TSLA",
+  "query": "Tesla OR \"TSLA stock\" OR 테슬라",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-09-26T19:46:09.540735+00:00",
+  "items": [],
+  "byDay": [],
+  "byHour": []
+}

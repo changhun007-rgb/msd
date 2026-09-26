@@ -1,0 +1,10 @@
+{
+  "ticker": "GOOG",
+  "query": "Google OR Alphabet OR 구글",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-09-26T19:47:04.464358+00:00",
+  "items": [],
+  "byDay": [],
+  "byHour": []
+}

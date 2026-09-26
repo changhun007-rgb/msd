@@ -1,0 +1,10 @@
+{
+  "ticker": "AAPL",
+  "query": "\"Apple stock\" OR AAPL OR \"애플 주식\"",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-09-26T19:46:28.796503+00:00",
+  "items": [],
+  "byDay": [],
+  "byHour": []
+}
