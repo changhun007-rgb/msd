@@ -1,0 +1,937 @@
+{
+  "ticker": "TSLA",
+  "query": "Tesla OR \"TSLA stock\" OR 테슬라",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-10-03T12:26:21.645109+00:00",
+  "items": [
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T11:50:08+00:00",
+      "title": "Top 3 Founder Led Stocks To Watch In October 2026 - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2xZaTM5SVdsWUtycGZ4bDNkV2QwYTRlMzBkWk1maFJfblo3ZV80ckFIa2FodHRSRzZ5Z01NOEVYQ3puYU1UeTJjMWtRNl9oMUVwdFRsQktDWVd5QmVVSk1GLXlNX2RuWmExQ0YwdThydmZTNGFoM0c4UGhJUzBXNFZIT3p3b1J4U3k3RFlGTURvSTI5YU9oZEgwSzFOeWtaS04zWWpaeVlJcTMtUXBKclFtVGtrZXPSAbwBQVVfeXFMTUlzVS1jZlZEQXRRMmEyTWlqTXo0QjU1TXR4N3BUSzJPdzdyT191aXowR09NRDBqLXN5bG04b21QUU5nbGRDbDFSTVNabmRCUW5GTk1HOTdhTFBBYjA4QUxkNk1BMzNVdUsxSmpSaVdBdHZMRV9qSFV4aGhobkZhYm0xUTJXb25VZnh4bzZ1TnNiNXgtb2FhSGRpNFpoVjJDOGlzZmVxWDR4TFBCV2M2U0Z0Znl5d25JOFJocmg?oc=5",
+      "source": "Simply Wall Street",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T11:07:57+00:00",
+      "title": "Tesla Delivers 486,532 Vehicles And Deploys 13.7 GWh Of Energy Storage In Q3 2026 - Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTlcwOGZuRWhGaTQ4d3d2OGtHZzVoVmVrQU1sQS1PZUl5WTBUenMtcHprWmZuazRzRFg0Q2x3V21UU3RCMllQNVVKc1FrXy1RTnlaNEVZLXlWTFdFNVNVUFZTZmlzUlg5T1ZmSTZONGlWUTU3WmdIYThyeXR1Ql9SUUhmX050Ykc2TnVBTWxqX2RoSFhXdmZnMmJod0psRXZibFHSAacBQVVfeXFMTTJJRnFJVlpucXNsN3YwOU5JUlRyeG13X2pZX3plNWxWYkJ5RTFzeHl5SnljUVpkOVhpZzRVcTh0aTdFVjdCNmR4Z0VjRkNxNGo2TkFhTzFfWGhIdmIwTzJTMElBNkNadHNfQndGaXlrMGlST3d5LW1KM1FPZ0xmTWdBMUMzLXYtZWV3ZVp3RXg5Q3U5Vzh5emx5bFB1WDRuQmR5TlA1RXM?oc=5",
+      "source": "Pulse 2.0",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T11:00:01+00:00",
+      "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWY2WG5uVHNUbTI1YTB4NXBpbFYtRHA5QnpFbVZuVVJmS1JaMXBqbW40NlhPNzNsVWh2YmhTWFAtXzlRZFdiSkZaSm9kTGtlcC1LMHNVYXNvMkhaZENKX2VfUUE5emlXZDVRQ2tIWDFHQ01hbFNxS3RKUXhKaEQ1bWUxY2UzQjF5VzZJdXhDWG1QVFpLVllsRU8wb1B5WXlKaU1pd0xGa9IBrAFBVV95cUxPQ1B0Znp0dUZkMjZqLXdyQjRjMnJDOHFXQ3lXV1BmNEhIRHdXbWlFX2ZKM0w3ZGJKVzZyTDBhSHU3X1hkYzhRVm5EeXV2aWlzdEw4YnBTUERVLVFhbGJNVGlXSVl3alV2NGRwTVdrR0p5ZnktcXp6cW1FdFhZa3NPTU5pX3JxM3ZodUJDNENWZE5Zbjd4N3pOWC1MRVl2TzQzb1FQMFBIdGF1RjlF?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T10:47:00+00:00",
+      "title": "New Tesla Patent Reimagines Your Car's Roof As A Smart Air Conditioner - bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPVjZQRlJPWURRY29XbE1oTzdhVlg0Z3B3bnBiQmRLdkhvNHRad281cXNkb2lYdHNzbWYyaS1OTk84TzhHZDYzeTJ3VDN0M09VOWtfMlMzUTJ5ek9sZXp5NTlaTGRMRVNyTjhDRmRyQ2FuUVFw?oc=5",
+      "source": "bgr.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T10:17:00+00:00",
+      "title": "Tesla's FSD 14.3.10 hits downtown rush hour, and 'hurry mode' stays surprisingly patient - Yahoo Autos",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdi10SEJkc3BMNTl4LTNSWTBveGZ4ZmFKZGt2LTBZLXg3YVNlbU5KOGRPMF9kSWpVZGVIZVQ3SFV3RnFMaGxfQkJVQ1g5VG9YZG5objVEY2ZaMC01TEdrZGFSeTNHTng1WHY0MDg0NldjV1QwQ3ZxUFRsbXlLN0V2cTRTZ3FtYktIeGE5S3Rn?oc=5",
+      "source": "Yahoo Autos",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T09:30:00+00:00",
+      "title": "The Carmaker Vying With Tesla to Conquer the Robot Future - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXN0bFdQVkxUVUk5WFZSWElVbmtYUkdnSnZvdTY2NHJnRjZyOW9vdG12dlM3QjgyZG9IckJTcC1wMHF5anV5d3BsUm5McFNSaU9oaXo4elVZYmFCSnRkTEotekZkWUM2RUUtc29iNE1DUFQ3dEhzLTE5bllhczAwRjdkSlFJS1B2aU9RZ3hycTRxRjRXblJfMFZySnFQOHZyanVn?oc=5",
+      "source": "WSJ",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:09:41+00:00",
+      "title": "Dan Ives Says Tesla Could Have A ‘Golden Year’ In 2027 — Robotaxis, Optimus And Cybercab In Focus - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlZRb25FY01FcUE1QkFXODJ2cTFMMy1WaFVOQmxyWlpoY01XSWg2bU9UdmYzUjBkX0hqOXRjUDNqMmxpUUtiQW1HY2FfZkJDSjZ0ckpZWVhPenBtTnhkNWVHbC1XX1oxZkpJQ1JoSTBwWHJZR3Ridm4xZmhSTlpUbFpzNDhDNjRWemRnNUhQWEFoM05r?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:09:00+00:00",
+      "title": "Dan Ives Says Tesla’s Big AI Pivot Is Coming — ‘2027 Could Be A Golden Year’ - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmEzY2xneU9HV2taWlRhdHRudnBrNmhjX0FFYUx5UlcxYTktTlEtSkY4TzZvMy1HYVNMaC14cVpHNFV6TFhqZlJ2WXVjR2hNcHlQREdHUk9xZmpndDdPZS13SWNJRzNxTEtldXNqekVhRXQyNVBodzJuVU0yM1Y5OXhuLTlSU1hLWDBuRmNTQ2daSkUyNmRCUXllVThzdzRlN2Jvd3JZY0FCVzRrQUpvck4yRnlVSlpma3VDcEtsZ1BsMVJHWWQxSUxfS2NFd0U?oc=5",
+      "source": "Stocktwits",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T00:29:00+00:00",
+      "title": "Stocktwits Zero To Sixty — Tesla Deliveries Clear The Street, BYD Widens The Gap, Rivian Holds Forecast, Ford And GM EV Sales Fall Hard - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRENhQlN6dWEwZXYxUmd2aEtOOWxmUHNNTzdZei1wcnlEWUtNUmx6UW9NdUVOekwyOXZtNURRdF9XVkJrUkF5VWoyVlJfMl9BWEN0dExrN0NQV2pZUjFVYmRCYWxBcHc1bTFTblA3UjZaSGwwVC1vSlAxQ055NUJsRDdDekI4d0pNZHNyeEczTEJRY0JheG1md0NqMlQ4djAtSzNUa1Fn?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T00:24:00+00:00",
+      "title": "Tesla, Rivian Deliveries Beat Estimates: Analysts Explain Why TSLA Rallied While RIVN Fell - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWFsbU1VU3c0eVpxM2h5UXItNkctWlRwMmxnOEp3VUZrLWJ0ZGprQzhLeXdFM01wR0FGc2Q2UkktM1dYdy1qX1lLT3AyWUlyOHZLSXhqYVFSSkFUN2JWWkxZejBNeXZfNkdDMXVVRUJsRkR0UXZnRWVKb05JdUtxX1czRnE3WVVWMW8yU01Xend2VnFyWGJMVnh0eVJFM01rcVBUOXRR?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T00:13:15+00:00",
+      "title": "Tesla says fixes on Full Self-Driving’s two biggest issues are on the way - Teslarati",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSzROSUl3Skg2ejBPT0xpQzVYMTdwSVBCMjUyYk55cWNfTGVqTU41TFVnOVFMdTNmdEhJYmRzcTZvc0dteFJkeXpRbXpPdGxwYXMyX0toUlpuakFoSzF5VzRtVTBMM2VZdFVQRlFaUWpRV3p6NWZCeGlXRlZlRk1KSmhHVG54dnNWTUljOFVFYkJlbTNuZXc?oc=5",
+      "source": "Teslarati",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T00:06:00+00:00",
+      "title": "Why Tesla (TSLA) Stock Is Trading Up Today - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOTVTbXdLSUNoMjlmak1iN3RYZnBKVGhVdW54aGdHX29hMjZEb1JYYmQwSEprX1BxdFd4dGZmdkE1NVFtcUpvQkthVUVpOEx6b2JRNEFnS2oyVUxkSG1UdGVjNlJBOHU1WkRxV0V6YkNTX2dWdVNJbGw2TUVSUVlVc0lYd3E3bXpGVXY1eHNldFRIdm00NmNTWQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T00:04:42+00:00",
+      "title": "Chip-Led Rally Lifts Nasdaq; Tesla Jumps 4.65% - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZzlEVEhJX09ZUFVJTGRSeTFUWlVRc3JFaDBmLUpUaDNqNGtXVGdUbm96OEdSNmJjY1NCSVN0OG5sWG9HWXdiejIzLTlWY3JtRjlyc2RzLTV3NTdNN0RKalZVUW5aNGYyMFFGZGhpTV9BTzRjOXhqU2lORjNEZDA2S0JTaWx3TDJvVmt5Y1JQZ3NpUkVsSVJFLW1ubmR4QQ?oc=5",
+      "source": "Moomoo",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T22:29:00+00:00",
+      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTk1OFU1SHk2Z2daZzY2dlhmX09NbHZhSHFsREVidjhLX3pGRVUxQTh1SlRqWFRsTGJycXhydTRYalNuWjZUMlc2ZzdiUFBjR3BsaVZXNlFYOGNkcHJmTnpRUkhYU2FvVVNLaVhlWi1UWnBDMUEwUUh6TW03dWdtOHFvUjBrQ0ZoaVFOQkcyVklEOXE4OVVWb2ttLUU1bnhBalVpX0tTRUpucjVEeEo2a2p1R1Q?oc=5",
+      "source": "MarketWatch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T22:00:00+00:00",
+      "title": "Tesla Q3 deliveries better-than-expected, stock jumps on news - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2QzZ3FHRENqdWZpOHgxZ0VXXzBQYWVjZmxYVmxrT1NSbFdsNER3SjBrWmlWZGVrTkZZaDN0VzVzQV9JTXZpck9VOC1YLUN1ckhGYnhoVDduVGU4bWc5ZkYwS0JaVm1lQ2VjOWlSaXc4ZEZPQmFMc19RQUdKay1fekd1MUhrM0NwMmNtc1ZHSF9fekJzMEFhWWRiS1ctVXh5dnNpZg?oc=5",
+      "source": "CNBC",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T21:31:28+00:00",
+      "title": "Stock Market Today, Oct. 2: Tesla Rises on Q3 Delivery Beat - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeTkwbkJNTEtrZWpCTDRCc0c3d3o3MTRnZE40ajA1QXdOeFBPYmxRcnExRU9uVTFHTHdZSmVMZmFvMjJlQ0V1ZTRTS2pZUnB4VVdhbnd1cmRYTXpYbnRXbDV5MVllSVRQX1ZFWEpHdG5ocUlLbnMtc2EzejRVamVWdFIxRnJpOU1OQlhldGRfX3JOVEE?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T21:10:51+00:00",
+      "title": "Avanci, InterDigital Say Tesla Can't Demand 5G Pool License - Law360",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnJQMU9vZ0xoVWxrVk1yUVptOXRrekRHM19vSE1fQnhQNl9WV2tJQ3RpNW5pdVB6Rl9BVW5VVlEyS05oZ01wWU5PRFd2emg4WTc0dDYtLVpHZkxqNmozNUhuSTNXWldpLURudWM2MjYzYU1OTXJtOG00WHJGZU00SEVmWDQ2NzJRQ2hRT05EUzJYYWVicDhoLUExRUphVTDSAVZBVV95cUxQSlB6RTgtZGU0cU12cE9yVkdxVWdad2xJaWRRVEJpZlZFdEZKZTBPeXV0VVNJdldTNnhwR2lCVXdHUkxPZzF3azVGS1N0aGNLRjVNMTVuQQ?oc=5",
+      "source": "Law360",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T20:48:00+00:00",
+      "title": "Tesla Updates Model 3/Y in U.S. With 16\" Screen, Faster 0-60 & More - Not a Tesla App",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTHhhQ3JHOWtfc0pXTjd4LVU3ZkJDYXctZ09FalM3dzdoVXhYdVpLX1lhRXFURGoyMjVMTWxSYXJHdUI2dU1OMGdTSlpGbzFsV3Y3Mmg5Sm1mLVRYN0N1QmlaOVE0bHUxZGlUZ1NZRndxdUE5bEJLNGk5TWtYTmdpMmZjLWkxU2YwMm91bm9aRVJFNzB3cF9MbWNxaUlKY2VS?oc=5",
+      "source": "Not a Tesla App",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T20:30:00+00:00",
+      "title": "Tesla Just Lined Up $30 Billion in Credit: What It Means for AI, Capex, and the Investment Case - fool.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc0NOT3QzSnJBZDZueXNaUXluU2dFNUNUaEJmMXdlbUxEMU5mU0J5SzlIVFpFZTYtQzdMSmF1a2diVnJXZ2V4b3Y4VlJDc1J0WE0tZGlWdVlUeElhS0RNQUZKOVRjMUNLRjVOUDNaVVFBVUplN3NsRnZKanZhd0lXMWhTZjM4cGJEMko0ZzJkVWp6bzYzZFFFTA?oc=5",
+      "source": "fool.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T20:20:00+00:00",
+      "title": "Nvidia, Tesla, Rivian, On Semi, Seagate, HPE, Nike, and More Stocks That Explain Today’s Market - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mNkFMUU9BdlVkRFlrYk5BbnhXVl9ydGZMZl84a1FyV3BUQVRzbVoxZVpxTGt5WnFBQml2c09OY1lqZmswbmZ4WVRxb3pra1p1eE1RRkNacUV1YWMybEZoWkdwREE?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T20:16:03+00:00",
+      "title": "Tesla Upgrades the Model 3 with a Larger Touchscreen, More Range, and Quicker Acceleration - Car and Driver",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONDRIckRFYVNNSVREOGVrZmFMR2lMOF9KLWpOY2g1emJDN0QyMHQ3YmJEWlNZX3JwUEFNRmVXX1FoQnlTM3NlWW1tbHRIOEpibDlHd0E1UlpTNGozWTE5RVhCTzJBajhwU1NzQ2NFcXNBa05ub2haNjBUSFRVdzAzMU8zdGtERU96RHBOZFFiS19GQQ?oc=5",
+      "source": "Car and Driver",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T19:57:51+00:00",
+      "title": "Tesla Stock Jumps After Massive Operational Victory - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVTZkdGlUV0plb2lvaHF6c2dXOVhkZVhSS2NZQ1lUeDhLTjNZSC1aVjZfNURfZmdnT2Vmd2JaLW5uSEhPeV9oTXlrdnc4RXR6Y2tEWm1LSjc0WF95b0FVWS1uNEhCUmNoT2U0YmxEZ3Rnbm1LeHNLQlR1TWNYN0w2TnlLblB2U1Q3cjY5S21odWVCZ2lQLXBlU1pTTDJVcXAyUEtIbA?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T19:34:16+00:00",
+      "title": "Dan Ives on Tesla stocks: A big step in the right direction - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2JEZFBJb1hLT3o1d0VBTDVCMWZVbjFtQl90TklrQXBZSVplR1l2ekppX1psSWdYQXVUTTZ4Sk9INGsyNEtrQm9aMlRpMmsyQUdwMUxBUElycHdDcEhmNjFUckxKRFFtazlYNE1KQjc0WTU1OVZIdmx4RFpHNEI2RmFjT2tsSUpqZW5jbEdOWjQ0Ylp2TENrZHlfOUFiTjhiRDJJ?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T19:31:38+00:00",
+      "title": "Buy, Hold, or Fade Tesla Stock After Its Q3 Delivery Beat? - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWi05NDBHOHlrTWFOYjVET2hFNlZ5MDYwMnlNMndwVkZDT1hTeW5QSXRnUFZRcnRZU0dXLUdSOEJmNTdtb1ZaNExraXBqOWtGQWdyQ1BuUFA4YXRKSklNNWtDdHFvNnJVVTJDTm13NGlNT1RFVFNQTXo5czBySkFkbXhJZ2FXQllpc0VURzhlcGtsYWVOV0dWZTVkRVI?oc=5",
+      "source": "Zacks Investment Research",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T19:11:00+00:00",
+      "title": "Tesla FSD to Get Navigation Improvements and Pothole Detection - Not a Tesla App",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkN1UW5mX2g2X0NDTC1iSkdQOXlaOERCeFQ2MzdSTEk3aHRUV0pNVHd3Yms0T1ZzVkh0c2tYV2hHcnJ3RlV5MmFGRGJRZzFsSkpNVmszVjFOS2VMZTU4ejVINTZpMC04YVE2bEJOWktkZHQ3MVhPY2x4WGJMZFFIV0VfMmtMYmtvT0g1R3Q4cC1lNmpxeTR5anIyaEdwSFZ5VndZ?oc=5",
+      "source": "Not a Tesla App",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T19:05:32+00:00",
+      "title": "Dear Tesla Stock Fans, Mark Your Calendars for October 15 - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNenZzMnNzNy14NTNwZVo4SzZRaGZpTFRzaExVTTJxd201bGFyUDlpYmVOZWd6TmFubnVVSWd4UmlHaUZsZVYxOUI0UHNlVDA0clUyY2huQ09Da2stREpabmZ1RWpOQW5hRUQtQWxYT0Zndlg5WWxSN3hYOURUQUlDS3AwQ1ZQalNjdVFiRm9UaFEtUFVoYUVsLTdrcUVscW9uMWc?oc=5",
+      "source": "Barchart.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T18:57:50+00:00",
+      "title": "Former Tesla President Says Car Sales Are Funding the Longer Road to Robots and Cybercabs - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXFicWswYjJnU3UyZ3A5YktOb0ozenE3anRFRDMyd1l6VUpSQURZUUFlSjcyYlNfUVFnQ2hJSV9wbXRRYlYyM1ZtMUV6UDFEM3JtY0czVkoySGtJTVB0U3MzOGZjR2dBeFdoZXQyMWY1ZndMWHNrYkNDS2JlTUxFWWpQZ2ZzdmJUWVhaSXkzanY3d1huVnhBclVLN2M?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T18:28:10+00:00",
+      "title": "Musk Gets $61 Billion Richer On Friday, Nearing $1 Trillion Again - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPX014UWY0UDRITHZXaHd2TDllOHV6WGdMS1llYlFjczgyZ3R6aHhTUl9RRDJ6M1RkZnhwNFlod0ZPZmM2NlFydkI0aU1yalI0a3h2aEo5dXpyUHUxV29KRXFRNF9XY2ZrRDhkeHN6RFlFRlVPRHdOQ1B2V2dDeF9KMlZkSld4Rmx3RDg2SFpudHZoUm45dmtCekw4Wi0yUEJITl9iNERidl9vV1l1UUdpOXptamRuajU5Zmo5VDlPOWFzWjE4Y0pzbXloNnFONnJDOE1QclBMaUVnV2pfZFowbml2VzhTMWNwcE1EdlplWXlDVzg?oc=5",
+      "source": "Forbes",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T18:25:00+00:00",
+      "title": "Tesla Q3 Deliveries Top Expectations; The Stock Is Rising - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUzdHU2lQU2hYbmhzN0ZRRVdwTHltRGIzUHl3dVVLLTU5dGczbFE1Rmt0bWpNZzg2NXVmZ0p2MFMzVjlFRkI5a3F1clRRNW1haEF1cHl2MnRlbmVWbzJzZWN3QzVya1dDWUF0Wk5hd2JhbVI0N2xHOXZpdW84enRvNTgzU2thSmR2SmhpVnk0bw?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T18:08:18+00:00",
+      "title": "The Dots Are Connecting for an Eventual Tesla-SpaceX Merger - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGpMVW9TQTZXaHB4Wl9wTm4tTEg5ZlJ4OXhHVEpoZVV4NEFqaTVRdHRpQWEyTTFKM0tRak51blRlTUtJTVN2aXBEYjJIcWVvYmk2ajRWX0lTLXY4XzI4ZWZXUTFaMEczNlQ1eklGWXRCR3BCMnVoUTBUUDV3OGtvc21veFVTMDQ0WVItQ19DV1lGejlEeXByUmxFQXV5WVpRNWM1Yg?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T17:50:00+00:00",
+      "title": "Tesla Delivered 486,532 Vehicles in Q3. Here’s Why the Real Test Could Come on Oct. 21. - fool.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbi1kNVo4QS15ZFBwT0xnbDEwRnN6Rm9ldUJYOUJKVWJvdHBRMEhNVkNWd0VhMFdYWVNzdW1VV04waklMWVU0MmFWSDV0U3k0d0dWcHcyVWU4bDMxXzkybS1uUG1pOTNySGl0TThETktUN29JOU5pQ1RuSGN3aDd1NGdOdDJ4cUpRMGNkV2FWOWhla1ctRzJTT1F3QjRqQ0t4LU00WllTOFhUV3ZBeFBkSkVIR0pMTnRQbkN4bHZXRUtfaWs?oc=5",
+      "source": "fool.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T17:48:27+00:00",
+      "title": "Tesla deliveries fall 2% in Q3 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUxHeHJuSnI3S01xSXV3UFJQVm1FTDk4TkZvQUphMW5mcXpkRU0tb3F4S3prNVJMb2VkQ0lGUy1YNkxJTzA3MUtXa3B3cmMwRjh3dlZjNzRENXpfalEzX0dHby1ZY3VtTVpqSnZsM1puUTF6UW5BcUZvWXQyY0x6cU1iZnp1NFROU09XeUpnU3JQUzdFQ1E?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T17:35:34+00:00",
+      "title": "Onboard Footage Captured a 175MPH Tire Blowout in a Tesla Model S on German Autobahn - Yahoo Autos",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVFJJTXpDU2xhQnJqZU80T0l4dzFoNDBmLXVtWThRV0lmVVJFT19sTzhwQVdnODFNV0JmUkF2VWJHd0JnYURWb3VUdV85WlNNSDZ0d2VaS0VfV1I2WS1ralloV1pEQzJqVC13cjdVZmFHQ0UtUjhjbVRtQ0JBN201QXZXcFJRazBmbXFERGJhZjhFMDVlZTZSSDdrYlJhdXY3U21tWGFB?oc=5",
+      "source": "Yahoo Autos",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T17:19:46+00:00",
+      "title": "Tesla: Shares Rise on Third-Quarter Deliveries Ahead of Consensus Estimates - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTWRjM19YZm9PZHpaZXhXeXY1dFVkSWtWeS1DeWVzNVVGMlFpT3lRblg0TlJMSTBISXQwSGdxQVA0WjJzeE0wSmFHR25UOGFYSk5YUmd5YmpRZUZzNTVsVGU2WEhSX2syZmJnY1RQQjhMN0psenFKZ3R1d0F3U29fcmZOZW9qcldFWGxqY2lIc205OWdzRlJNNHJRYXNvczF1RV83bFlB?oc=5",
+      "source": "Morningstar",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T17:10:01+00:00",
+      "title": "Tesla Delivered 486,532 Vehicles in Q3. Here’s Why the Real Test Could Come on Oct. 21. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcTNyRGxfZnFlUExUOVRYaWFRc0pCTmt6V2p2bmJURS1rLThFTDhmaC1aUFZhdnZHNzYwWVBLdHMwdk9XcUNxNkJydlZOcTNmZmxJOHZxTkRYUU1PbVZYU08wbmcwS25RRzR5NlRXSG81NFZNUU1KUWFNckt6bHhidkdBZmprcGU5bGxOaUhncjQxX0VtSnNVUm9xb2xyQQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T17:03:14+00:00",
+      "title": "Tesla Gets Model 3 Sales Boost in Canada After Carney’s China Deal - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYlZkNnk4Z19oU1pXYlhPVU93dWdSSzBqaEFRQVNfQjFOVTlieTVCMVZsLXNWdUNQcFpQX1ZWOWI1QnpIVGRjRzh2WUNOQ2RyWVJWU1NXUnJIeHdSUnVIbFF0VzY0WFdIQVJkdkNZb1Z4cnZLVDcwT1N0cWFPSnV1dnR4eGZKMEZzMlFCVno0aXo0SWxXM3BBN0l4Y3ctaS00bFh0N0gtX0w4MGNBc2JBdnEyb0owMThLZ0twb1VnMA?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T17:00:29+00:00",
+      "title": "Tesla Stock Could Be in for a Massive Move. Here’s My 2027 Price Prediction - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV0JBYi0yckZxOUktWi1lQmtnRzh6c3BqejVnZnQ5T3o0MFAyNlFVYVpUZzREcFZjUkdMdHNrVjRaME1JZ0cwVkpyd3ZxQmRiRGpxdEpyZjQ3c0UzdkNSWm9fekVOajRrbnh6ejIzY2cxMHF4bWlsUzFqZ3p4Wnp5cm1LT3h5QURGZk1DRjhxMURiM2xNZFR6UHZ5SQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T17:00:00+00:00",
+      "title": "Tesla Stock Could Be in for a Massive Move. Here’s My 2027 Price Prediction - 247wallst.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeU9ZUE1HSVBoVjFLLThqRFh2dzFqTHh5QlhPOFBQV3FuaVpFT3ZOQ2c5bHJVTkNBWEhONGZQaTBxNThfaXVNbzB1Z3FWb1pUbnBOWDFYYi1tUVVoU3JPaTRBSEY0RUlLMkJzYi16Rmltdl9qU0xuQXZGcjVPQjVCNmExR3hTLUlXWVpwRllxaW1RZ013LTV6U1JWRUFIcTFrRFNpM2tyZk5rR1FUanhWLTRhZjN0M3BB?oc=5",
+      "source": "247wallst.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T16:55:30+00:00",
+      "title": "EV sales rebound as Tesla and Rivian top expectations - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jOFJDNnMxR1F2MmozTmp5NXhtVU5TdEpYWVFUT0NtOUhKUGlwQWJaOFRvUHc1YmE1c3A0Q1ZkX0QyRFdCRUlZdFRGa3hfbUdtZ0JQWGcweG8wYno2cmstM2N5RjdxN2pjdVVBLTVHREp2VmVLVnc?oc=5",
+      "source": "Axios",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T16:43:49+00:00",
+      "title": "Tesla shares jump after global car sales top estimates - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ0t2Wjd2WkdUOENxRXBxZEhIZXI5MGx1TkZFeGxtel80MHZ4cEFOVHVyaDFZUUoybVR0TzdvdmJZNHlBT2NxVG5jVUFOcEN0Mlp3cVNoOGxtUl82N3RibW1UMmx5Q21lZlNMeVFWb3kwMGJwM25WQzdLQnliMVptdEtzLUpoSUl6Q3RqMklIck10eVhkTko5RQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T16:41:00+00:00",
+      "title": "Tesla shares rise as Q3 deliveries beat production - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcE5LTW4yVFVjU3U2Mk9XOFU4MFNaWFVYMWJDeGZuNXpxbWlfTDRMNkFyUEtkbHhNbk9qQ25PVTE5TmJlMDhfUlJobGN5clpLaUdFbUJEVnlpQTl5VXRlY05wdURLZldNQVhXRnhUdFEtWWFRdHBmX2JydDhRWVFnWUt5NjkwdlU?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T16:31:35+00:00",
+      "title": "Why Tesla Stock Jumped Today - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc0VncEFrajFXazAxSE5jaTFCT2tHc1ZjVFpUMGNtNl8zd2Z4Sl9mZElzWUxVWEEzcmJaYjRld0N1WlE1aWNIMGtQUVNJa1hmbV9LckRFbDlqZEJoUnhZYU54dXJMNXgxWjZvMHhTVWY2NVZnMXRndnhMb2J2U256TjZ1UmRadkJIN2o0Y1habjNLRjFYT1piOQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T16:17:07+00:00",
+      "title": "Tesla Stock Surges 5% After Company Reports Better-Than-Expected Q3 Deliveries - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdk16d1lZalRUWFJfbzdKZXlwaUlhdmRNaWx2eHFHcmlUVThqQ1ltWEd0UVdjeEFEQVpFSUZfN3ZFQ2NycFdkOTBkQ2VEXzB3T2RUWENYQVd0Q2gyNWc2cHVnZ0JpSWhrbmZ4U1JtczROS2ZHMGxlbVpVcjhYSE9vR09pV2pZdWN0QW5XY0V0bWR0d3ZVN21xMkstYmo3eFhMTlJoVFhUMGJqVnR4OHJVT2lDa1lFb2FEd0p1VUFfd1FLbUZLU0hDcg?oc=5",
+      "source": "Forbes",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T16:05:26+00:00",
+      "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3 - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0FtMF9xUTUzUmMtTmZqZExKRFNRT2tpbHdCa1cyTHNhZjdjdmhCa01QUl9Fc3FNNldXQUxMX0N2aE1YY3JMTTFhMklaQXZWcUQ4MDFfaFRBUTk4U0RWNGVRb3M2bkliTWxlcU1yanUtTVZ2TUFRelpydVNtTXo1RzZHSnV1NGJMNVZqT3g4TXZXaGc?oc=5",
+      "source": "Ars Technica",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T15:57:59+00:00",
+      "title": "Tesla Shares Rise as Third-Quarter Deliveries Exceed Expectations - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaGdVckNNSkVlV1FSUjBJOEM1TXBfN3hScG80bzlQRENfNDZVbEpNQ3habDU1VUY0ZmpiMU53akhEam1COXZ1amFLWGR6ZWJ0Y0gxLUlTcGxUNk5vRVRCSXdUcUlndHJKY3V0enBaRjVqTUxuUHd4NEVBWU1QRFdieUJUcjJnNjh0RlJkU2g2ZDcwa2tnTFRFc21Lc18?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T15:54:00+00:00",
+      "title": "Tesla Will Now Let You Drive Away From A Supercharger In An Emergency - InsideEVs",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12YVNZMXhkME9xQkt2ejBVN2NXeHc5cXpLemE4bk9uQ1NJbFhLemw4NEZvLUFNTlpMRnpaV0xzcGFjcUY5S01IX0RlcFhCWXdrN0EyQ3FSTDZIZkpDQjVEQlZBVFZEVjdTSDZzeU1UeTJMZ0lxMTZqN1FCTEtMRFk?oc=5",
+      "source": "InsideEVs",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T15:39:00+00:00",
+      "title": "Stock Market Finishes Strong, Yields Off Highs; Micron, Meta, Nvidia, Tesla In Focus: Weekly Review - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT19UNWZHMDltSVhsUkVxSGhING9vRzJldUVwMDI3ZWRHc09xLXdOTlJ0clRhRmlXRzJOTWtNQk50cEN6cE4zU3R0emJ0RWstQzRIcXN4SGx6M3I2SVZzcGVmZ1JURVdWa3c2LWRtNC1kY1NtekRoNVdWYjVWTG5PUFNDbGlDU2tvNjFSR05kTmswT3FhcWsySmVmZ3A5VzNtN2c?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T15:36:23+00:00",
+      "title": "Tesla Stock Jumps After Deliveries Top Estimates - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWwtU19PVVJ0RUdCaGlRMVprUTZQaWRHMlE3SGQ5WjZCVmRCbmdWZDE1My03Yzdyc2c3T3h1d0JPVmhqNkVLNDExUXZnaDlTV3lvUDBSWmlVLUY3Z21DQ2tadnFWRDdBSjVPcF83ZkpZUWY3TXJrcmhWQW1oTUZyeFBXMmFudENjWDNZejBMclpLU0FMZlE3Z0JrYUNULXpsWjU5dF9nY18?oc=5",
+      "source": "Investopedia",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T15:19:55+00:00",
+      "title": "Self-driving is key to Tesla's growth, says former president Jon McNeill - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUp0WWNOaVVmS2d1bGs5M3JVTWdQeFVtanVFQW1xcWVkYTI0Vi1aRzZHNzRxcGlDSlY0TmtUeWNoUFZCR1k4Q2lxZjVpdUxsNFlHQkdYQ0NueV9rdnZxdkJNZDZRdzYzVkNKZy1vVEx6ZTRXR3cxWFlhMk95aFhRRkY5Y20wd1JNcmZoVjJ6MGZKcl93ZlpYQVNRZ0Z2NHVhTlZNYjJCSVUteENUbzBGQVZOVQ?oc=5",
+      "source": "CNBC",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T14:59:00+00:00",
+      "title": "Tesla might charge you up $25,000 if you use its latest feature - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWtaUE5rM2FLY0loUHpyNVczdTl1Rjh1SHhHLXFLUmFFUkVDZXFKTXRkQ1JpRUc1VkVBWlUxYnh1YmNUdnpqcl9DRnBNc3hudmlEdVFNdi1rWHRhQmdISXBySWMxekFDdjhqNW9Jdm0yUl9BU0hqakhvQWFiQnE4aUJ2X01Cak1DTXRxUi1UdXNlcUlMWm5PQw?oc=5",
+      "source": "Electrek",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T14:57:03+00:00",
+      "title": "Watch CNBC’s full interview with former Tesla President Jon McNeill - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNclJKRGZadnREYzlVczEwbmNjdzhwR2VfVzBRVGlranhsLXlSa2NnSDgzdmNrY1h4Ym84STJ1eHpyS0s4RGZpZncwN3lFeURvalhma2FScTJsSm9qbndERW91eUxCQm9KYVBTZW8wYVhjcWlRTG1hYUtwWnhrb3lUY0xSbXpOck5iSlpEWUFsMmJMbVJRUUN3cVg2SldaQVlESTZ4aG1wdFlnelllbHc?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T14:50:42+00:00",
+      "title": "Tesla Surges 5% as 486,532 Deliveries Top Company Consensus; Rivian Slides 3% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbnlHdy1QZ21wS0d2NWo3SmFWUjQta3o0U1lOUHRlOUJkZnREVWgwSTBvNm1tM3lhbVV6NTdRajZmOXFWLVI2c0FOamdocXdQOUZ4TnhQaGRuTDRKZG9NU3J5eFpqeVdsQ0F3Y0ZlZHN1dGNYZndIYUlwYVM1X1BPdjJUUmJXem16cnBud3RaOFY?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T14:49:43+00:00",
+      "title": "Tesla's car business back on growth path as deliveries beat forecasts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVZuUmY4NVU2bWVoZVVneFFNWmdiZDZIcmZZTW9rcEx4WEpGZXdUX0pwczJMbWRSLWdROTJiNjRqSHQ3dm1jUGdsU0c3QTB5YlJjajJ3c0JmS3dLcTVpTFUzbzY0ZWhLMkVyckRONF8tdmhwcTRndmRYR1VDdjdYREhfeEJkeUUza2h2NTFmUEVDWG9iYjBhR2w0WXV5TzhUbmRMMjdyWkZwUnU0ZGYxbmt6dTRBb3VVMEJOT1Rn?oc=5",
+      "source": "Reuters",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T14:32:24+00:00",
+      "title": "Tesla Stock Jumps 6% on Delivery Beat: Will Earnings Back It Up? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1dvRFUtZ2hfTko3VWIzT1o5bUxFVnpvdXZ1anQtZUZKbXBRaEtURTFGWDBPQXZNcWN1VFBpcGE3ZU1tY0RlZUdTYmUtVW9rcmlROGRYb3I5emFaYjdQeGFjU2hhczZ3WGVJb2JoNXhhM1p6TF9DTHlDMklTZkRtbVdsREtDeFNKMENTb3A5WWpGVGVXZWZpSQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T14:16:18+00:00",
+      "title": "Why is Tesla stock surging today? - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVnROcUdCR3paQk5Wd3A2bHlHNk8tWGVKNTFSODlVTC0yOVVPSmJtdTRreG5ldDJJN3V6OUlHOUNUNHV0MjYyZ0ZnODdZMjhybDJ2blhtOTRKVk1Yc1B1QjZ6Ykx4V2dNY2hTOEFRWlhOVHM4YXlXaVMweTN2OVo3MHRYQjBuQlR0N2I2SGlUYlBhSzJReHBvNFR3?oc=5",
+      "source": "Investing.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T13:53:00+00:00",
+      "title": "Tesla Is Winning the New EV Race. Here’s How. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lVzlVU1B4QXV6ZW95YXhwSjFxMWljUXlLaDZTYjdHUXdMbC1YcVFqbnFUcWtKM0FhMnVkM2lmRUxibFJJTkNkX2M0Z1BVQTU5QS1yQVViLWgxdk1rVncyYkwzaTZzZzItRkExWHFmam5HUQ?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T13:48:00+00:00",
+      "title": "Tesla’s EV sales top estimates with auto business rebounding - Transport Topics",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NYVl5Z3RaYlhoeWRRZFo1c3o0ZVpsQndMVUgxV241QWhRN0hTWVFxeGNqY2NWbFNWM09vcjVBc1RKaUJMTkNXMUV6TmFhcENQY182TmlLNWJoeDNwV2F4MWxROElZelRhMGlNSQ?oc=5",
+      "source": "Transport Topics",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T13:39:23+00:00",
+      "title": "Tesla sustains its EV sales momentum despite US troubles - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONXQtY3FOdkNTMFRjdkRTZVp3Q0UwYmJSYTg5NFFKaXpxaVVCUHhYTVpCa0ZrYldqdzZiSWE5YmlMNmNkUmlhTlBaN0gwUGpiZmN5Z1p6QkFib2lFc3h2XzJnblVTTXB6RHFVQnBUV1dGRHJrcGdxLTlkbkRrVkswdExFZWJPeERLaXNtVk1vVDhSeDhHUVE?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T13:36:51+00:00",
+      "title": "Tesla posted 486,532 deliveries in third quarter, beating Wall Street estimates - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44cTlWQWhuRWVYSmFBVlFwdFpHV2R2dEdNd19pSDg3dGcwX21hLThtU0F5eXhrdjk3SVFLMFRVaWtRQU02R3VzV1U1TWM3UUl4U3Y1ZmtfTmpVMU5OTWdBcXFXLXNZazdkcEFLVXl4amtKQ0JvMmlj?oc=5",
+      "source": "qz.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T13:26:00+00:00",
+      "title": "Tesla Sales Slump in Third Quarter - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTYzSkI2MFdTdXRYNUUyS2NOUkVPRWx6eHkzNGprNHRjMngwbU9takQ2NHplVXBYTUZjbl81YzhxM2xLT1diV1ZDdWJCazM2dUlJYWM5QVhmMEt1N3YtQXM4T29EMTF4dlFGQ2Nrb0lsZk8wdDl1T2pCY1A2VVpvSG02dw?oc=5",
+      "source": "WSJ",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T13:22:52+00:00",
+      "title": "Tesla stock rises as company reports Q3 deliveries that top analyst estimates - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaFYteC1YV2FWTDNpU1g1cDZxR1RtNkZPNFY5Vi1oMUFrZWZnZ0wxZ0k2alRJbEV6bVI2amZqcmlnc2VUVDktdXBqYTJjV2JfWEJXSVlGT3NzWmpfd3JrdTA1X3RWbXNoRDFuc2stanZsdC0tQVprSnA2dVVsLTdFc1Q3c2RnWUdQZXNmQmk2eEJYVDcwQVpIcWZzVl9zVGIzX1Q4SWd3elpCbTBKc0FxZGo5Y3I4ZDFyb25XdDEzcjRVSHlrclRKNnBWRE52UDJTNjJSbmQ1QXQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T13:11:00+00:00",
+      "title": "Tesla (TSLA) Q3 2026 deliveries slip 2% to 486,532, but beat estimates - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EczlrWUx2ZnRPdnRZMTJYMlZXUGotQXFKb0ptVFZZLXpuRU1BXzlZMDN3Zm5DMlVLZ0doQTM4TUNjdEtzWjFlZ3VhOVVueVpvWWdVNWlwRjJXNWtuRUxXcm1xeFFyUWg5bnJNOTJ4aHE?oc=5",
+      "source": "Electrek",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T13:06:58+00:00",
+      "title": "Tesla Semi: Diesel Killer or Giant Cybertruck? - MotorTrend",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV3lVT2Rmbjh1YU1fTHNSTUF1UldEV0dCdGs4RkY4bjE3ZnZPWWs1WUJqR25jV0loREt1V0x2YjJ1X0EtbHVfZUxRTXFYMFBJd25VUk9RaHYtSFhTRlJnZXljc1FCVjdVOE15VmVPOWp2ZE5fZWR4WE1Eb29rVHcyMGFR?oc=5",
+      "source": "MotorTrend",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T13:06:00+00:00",
+      "title": "Tesla sales smash Wall Street's expectations - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzZLZmsxczdGLThybklxcVNlNkN6d1hJdW04TUZ3WERIS3lQWEVUZWNFQjZUczlTUTNOYU8wTTRna2JsRUplQ2RrRFlzT29iNV9qRGdKWWV3UWJOU1VEa1NLeks1LUx6Ujk1WUkyWG5yODhtcW5rdlJEbWFTczFjY0pNMlFIbTZUZ1RweUtCRmI?oc=5",
+      "source": "Business Insider",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T13:03:51+00:00",
+      "title": "Tesla stock jumps 5% on better-than-expected vehicle deliveries report - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLTV2TThXeklJVmVnSl9pMDYzQnNoaWVielg0ekwyYTJVemhmRDdKdlpaekRVYXdTcndZNGRyelluczN1MUIxQ3J6M2FDWTQ4dnQwd3c1OEVURkdBUGdQLTBXaE1iUWxXOGFUVlZOLWdscVp0UkFTSEpsWkM3QTRDT3pMdkFlME41OHRn0gGQAUFVX3lxTFBoR1hCMDN2NU1mQ1ZJdFg3XzBQYWJSMzZmQk5aVnlBTTg5YnBfUi1KMm9seGMydVVOU2p1WnloTVVUV25QRXdYT1hwQ1Y4ODlvc0RBcUhwOG9VWUh3OG9CSnJ6N2ZuQUlBUjdWT0xPTnFaN3JHOTdjMk8tZnpWamkwOF9FaHNSUnZHQ1ZpQWkwZQ?oc=5",
+      "source": "CNBC",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T13:03:00+00:00",
+      "title": "The Tesla Model 3 Gets A Range Bump And A New Screen In The U.S. - InsideEVs",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV3d1R2NhbU1seUNYeGNBT3JGZUFrYnJVek51dE9CZXNTYlQ4ZFZUUDU1VzdVSWRhcm9zd1pFOTN2UXlLYlVBQVJiY1oySnFwVzNLLWNxLVRDRWpNbVdNMDZqSWF4UWl6ZEdvRHZ3ekNKcEduTTY5TG9hRXFHTGZtSjZ3?oc=5",
+      "source": "InsideEVs",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T09:51:28+00:00",
+      "title": "Tesla Model 3 gets more range, power, and a bigger display - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWV2UVRwcFlJT1V1OVBxb2ZqdVNKeVZiQklMSXRxZ0hXWDFNbTNQR2F2SXRQOW9IX1liSWtCM0RYMllJM1ZORVRlN2hBOUhZcUtiOV8wZld5RDQ?oc=5",
+      "source": "Mashable",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T04:46:44+00:00",
+      "title": "Tesla sales come off the boil due to shipment dates, but Model 3 leaps ahead before release of cut-price model - The Driven IO",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaXd3SnRNaUxnVVhkWFp0VE9PQ0FVOWF6dDVpMmVtVkh3emNiSW9Ea3FwMTFiTzVNdUplWDNkYnZ6Y0NrMGV3M3d1VXJxOHEtcnJ5Slp6M01HZTlvb1VHTkxidVR2dkhqNHBqNjdTbGg0dHNMR01KNHhZcmFlMk1TZHB4WFlJTkdCVV9vemR5Wm5PeV9USGV5aWl6cXNSVFkzNUNxMTNBRHlZYVFlVWh4SFBwWU8yMFlVZDh1MVdybF9fdjZsaHhIbk9Tc3E0Q2hsV0FuZ0h6Z3RLQQ?oc=5",
+      "source": "The Driven IO",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T02:14:49+00:00",
+      "title": "Tesla Futures Margins - CME Group",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5TVIwaXh0dC1DcURnNnZGbjFuSFgxVDNjOVBCOTQ5MHM5YUJvU09YVU5fSEd5Umo4cmZWUjNwSG9OUjlKZnpBRDdHLWRyRm5NVElmLUhlVGFDZHVvSUhpbDZ2VXEwZ2VQTVZRbUtHQ3B3YVhaWUl6dlRUYXdyZw?oc=5",
+      "source": "CME Group",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T00:00:00+00:00",
+      "title": "Watch Tesla Sales Top Estimates for Third Quarter - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFBCVXZxYjZybEtZOGduVzRldkNicWRtcmtpY0txeGFwcVk5NURrZ29vOWJTaFBEVVdaV2pONDUxSTdQamd5dnFuOUNudU9JUk1ZNGYyM1JJOThwclpCRWFSNzYyX1VvMThJcWRkYjRoZlZna3p0eUtMTUFNLUlHbVJzUGNDaVo1QkVmM2FSeTdTc3pzekw3YlRKSUs2YkE?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T20:18:00+00:00",
+      "title": "Why the Tesla Roadster Event Was Delayed—and What It Means for the Stock - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T16:39:38+00:00",
+      "title": "Tesla September registrations rise across Europe, extending recovery - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVkxZ3JoeS1uVjF0b2NiNVliRXdJVlN1T2ZvaEg4d1BlaGJ3SlB3em1CTFlOR3dIdHVpbVVNSVdPVWttVUlyRUlrTjFqeFkzSXRXU3ZCckFiYWRZM3R1bE1LQ2hJQUNaUGdubzNHRl91NXc5ZEhJMVpDUi1hWGxkWDhmY3ZOa1dyNjNYRFp5S0R0ajVCVkMzSWxBNnk3T2tFUVRxci15MXI1MlkySDZYQnhVM2JFRVJoR2FHakFqVW1HQkgycjBQUzluSWotZw?oc=5",
+      "source": "Reuters",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T15:00:00+00:00",
+      "title": "Tesla EV Deliveries Set to Drop on Weak US Demand, Aging Lineup - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUzJsckhNYnVKZEpTeW9rck1uUEpyRE94S0g2LURaVEZkS0N3dXlvbGV6X25kaDRoRklJTEtyRU5Jc0lmMHRUV1J2RlBUTjdvUmNic3hHdEhQZlFhZHlyRFJkOC1SVGEyWWJkYzQwU3VKdWFWMFRVUktaaUV3dHdxYmg0dW5VNFVIT1RxTUJlMFNpUGlncFpJb1M2cFNTNzFwc25fWW1tNTNzeVp3Y1F1bDgwNA?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T10:14:00+00:00",
+      "title": "Want A Tesla Model Y? You'll Have To Wait - motor1.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZWGZkYl95WnFJSFRENXRNclpVSnN2cGJZcmgxVzJLdnRPcEtNNU9sZUdLd3lXbFFlYlFRVTg1X0ZGRWZlX1NJdl9JSXpwYV9kMlBTMENiT3VxOGxyQWN1LWFjQUxkRVM4a0lMeA?oc=5",
+      "source": "motor1.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T22:36:33+00:00",
+      "title": "SEC clears Tesla-crafted auto-vote plan for wide use, worrying activists - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTWNmbHNncXZDNWw2TW5KZVdIWDJhZGFyakktUVVlWEpMUHlEVkRlWVRNOG83ZEQ2SmVHbXhOek5nQkdqZW1aYVNOYlRSdUR3WEltTk1ycXNtdVlyWll0dHRPaTlhTEdqLUt0cjl2NnNZN01RU05waGh1RHhwcWFES0hDRGNVbjVCWDhLb05BWWJhOEd0SlZHOWlnV3JEb3QyRVBMc0VDSW52T2NUV0ZxSUxvaWRTRkltcTZ5Qg?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T20:25:00+00:00",
+      "title": "SpaceX Just Got a Little Closer to a Tesla Merger - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iYktrbGdEMDJvcFVhcFdZcVloZjJGc1RQd2xoSWRFOUdRNU5sZDNDN1RLTVZYdHNvSDBGZkhHM0ttMlpIMUpFT0RPMnlUX2s3VlpNZF95cmZ0elNTSFh6R2cxSlRnc1Ixa1pnYUptSU9wMXlaWFE?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T13:20:00+00:00",
+      "title": "Should You Buy Tesla Stock Before Oct. 2? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUpLUWdIREpiaTdoYlpEa1A5dVV2am5sdWp5d2RtV2x0cTg5dHc3Y3dmQjlOTVhKc1dGNmVBMmJBWlc0ckpSTkREQ3ZNOEFodGc0WHZITy1ZRkJDQjVaSFpEQ0ROejZUQ1hHdmlyVUJPMThUNFlYNk9WQkhRYjlJMjFSRnBaUkYtaUpmTXNocw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T21:55:00+00:00",
+      "title": "Tesla takes on $30 billion in credit as it approaches unprofitability - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVo5dWJ1bTJCZmlEeDVya3g1MDV2ekVxcXlxajhraW1STFc0WmRoWmFyUWhCS0pMRDhNazBsRVVGMUYtZFdRUVpiYm8tQWhwYW5GVlpHS25hVjBzbjRIZE8tUndCcmNDYUN3TTlndkZDU3ZXcUFEdWdRQVFxeHFuaGFTMmR5WmZpeW84U1V2Y3h3RDdUTFAwUEJnV1ZIYmpRWFE?oc=5",
+      "source": "Electrek",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T16:57:00+00:00",
+      "title": "Tesla (TSLA) wins SEC OK to auto-vote retail shares with board ahead of SpaceX merger - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMFQ4dnJkck8wTXgxeGRxUElxRENfTl9aQUFSUEpwYzhqNmxVS0JHN1QxUFFibXZmMEYwUFNXSkkxZjJpbDZoY1FFczBYZi16bVlkcGZXNTNtTWlYenh2cXg1S0lOOC1wVzBGYjVOZ0h1TXo2azBaTm95SHZsd25rNHpxSUI?oc=5",
+      "source": "Electrek",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T15:00:07+00:00",
+      "title": "Tesla's Q3 deliveries loom large as the Roadster slips again - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXBDTEplVDNLdl9EdXRyUnItWmJJMmZaRzhxbExwQXZ3b2VBT0RGRThOWU9iTEtxX01NSm5WYXYwYjdJSHNEYVY1TXpySGtGUkFwa3ppdURNbEZoWDh2elZ6bVlfVlhmSVI3aVdwbzFnNGpmYzlrbjc0UnRxcHhfZnpfOERWVXhOZmIwMGczeVVvREhVOWRFMGJzRWxnS0V1VF9nM3p3NExQQzRTWGtHSi0xRTc2RVZMNktldGJacFE?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-09-29",
+      "count": 3,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "count": 4,
+      "pos": 2,
+      "neg": 4
+    },
+    {
+      "date": "2026-10-02",
+      "count": 57,
+      "pos": 52,
+      "neg": 8
+    },
+    {
+      "date": "2026-10-03",
+      "count": 13,
+      "pos": 6,
+      "neg": 2
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-09-29T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-29T16:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-29T21:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T20:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-10-01T16:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T20:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-02T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T13:00:00+00:00",
+      "count": 11,
+      "pos": 6,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-02T14:00:00+00:00",
+      "count": 6,
+      "pos": 10,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T15:00:00+00:00",
+      "count": 5,
+      "pos": 12,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T16:00:00+00:00",
+      "count": 6,
+      "pos": 10,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-02T17:00:00+00:00",
+      "count": 8,
+      "pos": 4,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-02T18:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T19:00:00+00:00",
+      "count": 5,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T20:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T21:00:00+00:00",
+      "count": 2,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T22:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T00:00:00+00:00",
+      "count": 5,
+      "pos": 6,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-03T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T10:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T11:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}

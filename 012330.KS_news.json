@@ -1,0 +1,955 @@
+{
+  "ticker": "012330.KS",
+  "query": "현대모비스 OR Mobis OR 012330",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-10-03T12:26:41.749875+00:00",
+  "items": [
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T10:33:25+00:00",
+      "title": "[화보] 존 무니 더블더블 정관장, 88-85로 현대모비스에 홈개막전 승리 - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjU25zbXh4ZjdQSFJkd1k1VTkyTHpkZVliRXlqOE95WWhXbXgxLXdXQ2VCLVVfMUVpV2JyMEpPVnZXeWtEMzZqSWZ0RXlSdzdjcHBJcU9GbWhLUDk0V2M3dHFBNm1mNzhxbW5SZnZpb0g0TlhV?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T09:53:17+00:00",
+      "title": "‘도훈볼 강하다’ 무니·토마스 빛난 정관장, 프림·베즐리 분전한 현대모비스 꺾고 홈 개막전서 미소 [KBL] - m.mksports.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1N1JSOGFFSDdmRV9zeHBCRGJER0xJem1ydG9Tb3dyaWI2ZlVXNUQyVmhLUXlUaVNfbl9FdGo3WkRkTUVPcFpQVHkzalBoalFjUTdFMlJjc2RERUk?oc=5",
+      "source": "m.mksports.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T09:51:56+00:00",
+      "title": "[경기 후] 유도훈 정관장 감독, “현대모비스가 지난 시즌보다 강해졌다” … 양동근 현대모비스 감독, “여러 가지를 생각하게 됐다” - 바스켓코리아",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBld1czQTZLZ2NFeXg5Yk5tTkZpSnpZRHhGVWQ1Z3ZIQ1B3dkdrODBpZ1ZiZXllRjN2OUk0SFFXQV94YkZVcmZXWnNMRk04U1UxaWVNczZxQmp2VW9fUm9xdHJwOUg2QXNzNzVUMTFWRk5GazkzLTVR?oc=5",
+      "source": "바스켓코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T09:37:07+00:00",
+      "title": "[프로농구 안양전적] 정관장 88-85 현대모비스 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lbzFGT3ZkMzV6SUh2SnpOd2FkRkQ1MUpvb3J5OHktM2FZS2M4M0lPclctQXJiWHBXdzhOY1g1WVlBYVViaGFuVHd5YWdmYkttT21JNnpmNU54SUNraG8xONIBYEFVX3lxTE5lbzFGT3ZkMzV6SUh2SnpOd2FkRkQ1MUpvb3J5OHktM2FZS2M4M0lPclctQXJiWHBXdzhOY1g1WVlBYVViaGFuVHd5YWdmYkttT21JNnpmNU54SUNraG8xOA?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T09:36:17+00:00",
+      "title": "변준형-무니-토마스 트리오 폭발! 접전 끝에 현대모비스 잡은 정관장, 홈 개막전 승리 - rookie.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5paTlVV1Z0UWE2d3YxdzFCcUs2OXV1QW9xeThHbFgyNnpGSU4ta2o3VlVLQ1ZpekEtMmtZdERXVFQyMkZPb3pZeTVMc3pHVURSbTdRcVRJVXBwZC1ESURSM0UtT3RjN3JNSGc?oc=5",
+      "source": "rookie.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T09:33:33+00:00",
+      "title": "외국선수 듀오 무니·토마스 날았다! 정관장, 이우석 복귀한 현대모비스 상대로 개막전 승리 - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wN3ZjNUc3ejRuVkowQ0pjSTh0Sjg3akNhLWMwb01VLXEyaUVsbHgzMnNrTlhzQmIzOXZ6ak14WkxibTF0RGsySzB1cTZqZXVNWFJkQUljQ0tKR3hzVHJYTVRPVzBaMHp0TVFqdnExcDdwdjBH?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T09:32:19+00:00",
+      "title": "[BK 리뷰] ‘외국 선수 우위 그리고 변준형’ 정관장, 현대모비스전 8연승 - 바스켓코리아",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5McFBKNmoxLThneTZaYm16WlgzVEZGQTFjemctYTZzSGpYYnhHZF9pZDNNZmdWcG1IZ0VwM2k1NmtEYjM1TWQxMmZXQ0xxNkhlZ0k1LWd4dnZ1Q2d6WGtEVHFpRVlGRE04NHY1RHM5YTZ6X3YxSWVJ?oc=5",
+      "source": "바스켓코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:30:46+00:00",
+      "title": "‘이우석 스타팅 출격' 현대모비스 양동근 감독 “금메달리스트는 어색해하면 안 된다” - rookie.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DYkpQcG5aZ0ktX2pLTlBZT0lBX2FKdU1ycks2WWZJZUdmR1dmYUtlaEpxRmdfT2M4SzVkOW1rZjc5Z1BJOUZEa2FZS2JxTDVDQ0FkOE9DTDdlREktR0tLTWxmY0llZ0ZXcUE?oc=5",
+      "source": "rookie.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T06:01:00+00:00",
+      "title": "현대모비스, 홈 동천체육관 관람 환경 개선…멤버십 대상 라커룸 운영·안내체계 개선 - 마이데일리",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41Y2xfbmtjMzVHRzc5YUJZWmp0bTBFOUtpaXpRWlp5TEVraXdxMktlU3BtYmstdkIyMjBJeDN1NzQ1aHJON2ktYVpxRmZSRGVTSDFQc2N3ZFFhTVFjOUY5Mw?oc=5",
+      "source": "마이데일리",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T03:28:14+00:00",
+      "title": "10월 첫째 주 현대모비스 주가 변동성 속 상승세 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83QUFqTTctc3FyUHY1MUE4UnlxWFZ5clQ3WnVCWGpsOENYQmota1llVWxDSTJZSWlvbkNtN3Fha0FVVEpGU3gwMUVLODNDdXFLWkxsNWYtOHQ2VG45Ymw5TmV2ZDRWUnM5cmVEdktNcjliUQ?oc=5",
+      "source": "중앙이코노미뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T03:26:13+00:00",
+      "title": "울산현대모비스피버스, 동천체육관 좌석·편의시설 정비 - 라이센스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WYmFCcmJGZ2ZBdEtlVXVpMWlMYm9pNUF6MjVQWEM4Wk96cjNuLW5ORnBCdGVRbk00UWczc1VwZUNiRm0wczhxeW1mWWFsNk1WaUYzdUVDMFdRbk1tUF9xaTRVSjZvMmd6M29B?oc=5",
+      "source": "라이센스뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T02:36:09+00:00",
+      "title": "울산 현대모비스, 홈경기 관람 환경 개선 - 바스켓코리아",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrdHlUTy0zWFNJWThDdGFKVzE4bHBpRFZDNThqeHVqRmZRZnJ4akE2YmsxWkNUdHJZRDRtaGJBbUtka3NkSWo0cWhaM29neFZsRkN1MExEN21remt2V2xMVFBtME1KUVA3LURQLXV4cEtERTRRcmhz?oc=5",
+      "source": "바스켓코리아",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T23:00:00+00:00",
+      "title": "현대모비스 램프사업 결국 팔았다…미래차 승부수 [많이 본 경제기사] - SBS Biz",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZZGxJekR4WWdId05uaGZkQk9UMzU0ZmVZb25FSHduUzBwLU44elBma0xYZXIzYjZKR2QzVjdDaEtQY0t1ZFMzSkNPaG1YNlU1Nl9z0gFYQVVfeXFMUDFGYktaVFk2R3cySTVHVFhuSkVpaHdMcmVMNVlpWjB6YnRyMDdDUkphUVhtMW9zbFNoOEM3RlBRa2RYLXpIYnFUWTd5N2gxaEZJQUpKUDBtWA?oc=5",
+      "source": "SBS Biz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T22:55:24+00:00",
+      "title": "[BK 프리뷰] 정관장의 현대모비스전 8연승? 현대모비스의 7전 8기? - 바스켓코리아",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JT2VFck9WUEhzRmlEdTJxTE5SVF91a2NtRFJGeDZlMFZ4NURmNFhnSHRqNnJDUTFBX2VOcVcyemdQTVBLLV83S3RaS3VIZ25qMlFFSmxLRDBDWW11Y0FXX1hzTXRMelFXLUwyZGhGdjVuS3ZLdnJR?oc=5",
+      "source": "바스켓코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T22:24:21+00:00",
+      "title": "‘AG 금메달→조기 전역’ 이우석, 현대모비스 복귀… 5억9000만원에 계약 - 스포츠월드",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96bkpoZGtWVjBsSE9LXzBrbVo4LVdKUTFfU053UURTbmxYb3R3c0c2d1NzX2dmUjlhUmxabVZKOVJYaWswRGlXaUJEYktrWlgtODNxRHJWUjRlMzJEeTRjdFN3?oc=5",
+      "source": "스포츠월드",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T08:01:08+00:00",
+      "title": "프로농구 현대모비스 이우석, 조기 전역…개막전 출전 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBleXdtVnpZVkFRRDFyZ3NhbThFNWZBOS0xcThSM2NGWGpfN3JzLXJNcV9kaUtveVdDdHJHbWxHcTY0RG10dk5RU0RtQWtNQmw4b05aMUNRT3FhOGpmX216cNIBYEFVX3lxTFBleXdtVnpZVkFRRDFyZ3NhbThFNWZBOS0xcThSM2NGWGpfN3JzLXJNcV9kaUtveVdDdHJHbWxHcTY0RG10dk5RU0RtQWtNQmw4b05aMUNRT3FhOGpmX216cA?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:50:12+00:00",
+      "title": "'AG 金 조기 전역' 현대모비스 이우석, 5억9천 도장…개막전부터 뛴다 - 노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtTE15U0hkdGJJUVFQVG94Mm1HTlM4SVVUSC1jZGtwaUxEb1FzWWVmV21lcUtvNlJUeG50RnVic1BIeTl3eXlBdmJoS2hvbXdSSkE?oc=5",
+      "source": "노컷뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:38:02+00:00",
+      "title": "'AG 金 영웅→ 조기 전역' 이우석, 현대모비스 계약 완료... 총액 5억 9000만원 [오피셜] - starnewskorea.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SOEtYalFQQjVOak90NDVNYnZlQ1plWm9UYS1TdVpMbk9KOEwta040dkN5TU1EQlk5VlNPd3ZqZGdkdmZ3UkJYbmwwR0R1ZVFQUy1mOXZMMHJwM21HODJJcGc4MGktck5zdXlUcHRicURBVFpma2c?oc=5",
+      "source": "starnewskorea.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:31:00+00:00",
+      "title": "중복상장 아닌 진성 매각…현대모비스, 분할반대 마지노선 낮은 이유 - 톱데일리",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15T1hjc1RiV2dDZ0k2TkVuM0k2ZEQwN2U3VldoVG8zZ1I5ZXU5N2lwTENJX0x5R1pzV1AybHA4Y0VXeF9KZ19UaUhlaFVCRlc1?oc=5",
+      "source": "톱데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T05:31:10+00:00",
+      "title": "‘램프 매각’ 현대모비스, 생산직과 고용안정 합의…사무연구직은 계속 반발 - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWTQtVmNaQnh6ZmZrLXQ1ZmR2cFZkY3JsM3NZMzBrWVpZclRmTWNOVkFNbGd1WDNweDJZV1d2SUV0XzV5ZjF6XzlweDdVc0Q2M3dZTlR6TmgtaDlOaXFIUVVaa2R2NGJrMWlFVDFHOHoyM3VLV0ZLRVc1NTNZNkt5Rw?oc=5",
+      "source": "edaily.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T05:30:00+00:00",
+      "title": "FA 앞두고 보수 ‘백지위임’…이우석, 현대모비스와 5억 9000만 원에 계약 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tbmpXOUNnekV6aXpKWDRoWkFFWlR0M2FfRTJramJldE1zLVNCczIzaXQwd2RpbVN6M1VsMHJvS1JfYVQ3NDJ5bEs3bEtRZ3diRlHSAVNBVV95cUxNNDJ1alBTREJWSmh6SU9wanh6Zk9NNFBQTzlGVmJ0a05IeFRkb0ZONzRTUUJnQnhkaWNqbEx2Z1NGb2xQWTlRc2FJeDJUX2RZUTF2aw?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T01:00:53+00:00",
+      "title": "'램프 매각' 현대모비스에 로봇 사업 전환 기대감↑…\"주주환원 효과도\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NMnBlLUEtZGRSNFFjSzZ4ZWFqNlhla1JVOUtlX0RSVkFINTdRdFhkY21RcFgtRVRhT1ZPMmxRRm9jN0xZZDJaVVVjMWlHMFlyZndKUHkyT1J2ekhjWEliTWpWMHY3TWx2ODgxbkVrLXM?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T20:00:00+00:00",
+      "title": "[심층] 현대모비스, 램프 사업 분리 매각...로봇 등 미래 사업 중심 전환 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNeDloekJ4RlpvSEVfbGpHN2EwdUNPdVNvSEg4cDRXZ3h3STJDRlZya0ZhQTFhbkJPUGQ1WDFkQ2QwSktQUXR2ZVRPZlRnMi1QbWNUcGJMMmZWYjBNd2JuOGd2eVRrNHd1TVVKQ3Fn?oc=5",
+      "source": "알파경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T07:12:00+00:00",
+      "title": "'램프 매각' 현대모비스, 군살 빼고 미래 빌드업한다 - 톱데일리",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1blhPb01YZC1EcEJldG5rT085blQyd25lSlp2MTRKS19lZEpHUVNEbV9relF3VWRRdDBfTGlHcGRmaEhiVGhMSG5PaHNVR3B2?oc=5",
+      "source": "톱데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T05:56:01+00:00",
+      "title": "현대모비스, 램프사업 OP모빌리티에 매각… 내년 4월 물적분할 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lbjlnSUZUQlZaS2NOLXJ1SzFCbmwzUHZ1Q0h6eXJVdUVhNnloMTRhdjBySENKVE1XVnlxQWZSSDduZUE4Rjc3dDhRX093SDF3Nm9reVQ3MHRYVXBWMS1kRlRBcXhXbnBCbmJNc0ZkYzB5b2Jl0gF0QVVfeXFMTWVuOWdJRlRCVlpLY04tcnVLMUJubDNQdnVDSHp5clV1RWE2eWgxNGF2MHJIQ0pUTVdWeXFBZlJIN25lQThGNzd0OFFfT3dIMXc2b2t5VDcwdFhVcFYxLWRGVEFxeFducEJuYk1zRmRjMHlvYmU?oc=5",
+      "source": "IT조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T04:22:53+00:00",
+      "title": "현대모비스, 램프사업 매각 본계약 '미래 車 재편' 본궤도 - 블로터",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pX0VROUJsTmF4ajFCNGlpVUtQNWxYN09zamd5MGJHc29MWkk2X3BISFBnaWdWYXZjMXZOYVhBaS1WVWVlVElCNklXMFFvU0VVN2J1TTZRenl3b0xWNTAxek9STHZ5NEhOUHZSetIBbEFVX3lxTE5pX0VROUJsTmF4ajFCNGlpVUtQNWxYN09zamd5MGJHc29MWkk2X3BISFBnaWdWYXZjMXZOYVhBaS1WVWVlVElCNklXMFFvU0VVN2J1TTZRenl3b0xWNTAxek9STHZ5NEhOUHZSeg?oc=5",
+      "source": "블로터",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T03:39:00+00:00",
+      "title": "현대모비스, 램프사업 팔고 미래차 올인…'부품사' 넘어 기술기업으로 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GbEh5NXlDQWJ1VXN6UzU0eGFKNzZkaVFVYWlmOV9RY0ZuYU51MHVSQ2FfWF93Vmhvc0pIR3hNUjZSbHdWMF9QT0Z0UkJ4dWlRS2dwSHlRN3lGQklR?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T02:43:21+00:00",
+      "title": "현대모비스, 램프사업 6000억원에 매각…노조 “법적 대응” - 시사저널",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wTHZhaXA4czByZGFmUU5WTGR1M05DelNyMGVVaXNwczQ0cm1Ocmd4WGtURV9TLUc0X0hUOVQ0VnpsSGFxSkF2Z3lxdEgzeHdqc2R2WU1DSjByYnFBRkExN3g2UWlhaFFwd0cwMU9vSnk0aFXSAXNBVV95cUxNMEx2YWlwOHMwcmRhZlFOVkxkdTNOQ3pTcjBlVWlzcHM0NHJtTnJneFhrVEVfUy1HNF9IVDlUNFZ6bEhhcUpBdmd5cXRIM3h3anNkdllNQ0owcmJxQUZBMTd4NlFpYWhRcHdHMDFPb0p5NGhV?oc=5",
+      "source": "시사저널",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T02:35:43+00:00",
+      "title": "현대모비스, 램프사업 6000억원에 매각…노조 “법적 대응” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkSWp5ajhvQWlNbW11blExYWU0bHFieFRsQmMxY3dTV2gyLXlpZkJ2NHRNS1pCR2VSSmx4RS1mUWpfN3ZVbkQzczBBMjJXTEU?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T02:13:45+00:00",
+      "title": "현대모비스,6천억원에 램프사업 매각한다…프랑스 OP와 본계약 - 서울이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aU3RaMTNQUDJNMWdUT2V3WVpKS240Y3pwcWwtbFlSVzFoV3lrdHdSejdHajJFRmdiekVLUDM0QU9jVkE5NFVWWkhXX0dUSm11YVVoWXloQVMtSWZOYTFrYVlQYnEyWTE0QjZsaUZ3?oc=5",
+      "source": "서울이코노미뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T02:05:00+00:00",
+      "title": "램프 사업 물적분할하는 현대모비스에…한투證 “의도치 않은 주주환원 효과” - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3gyLUFPaWZ1OTI3eUlfLUZEM3Q2Z1hPTnFYMndmeTlWd2NIamdMUXZ3NkxvSzQ2REZBRGdjWl9SUlJkMm5tNFM4ZUJNVm4xT3Bqdk5tMG9WT1E2QXg2RW9LMWJZZW16VGU3d24waGgweE1YTlJiWlFZdHFfVlFJT1Bhd05NSkNM0gGcAUFVX3lxTE44ZFdFODhfQzlESnZoZ3AwdW5KcjU2SG9nalBHeThWTklUMzlqd1ZGelJsemZFMDVaS1FWUzIwRnRGUUFZSVdNMDVKazUzdm9oaDVJSU5wTk1wSXJpLThMUXdPUDViUFFTM1V2NGZ0ZnFHZUROaHFpMUJmd0M1NFNvUDZ3T2dOMHVRQkFfR001aEVJWmVuNHJLYTUwUQ?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T01:42:01+00:00",
+      "title": "“선택과 집중”..현대모비스, 램프 사업부문 물적분할 후 佛 OP모빌리티에 매각 - dailycar.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83UjBsaHpHdDF4TmtQNjlJQ1lXOTZrVkpCbkVjbW9QVWhHVjNPc19EN19nbTFEeEI1UnpVUHQ1SmhhUUNyTC1QY2pUQWVic3B1VlowSEEyTE4yQjdBRXY5dG5rWlEtWi1rWkg1WWdSX0RjWElVQnc?oc=5",
+      "source": "dailycar.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T01:29:00+00:00",
+      "title": "[N2 증시 풍향계] 반도체 소부장·철강株 대거 ‘불기둥’…현대모비스 ‘강세’·브릴스 ‘공모가 200% 상회’ - 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZmt3eGNfVjJGUks0bHFnWjk1dkM1VEoxWjRyMHl2UXM1TU9jRFZtTWNsYXhBREFEYWJ6REs5a3VsS01EOUlETGpxS3BBTDZlX1gzRUV3ZGc0dnllTlE?oc=5",
+      "source": "뉴스투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T01:27:10+00:00",
+      "title": "현대모비스, 4분기 호실적 전망에 주가 4% 상승 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13RGxIRzlsNlViam1Nc1JsOTRJYnRDcjhtWE5LemxKNnYwVFU1c3BtUjdGcnZTS3U2WTNPWFNHQldsbDBldWxpRnBlbzN3YW9PWkQ5ekl3bHJISWd0Z3diUTBuTEFleVhWT1NWcTJ3?oc=5",
+      "source": "gukjenews.com",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T00:56:08+00:00",
+      "title": "삼성證 \"현대모비스, 현기차 벗어나 기술 기업으로\"…4분기 영업익 1조 눈앞 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkbGJfZm94ODJHRW9JWjhvZWJ5eWgzd25WeHd1LXljRl9xaXpoQ2FtVmhvaXhMbkY1eHBmMUlJdzZiX3RBV3BsYkprbnJab28?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T23:56:17+00:00",
+      "title": "현대모비스, 램프사업 매각 가시화…손익 축소 전망-대신 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12ZGtReDB5Y2Y0Z19FQzRtYy14dnVMZ2d2bDVQWjFad2dkNWRwemFSNnBPeFo5a3hXS2N5cUdRSnVDWmwwOEhYNUxiNnhOenNpS25UMnBRekNJSkM5RGpUOGE1dTlta21R0gFuQVVfeXFMTU5mSkkzSktHQjhXZEh5Rm5yTmxjdGxIRHp0YVBiOGZDazdWMHBlck9xLV9JTVphTGwyLWEwYjc1MVc0NG9wc2JiaDdRc1B0b2Q0bnotMjdKZm9qNFNydXVXQjBvbEpFblRka0h3alE?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T23:27:41+00:00",
+      "title": "증권가, '램프사업 매각' 현대모비스에 \"핵심사업 집중 긍정적\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ST3BneTg5U3hPbDRqTmpUckt3TXRkSlJZOS02T2ZJaHNoWTFUQ2xKSEk4RFJlV3BzcHdiVjRSNk01U0V0eHp2eVJEbkFaRWZ4dVBDckdfUmg3NTTSAWBBVV95cUxNdUprZ01VU1dqdEUwVHFxZjNjdndFMTA1UzVNaE44VHNzaTg3Y0pTMHVISkt4Z3ZRVjZGRy1TM0dVcWp5ajdWUXV1RnRXNW1oZk5WdnZIYzF5QWNZVUV0SnM?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T23:03:26+00:00",
+      "title": "\"현대모비스, 액츄에이터 대량양산 시차 반영…목표가↓\"-대신 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WZUZYSDd5WUtkVlJzM0xOeUluRUVsSmRwbmlKVEZESFo0cDN4cUpVMFAyU01pb3JYdkF2TWhXQ0RFTG42a1h3OUdlaHNmVWRRZlFWUUJfd1lWdw?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T22:28:22+00:00",
+      "title": "현대모비스, 6000억 규모 램프사업 매각 본계약…내년 4월 물적분할 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yeEQxckVhUzlSSURydHlBYXdnWVVCRF9YOGhydnN3Y0lZV0RRMUw4OEh6ZllyNlV3cFlIOTN4U0t5NGQxdHpoQ0tjd0FwcVdmQkNHOXpCZ3FBVXlyUmJ0R9IBZkFVX3lxTE1yRUt0NFFhdThpanF0bXpvR3JBT0lXVkNOT0tNVVltcUF5VXpVQWhXM2VYMi1YTmhkX3NhTFptdHYtTGZsbDlKYXEtYzBPblVHMW5ON1hXcnBOMFNCdDlmb0RweWY4Zw?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T21:55:03+00:00",
+      "title": "현대모비스, '램프 매각' 주주 0.6%만 반대해도 무산 - 비즈워치",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fS1FUaXFpU1NYVF9HMFAxX0Zpb3pBOEpHX0VyNEUtQ3U0bmQ2TjRqMmozRjN2UTVKeXZubUFBWUVVRUZ2bjBlQzZmMFFrV3pHbC1YZk5Ya18tR2Q5eE5uYnhjcVVxR1dmOGRTMg?oc=5",
+      "source": "비즈워치",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T21:03:00+00:00",
+      "title": "현대모비스, 차량용 반도체 국산화 가속 페달 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uQVkzRGxEWFVNcnZXc2p5eS1yZm5EajVleFZxZGc1RmZRbVVidXd5S0VYT1I4eVdHTUNkcHFYN1I5WXNHT0U5OERDYVZlZ2c?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T15:30:00+00:00",
+      "title": "현대모비스 車램프사업, 佛부품사에 판다 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VWEFFcmpBcmdrSFVRX21JZWN6X1VtT2Q0aTgzbzlDZ0R5NmJnMFFKSjc3WGlsNWpONldhRmhpZm9ZcFlXeWNMMXZVcGtkeExtd1V5NjNMQkpoQ1lxdVhTZFEwZEVHN2RFMWx4Q3NkczNoQWN5NUHSAWZBVV95cUxOSXhvZEw2Zktvb3RUWjlUdVZXLURhUHZpYndqUlozUFoybUlvcWRZcXE4Nzh0ZThDS1FORjVGbXRNNnBHc3Y1dGZhZEJ3Y3A0MjI5UWJMRThfOFk5bjg4QjJqYkI0OXc?oc=5",
+      "source": "동아일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T14:21:00+00:00",
+      "title": "“자동차 램프사업 완전 넘깁니다”…현대모비스의 선택, 주주들은 웃었다 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81N2ExVzhVT2xWamY0eEhfSTVwNS1aRmpiUUk4RHdmdjJfbkZtWDVUcklZS2lTWkZwSmxIeE12My1lQ0JUbDU5QUtFNWZYbjA?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T08:58:54+00:00",
+      "title": "현대모비스, 산업부 주관 ‘미래차 생태계 구축 협력’ 업무협약 체결 - 다나와 자동차",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSa1R5VFpsSmtwNlNleWlfSjA2MkVQV1VESjlER3dLdlBnNTgwLTlmTlczMVhNZTEwN0lRbFVfbFJtbXE0UXpwVUQxUTBpOWR5bXYtYU1fVTBzMGNUNHFJYk0xR0xRSTJkYWV4bA?oc=5",
+      "source": "다나와 자동차",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T08:57:45+00:00",
+      "title": "현대모비스, 램프사업부 매각…佛 OP모빌리티와 계약 체결 [시그널] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hRTZVWmYzWHdPY0RMYXFYZ0ZBQ2c5UnhuSmNKd0duOXBZNXJ0UUtDNmNfbkIwcWdMeHVhX003OGJnTlg0Vk9tNmljRlV4cXRmbVHSAVNBVV95cUxPUC1lNlJNRUVQNUZxSkllYmVUNlR5dmo2bEtQVl91TGJmY1o3YlpqU1FRZ0kwRUcxY0ZZUzBLeUN2TGhNd29oU1dVWWlyX0V1b1ZjMA?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T08:57:45+00:00",
+      "title": "현대모비스, 램프사업부 매각…佛 OP모빌리티와 계약 체결 [시그널] - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KSS1kUmd5eVcxVlNiWk5pVjYtNUlpTUFfcVNIRm5PQW84ZXA0S25McjdidWx1M0hrWVVxNFZZWTRKdW12U0pUa2RxbzNEbkdZVk9BS0Z3?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T08:51:37+00:00",
+      "title": "현대모비스, 램프사업 6000억원에 OP모빌리티에 매각 … 내년 4월 물적분할 - 뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaEt3M2ZwV2VFNC14anNuWHJDN0NWMjhPUGc1QnJYeXl5T05ldWwzU0ZaODgxSHVkZTViV0o2R1c0Nm5UaGgyaUVoVjBkX0RkYzJMQm5CYUVKOG1yTS14SU0tNklSRG9FTkJ0VU9rWWI4RGJ0ZU82OUdnUVlhMjA0dNIBgAFBVV95cUxPaEt3M2ZwV2VFNC14anNuWHJDN0NWMjhPUGc1QnJYeXl5T05ldWwzU0ZaODgxSHVkZTViV0o2R1c0Nm5UaGgyaUVoVjBkX0RkYzJMQm5CYUVKOG1yTS14SU0tNklSRG9FTkJ0VU9rWWI4RGJ0ZU82OUdnUVlhMjA0dA?oc=5",
+      "source": "뉴데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T08:43:00+00:00",
+      "title": "현대모비스, 6천억원에 램프사업 매각한다…프랑스 OP와 본계약(종합) - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zOTZsX0FBSGlMWGszdUlHUlhrQkxOMkdXN0gxSlhuT3B4SklqNmZOTlBJYU5MbHF2c3lKZHNWQUlXb0tUdnlVMmIyb0JyalU?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T08:19:43+00:00",
+      "title": "현대모비스, 램프사업 6000억에 매각…佛 OP모빌리티와 본계약(종합) - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lS2ZMRGkxaVdfcVJoaG9TTzk4R0lpNkVoS3N6dHdiMDk2ZWpMcVhjUFpoejF2Yy1jbFZ3NlRfVlRGZnNjU3JKYkxCbw?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T08:19:00+00:00",
+      "title": "현대모비스, 램프사업 6000억에 매각…佛 OP모빌리티와 본계약(종합) - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42OE5NQkJRVVB3dWxRZE01VVNKRkZxQ2U4OENJRllnVTY3SDUtYzI5RjhBSmFYTGNLbjFKaDloNHk1SG9SQ3V0SXFMeFp6MG8?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T08:18:05+00:00",
+      "title": "현대모비스, 램프사업 6000억에 매각…佛 OP모빌리티와 본계약(종합) - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2cXRFUnNHcmRFa19zYUpycUU2Z1g0Qk1rYUxNYzBCYXJiVWdtVnpyNi05b0V5VU9XMnZmYVhXa3dvald0M0gycmxRbzdDdml3M1hjSnotYk5OZHp2QzFkM3BGa0dVd9IBZkFVX3lxTFB2cXRFUnNHcmRFa19zYUpycUU2Z1g0Qk1rYUxNYzBCYXJiVWdtVnpyNi05b0V5VU9XMnZmYVhXa3dvald0M0gycmxRbzdDdml3M1hjSnotYk5OZHp2QzFkM3BGa0dVdw?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T08:16:00+00:00",
+      "title": "현대모비스, 램프사업 6000억원에 판다… 佛 OP모빌리티와 본계약 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NTjNFTGl1RHNZd1BnRnpCWmdYTDZvbE9IZHpqcDhHZ2Q3VUFhWWo2NGpZcWVtNHMyWHpBMkt4VEMzaXVtWjYwRXEtNkpWMXRrSFFTUG14MHEwQzBoOTF1d1FSUEt4MkhSLUhmOWYwaU5jeUEzamFKTWRVTzk1R2_SAZMBQVVfeXFMUDJZZi1xcEREejVkR3ZWZXpTbTJVNkhiOUdhRjNKaE1CaW9mVGcxYzZMb2dGR3dSekpBcXg2NkJSRk5GX0RmalFWbS1PcTdkWW9mMFhOZWw4WWE4X2lnRUhQem1nMGg5UUwwWW05VmZ2WE43Z0R4dlFYT1pYWklRWGNaVXZVRWtlMDZlQ1lkMW1BWHhR?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T08:14:09+00:00",
+      "title": "라이드플럭스, KGM·현대모비스와 맞손…완성차 B2B ‘AI 드라이버’ 탑재 - 인공지능신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UdnNuSHhaWlVudWlwRHAyMzZZOFB3WEhhYXgwRlFkLXo3Ml82Yk5aSmlDbVFRZjluSFBGWjdIX3NNSTNhWUhnR0NJMG1JdFlGcW9RcVFEdXpJNzRIWW92MmRhRXZpSFU?oc=5",
+      "source": "인공지능신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T07:52:43+00:00",
+      "title": "현대모비스 '램프사업 매각' 본계약 체결…노조 반발 속 후폭풍 불가피 - 오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vOEUwSkw4QXRJM0RMaWRmVVpfRDFzUU9iUC1CYVdmSzFwU2I5QkdyNWFZOTRWbWdRWEY2ZHlZdFFWMXU0QjNuTk9Qd19Udzh1OXd1OUNmUW53S2xZLVo2bVRKWTlhNWlWVjhtREtpOFZjUQ?oc=5",
+      "source": "오피니언뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T07:27:00+00:00",
+      "title": "현대모비스, 램프사업 프랑스 부품사에 매각 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQbTRRLTVEcDV5Wm1yVndZOGQ2R3VUeGxmQ243OGIycGFvaXktandWTEN3Y1FhS1dqSWVtX2Ffa2VKZUFxUXM3X0htOFpvbVE?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T07:27:00+00:00",
+      "title": "현대모비스, 램프사업 매각 본계약…내년 4월 물적분할 - 톱데일리",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rNkJaeF9nT1F5TG5kUHV0bjVNVnVFX210WnRpSWp1dEQ5T2dYeWp3WmkyYmRlR3Mwc3B0UERYTkxiNFVweTZ6b1lOZ0ZySThv?oc=5",
+      "source": "톱데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T07:23:12+00:00",
+      "title": "현대모비스, 램프사업 프랑스 부품사에 매각 - 노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FOVVvaFd0bDdlZURGSHFLTkEzUXEzQ0FXdXdXalVPdGJDWHlQLUdXaFdBTVdXaGdtejdBZ19FbDA5NTJ3TGlTWVFPa09ZLVRjSnc?oc=5",
+      "source": "노컷뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T07:21:00+00:00",
+      "title": "현대모비스, 램프사업부 매각 마무리…'선택과 집중' 본격화 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UVGNZMzdnRm0xdDg2Yl9BWVBlZFJsZU9QTXZVQUJvUjBRLTZyQUxkRHdjTnEtVEl3NkZVWmUwU1JyVFpxdm5fQnhFZVRjd1k?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T07:19:32+00:00",
+      "title": "현대모비스, 6000억원에 램프사업 매각 확정...내년 4월 물적분할 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05eEQ4d09mU3lIMlVCXzVnNFdnbjBSSHRaOTk1UXRjRlFsT3pfa3A0QkNiQ09vMjNsSXl3Qi1YNzZlQV9PR3NLS2gyOVVMd25XRVHSAVNBVV95cUxNMFkxX3FsLUh2RFhmMmNFOENRNXdldXJHamk0UGJLcEpnbDZyVHR5ZFhFZE1Rb3BGQ1hTQ2VIakNmQmJtWkZHNTIwNWRIYklJeXowRQ?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T07:18:09+00:00",
+      "title": "현대모비스, 프랑스 OP모빌리티에 램프사업 매각 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uNzdyajFmWlhPQlZvWmphV2s0Zk80V3BrZTQwTGZYUHNSeW5yNk53U2haTm81MXB5dUN4Z2hqdnNwQVdJV1QtdXNXYmNXVkRsTXVRTXVPZ1FXSTU4RkpfemloMERLZw?oc=5",
+      "source": "디일렉",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T07:16:00+00:00",
+      "title": "현대모비스, ‘매출 1조’ 램프사업 매각 확정…내년 4월 佛 OP모빌리티 품으로 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QNGw4ak5KTjJpcDJjdnB3d0hrOVZTYmZvdEpJM1pQU3JjRXR3bXVRZjNpWjJycUNkUmppRmMxajZhMHBvVGotZjdONVd2N1E?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T07:12:35+00:00",
+      "title": "현대모비스, 램프사업 매각 본계약 체결 - DealSite경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tbGQ3QXAzeVJnTlVaRmIxS3h3UzhmcWFQVjdTcG1TR2NNdGNwWlFOZF9pQ0NFMGJ5SFNsbnRqYmZCTC1vN0l3enpzNXd6LUg0V2gxVnJn?oc=5",
+      "source": "DealSite경제TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T07:07:45+00:00",
+      "title": "현대모비스, 램프사업 매각 마무리 수순…\"신성장동력 제고\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YdmZpN0h0eXlPWU9OUWd6anZFMkl1OGpiTi15TGNoMmNXV1JvbzY1NWQ4Z1RSWFllSl9NSmktU2dDbS1nek42SFp5N0lJMlM4WnNIQQ?oc=5",
+      "source": "v.daum.net",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T07:06:00+00:00",
+      "title": "현대모비스, 램프사업 매각 마무리 수순…\"신성장동력 제고\" - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vQzVGeUE1M2JqY05YdFZKQ0RBLURiYVlvTndPZW44ekNYbXY1OWw3MzhXd1NSUlBUc0RxVHFOX1U1d2pBMmpZaVZKbzdpUUJXYU1MYUJacE5zX2ZyM2ktT3dsMlpBTHc?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T07:05:00+00:00",
+      "title": "현대모비스, 프랑스 OP사에 램프사업 매각 본계약 체결 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmFhR21GRUx0UkJiWFlhTkFxN2wyWHVzRVhMZlJFNGpHc2NOZmxpVXBwX0dxQzYtempfWHVHbksyUnpwTFJyUFlaMi1aNy1nMEtzV083NDluOTdRUEZWT0ZNS3BOSVdBS0FtcnlSZU1WWkZtdjBOZWYwbDkzU0pQNWV1bw?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T06:55:11+00:00",
+      "title": "현대모비스, 램프사업 결국 팔았다…내년 4월 분할 완료 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15WGdPS2lpNnhUM1FjODdXcFpaTm5qZUJFNzRmbXh6ZEV2QzM3eTBaaHh6cW1hOWpiU2tpRlUxQW9MS3dWQm9qX0MwVFZUTDRhSFZ5WUFmY25JRmFqUlo1Wng3MHA0VWdEc3VMeEtDY2NrQdIBckFVX3lxTE15WGdPS2lpNnhUM1FjODdXcFpaTm5qZUJFNzRmbXh6ZEV2QzM3eTBaaHh6cW1hOWpiU2tpRlUxQW9MS3dWQm9qX0MwVFZUTDRhSFZ5WUFmY25JRmFqUlo1Wng3MHA0VWdEc3VMeEtDY2NrQQ?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T06:54:19+00:00",
+      "title": "라이드플럭스, KGM·현대모비스와 MOU…양산차 AI 드라이버 탑재 추진 - 헬로티",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55UUpVczRaTFByc19FTjNHbklXLTIxMk5uZDd5aHV6d2V5MkZKaDJONllYaUVDNE5zV2gwTk9zYlZRakxyYldYSXBOQUpJM004ZUJKbDBfM0tPdGdpUDcw?oc=5",
+      "source": "헬로티",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T06:54:02+00:00",
+      "title": "현대모비스, 램프사업부 직원 반발 속 본계약 강행…노조 \"가처분 검토\" - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hUG16TUR4RDg5NGdwRHVOd3B4S0ZZRVpRRXFwXy1VWG5lOHJNRmpGWmQ0WU1Sa0ozUVA2aWdxVnI0dEtkQndreWU1eldYR1N4TDl2Q2lB?oc=5",
+      "source": "지디넷코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T06:52:44+00:00",
+      "title": "현대모비스, 램프사업 매각 본계약 체결…“선택과 집중” - 뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ycmZEOHFHUW9UUlpXYXRPLU0tRXA5a2xLSWE4Y1ZFUDhidDU2X0E5R1BOMTFsLUN3bVZ6Q2p6cEZCMGZtcGRDMEZtUXBfR01NYlI1STNzb3A5aDM3bzladw?oc=5",
+      "source": "뉴스토마토",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T06:45:44+00:00",
+      "title": "현대모비스, 프랑스 부품사에 램프 사업부 매각 본계약 체결 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JZUxycF94VVFQWW1VNW5MbXE3NW00NTRDaGZlU0cwaXF1ZFBzRy14OVVLVDNhUlNtbWhPaGlqVHBXb0pUVURzbkpscldkTFNob0RGVjZnOUtCQzFyYUFxRmpOT3ZhRlJqZ1IwNWFtQkk?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T06:43:35+00:00",
+      "title": "현대모비스, 램프사업 매각 마무리 수순…프랑스 OP와 본계약 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZDVtVmpQTmpVREpoanNKc25qdWFIN1hTczZkMm1HTS12bUJ3QXBXUHRmeDV5TGwzMzBlQWdSc2U3Q2VRcm1PbjgxUTc1d0oyOVVEWVBfNGNGVTjSAWBBVV95cUxNd2J5OWVmb3Q3WFFCc2tCOUtFeTBNU2NldDJQYXhPMWVQaVBmVGxObUZkUWhEbHdMbFhnQjNySXFXUmtSYWNmeWJmOVMzSTBSSXQwNXlFME83SmsxYllOZVg?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T06:42:50+00:00",
+      "title": "현대모비스, 램프사업 매각 본계약…\"핵심 사업 역량 집중\" - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWRHBSRnhPUWIxc1d1NmNSQkJwbkV5d2lLSlpzUmprX3k3OU9TbnJ0LVpBVHg2bDVzc0lNRjYyT2ZjYjFBOHQwWmJtUGhJczF4STZ2bEdtVTlxZw?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T06:36:13+00:00",
+      "title": "현대모비스 램프사업 매각 확정…OP모빌리티와 본계약 - 대한경제",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeG96dWd4ZjN3RTZsbHItYXRMNHNTUWRiTWFzTVpWdzBhWXQ2UWpSMVlBb2t5TlhvN3JMdVctdnF6aW1CRlJMWDZMeVgzTVJNS29PWUlWT25RbFpnNjRTMktyRGxSVy1tN3hyYmVfQmN6TzdmLWZ2cUNjVkVySHM2MkN6NUM?oc=5",
+      "source": "대한경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T05:24:49+00:00",
+      "title": "현대모비스 램프사업부, 우여곡절 끝 6000억원대에 매각 계약 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3TjFMQnBtc1UyNkFHZ0NhMVhyb3hKQ25UbV9aSWtYUXZCVUtTemt6cGU1SG8xNjhGbEtHSjZUSzlOY2tQTlFVelZQcnUtWkx6Z1drYmMxSHlpZw?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T02:51:18+00:00",
+      "title": "현대모비스, 차량용 반도체 국산화·SDV 전환 지원 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NTHJlVGVicXJfZFY3TWRJc1g3bkVuUzhUMVlZWkFtdXBteV80V1N0eFBTamUtWDdCNjVzcjZqclRkSTRjalgwQW5zN3BXVVc3SlI4WXBtYm90WExiQlRlS1Q1RldCdw?oc=5",
+      "source": "디일렉",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T01:39:00+00:00",
+      "title": "현대모비스, 산업통상부 주관으로 ‘미래차 생태계 구축 협력’ 업무협약 체결 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KLWQzQUpQQk5GRElyV2NieFBNODdDdjEtdUJGMnJwOFF6aDVobG1YYlU2cm5UU2VhUlpYVGpRb0hESkJTWEtSN2JSMDNNd3dManItNDkxN2lmd3RLZ3dNQ1hRemlaN3lmbUZkdjFUX0FOQ2NlRkM3c2xNX0RjQjTSAZMBQVVfeXFMTXZXUXZONVVTX2lldkNwNmJUUFlPVnVBcm1BLUR1ZGhkZGc5T085Vi1RMjYtS3d1azNqaWZveElyYjRqZUs1bWtQdUpYTnBnWG1ENnhSZTBPdURaNG9EbkhtQnd2WFJqMG02Q25PNE9melk3dzNqS0RxaGVZRUpGWGpYSU1OVkFwaXVhcGtnUFFjUGpj?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T01:34:48+00:00",
+      "title": "라이드플럭스, KGM·현대모비스와 맞손…완성차 B2B로 AI 드라이버 확대 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qQ2pxZ1FIMk1IUElrUHdQdmJPWnI1RG90S1ZYMlV4blFFNFRVUnExX200Q1RZeGtOWi1Zb3RtWTMwY1NqZ28wNWVBYWpSaWl0aFZqOG91clRVU25VLWxOaQ?oc=5",
+      "source": "아시아경제",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T01:22:16+00:00",
+      "title": "\"車반도체 국산화·상용화 확대…현대모비스, 산업부 'M.AX 얼라이언스' 참여 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiWW1rX0haLTdneDdVMXRsVlFZd2l0X09nTlNXdWdnaG5RR1MtM0tzcnR4RnBfMm5GQ2NlanB6aFNvN21lVUc2RkJncTB6Z3dnMVFCZjdONkNIQQ?oc=5",
+      "source": "한국경제",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T05:43:20+00:00",
+      "title": "발언하는 양동근 울산 현대모비스 감독 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ycndKalJzVVZhYmw4cUNLZzFGeFdsMkQzN2VWVlVxXzZKdm9xX1REeW55V2xoYXh5eG9RZUthemNMdTdHWThJLV9XYXFZYkJET3JoZHRFOUc4bWJNSEtqSNIBYEFVX3lxTE8ycndKalJzVVZhYmw4cUNLZzFGeFdsMkQzN2VWVlVxXzZKdm9xX1REeW55V2xoYXh5eG9RZUthemNMdTdHWThJLV9XYXFZYkJET3JoZHRFOUc4bWJNSEtqSA?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T05:30:28+00:00",
+      "title": "포즈 취하는 울산 현대모비스 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlWkt3UGU4a0tlVFRuLWJiUzA1WjhvU3U3NVh6bTJzZHA1cmVDalRsODJaU2tvTWR1WUIzVXpua1hNUC0zSm5TOTNtX1Y4UW1FcmNyeGhLM21FNWFteGpROdIBYEFVX3lxTFBlWkt3UGU4a0tlVFRuLWJiUzA1WjhvU3U3NVh6bTJzZHA1cmVDalRsODJaU2tvTWR1WUIzVXpua1hNUC0zSm5TOTNtX1Y4UW1FcmNyeGhLM21FNWFteGpROQ?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-09-29",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "count": 43,
+      "pos": 4,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-01",
+      "count": 13,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "count": 10,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "count": 12,
+      "pos": 3,
+      "neg": 0
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-09-29T05:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T01:00:00+00:00",
+      "count": 3,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T06:00:00+00:00",
+      "count": 8,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T07:00:00+00:00",
+      "count": 12,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T08:00:00+00:00",
+      "count": 10,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T14:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T21:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T23:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-01T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T01:00:00+00:00",
+      "count": 3,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T02:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T20:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T01:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T05:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T07:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T22:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T02:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T03:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T06:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T09:00:00+00:00",
+      "count": 6,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}

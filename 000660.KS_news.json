@@ -1,0 +1,1033 @@
+{
+  "ticker": "000660.KS",
+  "query": "SK하이닉스 OR Hynix OR 000660",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-10-03T12:26:39.255935+00:00",
+  "items": [
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T11:20:50+00:00",
+      "title": "마이크론, SK하이닉스 턱밑 추격…D램 2위 경쟁 ‘초접전’ - 뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAteldFNmpKSHpNVVg2X2VNNURBbkt5OTNiT0FaQm5GWXZGWG10NmdtVmJlQXJDYU9wRGl3ekotWjhaN1hTOUs1aGdiMkRRaUt2ZHozZHliRzZnc2NwUDBZ?oc=5",
+      "source": "뉴스토마토",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T09:16:47+00:00",
+      "title": "\"합격하면 바로 자퇴합니다\"…서울대생도 줄선다는 '이곳' [시선'칩'중(上)] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NZW5kckVMSDZ0RGpTTUZTY1M2ZnFSTGRKZG1FRlgwaE4xWkNtWW1XYXN2TXYxRnF4U1ZXX2FCUjlvVEEtMlVWdE1aRzJqSkZNNHc0VllVVF9tUQ?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T08:09:00+00:00",
+      "title": "SK하이닉스, 솔리다임 상장으로 자금 조달 노리지만 지분 희석 우려에 주주환원 압박 받는다 - creditnews.kr",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IbmNLZTBLMzNoR0wwX0tHRHEtVWt2TldxejlzRV9xclk3Y2tEZUNGVXl2aHlyQlB6R2g4UjBvSDVHNnpBNlJkci13ZXhhRUNNcFBWTmk4QWhzVld2NERfenV4cmx4SUNaSXdV?oc=5",
+      "source": "creditnews.kr",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:53:00+00:00",
+      "title": "생산캐파 30% 차에도 마이크론 턱밑 추격, 'SK하이닉스 위기론' 실체는 - 이코노미스트",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94NEpSa2V1N3pZY0hWWGhMYnBxWTJuRVM5TlRpdWw4TFgyVkZzRk5xZEQtVEZZbXdEVVd1clJfX21CUkl6Y1JoRlVUQXhwVXlQNmpjbk8xN0tUYzFYZnZrSTNR?oc=5",
+      "source": "이코노미스트",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T03:27:00+00:00",
+      "title": "마이크론, 2분기 D램 점유율 24%…SK하이닉스와 1%P 차이 삼성전자 38% 선두 유지… : 기업·산업 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fXzVtbXVkNV9UdUI4a2swUVd1NF9XSUktbU8yZ05Ua0szU2N6LVFxTkVKS1diek1OQnF6YS1MZWZMYi1KdFFBOWJXYw?oc=5",
+      "source": "재경일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T02:37:24+00:00",
+      "title": "용인·함평 반도체 자매도시 결속…이남오 함평군수 SK하이닉스 팹(fab) 찾아 - 수원일보",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BYkRncWF5M1JkNmZLeVdZbGd2eXczcTVHdkhJYjNnVE0yVjhjb3lNZjJ2eXRqNXI4N25vWEg5Nzc4V1FDVm05S3lsZ1BYMDZEbXFNNmxJWGc1NThNUmF6X3VleVBzdw?oc=5",
+      "source": "수원일보",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T01:45:02+00:00",
+      "title": "최근 5거래일 SK하이닉스 주가 170만원대 후반서 180만원대 중반 진입 - TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RZWRIZjJuYkt0UnR0UF9XVTJ6dmFfOVhENjMzWkhxUUtCQmp0bGZvZUlhYXpnckZialpsbDFoVDhldElLc2tpRUZLUGNGS3U3a2tadlFQWFo5bzZmY20xNDNZODdKbllIQS1nUDlsck5mUQ?oc=5",
+      "source": "TopStarNews",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T01:41:27+00:00",
+      "title": "이상일 용인특례시장, 함평군 대표단과 SK하이닉스 용인 반도체클러스터 현장 찾아 반도체 산단 조성 선진 사례 공유 - 한국소통투데이",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oYWRuRnVoV09jemN6OWNQVU9ZS0FrcHZfbm9kdEx3dG03d0xKeUV6SUNWa2lULUktWS0wbUhwN0tGRVZyaExsdW1HZnRGY1dBTmNfOGRSbnN2MzQ?oc=5",
+      "source": "한국소통투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T23:00:07+00:00",
+      "title": "SK하이닉스, 솔리다임 美 상장설…'주주반발'·'자금조달' 딜레마 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZY1FrcWNRTUoxV1N2RE40X24xSWZNOEwzQzB5TFhDUk5MV1B1emxTa2Q2ZFJrd29HZmlqZk1ZRzViZTRyWkNZTU1Ea2pLb1lDY3lyWkpqSlJCVEtzWlFVOGZZWlg?oc=5",
+      "source": "서울경제TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T23:00:02+00:00",
+      "title": "마이크론, D램 2위 SK하이닉스 턱밑 추격…점유율 격차 1%포인트 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01bGVtd0F5UjlrMXkyNjhIeURyUThHRVRobGoxNXI4dE9tX24zNEtuUDRZVXBzU20wNGV4SEhEbDEyWFBHWDRiNHI4czlUVkRDemhSSHpn?oc=5",
+      "source": "지디넷코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T23:00:00+00:00",
+      "title": "[주간브리핑] 앤트로픽 경고문 80쪽, 그래도 IPO｜SK하이닉스 이익률 90% 상한｜TSMC·SK하이닉스 시험장 경쟁 - 콕스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zRC1pbTVqeGRhc0w3Qm9EVUF4NXhsMmEyU2FXU3NZaW1zeVV5My1mMXpZb2drTndtYmFBVUVHY045MG15VzQyaVVFX1pjOHZiallhVVNFc2lsTFZCbXdpNklYZ2dCbXo3c1E?oc=5",
+      "source": "콕스뉴스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T22:29:13+00:00",
+      "title": "[주간e종목] 윈팩, SK하이닉스 물량 4년 만에 수주···주가 급등 - 시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xY044OTZFbWFiR3pMV2xQQXVGWmVMY21DWklPZlhYVi12Z1MwSWFfVUQ1NDZQdWJwd050S3BlX2NJYkVILUNGV1A4RWNoQ3V0Yjk2R2k0T0N2M3VWamlkTFA3NURCT0F1Q2xHbG9FaUpONnNob2fSAXZBVV95cUxNcWNOODk2RW1hYkd6TFdsUEF1RlplTGNtQ1pJT2ZYWFYtdmdTMElhX1VENTQ2UHVicHdOdEtwZV9jSWJFSC1DRldQOEVjaEN1dGI5NkdpNE9DdjN1VmppZExQNzVEQk9BdUNsR2xvRWlKTjZzaG9n?oc=5",
+      "source": "시사저널e",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T22:10:00+00:00",
+      "title": "코스피 7000선 회복…SK하이닉스·LG에너지솔루션↑, 삼성바이오로직스↓ - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Hb2U2bUtiS21NamJuckN1SzJCUVFvU3dUaTlaN0llSGgxSWRVVUR4U19vWEhpNjJLVTlMNEhGMGI1Y1gxRmJYQzRoWUI3NTFwNjVjNTNpVVZ6U2ZMRjIyLUZrMTFnV0Qw?oc=5",
+      "source": "CBC뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T22:04:57+00:00",
+      "title": "[주간 거래소 외국인] SK하이닉스·삼성전자 폭풍매도…우리금융지주 SK이노베이션은 담았다 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SZmlRTG9oTEp3OWVWV0RLbEFpZ09TSkZtMVY4elRLVVRFd1YzNnI0bkprOWFpSUtSX2owQmJnZHgxVlppTGZUWHRodTNYcDJpTWpiSG1VUVVVWk9IdlhKamZCZWl5Vm9hOWlDZkt1RUNkR2vSAXdBVV95cUxQZUYwUGR0eUtvV2pnU3d2amNYTkwwMWg1d3gtUWthTmItcW04Mm9TMzd6UG8yLVBlelVYWDltMlNHRmN3YUxXSUY1Ym83MGY1bkd2a2FBRmJEazg3YmkxZWlTWjVnWjFzUnU1SUE2a2pqbDhaTXdoSQ?oc=5",
+      "source": "핀포인트뉴스",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T21:21:02+00:00",
+      "title": "이상일 용인시장, SK하이닉스 반도체클러스터 시찰…함평군 대표단과 산업협력 논의 - 팔당유역신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uel96VmZoZXFmc1NnYUJvREkyMm44UHRnWGYydEl6amxSRWJiNTdzczVwV2dHenVuUGdvMXZhSUxmRzZZdU9pT0cxUnNfYlhUUUNld1NvU2ZRSGp4cEsyR1NrQVJ1MFZGSEtB?oc=5",
+      "source": "팔당유역신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T21:02:08+00:00",
+      "title": "KB증권 “메모리 상승 사이클 가속”…삼성전자·SK하이닉스 최선호 - 스페셜타임스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DQVctcUk2YUw3bnJNb21BdGs4TG9WR0dmSExTVGJvNXpYSWtHakVoQXRRTzB3YmpMMkoxLWFxRkEzd1prQ2Rjc0NmTUlLVXJXdzlWTlZ3TUJ3SmI0eUhuSExEVWNMeDl3OEVLcllqaWNjWTg?oc=5",
+      "source": "스페셜타임스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T21:00:00+00:00",
+      "title": "[베스트&워스트] 씨싸이트 75% 급등…‘SK하이닉스 수주 확대 기대’ 윈팩도 ↑ - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1YVZoN3I2U1hqN0xXUWZJY2ZScThfcXY4V3pLU3V2cm02dnRWRHhUZWctZlZ4OEtmaTNnZnEtZ2VnbkJBOHVKUUlHS1JNVFNYd3dNeQ?oc=5",
+      "source": "이투데이",
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T18:50:24+00:00",
+      "title": "블룸버그 \"SK하이닉스 대규모 상장으로 3분기 미국 IPO 시장 활력 유지\" By The Guru - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOdmNFLWRzbFNsM01JajdBYVF1aG5pYlo4VFNrNy00UEI1MHlwZlZ3OGlqcmRNdnZIWGV2Rm9kekd1YjVLblhjSVUwMW1OYV8wSGJrSnJ2cVM2ZklCOG90eDFlaS1jd1A4Wklrc1dXS0M?oc=5",
+      "source": "Investing.com 한국어",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T15:56:00+00:00",
+      "title": "‘중복상장’ 우려에 입 연 SK하이닉스… 솔리다임, 美 자본으로 성장판 연다 - S저널",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sNFlQdlg0MEI4c05vdGt0aVhoYlBxLTcxQTRUQWVtRDk4dFVwbHpaekM0UEJIMjlhTnNjOVR6ckd6X1paMUY2Mm1OYkRIUklKOEFUWkpQX3JSTGw5anhvTHJCdmRXSWxLSzYzMnpR?oc=5",
+      "source": "S저널",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T13:46:00+00:00",
+      "title": "이상일 용인특례시장, 함평군 대표단과 SK하이닉스 용인 반도체클러스터 현장 찾아 반도체 산단 조성 선진 사례 공유 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1djdiX05oZVdyQm4xaEZxeEV3V3hWZm1GVVlORlNtcG56RmpscGdtSnQwY3BJMTJfNGNHT0VlSGJFZDBzaFg2U3NnWFRQVUh1bEd2azRIWkh5YllhckxfaS1YbFk0UnhGUjVnWGtWWHg?oc=5",
+      "source": "더코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T09:17:44+00:00",
+      "title": "'삼성맨'의 눈물겨운 SK하이닉스 '물타기'⋯\"석 달 월급 몽땅 넣어\" [개미열전①] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FUHlxNlQtQUJxS0NQWXBOc3d4UXlmd05lWFBDejB4UVZJcWdYMnhYSGJkckU5SjNOWjRxQnlxaDdFWEt1enZ4dWNQUFFEQXM?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T08:33:46+00:00",
+      "title": "'삼성·SK하이닉스' 용인, 'TSMC 日' 구마모토와 반도체·청소년 교류 확대 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MVWlLbkgyVUNTeUFNNTUyRm1jUk1YZGVjMDhvNHEwWnExMzFUWlRPVHZIemhfbWRoNlBhSXhSeHhfN0lEQ3psWmhpZHZ3TGE3YjhHdFB30gFbQVVfeXFMTl96aHJ3UlZFWHU2OHVHaWhqWktxRDVzNnhodkpyWjlscTF1Vk1jNDZReVRCXzdBR3M3V3BRMEJYTzQ5MzJPVjZ3T3ZtY29Nc0tWWDRxZUVYUnJTRQ?oc=5",
+      "source": "뉴스1",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T08:15:55+00:00",
+      "title": "美 마이크론, SK하이닉스 추격 속도…D램 점유율 격차 1%P - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zcHBOdHl3c1ZDOXMtN2FnWWhaNDRuVGt6aGpjTEo0OF9wbWhtNmhvME1MQzJrTWRGWkJkVmpldzZBNzEyMDJZRTdHTW9zVkpCOUdmRWU5WGRvZl94NXZDcVR4THY?oc=5",
+      "source": "매일일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:52:28+00:00",
+      "title": "SK하이닉스 뚫은 씨케이솔루션, 올해 수주 5000억 '청신호' - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZNkRud3JLR0ZYaE1RVFZtSTVzTGRlRXU0WWJKSF83T0dubFQ2M2NsOHpwMXZSR2NObXFwZUx5bjFoeDQ4OG0tZ1llckItUFc4emJfNjkzZzF6b3UxZHdoVzFPUXN3UQ?oc=5",
+      "source": "디일렉",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:21:46+00:00",
+      "title": "삼성 D램 1위 독주…마이크론, SK하이닉스 '1%p차' 추격 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBORjQzbFdlU0dPTXpmNzN1dlRpcjNVNnlzc2dfSEJMelVwd0hWMHFOVFQ0Z3dVbTFscmFsd1VELXhPQ29oTGpQNDUxX0Niem8?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T06:16:23+00:00",
+      "title": "D램 1%p차, HBM은 32%p차…SK하이닉스·마이크론 엇갈린 점유율 - 아이티데일리",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZSERCVUdyNnN3VE9BTGJvTDRCb0JqaXQ2Z0JCLWhZN1dzQWdENXR2dTBNVjZoX09iTmhwNUtYaGhVZ3VpSG16TGZTeEhza04wV044QXdjLV93SF9DendWWFdvaUVxZEZE?oc=5",
+      "source": "아이티데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T05:57:17+00:00",
+      "title": "한전-SK하이닉스, 반도체 전력공급 협력…용인에 5.5GW 전력망 구축 - 인사이트N파워",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aQWxCcHlOM0hhMEhaZDNQNXRETzZsUjhqSGlIRTRiemlVWUsxTkJJLUVIX2ZUSFpTUUhmU0V2bXpELS1DRzdMV3p5QlZQSU9XX0tNbEVzVGhmRHpXS0c2YzU5ZGF4dw?oc=5",
+      "source": "인사이트N파워",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T05:45:17+00:00",
+      "title": "‘어닝 서프라이즈’ 거둔 마이크론, D램 시장서 SK하이닉스 맹추격 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsWkFfdmdfRndMNUJBX2dTLWFULVdBTjF6TjBfRWFpM0dXWV9XcTFlaGoybDBKcDBpWXg3ZFg4TXRBbVBScGlaOGNtQVlxckloQ1HSAVNBVV95cUxOR25qMXlvZVN3UEMzUU9YQTNGSnI4MnBCck9qLXUxZVJkbWUtSEJ2dkJicnhnLW1qbnl5YWpOOHg4UTJfNlV6X2tZSmhXYi1LUGhScw?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T05:10:44+00:00",
+      "title": "마이크론 2분기 글로벌 D램 점유율 24%, 2위 SK하이닉스와 1%p 차이 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBka0l1Nk9MWUZYUGFSR3F6dzkwMDBQN01IMkx0WjlkRmlReDdBYzRoZGNNRXl1UGxIY0dGM244R3VqMXg1MHVKdWZVeXdGVzgzSlY4Vm9PV0gxY0Zwb2pfOXlSbGV2VHJ6SkRfckNfQWdwbE0?oc=5",
+      "source": "비즈니스포스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T04:29:48+00:00",
+      "title": "마이크론, SK하이닉스 턱밑 추격…D램 점유율 격차 1%p - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3UGlabG5qRkNOVXBCeVBtbFBQVjdoZ1FTc1ZpaGkweThwUG1vQnFFcGRKbEduV0JId2xnczdQMm1URnprT0ZIaG1YVWFFUG5MemhFQ3JMeFZJWkNuX0hYdnZaVVpXRjgtS0lTN3ZNc2NUdUE?oc=5",
+      "source": "마켓인",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T03:07:26+00:00",
+      "title": "마이크론, 2분기 D램 시장서 2위 SK하이닉스 1%p차 추격 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZW9UUVJheU50RkxTZXM5UW95ZFVJM0FJSnZOMllBVGgxakRfMUlXd3AyT0YwTjNyVkVqVlY3QWFXNTQ2U0RMZUFFRmZLenBuOHFQYzllU2ZQeTMwN3R4ZTJKU1BXU0d4S3dqZWJNMUFHYzl2Unl4V05JRDJsZG5BN0h4WERqdw?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T02:49:13+00:00",
+      "title": "‘최대 실적’ 마이크론, D램 시장서 SK하이닉스 1%P 격차 추격 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PS2VOQnJ5OHB5c0NrZnlXTGFrc01QSmN6blFfMjlBTmJRbXRBNzhfcFpjOG1GNGEyLUxBWVhQWHdVQ25TWFdXU0lVelRlR2c?oc=5",
+      "source": "v.daum.net",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T02:25:31+00:00",
+      "title": "삼성, D램 1위 독주…마이크론, SK하이닉스 턱밑 추격 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IQ3Z0OUlzMHhyRnlMcmo4M25VTmpPcnJXdkgwTi1ocFUwSUV4QXVBTTgxbkZSaG43VnlSa0VvUjZjUjNlV2VJTWx1el9jOHNTQko1RGoyVDFsWERmTnNuRw?oc=5",
+      "source": "아시아경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T02:10:01+00:00",
+      "title": "삼전닉스 자사주 매입 완료 수순…삼성 100% ·SK하이닉스 이달 중순경 마무리 - KBC광주방송",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfZTJJTERta1F0QXBxOER1b19ZUUw2bEFBSmxvQTFDZmhENmMwSS1qTkRnQThIbUhDdkVSV3RMREtWc1BTRGZVQ25JMnBFN2JPNGplSmNBUmx5VlBsZzdWcg?oc=5",
+      "source": "KBC광주방송",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T02:00:00+00:00",
+      "title": "'솔리다임 상장' 입장 못 내놓는 SK하이닉스…IB들은 논리 마련중 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN2NqNXhWVDNhRjljUWpSQmd5SGxvd0NOdFp3a2NCSklXMzdnODZTUF9SUDRHM2hVVEZ6djRnZUViZXVzWjF0QU9ER1hjUWo3TWVmYXFjZHI5Q01ocHl6OHl1dkdQWVdSWnFhNjFTMnpaMTU2QVVzTFRURjB1NjBnYjNtTQ?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T01:47:36+00:00",
+      "title": "마이크론, 2분기 D램 시장서 2위 SK하이닉스 '턱밑' 추격 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pRWs5TDdRRFlCTTNzcnV2UWpKbzl6OEo5bllFWi1nLUl1aE44TTRPSUNURzM4WTM1Q0QxNGJUbFllbGxZSXRrZFNTMkJZck83aEhIbWFMQUVfbzTSAWBBVV95cUxPS2tFZFBZU3Y4d3NRSlFkXzJsVkcxV3BzYUdjc1E5TVJxV3pSYmU5SUJ4ZDlWNkJvd051SE1BaTZXZ3cwY0NlYnVISVpsejkxay1qYTAxX1NjYU5YTXVQZTI?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T01:43:21+00:00",
+      "title": "삼성전자·SK하이닉스 ‘자사주 방어막’ 걷히나…증시 수급 공백 우려 - dt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6RkVJUFVja050WGJndF96MHZXWXVrQ09FQnM1ZTZRSlhETVJLWWNSN25UUVpid3h0Rml1eEtaYVVqTnVsMklhVWlVY2ZEUQ?oc=5",
+      "source": "dt.co.kr",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T00:49:02+00:00",
+      "title": "[특징주] 삼성전자·SK하이닉스, 하락 출발 후 낙폭 좁히며 '보합권' - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSms5LVczcTQ5XzlZMG9IdFVHOEVkY2J4MFczWUpvRF9BcjRBd01oUmhjX0RZUmx3Y2RpWHBKSzQ5eFh2UjF3bGhWVHppSm1kNlpsVjVNNFVrbGVUa2FHVTMtekthM2xuUFVHV3Jvd2pmemxhZzg0Qzh1RHdIWmZka3hmcTBYMTct?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T22:05:59+00:00",
+      "title": "[속보]SK하이닉스ADR 5%급등, 마이크론도 3%↑…금리 상승에도 반도체 강세 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5bnNfeWdERHdjV3FnZXhQYlZoU3k1Y3pHQnpBNVpOQkFjd2d5UG1OUTZFc3FzUG8tcTBjQXFfcmRoTTMzX0tvdW5LbThWa2d1?oc=5",
+      "source": "문화일보",
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T15:30:00+00:00",
+      "title": "SK하이닉스, 솔리다임 美상장설에 “주주가치 최우선” - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UcDd6aGItdjNVYmp2bzVEcUJQa2hiN3dTbV9hcHAxUURhWkFwTXEySi05bXZ3ZFZVRkUyYnZ5c2pFbV85cldDQUNJVFcyTFdYaUh5MzZ3NWNUVW9ySDJLQ1NibnRfdHJocWhmemVYcWlpTkpobGfSAWZBVV95cUxQWWVQM1B1WkhhTExTUXRZZnlyeDdoWEVreGdpQVdYM1dzdlNKM0xzMjlYN0JuOUdPcWFLaEFXb2dmdUdidzlDN3VkYk1Ickt5b3I1aGh4S1JLTjFwa3lwMk1ISl9CdWc?oc=5",
+      "source": "동아일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T15:15:00+00:00",
+      "title": "\"반도체 업황 긍정적이지만\"…삼성전자·SK하이닉스 대신 '소부장' 쏠리나 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJOGhBaVlNQzY2ZjFzTENQY0RWOEoxY0F5Ynp0V20ySTVXc3ZaZ0VpOWNHeDVRUVpfdGIzTWRaUjh6WlRXcW4xejZCSGNvOFF4aDk3YWdUMDU2MFQyVEoyRNIBeEFVX3lxTE9vckdSdkVIRWNhSDhjalhzeVBfM1puaWdhWjAwUXQ3UFVYdlNuSmxGRG5DRXYwcGZBcTczeFhVWS1ONDZVenZnZEF1Ny1wVkRCWUlDWkRMTjlEWEdJWDN1MWNLU1U0enRHck9aeWhfNzdLS19oTTMyMQ?oc=5",
+      "source": "뉴시스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T11:15:50+00:00",
+      "title": "SK하이닉스 내년에도 ‘장밋빛’ - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WaHNtR1ZnN1hCSGR5Z010dVpjQWtoOG5kOGw1NGxOcFBzQVZXeUg4alJLRU9PT0xBM0YyVkN5ejRxaV9xbUs2VnkzTEYzenM?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T09:56:36+00:00",
+      "title": "[포토뉴스]한전-SK하이닉스, ‘K-반도체 초격차’ 강화를 위한 전력공급 파트너십 구축 - BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xRlA2TzdfSDlicV9ud0NJV2VlX0RxdEtPSkRFTDBxRi1UcTloLTZ1MmxHcnVJVHdSZ2EwRi1zZWMtLVdHcDZBekJhQ0QxNXBESnNxTkRTc2xuRjFJZ3BqYkpfY0VDaTBJT01z?oc=5",
+      "source": "BBS불교방송",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T09:55:08+00:00",
+      "title": "[이슈체크] 마이크론이 확인한 ‘메모리 호황’…삼성전자, SK하이닉스보다 더 오를 이유 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uOTJaSHUzQjBSTURhY3RLalBJenY1Z1lzTjNlNGFmaWpLNWRxeThfYTdjQS05S0dVTGR5NFpCOHZqcUZUYmNjY1BGMzRwTkk?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T08:28:21+00:00",
+      "title": "한국전력·SK하이닉스, 전력설비 안정 운영 업무 협약…\"K-반도체 경쟁력 뒷받침\" - 팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PeFlsQnM3NlhtcW5VZDdJSHYzX0NvUlhEdDR5NnMyTFF0S0lMeTRWd2JqRkpuSkx5V0hOd0VEV2NpdU1JZUpBcEFyVDE5SnJXMXdmcjlRUkU2YVNiUzVxZHlWWlVPcUcz?oc=5",
+      "source": "팍스경제TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T08:18:33+00:00",
+      "title": "'반도체 신화' 삼성전자·SK하이닉스, 올해 영업익 650兆 파죽지세 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoRjhnYW1mMmVjcDVmOVIwWTdqN0RJaXByMm5fTGlZMDVFVjI3OV80Q2hCeHZBMU9VNkY4WDE0bXBMcUdSblE?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T08:15:34+00:00",
+      "title": "한전 SK하이닉스와 전력설비 운영 협력 강화, 'K반도체' 경쟁력 뒷받침 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TdllHdjIwS1hLd25rcUJBbW16UHNVaVJabEtpellnS1Z4U2Z2TFV1eWFSSjhkbzVMUHVkTmo3VDloN2g4cktOYmZwTUJNcXFCckdfSmhSRWk3YS1Xc0ZQU05Ea24tLV9ZRDA3MnZ1OW5ZZW8?oc=5",
+      "source": "비즈니스포스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T07:58:00+00:00",
+      "title": "한전·SK하이닉스, 반도체 산단 안정적 전력공급 협력 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CQmQxQnh4ZXFVNXBqTlplMmlhOV8tZWV5dmxvRXN1aF8yWTkyeElsMzBsS29QbDBSRkZXRXBsek8xMHpTb05NVnFsNlBNaTJxd3lla01Jby1HUlhnN3h0T215clhQeW8?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T07:56:14+00:00",
+      "title": "한전·SK하이닉스 '정전 제로' 동맹…반도체 전력 2.5GW 지킨다 - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wMThodE4zT05ydE40MldpZEplQXBwTXpvU2pHcXk1b1RBcmMtbDRyTU1BaTNPQ1gzSjdZT2E5LW1Gal83bEZ1UjYwS0dreDBDMVZBeVEwbHhxbENXZjFKa0NrN08?oc=5",
+      "source": "에너지안전신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T07:38:16+00:00",
+      "title": "한전·SK하이닉스, 반도체 산단 안정적 전력공급 위해 맞손 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TcUxzMkdvMnJuazExdTMzZlNaTm5VWUR5UmdGT0xhcjFuNEY1TmozbmNycTNpM012MnRNREdTdl9INDhOdGhrLUZrNjByck5OcnFkRGZxVmprNUltTzlkedIBYEFVX3lxTE5TcUxzMkdvMnJuazExdTMzZlNaTm5VWUR5UmdGT0xhcjFuNEY1TmozbmNycTNpM012MnRNREdTdl9INDhOdGhrLUZrNjByck5OcnFkRGZxVmprNUltTzlkeQ?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T07:07:12+00:00",
+      "title": "한전·SK하이닉스, '전력 안정 파트너십' 구축…협력 강화 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85U1hrZnJhdURJYUxJVWpJNU81cGYxZWFCZU5DQTJZQ3BaQnVUVDZuOGUyQ2xoaG9tdlZ1dlhONVprWHBPVm9kdS1TVk5YU3BJdG1pTUE4bnNUcXp3QjJaRHFFajFFQlNJS2NpZ1l6WUs?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T07:00:17+00:00",
+      "title": "한전-SK하이닉스, ‘K-반도체 초격차’ 강화위해 맞손 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1reUROX0oycGkyUGdzd29Jbnc3bmxySXVxUHJMSERHbjhnZjhwYmJEWnJPWGhNTlIySWhiQ2I1eHNVd0VXZm40cEdzdkhzZFk2?oc=5",
+      "source": "문화일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T06:05:53+00:00",
+      "title": "SK하이닉스 하반기 영업이익률 80% 전망, 곽노정 생산 확대와 장기공급계약으로 고수익 시대 연다 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40aDZzclBzTXU5RDkxYkEtcTNFMmg3bndMU19KWTh2MTFnY1FvM1ctMVM4TEhXZTFHV0h4aVhqZ2tBbnY5d0g4RmNtYVI4UXA4dGtvcVdCc1dQSDVLN0Nfc0pjVzNCQkhVcnB4Mk1MNnZxUHc?oc=5",
+      "source": "비즈니스포스트",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T05:41:00+00:00",
+      "title": "SK하이닉스 “솔리다임 중복상장 우려 확정된 바 없어…주주가치 제고 최우선” By 알파경제 alphabiz - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NS2xnaFRiVlMyN1FRY3BTbldRZUdpVlN0SV92ODNuTlRPNS1EcF9ORkNjYWhJMlZiYTU4aEwtNngxQ19QRVd4cWc0QU54MTNtNW54VWgzekczUHhpbjVhTnI0aGtBSVFwcEJxWDFyaXE?oc=5",
+      "source": "Investing.com 한국어",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T05:30:17+00:00",
+      "title": "SK하이닉스, 솔리다임 美상장설에 \"모든 판단의 기준은 장기적 주주가치\" - 서울이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsanJCX2pqQmlGYXI4T1lEd1pZMWpHc20xNmpqTkUyb2NFUFpTOWY1dnVaY2txTFlvczFKTFFLQVFjNUlpR1hMOVNUNHdKVHB6ZmVRaEZVYUJCN29tSnREbUJTRnRkUk5tSThlOEhn?oc=5",
+      "source": "서울이코노미뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T05:29:48+00:00",
+      "title": "SK하이닉스, 솔리다임 상장 논란에 “장기적 주주가치로 판단” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XMXpUajRuVnZ0bS13LVg0V2ZXeHBuT1IxZ1hwUFlHamxKSEpxQVJFWm05SVVyYTBHSnlnUHVKSUlUTGg1V0NvUkEwNjFKa00?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T05:05:20+00:00",
+      "title": "한국전력·SK하이닉스, 반도체 생산 경쟁력 강화 맞손 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HbWhJMm0yb28yelJMWWFBeE45aExwOUlNa3lDdkRaR21ESWJJSDhIcXZoTk5qdnNBUDI0eTZEQzV3MW5ybWZIdGhFa2Z6a005aWdvRDVxT3Q1VS1ZOGJZ0gFkQVVfeXFMUG1SdFVhTUdVc1otc2ZwNGRwcFI5eEhHYU9TeHJ4VDJXMmlYVE5nR3QxSTU4NV9PelFRZEFqeFNUZEV5NGh5ZU12S1ZZdVlpNmptNVpmZmozdElxTzNwZ2RoU0dFUw?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T05:00:11+00:00",
+      "title": "한전·SK하이닉스, 반도체 전력 설비 공동관리…고장 땐 신속 복구 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ucWlrM0J1eVBCU190YkRCd0tGRUhVUDJxcXA4UlN3UjBUUzRyVWJJbkp3WVl5cWRiWWtiTUFOVktSOUkxUHQybmFHQ1l6QlE?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T04:49:05+00:00",
+      "title": "솔리다임 중복상장 논란…SK하이닉스 ‘주주가치 수호’ 정면돌파 - 경인방송 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kOHlabUR2Vk43MkJWNVRHZ1Y2VTFZc2JZWGhkNWRsU01VdlcwSkxSalNjTHJOZktvOWV5MWxNamlfc2pVb2VYcldyNE5vaEdsMHpNZTVWcGdHVU45anZ4NFdLQjbSAWhBVV95cUxQcXNRR25wNENvSVh0cGs5MVpvNUZqdHVLZHF2b09hNm1qNERLaDdYRGVkcG45M1dSV3lyRS1nOUZXa2xPQXBwSXBvaVdURXMzUUJKek1LWVFOa24yRmkzWjN5M2Q4QzlWZA?oc=5",
+      "source": "경인방송 뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T04:47:24+00:00",
+      "title": "한전-SK하이닉스, K-반도체 생산 경쟁력 강화 ‘맞손’ - 서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HcEEtRzdyVHZLdVYxemtKZXJFLTI4NlMwSVhfWHRILW1rMWlPUElvWFdkQnpvbFN4YTRySHVXZ3l6dWFlZGJLYmV2LUItNlY4N1BkcjJ3bTF3dDBUTFBTU1pXY2hzZzNSM3JIeVlxTQ?oc=5",
+      "source": "서울신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T04:31:22+00:00",
+      "title": "한전-SK하이닉스, 'K반도체 초격차' 전력공급 파트너십 구축 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GS2lRdzZYNmhkQkRiVkt5T3lLZ2NGS2RyQTRVWDZNa1dyNnY3T2FLYUdBNUZsQnY1VmFueHQtSUx4UFlXU05ENUZPdTIzYjJvaW1RN2tPaGVkaXkwdHp0Mk9Ba000YWFuRWfSAW9BVV95cUxQRGF2LXpRMTVlZFBDSHpBWmJwMm9hYllnSDJ1TXFfYkhWQVRlRl9FZmpJSjB5T3g5WkgtVW1xOXFlaW01eGl6S2s3RXdSLUpXQWdaamsxcjI4dWcyWng4MVZ3VkhCZEU3WGJHLTZXRVE?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T03:20:44+00:00",
+      "title": "SK하이닉스, 솔리다임 상장 우려 일축…“확정된 바 없어” - 뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01Q2hHbFN2TDRKWnJxc0FBVmk5WVRDamJMQlVBRE1PUTBnYVVxeEx0OGUtZ2l6dndXbDBBeUoxSVBESGI2N1Y3VEVqODlzN21URVQ1OGZ1TGZHd1RzdGRKTw?oc=5",
+      "source": "뉴스토마토",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T02:39:49+00:00",
+      "title": "SK하이닉스 \"솔리다임 상장, 확정된 것 없어…주주가치 최우선\" - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HUDU2ZzRGWHFoZzhQdVFXMXI3LVk4MV9CX0hkZjlTRnliT1dkVUZPc2xraGZmM1ZpVTdXcUdwVDVqQTRWRWJ2Sk9ucmJvb1dpWVpPcWtVVDRWY2tSU2M5RFpNdjd6cThLSlFoX9IBckFVX3lxTE9pa3UwWFJSOURYSV9HY2RraThWV3dOMUFiQWxEelhjS19kb2hoTHBpOC1Cd01JY2MyUGpkd0pER19XMFVVNURsRzMzYjIzY1pqeWkzVTV2VWFtRkF2QUhUWkdQVEExbzZwa3YzOG40RUJSQQ?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T02:34:14+00:00",
+      "title": "SK하이닉스, 솔리다임 美 증시 상장 추진설 재해명…\"확정된 것 없어\" - tfmedia.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTVVsQmdJT0ttaUxwVDJoMFdrQjVoZzRlLW9SZzBYN1pINElvZDBGd1VUOGtZc1FmdGFQNDBMczhOYmpvbFRpNFVzOE9DUTlBX1lmeExXSW9IbkRubjl2b3BjRQ?oc=5",
+      "source": "tfmedia.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T02:27:42+00:00",
+      "title": "솔리다임 ‘중복상장’ 논란, SK하이닉스 “주주가치 최우선” - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTRERhanpmWXdZbEYycks3cGE3VnpwZHBPTkY2LWoxZEctUzJsVFBVZjZuR3Q0Zi1VcnRtY3lTUk1UaUJJeEVwaV9CdkpzVFZVNzIzbFZhV3o3VkxEYWZDSTR4U1lqSEVHaWNMRDZlTEfSAXRBVV95cUxPUV9OaEI4aVFJWmNmNkpVN3RLSE5hQmtlOFdJZERIM25pcTdiSUFRcDMteGVLeXFpWmpITGFlbWp1QU5oS1ZlUkJFSzdBY2tFR0QtQW9uUVZ1RUJvVF9DZGpsMGsxZUFONmNoQXFZUlgtQzRTMg?oc=5",
+      "source": "IT조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T02:06:35+00:00",
+      "title": "솔리다임 상장 논란에…SK하이닉스 “주주가치 제고가 우선” - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwN2dPaWozbWZ1elBTZDhxODE1LWt2YllValF5SDFaMXRseVhQcXM1bVBYRUlCN01GTEFJY1JLeHBVRXNBdldCMTZZVlE2SEI0TXfSAVNBVV95cUxPNGFmVXZfa1J0N2dhX0I2UVFYUlEyZkcxVkxmbGdGNkx6cVJqOUFLMXBlWUVNMmdqMHU0bDQwTmtqUmJhcmJtQW9uejdmWVRpN25aZw?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T01:46:55+00:00",
+      "title": "SK하이닉스 \"솔리다임 자본조달 방안 결정된 것 없어…주주가치 우선\" - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0anlXclFLaDJWV0s2SnRLSXZ5OE0wbldVMEF3elJxd3hDQi02WjBlV1BjcjhTdUlEenZ4N05VWlJUcVNMSzdrY3FFa2lQUVQxNG1DUFp5Vjl0VzR6YW9LQXlGcXFZX1Q2MWU4MGhLMjNSQQ?oc=5",
+      "source": "KB Think",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T01:05:00+00:00",
+      "title": "\"어찌 된 일이냐\"...SK하이닉스 개미들 '당혹' - 한경매거진&북",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBodFNGTHJabEhrMnVYcUdUZGRtdHp1ZHVncDdGU1hEOUJQR2U1RnYzT1NtcUZwMnFfNGs5SGlmcUVnYlFTUUtZcHFMSnV5SWZtZTdwenhvZkFMc015UnpkUVNSTVNMVUtINzVLZQ?oc=5",
+      "source": "한경매거진&북",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T23:58:16+00:00",
+      "title": "\"자회사 상장 땐 ADR 가치 하락\"…SK하이닉스는 이미 경고했다 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wcEVqSEY1X3kxVzFpRFFqQnpZdC14TlEzTGpZMTR3eGhmTXdaZlM1LWwzRDVtR1JscFpWRVByU0FScEpUZFVSWmExMUF5Y2lFNi1hTW5nVzRVaEN5Rk9XRjItZXo3ZkZibnNVbzdrMFFvQQ?oc=5",
+      "source": "KB Think",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T22:59:43+00:00",
+      "title": "SK하이닉스 있는데 솔리다임 또 상장?…개미들 '줄상장'에 반발 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kblR5V1k0Q1BRU0JJd21MeHhPQzdUUVBTRHR5alowWHVqb2tIU2xPZzZQNERzWGx6cnVJeGZWMFQyVnI0dFM5YmtONzlGUzg?oc=5",
+      "source": "v.daum.net",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T13:28:55+00:00",
+      "title": "SK하이닉스, 'NPE' 모노리식3D 특허 8건 재심사 청구...모노리식3D 공격 대응 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YSV96MFplSVJ5VXMwTVVPd1FCdC1iV21OY3N0SzhhTzVqc0prUFZNeHp1bzBGOGRNYm1lRnVZOER2U01xTk82UlZxek8yWDdfaW9Pb2JB?oc=5",
+      "source": "지디넷코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T00:18:40+00:00",
+      "title": "[특징주] 삼성전자, 장초반 1% 상승…SK하이닉스는 2.4%↑ - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzRXh3VWpoSVB2Z191WUJsSnZuT1pUQk85ZWNpLVR3ZXM3allpb3Ryb2lJdTcyR1daMjFDb0NoMUdDcVp1U2N2blRwZl9mU3BNdzQ4eW1qOEllSGstMTNGb9IBYEFVX3lxTFBzRXh3VWpoSVB2Z191WUJsSnZuT1pUQk85ZWNpLVR3ZXM3allpb3Ryb2lJdTcyR1daMjFDb0NoMUdDcVp1U2N2blRwZl9mU3BNdzQ4eW1qOEllSGstMTNGbw?oc=5",
+      "source": "연합뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T23:43:37+00:00",
+      "title": "해외 투자사 SK하이닉스 목표주가 하향, \"삼성전자 대비 HBM 수출 저조한 추세\" 반영 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11bEhmNFQtZGQxcDlZV09HaUs3LVBFNXRFN3BhQUgxSXFDU2NQTWYxYUhlTWplRHE5ZGdoUi02SWIwck42Vm9pUVRKTC1ydkgwWjJKMVM5ZkF6OVlsTjFxTDBTT0N5alZTT04zTy1qUFNEdUE?oc=5",
+      "source": "비즈니스포스트",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T23:09:34+00:00",
+      "title": "\"SK하이닉스, AI 메모리 수요 오히려 늘어날 것\"-NH - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iYktkQVNqemR0a3Bycmw5dXR1V3owc3dWekpKYzJFUnIwcV83bHhZcnJ1STVwY1BIZHRiajNUakJ1UnhaNlFSUGRPWHUzczZuVlc4ME4yRzFKUQ?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T05:32:51+00:00",
+      "title": "감사 인사말 하는 곽노정 SK하이닉스 대표이사 사장 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LcEJEeGNnZ3BtbFEydlI3ZXUwcXRrXzcya0N0LWZJOS1nZU94bGVSMW45N1FnZjNTc1JVMVl1OUFZa2hvclJnclJkRXI3dVdPZXNpc3dSSWlab2EzLU9TYtIBYEFVX3lxTE1LcEJEeGNnZ3BtbFEydlI3ZXUwcXRrXzcya0N0LWZJOS1nZU94bGVSMW45N1FnZjNTc1JVMVl1OUFZa2hvclJnclJkRXI3dVdPZXNpc3dSSWlab2EzLU9TYg?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T05:09:00+00:00",
+      "title": "SK하이닉스, 협력사 연구개발 비용 최대 50% 선제 지원 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NSHhJSzY2TkhwY2JoWXJacF91bnVFNzRQOW5lZzM5eFFYdFcxc0J3MTJzY3g0dXk0UjBrbUZDMDl0ak01S2h3cGQ0S0ljSHN0U3NlN2E1UG56OVJJNWtCdFlQbVRkME0?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T00:11:00+00:00",
+      "title": "LPDDR6는 같은 선상…CXMT, 삼성전자·SK하이닉스 턱밑 추격 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmZDM0Z29KSjV2WTJhZ2RXTG43QnlRZmhBamY2SDhPd1F5cjhxanBlUG1Ec05KUHZyTWpJdlE4Y2VIbU9WcUtfZ2JNOEQyM0RQT2RMblRIcTNHNUh4R3V1d3BJc3VEYUNIZ292ZjVGOG1ZQQ?oc=5",
+      "source": "KB Think",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T00:06:36+00:00",
+      "title": "확산되는 솔리다임 美 상장 추진설 … SK하이닉스, 중복상장 논란 해소 고심 - 뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3VGNvYTBRX0ZVYk0tWUFHOWlpcmVhVTZ2WHdnQk5DOTBBS0VrN0ExRG1xdjFadnM4NU9ZLUM1dy12dHN3UC00alVvYlNDbjRpNXhTMzVOZG1fNUI0VmtlVUJQM29WX2xDbkRzeXNiR05HVWpubTh1eEtLSdIBgAFBVV95cUxQNk5yQldvc0xmU2pxYmxPN2UxdEFiSlhzYVpfQThXX2g2U1BLRG9TVGkzRVZBOGREZ0RMZFdLUUZmTDIzNjlCd3B3SVBxT2RkM2lXZlJRQ2gxdGtsUmVmbmZvNFhQV0RweGZrRUl6U0pwZ1pTNnBxS29OZHpXTGJoRA?oc=5",
+      "source": "뉴데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-28",
+      "publishedAt": "2026-09-28T09:36:58+00:00",
+      "title": "SK하이닉스, TSMC와 HBM5 검증…'올해의 파트너상' 2년 연속 수상 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fM3lnYkdKc3Y2YzFzdVk4V0lHRGI2R0FLNXNQLS1XLW5lOEw0X2s1Qm1yLUxUSnJ5ZXA4MHlkZWFFUDQyRnByTGp4Yi1hWHRZYmsxcGtmbjlHcjRrUEUtRjBiaElmRmVrSGVUOWlUaXN6UQ?oc=5",
+      "source": "KB Think",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-28",
+      "publishedAt": "2026-09-28T07:11:05+00:00",
+      "title": "SK하이닉스, TSMC 기술 행사서 차세대 AI 메모리 공개 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yUTN5bkw2QjZldmFnN0dhbjNIS1lHZHFxQzN2djRESlJnZThNaUdET3V3VklIcFJTWEg1dXVIN2lNR2Fjem1hSmhUd2NVdw?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-09-28",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "count": 6,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-30",
+      "count": 4,
+      "pos": 1,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-01",
+      "count": 30,
+      "pos": 5,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-02",
+      "count": 30,
+      "pos": 11,
+      "neg": 6
+    },
+    {
+      "date": "2026-10-03",
+      "count": 8,
+      "pos": 0,
+      "neg": 3
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-09-28T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-28T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-29T00:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-29T05:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-29T23:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-09-30T00:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-01T01:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T02:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-01T04:00:00+00:00",
+      "count": 3,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T05:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-01T06:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T07:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T08:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T09:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T15:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T22:00:00+00:00",
+      "count": 1,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-02T01:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-02T02:00:00+00:00",
+      "count": 4,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T05:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T07:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T08:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T15:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-02T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T21:00:00+00:00",
+      "count": 3,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T22:00:00+00:00",
+      "count": 3,
+      "pos": 3,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-02T23:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-03T01:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-03T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-03T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-03T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}

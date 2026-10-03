@@ -1,0 +1,1051 @@
+{
+  "ticker": "AAPL",
+  "query": "\"Apple stock\" OR AAPL OR \"애플 주식\"",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-10-03T12:26:26.666972+00:00",
+  "items": [
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:34:25+00:00",
+      "title": "Apple Inc. $AAPL Shares Sold by Jackson Wealth Management LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb0VSTnM5V0JXSmJhbklndTdjYjRmZlp1Mk85NVdIQmRBRWg3Qm15c3JDRUh2bWxWSU11QVE2OWgyWGl5Q0hwamE0bjZReGRyZ1NMUEF2Sk01MDByYTZmWjhtMEVfbVYwSVdOWGRJLTdUNnRIV2ZfV0FjemMtS1Zzdk0yeDJOX3F0eG5oTlRnQkN2ZFV1YW16aU45NDdlcVlTaHNyZHJGV0p5WkhmNTkzY3FxTUhCVnUyVnZuNA?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:34:25+00:00",
+      "title": "Covington Investment Advisors Inc. Lowers Stake in Apple Inc. $AAPL - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPckp2LWJCSXhzWnVpNVU2d3BPd0VsX1VfUlVreWxaXy1iQ25jWElNQVEtemloWWlJcVljV2NNc05XWGdneXFjYlAwa1ZQSXlYaFlJbmJNX0dxZi1rb21DR1g2U0pxbXpTZV94Z015MVFYcDRYVVF2TlVndUpDTEJPc0ZmZGRXUnc3MmcweXlTTV9yM1doZFpVZ1hKbkRMaEdHM211cnlNSkp5ckU4VG5ZX1FPWEhtcmk0ek93ZFJ0TjZxRFk?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:32:39+00:00",
+      "title": "NS Partners Ltd Sells 15,191 Shares of Apple Inc. $AAPL - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXpVaTJOX0FsUFJlMEdaNlJyaFlGdFBqVDVISTZKQUhPdWhMVHZlRTRhS0VTVzdUdXRtQmRMUGhON0d2aGpEaGtVOVZUcjZtSkZfTzdTNl9IbG5HSVBQT2hLenpYU1V0RmlTQ0ZOT3RZd2VZZ1JWX2E5blAtZkt0YnpBVEZ4Q0VQSDNBWE5qZHVtRXVOTEJXQlFqUElqcDdscjhTbHB1bTVieGVzWUJQQnlBYw?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:32:37+00:00",
+      "title": "Apple Inc. $AAPL Stock Holdings Lifted by Nwam LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOW5rTkhWYUpDWDROM2JkQWQwSmhONC10dVMyM1NMek5BVEswNXNneHRHeXoxMTRGYjhvcngxZjl2YTNYZmVqZjNoTktnQjFMZEZubnRyVzVMU0RaSVF0eldFYV83bUZVX05WOFlxWjlyYUYwVV83cldRV2RRRzMxZDBSRFRVNjdESUpFWDVRZmhlTHRRSzZBeFBUa2xZemlaQUo5b25OS3VXOERDTVE?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:30:27+00:00",
+      "title": "Solstein Capital LLC Sells 4,993 Shares of Apple Inc. $AAPL - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmxlbmdqSHdNV25uTEFvMXY0U0hWb0pYSlpKYzF6T0toRWlzeU11d2tnd2pZdGdacmZKSmxoLWMzOGdTbWZCeUZ5VjNWSnpCMmpSdFpoZ21YM01WTVE4aXAxVW5JaF8yamxuV3RQMU81X1E4cmpCWXcxTzhNX3otRGxkSTY0VHg4a0NhSWR1ZU5oSU9qbnIwOTllMGZRcC1na1pabmRfTmNVVGdTVUxTUDkxeDFobDlx?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:30:27+00:00",
+      "title": "Apple Inc. $AAPL Shares Bought by Proficio Capital Partners LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWENCX2ZfMnJjWC1nc0p4Qm5hZy1nRUpDakVKdUkzWXJPb0pGZ2p1eDFudGNtMEg4UGgzWXZzZnhNUmJOYWVYZ3VER3pjS3ZSR05FaGNCTlB6SjVmejd3aVA0UHdlS0dVa0RyRGYwYmlzWU4xMFMwWUJOeWlqYkJaWndzalRyeHU3U2RmeHJiVl9qcDYzSW5wcklNT0RKMkJIMmwwT1U0Z0tWLXM4WG1TcjhmLS1wUHVLenpfUm1yZw?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:30:27+00:00",
+      "title": "Vanguard Capital Wealth Advisors Lowers Position in Apple Inc. $AAPL - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzZ3MU5jTktaQkJYQnBDcmVmLWdMTV9VMmxkOXo1MmgzTW5PanpHS1R2SFpaSm9tNWZEc01IVDBzbzFKanlkaXJJSGFmWUJERzRaTG5pMXdmMDhDVWYyNVFYdlB3bU9Gc25OeFpJNlVXVGJuUmxaaU9sbk1YeGJyUmRlUTc5YjdIZ3FLd2otWEFvWXlLZ0w5MFd0bjY5ajR3N2tnNlh6aTBtSEdyZGFiZVY4MEp0TGV0MXV0dDUtTkRqMlZOSGc?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:30:26+00:00",
+      "title": "Apple Inc. $AAPL Stock Bought by Orgel Wealth Management LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1Y4d1lITWhJRXFEOEZJb3RaNW42T3ZSU253NFpkOVJTUGZSdGhHUFlZR3Bidkl5SDg3SlgyT1NSMDU0dUdKZHVPNk00bi1mN0JaOGxqOXhwejR1MTR5MFIzV3JqbnVjMU1OdXVQNFFvTGdFakxSbTBRMXdmOEc5T0pjYjlhZmZUdUZlQ0Qwc2tuSTM0am1jOEpOeFB5aFB0VWVFSjFfRnpzazlqSl96N1VsMnhDVFpkeWFv?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:30:26+00:00",
+      "title": "3,810 Apple Inc. $AAPL Shares Bought by Rehmann Capital Advisory Group - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc1p6Mm5od1ExblEzanItd1lKUFNjZGR4UmUzREhPRm9tb2N5Y1JiZmZjZDQ0OGtBTzFhZEpYRGUxc3Z6bXNENTVGV0NDM19ZTzVueXpZcVdaUWFSQ1ZESmdXNnVLeEFIUHFha1Q2Yl81MkVfS254cjQxa1k4aE0xUkFpT0Nvbkw2T0JGVjlvYU40b0RRc3NDVENwMmZaUkY2VjNPSVR3UlYtUFVnWjUxVy13RUt5ai1EVTk0blZiTWVFRU5uN2lv?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:30:26+00:00",
+      "title": "Apple Inc. $AAPL Stock Bought by Railway Pension Investments Ltd - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMDJwNC1vR0RqRGVyV0t5RHFlZnN0YkoxMEFaOU5CS3dZcTlrYXFONlNHTnUyeGxGVGFieExDNXBZNk9GVDZWUVlZcmZlS2NpdzAyaTl4ZlI5R0xqLUROYnlqQURFeF90cVFfNlk2QWFTRDRDV0ZYUHdYX3VGdmlSTUEzZ2trTDJVOUIwME4zU1Q5MVZ6WURJbi01bDhZRGF0WFBwSXc4a3BrUHVlTTdrclFSYnpjdlBtLS1weEJpaDg?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:30:25+00:00",
+      "title": "Unio Capital LLC Sells 2,430 Shares of Apple Inc. $AAPL - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWZEY3FVak9FRUwtaDNqZGtWMHJrVVZva3J5NUdOR1ZmaF9hQTg5bnlKMkdEbmtMQXlWTjB1SlRSclpYd3RWeDJJd2JfeExKQkJpVTdTbVl5bU1vNmpCcUZjZFQzYk50UDFDZUlpZXpBTDNTV19CLUpiQlFka3ZtNVdZY2RWNmpmRWtjTFdnZ3BzVy02Wl9PNHN1ZE1NTzdmaGJ0R2RmMmtFN0tmMzBDcTdpWQ?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:28:06+00:00",
+      "title": "Apple Inc. $AAPL Stock Sold by Community Bank & Trust Waco Texas - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVFdEaXhDMUFocTNSVHpscTl6RHpQc1dJV3loVE9TektDMGlJMDNYYWVfSG1JUTFidkVOeVJYSWVZaXdyaUJOZzNUUTlYQ1pkSzRtLUpOWEVxSk1acnhveUtrSGQ5Wjd3Z0l0UXk1UU9EeFVWd0dnR3M5N3dyUHo3bTFZSzNXcGlfcTlUaTJfMm5mN0VKSkMtRWlKWUhpMUhuRlBINTJNb1FfcjIwUlAxbE5NMlFjVkY4bnJGdjd3?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:12:25+00:00",
+      "title": "Independence Bank of Kentucky Sells 2,091 Shares of Apple Inc. $AAPL - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOejUybDdTcmp5R3JxVERNTzFwQzVEeVRTdVBUMDJJUk1jYnctQ3RSLWV2aWhRdHE0c2NOd2xiSGEzWU90cnNwTWZrcjBjWFBQaDRjM1VFajJNeGo3ZWI0QlJkSElPdUxfTm5hVEExZnhiZDRpbHBXZE0tTmFKM1BxNUZfTDJyMFlhaGp6QndSQ2w5MFVZR2M4ZENBZEhPT2ZTRXNhdU9NaWZuQWJEOXByeUNaNW5yVHVqNk9mcVpLRUMwY0hq?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:12:22+00:00",
+      "title": "Apple Inc. $AAPL Stock Sold by Denver PWM LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmpKUUhEcDhFeGVlcjh6QWUtSXllUGxmcTR1UGhScWcwYnZuREJhZWJfaG94a2xXb0tDM1FNTkptWHd4NGliVnZzaGlqRS16SXF2T0pxVnFHaE5Td2l4Q09vWldhNWhQVFAwdm9QTU01LTc0VVVLVGxmSjE2WVJjNl9JSjFNVEUxMnQyQlJhUDFyUERKcExta25uYkU0OE13RGJhLVdyRQ?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:08:22+00:00",
+      "title": "Apple Inc. $AAPL Stock Purchased by Bedel Financial Consulting Inc. - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORXVHSHZYMVRUamFGbl9sQWVoWnJUSVc4Q080aTZNVTJjRUVteWFRaS1DbzR2Wi1QcnV5aWx1Mk5kbkFod2d3b1NpRTUtVW1PU3ZXamJaZVJUWHUzdUFZdHpZaTFQLVhtYTZ4REx2ZGxiUVBaZ0NpWGlTZkFYbFZzUXFOWUl4VGxFcXUzd1owTG96T0RCTElpV1E0RDQzOE1mS0JLeW1lb19YZFBwMEZQTWYxcFpKQ1k1VUtvOFJrS0lTemc?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:08:22+00:00",
+      "title": "CMH Wealth Management LLC Cuts Stock Position in Apple Inc. $AAPL - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMGNQRFg0UHE4WTZNQVZSQ2hLbktMMUl5WFhpVk9nUzFDVWkxZFM3Q0tFU0wxSHZMSDNkb0pwaG9xbU00c0FpU0JqNGxncnl0VkZPS0xJc1VUZHRsazNSVWlrNDRWYTFTWnRTMWFyRkJWdzdjaVRLMGtIUlRDRmI1SXJ3MEh6bW0xRTZyRVBGX1BnaFJObjZ2YzJDa050NU9aZ050ak0zZWc1SnUxSUc0NnNCQ3FmTlM4dDBuWjBxdU5Fdw?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T07:00:00+00:00",
+      "title": "Key facts: Morgan Stanley Cuts Apple (AAPL) PT; Q3 Rev $109.4B; AI Risk - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVhlbkF1TXRhMlF6ckRET3VpWVo2WUFRSmQ0YmpWQ3RxNDhfbV81bWIzOHRJYUtPOGhTQUxDb05vcWE4NGE0bWllYzdjWHZrRnFLU2lqY2dfWGtoOEszS3p1X1J6d2FRUzl4TXhPdDB1MFc1NDdpZHZlM1FjdVc5Z3JFa2RzT3R3THkyalotcDl4UVRyLWVsbVdET3hrV1B2ajZJaDNWQ0lfMXJaZDdETGhleDk0Sm11RnVkNW0yQnY0OVpNWFE?oc=5",
+      "source": "TradingView",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T06:09:11+00:00",
+      "title": "Rep. Cleo Fields Purchases Shares of Apple Inc. (NASDAQ:AAPL) - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONkg4NTZneFVCTmZfZG9KTFd2M2FwaUpfaExTZFhxMnNieTRZb3AxZUVqSGFBbnNkTGZvUEhkMHR2YzU0aWZQNW91T3d4NTVzVWRjNXUwM0VfcTVoZ3NOdFJ2eUQ3dmZUTEdFMlRrbjZhZUJLMXQtbDh5Y2djeU5LRTRJaEZpV3ZJdjBJbXhVTUotNTUyUnJ6N0pwZ094Q2xVaXVSVFpyTTZkZHZ3ZnNDN0IwdExIa3EwcERQNQ?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T04:35:32+00:00",
+      "title": "What Does Apple (AAPL) Restructuring And Layoffs Mean For Its Product Roadmap? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFJtdGV5ektPSnB2SUI0T2diZ1JuTDRLVjVoOUJMcVpZcGZZUlh0VVFuZ2tJWHoyREJndVZpb3V4Zl9Tdm0wM043NjhqSlZWaFpRYlJpeXRsLWpReDVDS0lQb1FKUEFIN3AxOHRUNkdDQVptTjBfNVg1SEt2RFoySjQ1SF9XeTc5QmpYa0JiVE5EakxjYlRNWjAwcmRzRnlKX2kzMGEtc1ZoWk12X2ZLQkR5YWNaMlFYWTJv0gHAAUFVX3lxTFBrNjMxS3dGMmZNUjZCNjBzN2l0QnR5SU5NNDBPX3pKZGZfZGpqRFFXMEljRld6U003TTFtYXRiNlRUU1ludVdYd2ZJdkl3MEJVZ1JTUHJLZUEwcUJacXdZNkItZTl6aHNvUjZ6YlhSZl9tNGlUelJUR2hVdzk1Nm5ha3FhSkJ0dEFRQkNwVF91VnN6S2lzeXV5S3BwZkFiM0t1MzR3amJTN0VKRmFkcVFnakJralZSc1pETHN2UFd1Yg?oc=5",
+      "source": "Simply Wall Street",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T21:23:16+00:00",
+      "title": "Apple (NASDAQ:AAPL) Stock Jumps 1% - What's Next? - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHFRU3FuUGFsSjdEZkg1bkVWb1RXTkVwWmRpUkFUYkh6WlRIbnQtcFVZeTRZVDE5X2JWZnBuU0FjRmd5NXFhRzlLdEVLUkdpeElzSGVfUVBkU01WUkhfVFJxM3Yzc3RWZUhiTm0zUTFCZ2VFRHktaDhsUWEwS3A0OEt1XzEyeHdqdUlhcXdJQW9nNmVneEJZclh0YzlVa2VNUzV4Ng?oc=5",
+      "source": "MarketBeat",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T21:17:34+00:00",
+      "title": "After an October 1 stock grant, Apple (AAPL) officer John Ternus proposes a share sale. - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVVzbE9sOUozVk04ZVVMWHlKai02LXRZTGI5WXlaYnJydm5WUjZ1RG41SFZCaXA3dHBSNlA5TXU1bG8wMGpNalVhcmM1d3RPV21lNzJBTENQYXhFY1MtOWtQUlpnbmdWQUJQYml6a1pUNnlmSGk5OWNTbTRkNzJleWdLYUJWNERBaXg2VU41Zw?oc=5",
+      "source": "Stock Titan",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T20:45:04+00:00",
+      "title": "Apple (AAPL) Exceeds Market Returns: Some Facts to Consider - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ1ZmMTBmYnNCWHR6YVpIZ0UzX1BhMlFpMWx0cVgwcTY4MXR6YzluV0NPNkhYdVc0SGZpU0ZDeUlpV0o5ZVFTVUh1VVJpMWxNQnNzQUh1UDM2RW16TEo5ODZNREYxdWhUaWRSNVJiQ0FFMlcxeEtrNmNrcDFmSjJDNjNaTjRFQ2lMcEE?oc=5",
+      "source": "Yahoo Finance Australia",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T20:18:02+00:00",
+      "title": "AAPL To Flag AI Requests For Data Access On Macs Amid Complaints Over META's Muse Agent - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGFfYkFzR3ZPU21wRUhxT1VKM18zNmtkOHhYdWtWa2pyY0prVWlUQUJpdHdqdlZjR2dKQnltRmtmWUVvdmxlSGJleUNRbjRqSEJZQTFCY0JoUF8xNUZWZlN6cFdCMUF0ZWstNW1LV2tKNmRYVFNwNGp6TTh6Ry1ZVDFXUW9OR2lINjFPRXJjTmdBMVQzZW56ZmY1MzdjMzN2OEM3OFdwcEo0N2EwYnFuSFlYUHpPcmY2elE?oc=5",
+      "source": "Stocktwits",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T20:03:07+00:00",
+      "title": "Morgan Stanley Has Strong Verdict for Apple Stock Investors - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY3lsSWtwSDhGQzRLWXRKVHB5ZFBQXzYwWTZCeFBXSTBWeDE0MUx2Tlc5N0Fsa25TRXVlY1pXV29VaTE1NEFMcUdWVFplNDVJY3NISE02ZE5aTUZqS0RBckxTYnJmM0U2cEZVYkU1NGVNa0FramtDT3FjOFdIR3lHcExIcFZqMTR5czg4QTkwd21BbnBERmU3OGF1anFmLUtXWFlSX3lUdzdTQVN4RXZIanNrOHBzNWdTYU4w?oc=5",
+      "source": "TradingView",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T17:42:46+00:00",
+      "title": "Google raises Pixel 10a price to $599 as memory costs climb (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWpOeEtsZ2NMN1J3ZFk3cEt1Smhub2I4VUZKLXVqX0NjYjNiQzBUbFh1aXhhaFZUcVIyRkRpYjk4OUJaZzNWeDhZYWNOWXJZWEh0WTRub25Pdm9iTFFlTW5nLW9kX1ExZkRDVGFhOTIxUDduWXRyWTZrVnZmeUJiWWRnMW0yUDhPMWsxTzZESGlHajZfbW9CSndCMjk?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T15:15:50+00:00",
+      "title": "How Much Upside Is Left In Apple Stock? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjBMR3dKWDZZWGJZZnNPbC1ocHJoZzdQdFFmZkY2UHJfeDRKWndjRmowSHNYTnNlaXFreXA5QXVJUHMyUVF3SUlBSG00ZUp3Tm52dGZYMTNFSFB1Zk9UX1NkQnlqVndkN1M0ZmVpYXVndlZjSTVnNFVTVU83cWd1U0R4bXdabjc3amlVQmRCbGdwSHp2a2haV0ptNTNzWi1L?oc=5",
+      "source": "Trefis",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T14:20:57+00:00",
+      "title": "$Apple (AAPL.US)$ - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzQk5OOGNCeGlDV0t1VGZXdHhEWGJvM2x4RjYydFJXVmRWazVCS1M4UHNJVnUxakp3UEFEZ2x0TVIwU3A2dVBnME1pRFlOZ3BuZ1F5aUVHSDVmYTlMVG44UU9Qc25PLXNueG5jT2s5V2FsZHVDNGc?oc=5",
+      "source": "Moomoo",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T13:11:25+00:00",
+      "title": "Apple (AAPL) Prepares A Siri Powered Smart Home Hub - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcEZ4M3huUXNNUjdQandPVjM0d1JHVUQ2aS1UVllJY3luLVlDZmUzOC1RMkZ2S0RncUpTTjlUay1aLTlBWFJIdUF6eVhjd0FZM3UtRzlqT2RuZWFJTlZtZ2FORjNkQjZIcnU3Vm1SLXNVMXhUQTBiMU1VTzVXRGpGaW9xSVI3cEF3R0RycTFZYWNxRDJoZkpRY1NiTE8?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T12:16:51+00:00",
+      "title": "Jim Cramer is urging investors to buy Apple stock ahead of foldable iPhone launch - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LTThYTXNidkVveHltcS1DTTlueDhva2pPWHdmVUFKal9OWmtzYzlZbWNOeWtYUjRZM1oxaVJacGlPSTJvY0Z1elBZSlhTZzl1S1l6bUlibnFXNFNCZWY3NkdHcURWZTRKUGM2NC1ad1Z4dw?oc=5",
+      "source": "qz.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T12:00:03+00:00",
+      "title": "Apple Inc. (AAPL) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTTZOR2lIN0JJNVZ0dTVKVmVTZDRRMjVWbThYc2lnRzVHd1A3OTlCeFllYm0yOTV0WElfNGVYcGdVUXo3S0VNYUdRdHgwN2dnazBoTVVURkRzNS0wLXhUc0IwR05fMXJJMF9hQXUwZWFLQ0tvOEtnY2czbnREbHlNb3ptUVc?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:34:42+00:00",
+      "title": "Apple Inc. $AAPL Stock Acquired by JNBA Financial Advisors - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUQ3OWFXckNqQjhwWURyZ2llYnZxZTNTVTVWVkdBX1JDWkRLNTFpX2J1eFpPc21YR2JwMDRqSjMxOENqWUhoQmtVdHpMUWw4MWYwMWk0LUJ5OUtTVnZyRE5heVBFOXIwNGJfQWhNQjZfSWVqbnotQmZQZ243MU14ZEYzdHRuZmtVOW01bmZGc3NneFlnb0lla1A0MTg0WElLM2I2RXduUHEzM2lzQTQ2azBaemNqU1dQ?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:34:42+00:00",
+      "title": "Apple Inc. $AAPL Shares Sold by ICONIQ Capital LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmVIbFpFbXZEWERuYjB6ZjhCN044SUtTemJDYUtkVmM3TmUzb0Rzd29ERHFiRWlZNzg3WWxQNndaOUxCOGlGXzNUbjNUQlE5RjBQbmlvUWtUQVZUSXZhc0wzZVFSbWlsUnNORl96N2VoSnRrOUg2TzNDNjJoVG13a1pDR1ZXeHNpQl94NWNCaDl1cFdra1drMmllRE9pdk1ObzNGd3lqeGtiX2NTdVE?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:23:53+00:00",
+      "title": "Thornburg Investment Management Inc. Boosts Holdings in Apple Inc. $AAPL - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWktqc2VYZ3hnbENXZzlZTGpsXzRvOVJZWXdnM3NzQk4wQi03Y3BsTVJteDJnWUpvRm1NYXkwUm14UUNvckg2aTdEaW04SGhlZlJDSE9abWFoeWhlN3VOTVZGZjM0ek42VHBLb0tTUUx4M3ZfWXd0cUNSZ2FFNUNkUHV2ZXRKYVc0eW5XVlB6eFFWR2RtU3Vmb1JlS3o5RDFVVzJLWUUyTHFLanY0bTZjd0NDeF9tYkZYYUwyTHE1N1JOM0lXbjdYY3l3?oc=5",
+      "source": "MarketBeat",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:21:14+00:00",
+      "title": "Apple Inc. $AAPL Stock Sold by Cullinan Associates Inc. - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWNRMlpzQ09PSjlrR3RLd0tQQzhLVTNKT3FHaXhodTNGazc5Z3BEVG9reU85bnVsMHVjdFQ2MUZRUGR6RkxNdTFuVWt6WDV1SUpJbW5ybWNCTDg0aTVyVm05RlV6d0tKSHpabFVsd0sxWms5T1o5cjJCTjczcWF1a3ozOTl4YmZSSjBSUkFhbTQ0cTAySGxDeE90aEVhdHhkSURmTmtuTW1iV1VhSVF2SEpjQQ?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:21:10+00:00",
+      "title": "Apple Inc. $AAPL Stock Bought by GTS Securities LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVUlRMXR5T08zUDJNV0g1NGx5ZU9HOVJCVWZfdy1xbEt6Y1BBZmFYdnlPU2lTMlcxNThZZVU2ZVd3UG9YYlZfSGtmVkZlOG9DZmNuR3FPRHV5OW9WTWVVZU1zR0Vjc3BseVNMdDRiUTZiVWlIbnNKM3FyZGtnSFQtNzJ5UGFpeERzS0QyUnZlWXdaTFAzX0dmMWNUZUN1d2Q2SEx4X3V1emo1dEtKUFNr?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:21:07+00:00",
+      "title": "Apple Inc. $AAPL Stake Raised by Cookson Peirce & Co. Inc. - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHFZampqeF9MSU1xM3JCQ04zcldKLS1ueHBuSUJIM3RBclVCQ1hqeTNLYlByR3htdEdrNGE4Y0cwRXZlRERPSHdvZllIUXhTaUpxTEs2MFN2T1ZENTlBYUEyRUsxcVUzTnVPNXdRdHVyU1k5VjZPbUlKckJUd1hvcVdmTFdmNUJLN1VQU0JJQzBqTGJvd1M0MEQ0dEtRWlRHN1M4aUwzVUdVMG9sRmVwUGtoaw?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:14:36+00:00",
+      "title": "Apple Inc. $AAPL Position Lowered by Davidson Investment Advisors - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM09aNjVCZjB3SGxqMGswY1Qwd0FvQ2tpLUJtdnJ3UHBRcm9MZThmbGg1aFAzOVk3UnZyd201ZEQ5MEhIV0hjNEhERE1hYV9jRS1xbXB4T25nc284VHktUl9USzIzNzBOc0FmcDZwRmdxRkJvYlFhbXBHTzBtUlNqZG9HaFEzajhCT1NjSWh4bklRUzQybndScm1FdFVEeWM3eGl0cVhRbzVMNWFQbWh5VjRUeTd0VlAzX1ZxOXJHb2VmQQ?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:14:36+00:00",
+      "title": "Apple Inc. $AAPL Stake Cut by Denali Advisors LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGlwX050a0dIOEgyR2txeVcxOWRwd2FFU1RVbmJFdUdVZjN4eUcxWEJkTFkwUlNWS1k2NDAyaTA3QTVRWktrY2hkRHpzekFDLTBKZldLeEozdkNCSXQ4VkNzVEJ5TWJQc3NEcVAzX1ktRlRFdnNONF9wNTdJaGpkZ1oxVG54MU5WZFF1czZVMU4xMzFYMklkNFktNWR0WExWaU1tV3R5SUNNSmhY?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T23:15:20+00:00",
+      "title": "Apple (NASDAQ:AAPL) SVP Jennifer Newstead Sells 2,399 Shares of Stock - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOFluTEdzdVY1UGN0cTg1ZHJCNkRZWG5IcXZzMUxfeWlHaTVCaW0yeFR3TC1UWXlMLVlkQU1MUVNCN0xGSnRaWkJMbXlpakc0SmRJbWZGS3VzeVpMQ3I1LXAtSWJmZzJ3M3VqS0pjU0tJeVBJSVU1aGcteDRHUTRZUTZ6UDJRaWtkd2ttR3ppQWVmeXB0dnVyeVZXU1hKMWFibThlLXQxZmk0X0FaNVR1VS1pVlNISVphbUJ5aVVQWnN4SlVVT1Nj?oc=5",
+      "source": "MarketBeat",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T23:03:31+00:00",
+      "title": "Apple (AAPL) Could Be 30% Above Fair Value On iPhone Duo Buzz - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYW04WjFkbnBUWDlJMmk5QnIyNmZDQkFBUFNfaWlnUVRiYmN6VExScWJ4dUUzT0ZiVThVRHdlTVZkRmdMX0dPN0t0U1FuVEhLQlB1ZGdkREl2VUJlcUx1OC1xNzVocVF0ZlBpLWg4WjhPcURQczR6TEFqczlGTjJlUm1FdXZ0Yl9DMFVlSkJqMUJMTzZqTm9Na3dPU2F6VWRiaU5iZ3RUeEs2SXJYQlFjOUI4azRuQ1FDVmfSAb8BQVVfeXFMT2ZiMDlYVlVLWjFMMkJEZ2lBZ3pIY1l0M05UWEJRSndqeXdkSFpIMThTOUdPVlROalZWU3J5cmUxSGpNRnVYLTdmNFozNm9PUmJ2aFNCWnQyZjNjZDAwWDRWOHViOXZ5anFSaF9sQTlvRlhQQ2tmai0xNmtNeE5ZT0E5WVQ2UUl2NFhrQzdyQ0dxSjJ2WG5hQUh1QXh0VTNwOHZXeWhVTm9MZzJzWUM3V1o4c19sQ211cVRLMWlubjA?oc=5",
+      "source": "Simply Wall Street",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T22:30:31+00:00",
+      "title": "Apple (AAPL) general counsel sells 2,399 shares under a preset trading plan. - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnRBVVBJREZuUmZPTVhyUWdsZDk3cGF3dG52dXV2U2l5QjlYaG1wcExoUlVkWjFXT21RX2NSYzVWZDlKQWRkU0JTXy1TNUJFaGQxRmwwczFiaVZ4RXE3V0xaWElNcGVVWHlVb09oNjBmc3MtOGVhU2dxNUR2bGd5dWRvSFV3OEdGbm5pNHY2bjdxTlY3aGxNeWJvTWZQa0ZzRmJTZEl3?oc=5",
+      "source": "Stock Titan",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T17:19:00+00:00",
+      "title": "Apple Stock’s Upside May Be Limited as AI Agents Could Disrupt Business - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORWxCcWpZWjRnSUxUNXV3LWY3VmhJV3Q1UXFSWjhWVFp6c29WU2hJUlB1bXFSU2FQd3NsZi1PcTIyY1d2alVxR2ZoY0tqR05odUhCSlZfR3ZicFpGcnhEcWZlYmZ5UXlRRFdPREgzbjR0cjdWNTJwMERsaXVadUtrVA?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T13:04:24+00:00",
+      "title": "Apple Chief Executive John Ternus Weighs Major Corporate Overhaul and Product Release Shift - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUHVNS19lOVZENVVHOGFJRUJteFJRRnBzUktaNnlNTjJjWG5pT2hvVnFPTXhLN3JxY1daaWZmWWtfb21uZFJSLWFGLUJ4ZG41ZHBwRWppUDJYeU11ei1uZmRkbWJENHFRLVNPRnZXVXM5V2w1cjhJRjNxX2dldmN1LTlBNFRhRDEzNGFzdFdPRjZDS0U?oc=5",
+      "source": "TIKR.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T12:38:35+00:00",
+      "title": "Morgan Stanley lowers Apple stock price target on limited upside - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2xXaF9wblpEb1VEYWlJUFNvZmEwNXJ1cl9qeVkzbzdpZmd5QzZmczlmMWhicjNlSzZ5Vjk0MUgyWUp4dFhzNkRrWTBRX0lpSVVUTWJtNW5KMzN0RmhRQTB0ekFGZVZCSVFLYXZlN1Z0VFpmbDdySHZaaVNSYXFqMmdPWDB5VVl1dUtKVHZncFlYVWlUa3FRdkRCcjlGMFkyak1ybVptdnlkeHBpMjZxX2tOZjZtMVZ0LVlGQTNkY2JxQQ?oc=5",
+      "source": "Investing.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T11:40:17+00:00",
+      "title": "Needham reiterates Hold on Apple stock citing Meta competition risks - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNU5DSnZmQUlWWVczSVdHSm53WGZXOXA1ME8xaGozY3FzYldWb0NEMnRpc2N0WkY3NUpOZmxqc2dpSUtTVTkyRmRKR1B6OER4VFNMS21WcXFnSjY1cXM5X042RGtCZkxnX01Qb09DNmg5aTVQc1BGS1Qtc2V1aHY1a0tRb1Z5ODlxQngtS0hZSkVWRFpTZjMtcWpYMmY2MzBVZkU0UjFCSHVmYUxGR1JZNXA4X2sxZVlFWFlkS3FiNkZ0ek5aWXFN?oc=5",
+      "source": "Investing.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T07:16:54+00:00",
+      "title": "Jim Cramer Says 'Buy' Apple Stock Because of iPhone Duo, Not On Smart Home Device Buzz: Calls the $1,999 - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOckQ5dXpvdFZoMTdrS1pzRDBaLWt4SFhJZldVcTI1YW1jXzBrRVE3QWk3MWhqRl8zQzZKcEZuUE80YmwyWG5zNFAxM1RTV3NBdlpHbkd2S0VqaDZmNjhKWWVjbGtoMmFzSndPNkxBSFZXaDM0OTFBX2xpUnE2empvbkRyc1pzWENBeUxTclNGbEszcXBUOHNjRHM1Y0VvLThSTFAxcU5ZNWxJMEdOQ21TMDRxa0ZPUQ?oc=5",
+      "source": "Benzinga",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T21:06:00+00:00",
+      "title": "Apple Predicted To Sell 6 Million iPhone Duo Handsets This Year - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0VaNmd2U0tkNXlzazM5Y2dxSXBfajRBT2JwYnNacklBN1ZnRU1EbXp3ZDNsUm1WcVM2MlBkTm02WDhoNW80MWFLVDV2WGtWOWZIcTRaRW5uQmJHM0VhbkNiUFJ2dU1rdjdVc054dzlYYnQzQ0xzc1k2dlY3LWVJVHpic2tsVGhScUVabGotdlUyell1?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T20:31:34+00:00",
+      "title": "Apple (AAPL) Readies Siri Home Hub Push With New Devices and Bigger AI Bet - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWVlwMVNlTHBtOGItSjZPa3pWcVdySUZoZDlTUTNFUUtjem56b09JcnZMdEV4UUFJZzBObHVkVXE0ZGVJWENoUXZqNWFzUXV1MXZ4SV9hdHBOYUJraWQ0V0ZlMTVUa0RaeG5uRDU2NDNwN25OT3Z4Z1FveDRja2hYcFpvVGkxdEFmUG5IOGVQWnA4N0tXamtBaGtERHE4RmNQMkMySkdlbVZ4Y2hDSUhLc2QxckFXVmVpQ2FsMtIBwgFBVV95cUxOODg5TnhZeGpzYTNWNVpwdmpnbjVpeDVNMVJiNFdxbzRPaEJENG82ellPRnI2emxpR1ptcGM2eHByUkZvRGh4NHBEWGpnUEFKWjhEUlRkeWY3Um9WQU8wbHRNbnAwZk1WYVNsS3Mtb1ZPdGRHWTRGSFh1WXZoMUtaU3JSSDFrZWxkVEdzRDA4b1pSODhoazVlcElzY0VobW9US3dKMFV4MW05bEd5c3BUeUJwZmFFTTktb0dsNWNyOEpkUQ?oc=5",
+      "source": "Simply Wall Street",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T18:18:27+00:00",
+      "title": "Apple stock is rising today: here's why - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQWhjOGh5Rng5X0c1clk0WjdqM0pDWlQzQUtHOHlONmZ1NVFUSkNwaUItb0ZVYlFYOC1YLWl3SzN2NDN3blFNU0dTOGlLbUZsdV9NSTBJRHRGeE9rWmk1MjdCQUVRb2ZrUDZUZ0V5akthQmlRQ1diRW9hd1A0VVNaSVc1SHdJRHRTaEhPZlp5a3FJd0x2VFNPLXVR?oc=5",
+      "source": "TradingView",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T17:54:13+00:00",
+      "title": "Why Apple Stock Is Climbing Today - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTBpSDktTWpqVVV1NGMtQWFFUmtKaWUtdGw4RWJVQkRZZ3hkYzRqNW1lcE4zMHRibE95amxRT0ZJbzhDSl9DM1dHc1BLU1dtSldxRWRGanAwZXFoQ1QyZU1oVFg5SVBBd2t1WlNXNWNRbkpWNFI0TUtpdm1BZ3U5cDE4NVVBM0U3a0tST1BhQk1Yd1BobTFoMg?oc=5",
+      "source": "TradingView",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T17:31:12+00:00",
+      "title": "Alphabet Rides on Google Services Growth: Can It Beat META & AAPL? - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbW9STzFUNlBXVFZPRjlZNGE0cFVSX2FNWkVpVl9hcnIyRkw2V1hTd3kwbzJTeXB3Zmp0bHAzNjdGTHBjTDBGUUZ1U3Q1Z1IxZEQ5VjloelRxWGtDaE4yT0NxeHhOcE9PZ3RkNmo5cDN5bUVaUDRkamZLOE5iS3FncHN0aVpYT29xRUsxN21feEZ3X01XcEl0anRhZDFkdG1icl9wN1hR?oc=5",
+      "source": "Zacks Investment Research",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T17:10:00+00:00",
+      "title": "Alphabet Rides on Google Services Growth: Can It Beat META & AAPL? - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONDYwXzRDOW10am9sY3lPc2FrNVBYMk9TRmVUOXlyblNnWFkwYlcxSG8tWER4c3YzUTMwRUJodzMwaTJ1VmpZc2JLVlBLSEp1anhqSTBsWXYxYjJ5UExxcjVWSjBNOC1HZlQyNTcwLTVJdUEwQnlKVUtyYndhejdLdTRNNmdhMGZ0YUx4NDQ1WQ?oc=5",
+      "source": "Yahoo Finance Australia",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T15:00:02+00:00",
+      "title": "Apple stock pops on report it will unveil all-new smart home hub at Oct. 13 event - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVE5rQ2pkQ3huWmlSLThsOEN3Uk1Rak02YWMySFA5cTcyeGpQbktZdXEyT3NnWi1lSjdxT2h4UGVLYWo0MjBUYTBDZElnUmptOFh1VmhlLWxxY0ZaenQzZXhucHJUY1VMUXpPZXdvX2VYR3NuRHBPMEhPN1JHRzZsRXZORGllUGQtR0tTQnpIbGdVOE1VSVFBQzlMZ29mRU5GSnJZSFlZdzJrZ3ZlZTZxYnM2Z3B5TVA0YnVuREVQVXdCREJLTDdVN2NOSWhtUy1adWRFTUZXZw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T12:26:36+00:00",
+      "title": "Bank of America Flags Surprising Risk to Apple Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVVCYWU4YTdyLXFLdElHSGlZTXlaYkxOcTdQNEhvbWNwVzhjeE1xS0xaQU5DOE5lT0JtOGV6YktYWEY2cGlvZ0NQSWxsbFRUd1RRdlhaSE5pRHh0X00zRzgxRmVwYkNZU05WWm1rR2tqeXRqb0FLZGg4cGJCWlNYRVdqcGlVblpNMVNEcUpVaVhyVVo4bVN4Y095U0FocDBY?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T12:23:48+00:00",
+      "title": "Apple likely to sell 6M iPhone Duos this year, Counterpoint says (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkptWXdHbU1ISW9mb2RYejE1bWhrZ0x1MFZwSzBCWjljMlpqOXI3cmZ5ODVETlBDUV9KaE9SSEZMSHBrMmN6eDJoTW1GNUpSMmd6UFdGU21DbHFjLURVRVZSampQSEFDdkt5dTdRM3lqT0luYVUzVWpKXzFUUVhKa1ZYaE1CR0ZzOXZKS2JXbnNvanFDREtJdnltaVdFWVI3eUxR?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T12:12:31+00:00",
+      "title": "Why Is Apple Stock Falling When Chipmakers Are Rising? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHA2YU5aeV9iNG9CdzBaS1JNMi1SbWdvYXkwcy1kX2Z1bTRyRkJITkZJNVBRMFZuUFZGZDVxdFBSckpNd3pPYnpIRTJkV1hDeDNpOVpYVE9DM3JoR2xPaHBGRF9HOEtqbVp6cTRPQmpNanFCSDh5QjI0ZFprYXViZlBXWUx4a0dyVW5PcnB4M1VSNVVMcG9vY3JYZFZROGIt?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T10:27:37+00:00",
+      "title": "AAPL Stock Retreats From All-Time High: Research Firm Says Apple Could Sell 6M iPhone Duos This Year - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOamNvdUVwakZUcWVQUlBMV1ROSGxHOXdhZXBIbUt1azhSVUM5S0JkRFF1RHR4SkxzMGNHRDdFd2FxQWF4X2w1QU00aG5pMkM4V0NiMm1LQlZDN3ktWXVPek12bUJpRGxlLXlYb2tTUE1icXBwLUxfMkxfU2xyWk9DTmhuakUxZ3BRMWJZQV9YZzNkbFUxT2FuVENEeXRWU0x4RFBoM3FSOWZia2pFeFo5Y21oakQ0dDFCNWVmX0ZWSVFrOGx2NlB2bVU3bFZQbHFVbmc5S1hnaDQ1YlcwUnlHOTYtR1dXc3A3a2JTV1FiWWtvMFJFZ3hJWg?oc=5",
+      "source": "Stocktwits",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T06:08:18+00:00",
+      "title": "Amazon (AMZN) and Apple (AAPL) Must Face a UK Class Action Over Marketplace Sales - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMTJVWGRDWmhFa0NQaEowbXB4dFNMZzN2NE5QX2dpYWYtWTZXVFpGY2p2dlR3Q1BURTZzdm9DVVpTdWRkNjRiaU00dEJBR1dvUmJ6VGxUU05sUlozNWVOVlFDcVVnNGdWYjk5WDNTc09EbEdvZzFkd1FnelhGSVJZOGQ3WFhielhIX1hwN2Z6UUNwR0piNFFF?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T05:49:16+00:00",
+      "title": "Apple enters India payments market, taking on Google and Paytm (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaWhRQTUxOGlueE9Gd0V0OVJOUDlkeDVyTkRrVUVrOUtaMWItYkp6NnBDa09zWFFyVU5sZ0NZNFZyRlRXTkpPZG95M2dwSzVfenJOYnRLdm90YkJ0ZDA2T3hKb1RaWjBienZVbllWUDZOLUdVeFRfbVdwX1owcmM4NVFlcjl0enZSbWNxZU9yR2J0VDBQSzZhYUIwLUVCWjVa?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T05:07:00+00:00",
+      "title": "AAPL Stock Retreats From All-Time High: Research Firm Says Apple Could Sell 6M iPhone Duos This Year - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeWJGS09IZ2RxbS0wWkZhc1VzYUQxSFRKQ1QwbUlab2liU3JWV0pKcnJxTGNLV2FtNmZFN21qeEZXcjhjb0x3bXR5VnNYTUFzalNVZGh5N2JkU1VUY0xLVFRwNFlYenFCSTBrYUFySC1haDQtMm1tYkZjd0t4eS1CZHkwcG5Pa051VzZMS3VCZmRfVUhZM0NBekM2VF93UlppNzRmbzdqZlp3Z3p4Y295RVFyRmFXYjdOb0lZc3I3dGJpaFkzemFDVjdlcm5hVnZtWjRGRjlDZ0RwTElsRzY0ZXJnXzU2NnBXd0I0SlEwUlE?oc=5",
+      "source": "TradingView",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T22:30:08+00:00",
+      "title": "S&P 500, Dow Extend Losses From Elevated Yield Pressure — SPCX, TGT, AAPL, MU, NTAP In Focus - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQW1xUE9XNXcyT2RuMDZ4Rk1teF96N1VTSldaeHRaOHdsZFk0eVBYY3BuWTFKZHVPaWZqRzNQQWpBdEVnWDRzLWhHdjVuYm1GQjY0eXZxc2FJa21PeER0T0MxOV9XVmRZRTZaN213U3I2RW1rUDJkNlVBVF9sVE9rZlAydDlrR0liUkZRZG5EbmdoUQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T22:12:00+00:00",
+      "title": "Final Trade: CIBR, ZM, JPM, AAPL - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nVUNMampyWlphUHhDdGh4Q2Myb3RQOFN5cmZiN0daZGYyYk5XdEFIZW80MWd3UkcyeWZlNmotVU8tZjNhd1pRSkVWLVVwS0p3eU54UWxHU3dsdTRpXzZvYlBCUk5xV0VvQktOR252TU95czZjYndKci1lSQ?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T17:43:07+00:00",
+      "title": "Apple Falls 2% as Bank of America Flags Meta’s Shopping Agent; Alphabet Slips, Microsoft Holds Steady - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUV0a3R0alVEX1VVcHBfaVZHOGMzZzNsTlI0LWxIdGFLcGNZaHBIbW1Nb3NxalFaMXZQQWxCRExVa3V3LV93b2JlWXQ4WlJUQTE3eHdHUngtUHB3QVFwbXpKdHNQNTZOaDhIZ2pRSGpIRXZQMzZkaWUxd2lEaE1tN0J3WDZpOG5WeFhra2o3ZW9UZy05enc?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T17:19:55+00:00",
+      "title": "'Beyond Spring and Fall': Apple Prepares Organization Restructure for Accelerating Product Launches - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQkVRajZVdmRpRDROUHR6NkRjckZ6QmpDeVFwelFYR0h3Y1JfeDJhaUFvbFVjV1d1SnVHNktIVWd3ZEZlbC1SaUh0OFdpeDd1a2g5WTUtUURTa3Q3ajlZUWFPOVBCYjRBaWF3UjBPeG5FWjNqS1c5U0hsVWtKYTdsNW5KanFzTG1MNnZsX1ZxWk0wTkNwSGZqV0VKN1c5V1d4dzJ3RU1zM2Jqc1pfNHRXeVJPMDJuNVJjcl95a3lRMzh3QmstS0hTR1hTNjFaY2pEdnVPZ052UmhHc093U0o3R25OSQ?oc=5",
+      "source": "Benzinga",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T17:02:00+00:00",
+      "title": "Apple Stock Faces AI Threat From Meta’s Muse, BofA Says - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN1B0b293Mkp3aE5Zek9MZUZrTmtGZ0RjMGlIT2ZXTWszanVweEQ2Q19HTkdTTUJyN2FGaUNfMEM4RVNvQVV2dmJiNklaa3lnN0FjZjgyZG9EWTFlTmp2Q1c4V1BWX1k1WjBxV1A2cjZNZ0s2T3dJbW04bVJlU0ZTMg?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T16:35:56+00:00",
+      "title": "Apple Stock Drops 1.5% as Local AI Moves Onto Desktops - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFRGR0ZYdjJYS08zejZpaHVOOFE4a3dkeE5qMjhSWmRxTVJpWVh1S3BaYk84OXprSlZ1dWZUeG9wc0JkWjNMYnQ3bHF0VnFlUjJMcXdxNktHZXZQWlpZUTFkYkpEdnhXeWFaLUZNT2xUV3c3Qmd2YW03RXB1Q3VRY2xEaUFqeTc2NUU5cU03VQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T16:09:04+00:00",
+      "title": "Apple Stock Falls After Bank of America Flags a New AI Threat - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGNCTUI0eXd0cFdSSFYydG1BeVJqOFZUX2tpNDJUai1OSEQtYklRMURfZWo5a2lzeklSbFBwY3l5ellreERyWnk3TE9EMjk3RGtVcWp1NlhLQ3dMNGxEZ29TR3k3dURkQndrOWFoZDZETVhvbjlueXQxM2lPWF9XMnprdkgyZUl2cFlPdVRMbWdTcURVcUlWYzlQNA?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T15:00:00+00:00",
+      "title": "Apple (AAPL): 1 Number That Proves Its AI Strategy Is Different From the Hyperscalers' - fool.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaWNSNVJWMDVDZmREdF9GX3lNN0ExWmtRbGJDa3R1b3d4ZXp3VGF3Qk1qbUp0N05pbVczbS1UMXF0VllCN085eGJmeERXdHNGcEU1MUpzZHl6TEVscmdmUHh6RU9WUnBXcmcxN0dDM2hfX3EyMTNacVVlbTBVWFdZTHltTENKTzNidjhGR2dHcks?oc=5",
+      "source": "fool.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T13:39:38+00:00",
+      "title": "Why Is Apple (AAPL) Facing A $5.7 Billion Patent Verdict? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2hKOUdjOENobGRRa3R5WTBkNWJGUld2UkhJNXhzY3l4dTVVYXdBanQ3clhNTzFkTTVSNmlvQWhHeTlfRTFvSVktQ09OeFluamFQcnhBbHh3NGRuOFhYcEc3bnNYaUFhTmo1OF9lTmRURjZVNTlQNk5idzYzcDF3RjVLR056am00RlI5RF82dEpzOFFORnRHbG1GY0NWMWZOeUVCYkdTaExvc3pkRU9iSTNB0gG3AUFVX3lxTE5udUlGNHg1NmpzWVVIUlVndmp4NHN5dW43QmRRWFlwSVF6MDY4aEtVRzlEdzJ5SlptR1R2eUVpNGlNaDhhT1JSSHR0dmw5ZnM2c2NBeXEtU08wRXhuT2tVemVQRzRROFFEYW91SDZGUU56cG1BbWtMTnU5T1NPUC1UR0RpWGlkdlVjOVJxaWw5QU1idVAyOHNidlNGYVpjUzFGWWsxVVNucUtMTjhWSi1WOF9sdzVPTQ?oc=5",
+      "source": "Simply Wall Street",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T13:29:44+00:00",
+      "title": "What Will Decide Apple Stock Over The Next Six Months? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTFllWERuemFOci12OWVXd1JWLW04UFMtUEFCb3ZMUmo0UkFGSE5aUWhMNHh0dEd2R0lPMzVuektCRURLZEQ1Y2lYUVNSWk9xamRYNW9tREFUQ0hSLVVMbUZBR2hPdno5eUZvQjlGWUc5UXJrQjIwRTd0c1J4TzdPRjllSFQxQV91aXFPbW9MUnYyZmtXVjRhZU55aVJVajZIQzJfa1Jpd0dCUTZCZWFxQ2xkRko?oc=5",
+      "source": "Trefis",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T10:40:24+00:00",
+      "title": "5 Catalysts to Monitor Over In The Next 2 Quarters For AAPL Stock - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSkRhLUpPeGl6MU1qMExqWURESXFad0RqWHpZd0V6YzRELVBnV2JYT3A4RjlLZ1F0TDh6OU9nNDJCanJ1NnpxbEVQeW04NDRrSEVxcnNMSFdCNVozRy1UNFRKUGV5b0hHZFJDdlhacUFISjJ0WkVZU08wUHRFSldWaF9xcm1rUVZiNWhzUDYyT24tcXgwTW1MT0pka1dqekE0MERqbjRtZlhuNVBuVGg3a25kLWNrOTdXUmdsaUNzeHVWdy1FN3g3M0NBLWFYX2xS?oc=5",
+      "source": "Trefis",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-28",
+      "publishedAt": "2026-09-28T19:33:43+00:00",
+      "title": "A US Jury Orders Apple (AAPL) to Pay a Record $5.7 Billion in a Patent Case - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1NHTmFYYi1KVkFGcGZBVGNqRDVpbThBQUR5NTFFY1VGNkJQamMwMGNFOE1Xd1hDR2VvOG8wTHpmVVZxQXhYUTdVQ3VxX0tNaVE0VU1yU2FQbDRnTnhpRUxFdm1wREh3Tm9Va1FLbTBmRzZVRGh1bVBQNkdDTm5aamZ4eVl4bHpzRHVwMFJyVld0Smdk?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-28",
+      "publishedAt": "2026-09-28T17:41:16+00:00",
+      "title": "What You Actually Pay To Join The AAPL Run - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVBaaGdyQm1PcWh4NzFxU2Z0d3VEWEtQRURnUmxPaF9yZFRhbFdaakhZdVlLd0wyY2NhZklxMkxkZmtiM05VcEdzSXZnOTV6ZUFzdldjcXFkQTQ5SHg1bzhENWYtVlVPQ3B0aHF1Rnh3ZmhtNGNXUlhjVUFoUEd5Y3dpLUliMjA3ZzExX2RPeFJWMUEybmFZV2pIaDZGWEVHWTdra1BlVjc?oc=5",
+      "source": "Trefis",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-28",
+      "publishedAt": "2026-09-28T06:35:49+00:00",
+      "title": "Apple (AAPL) Stock Could Be Overvalued On Fresh Health App Hopes - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGlqRVFJRnA5UmxOeGNhMmZ2YnRBVDBPTFB5M0JtMTNid3U2OEpNTTNtUGtVTWV0SElsblFKMnNtcFR2MENKaFdJWHUwYTRmZm5yRkVzWEJCSjdybHZRNkQxYXZoaDF4Vjc3LUkxeU9Ba0hPRGFOSUlrZTZJNTRJQXhpeWlkdnRzSFpoUjViYzBqcjRUZzZDREFCX3IzYnhRU2lMdzBKclJERlc4a0NJYlo1RGpKVXBqelZmU9IBwgFBVV95cUxPdVFFTHFfQlB2MkRaUWFZNlR4Ul9uUzFWdFdKLU1aN0I1dWpBRlVlTW4yZV9VLWhzVXMwRnhnVVcxTzY0emlzSnZIMnBHdVY2QjlkTTkzQ2hiOU4ya2t3UUV2OW9MQW50bGg5ZjRwMDJiNG55YkVWQi0tWjUxZGdJZ2o2Zll4d2xNMHZ5WHRxZjJGSzU0cXBDQ2FuUGpZZGhaYUlKVUF3T3NkZm1OODBISjdDeG5KbmVEY0RmSVlpQUFnUQ?oc=5",
+      "source": "Simply Wall Street",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-28",
+      "publishedAt": "2026-09-28T00:32:00+00:00",
+      "title": "Apple (AAPL)’s Premium iPhone Strategy Faces a Test Beyond Early Adopters - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdlQ3RDZ2TlBodmtFVEFLbXo5d1YzbGQ0dnJqUHotUjRyY2Q3SXhXWWQxdS1USEMySWI3WnNmeFFrOEoyeHJQWkYzSVByVFVzTTRjN1NDOWxMbS1vQ2ZzeEpEREcwX0FXalZkdEZUVlFubVBKYk80aWdfLW9VU0FDRTk2Y3d1d2o3N3JyZWFKa0Y2enR4ZDM0Y0VFYw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-27",
+      "publishedAt": "2026-09-27T23:44:33+00:00",
+      "title": "Apple (AAPL) Opens the Ternus Era with a Foldable iPhone. Can Premium Devices Lift Revenue? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWhFN1RQcFRpazM5a2p2QWx3SW1VR2ZaZGRxQnpRLWpHdEQtVnVkemhjMEU1eE5GVHU2WXpVd2lqcFgwa0FVVzNKOWdSSlQ5VERxeUNTdW9UR1JuVjNFT3pYSnZhUmhrS0tPTUlhc0s3OG5lMVRaRjFzQXhvM0ExSXpjckN5NTdUUUlFOVhQM3pZZw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-23",
+      "publishedAt": "2026-09-23T07:00:00+00:00",
+      "title": "Apple Stock Is Trading Near Record Highs. Can It Climb Further? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFdBRzhyb2pKMmJNOE9OdE9BcHotSWZHYjN5ZWg4cUFWNnhnTTE5ZGJScUlGd2pweDNJMTMweEJTUmcyZkRkc09xdU5FcjlyNVh5bldwVE1RRHZyR1Ywclg5SUFJREppOXgwWEdQcmd3VXhPa2luZm5XWEh5dnZ0VlJsT3hVa1k0aWNxM080Q1d4YWY1WnhKWmZmTG45ZmgxenFLb0gxNXE?oc=5",
+      "source": "Morningstar",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "publishedAt": "2026-09-19T07:00:00+00:00",
+      "title": "Apple Shares Are Trading Near Record Highs. Can They Climb Further? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVctWXBNbW5qV0ZQSVFqZ0FUY0k1TGszMkhrOW1vMEpnU1otXzV1ek40cU9pbWotLTRtS010dDF5anRnVjZ1YS1sUDRYdGpoRm14REpRekFlM1NqNTRkdmhkc2p6am4xdWUzZUt1blVQVTVPUmJBc1VNM2FfOFlIZlViODRESnR6YVR2Zmc2OFFYRXdsdnRURkhWQ1JnbUJPNWdiMjdrb0VZYmN3Zmc?oc=5",
+      "source": "Morningstar",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "publishedAt": "2026-09-18T07:00:00+00:00",
+      "title": "Apple Stock Has a New Opportunity Investors Can’t Afford to Ignore - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdzFBLVF1M3YyQlQxZnBzN2JHUHY2cUJGTXBvLUNieUdIdWp1eW1MeUhEWlBHUWFnbHN0M2w2a1ROOEgxbmFyV010U2lPS0JoYm5mbEFJVmN5QnF5OE5GNDVKQ1E2M0pidmpBTUR2WE1od0J4RGVpOWNNalh3NDVETzlsNjVsTjBWT001U0ZVWGdiTHdfc25qTHdFaTU0UG4yWmc?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-10",
+      "publishedAt": "2026-09-10T07:00:00+00:00",
+      "title": "Prediction: Apple Stock Could Be Headed for a Big Move After Yesterday’s Event - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd0VMZU53ci1NcXhoRnlWbW1kYXBSaHRYWFJ4Q3hDY3hMRHZrb2lVMy0zYmlkSDdVWndpUHN0cjhSUjRjbFhlMXRZeUdkZ0xYdFFlbDhWaHZnQ3VNVjR6elpubk9VSnU0dTJnQ0hCa0hGbFBxejNuNVFIVmVvVzVPMGFOR1RUXzExNnRMNGVZOFJydTFoQXN4NmJGMkFiOFR1b3c?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-09-10",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-18",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-19",
+      "count": 1,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-23",
+      "count": 1,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-27",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-28",
+      "count": 4,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "count": 11,
+      "pos": 0,
+      "neg": 8
+    },
+    {
+      "date": "2026-09-30",
+      "count": 14,
+      "pos": 12,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "count": 8,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "count": 19,
+      "pos": 8,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-03",
+      "count": 19,
+      "pos": 0,
+      "neg": 6
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-09-10T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-18T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-19T07:00:00+00:00",
+      "count": 1,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-23T07:00:00+00:00",
+      "count": 1,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-27T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-28T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-28T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-28T17:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-28T19:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-29T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-29T13:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-29T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-29T16:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-09-29T17:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-29T22:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-30T05:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T10:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T12:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T17:00:00+00:00",
+      "count": 3,
+      "pos": 8,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T20:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-30T21:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T12:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T17:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T23:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T07:00:00+00:00",
+      "count": 8,
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-02T12:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T14:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T17:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T20:00:00+00:00",
+      "count": 3,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T21:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-03T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-03T07:00:00+00:00",
+      "count": 17,
+      "pos": 0,
+      "neg": 4
+    }
+  ]
+}
