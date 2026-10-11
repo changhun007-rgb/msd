@@ -1,0 +1,1039 @@
+{
+  "ticker": "MSFT",
+  "query": "Microsoft OR \"MSFT stock\" OR 마이크로소프트",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-10-11T01:47:37.583573+00:00",
+  "items": [
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T21:47:51+00:00",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’ - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkNKbTdSU3VkMlhaaTY4ZmdjQ3dGWlFQbkpXTnNjMkZCVDkyenpBaUVBRk5vQzdXQWFIbk1Waks1YjNjWnVBV056T04tcGczUW1PUHhnSU5oQ2JUYmtTckdqemVTTEFOWjBHT01DaVJESXVoMDdZdURfT2pjNmU0ZVlvWGV2TFpGMnNoeTJxUkIxSENjbWlyaTAzVnFhcDQ?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T20:59:28+00:00",
+      "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWllxOVA0bTc2VGhkSDNzOWpRT0pRZjU1d084VDJMZmZmZGdSOEFfUGNZdG1NNWdVWG9nZjJxZVNVYVVlOE5hUl9lZU5hYW9xZjRaWFgzQWlwWXkxY3VBcXVXUkQxaHlxTTdxMC1QalJyWWFzUVRaWF8wSUJzdnNqSGctZ24wZDBHdkswZmtJTdIBlAFBVV95cUxPNHRQX2VXbDZtb2Z0WS1RRHAzc1NxZjdsWHNDZ1oweTYxTi10NGNESm9KLWNnNmhVYUdQblRqODlmWUdjQlFxYzRJbjVJLUlkUkdib2lwb3VUZ3pYNnJCclhid25RYlRyWEhnbE5ibGY5bWNTb2tzOWNEQlBPcllvMms1YkZxcEJSZHJPbHVpaTZQejRx?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T20:49:13+00:00",
+      "title": "Microsoft (MSFT) Faces US Green Card Program Suspension - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcV9qU3A3cmc1eEE1R1pjWkdRbnFieEY0dlIzSGNteUxVby1Yc0dibndwazdDN0hFaWR1ZjBZUnhOY1Z0RHUxeWdSMUVKNnFzNHNOa1JxbGdPblgxLUh1YkotdTNOU0QtV0lWaGQ4VXlOR0dXSk5aWnJYMTJuMExocjRCNld1OERtWlRkLUs3ZlB6Z1ZmcG9mNktOUmY1WlRxazI4NDl5SVdDRVh1dHR1ZEc0Rk5SZjVTY09Dejhn0gHDAUFVX3lxTE44WTNxRUxBUHJfVi1UV2U4T1h6ajFyQ0ljVlhIZXlsNl9Vbzg3Z1BHTUd2ZmU4ekhlYU1WNDBOeTcwWEgwam5IazhPc2oyNVBqai10d2YxdFQ3a0xkX2h2MnNkZUhpZ0NYUXdJc2RzdHNFZnAzMnRxd253LXJMQzVWd3BSc0toV2NzWnQ4UlpMS2tXOWFWUFJMV29TbW1NOFNJRXUyNi1lVjRaTmVSYktoR0lBTXRRTHJsckwtYUZTTTUwOA?oc=5",
+      "source": "Simply Wall Street",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T20:30:57+00:00",
+      "title": "Super Mario 64 Arrives on the Microsoft Zune HD via the sm64-zune Port - TechEBlog -",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90WkxIWmFzUzZMQWNaSmhVMkdOakZhTUI4ZlFQWHZjaENMblZIcTh2Zmt0RURLeG5YOHpzY012QUo1SnVsUTNRWmhWc2g0TjFVZGg0S2RCdXVnSlE1NGI0UjR3aWRrUmpmM2RHdUw4elA5UQ?oc=5",
+      "source": "TechEBlog -",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T19:23:54+00:00",
+      "title": "Microsoft CEO Nadella calls for ‘emergency brake’ on advanced AI - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSklhdVBnYXRISlRyRWREUHNaX2E1WDBGVmgzQ1l0dEE3LVdzVWJDcjY2WXprZ1pLZ2R0bW9xSGM1YXctUDBlVWRtN1VyNmVzRG9aeDRuVlU0Y1FpdlcwMjZHZXQ1UFR5Q0g3bWlsbjdsU0lZenNPOW9nTzc0TE5MUC1EVVJ6bXp2b3owdXdfQjRNcVdPMVBtRHlYTFBQWC1sam9F?oc=5",
+      "source": "The Seattle Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T18:35:59+00:00",
+      "title": "Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2tYeVZwTkEwVmNuQnBYVnhKMHNnamZKeEtqeXlyT3AtRVlXbWtMS2wxRktaYWRyUUJfcDV5MktLeFZJRkFBYm9WN2xvT25VY2VsZFNnSzZhNXBoYzZSRzNCaGgwUFBiOFloZ3BwdzhnZzEyZzJKbFk2Q1ZDbW9udEZ5YklCSzNNd256aEN5elc4RlJfZVNrQ1FoVWlBOFBLWDNodUJBWVNVNVJEc2paY1pNQQ?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T17:44:14+00:00",
+      "title": "Microsoft Foundry MAI-Image-2.6 Setup: 13 Steps [2026] - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12NDNybkFFOVJNNmZhaEdlMVNaWHNIcERIUUs1Vnc5eVVfV1UzdzJwVG9aSnN2UFlidnVEVnpRWTh0a04wWlVkQmxTNmMyVUlibVpaSWtRNjNNaDJZcUhjem1lWmkzWHlBbWxiOTZWYnpaZEdNV29v?oc=5",
+      "source": "https://tech-insider.org/",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T17:11:42+00:00",
+      "title": "Microsoft (MSFT) Posted 43% Azure Growth, Yet Trades Below Its Own Five-Year P/E. A Real Discount? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1praEZqMmJ3OFJTVkxOMURvdlh0eDlqVlJya3BucUdWMXNNZ0V3Y3M5UTdhNGY1WW4xX1BiSkxZbXhPVVVvWjY3dHBWRk9iSW9ZR080TktKT1JpNEhyMnNmbEtiWnNBbkI5RTQ0NFYxR0hGaDdTSmZTS01aSjlrVkZVTEg3UVV2M1N6RER2cUNORHVzUUtES3UtYw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T17:06:57+00:00",
+      "title": "Carnell Tate Catches | Film Review powered by Microsoft Surface - Tennessee Titans",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2kzT0NKVXFEMkQwOTFhR2RWUDUta3VKRE5POEFUVWFZNC1CdjhEbVZOSlFnenF3Y04yVGhXODFkYXNDc0g5LW9PeXFDSkJPZ25wNU4xRjlyYlVkUHNfQnQxRmRJU0pWQlN0Tzk4QmttTURqMDk4c0gxQ2FCZ0NSaW05SG9CaGZqSHpISGRQZzhmTTY4UzlBZ2VDRXhTYWQ3?oc=5",
+      "source": "Tennessee Titans",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T15:30:00+00:00",
+      "title": "Here's Why Microsoft Stock Is a Buy (and Why It Isn't) - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTEFfSHVicWZUdzdkSU1jNHFvWVpZNzdFaVVYZ0tyUDZ4cUtZemJQRV9NblRrQ1NiT2luNUstZE5vSUJtRzRGTlRiYTlNakVBZXFKRzFGTFNDaF9TNl9oLXZYa2pCaUdYdjQ3ODNEa0N1VnhSUVVGc0ZsdXdyeFowY1ZZVzV0UUtuaC03SC1TUzU0LTJTMTA1Wg?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T14:55:00+00:00",
+      "title": "Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLUQtRjNpVkFVbmNMcWVlVThsNm5haDZpUzNUSXRPQmQ1UUJxbGd3aEJ2bTI0WW9NQmpZVjlobDIyY3NLT3RjRlJJMktJNV8zUGp3VDlfbi1IVW8yQWhaeDlxUDdEVmdXaFVGaFNkU05BSGhIYlpCYTF4WnlVWHN2WEM2RG1CalhxZFlvNE5BYWc1Yl9DbjJPaw?oc=5",
+      "source": "The Motley Fool",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T14:22:23+00:00",
+      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UNjF1bGo2aXg5SldWVzhNbHBfSzZYbkpyYkR0UDVKdEdIWjh3bGhxYTA3NWZXOEtTR2RxMnBZMEFBU3VtT1lEWURmMU96QXQ0WndiRGlQWnJVOUppeXltazhaZnNnR2pNMVRPRVFkamNocmNId3JRM3kxaV81TG_SAYQBQVVfeXFMUDVpOGxnNUNuR0NPYTVyRy1XTDc1bmNudERxUU5vYWdaYWJtSVl0SUpGbDBHSF9faS1rYWZ3cDgxUVZ1YmhVTDlmR3pGYmx0TDFYN0FwUnMwZVJhbnFjMTE3T0k5ckpuNkpham5FRF81RFlXUFVXTTVGYjZBQVRIQ0tCSFY2?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T10:12:09+00:00",
+      "title": "Microsoft Plus 2 Elite Defensive Stocks - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPekZMZDR0YmlwU1lnTGltMEFtWThiYUJwNHdUV2JPYVhtMnJiOC1VckZDWUx2WV9OWUhpbWZsTEM3RHlmMGJlMlo2MlN6aGk5SjZuQ2RqUXNDOVY5TGx6eUxpZHM5RzUtNzBWeW5LZVN5YktKcjZLU3Bzano4NDdKRkU2OXdob0RfVVdSM3NVYllscGU2dDJ5Ylo2OXNDQQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T09:09:16+00:00",
+      "title": "This Deal Days sale is your last chance get a Microsoft Office lifetime license for just $30 - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUU45bkdVZnJ0Y2VVM3FNSlpEMV9XUWFYZURHWDdnSmR5NlJ5MEhDUkhVWDB2ZWNab29OSE1pRFlqX2JvMTI5azV2dkc4cXNMQUN2RUgwUWNOVmxJc1lrX2FfM3dKV0pIT0JFa0xfUFFfNndHcDVLQTZydXhuNnkySzRGU242d2hWaWR4VXd3NEhMaWRiSmdJM1ZBM2I?oc=5",
+      "source": "Mashable",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T08:21:19+00:00",
+      "title": "Microsoft's AI Economics Are Quietly Starting To Change (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDI3TE5XLWxJYWxCZ1l3SjE2OU9wWUFtazJnZFRuYUJUM0FSU1NBZ0dZUUo5cVdwaGpzcGU5Y09LOHVLUEJNUzFFSk9xaGgtVFhRSVRrdkhMd0d6VU95b2hMdXZtMFUxRzd5TzlsVFJROUxrczVxQXhaeFdSSEhwNnhxN0MwR1d4QW9RSkdhVk1yWW1kM3FKbVlR?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T04:29:46+00:00",
+      "title": "Trump administration freezes green cards for Microsoft, IT firms, probes universities - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T21:45:00+00:00",
+      "title": "JD Vance slams Microsoft, says it swapped 6,000 laid-off Americans for ‘foreign indentured servants.’ Microsoft responds - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0VJMmJNMGtZdnoxTTRpdjk1ZERTel90cWpZdlpOcDc0M2pmWEFOUkk1bVhXWmtRZHVUN0ljcGhZR0txZm5qcENjWTNDUHl4STBmcGdPdEU5UUp1T0NJSFhCb2RYNGstN2pzVTBHZUo0cm14QmdUUDkzYUF4RXNycGwxM1Z3QXYxZHpUblJ0X1pvalRKanlXZ3h3?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T19:00:34+00:00",
+      "title": "Microsoft's Nadella unveils tech giant's new fast decision-making AI model (MSFT:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTks5WXczZnlZOGwxSlU4WElYVEw4MW8zVXBLOXVyYkZJU1VNQUZtdTJrVTBIUFFQT2ZnV2M0WFNvcHotSEV0eUxVekZxTUFwX0U5Z2pfVDV3UG1VeFpHSkdjY3dVU3FaRXhsaE94cVVEZHdKc01rZ09MSEh0NnFIQ3JHV0w3ZWdHVDJ3UlpwN283dWd3cnpid0x4Zm1lcFk0S1hMV3hUVF9jVFpqR3Jn?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T18:48:17+00:00",
+      "title": "Introducing Microsoft-Decision-1, our model for fast decision-making - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jQVpWd2UtQllkVWRKNDNlZm9JdzR3b09fTm5GdjNmb2FTTmRHZ1NJMHA0bDZ6S1hjdmNmNTluM01zcnZpM1d0dlRmb3JZUWgyR194NlZPSTBjNGVkeTRRUGNUZGlUbUE5UnJLU25CLXVHTGFTNnpJWA?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T18:02:16+00:00",
+      "title": "Leaders from Microsoft and OpenAI Weigh in on Why Trust in AI is a New Competitive Advantage - Bentley University",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0RfSWRMVDJpMG5BZkFRUHJ1YXd6TEZWNk0tX3RvLWJxbGdabmFLLTUwQmVaWUl0dGJZai1xUmFQWUxreThXMG1vTVhjcUZBdDN4ZDJ6ZElVUUliZzZVQ081ZGRhd0FsVllvM29za2lTR0pOU1JyTHk3UFZhSDJva3dVODVXSlV0dGZuN0kxV3MtdmpOR1RnTDFXUnRISWFyNmU5Qw?oc=5",
+      "source": "Bentley University",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T17:48:47+00:00",
+      "title": "From H-1B to CEO: How Satya Nadella traveled the path the U.S. just cut off for Microsoft workers - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDZHU2VVY1lXT21sSTJBTVpHMldhRTlORi1ZWTBxelNrZXc2SVBjY3lsRzludldONVlpWUtIQ1hZd2pPUDRRaWFlVjU0dXVpLXRNbU5aRjl5NTFLbFVUTHdMZXNHTVIwVWdjbkZqZHg5bVZsakJReWdidmUtQ0lLOW5fbnpvMjBORDVXT29JLTlCVGVNeEVlaWZmRDJ1aGtUVWxtV2NIeEIycExPYkdqQjVSMjdiWkxBRHl3cXI2Vi02UW41?oc=5",
+      "source": "GeekWire",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T17:10:03+00:00",
+      "title": "Are You Overpaying For Microsoft Stock Versus Its Rivals? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeVJKWTNvcjVtMG1XWWVfZS1fQmw0bGgxdFAtZ2NGXzhtQWpqTkhwVkVzREZoRm12SE5MSzVld0xxZnRoT0Y1am5XcE1tUlhwWXJ5ekFQVWxac2dfZUF1U1RpMjVLREpMYU5qUnl3OXJHUzBWcURZSlc0WXVpUmc2RkIzRjlLU1hOWF85cTc0UW5GOUY0RTNKazhCcVpuamFFWDFHYllKdlBhendDVm9vZFNrVXZtdVNs?oc=5",
+      "source": "Trefis",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T17:00:00+00:00",
+      "title": "Microsoft tries to spark new life into Windows - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcTVaU1IweDlZNEZxNm1zNG8zckpTRDFGRUFYcm5wVl9SZ3lob1NScXl1RHVfQ2t3MGhoQl9JNnVPcm8tY3AyWkhQWElzdXpJNVc4MmltOTJQMTdVSHJfbnY3LXF5RHBkQlpiYTNuYnA3d3RjbGJBNld5bkQxd0xzd3JhcGg2aEwxWGRCOTlhSVc?oc=5",
+      "source": "The Verge",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T13:17:00+00:00",
+      "title": "Vance Says U.S. Will Suspend Microsoft and Other Firms From Green Card Program - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWZKb2JURTJteGhJSGR0RUs2RF9tTEhZcFdvUGwyZ05XNzVGajk0dHEyRjRBNGpCRWhXaTRLWFp1VXVCaUpzZFB2UTNoMkRMMU9xVnlRM1lobE14X3IyWldkSEJ5MlN3UnMxZGlobjJmN0duOFNJdlUzRWUycG9ZMTF5OE1CaEhQLW9CT1lvWmdGeEtnOUtmZUZwX282bWw2OFNmRmlUTWlVbENDM2Ffdk9nMTJsMk1RNUtQX2VjOA?oc=5",
+      "source": "WSJ",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T13:00:00+00:00",
+      "title": "What Microsoft’s green card suspension means for Seattle-area workers - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTNnTnh0a1NhVGNZZXJRYWpGWGE0OGNBRUlacnNYbVhvQ210dUZyN0s0bVFmUmx0cjU3cVE0cjh1aXVPTnZxZWxjanNiU1hZTDNBTjdncHBKUFFINGNhV3RaRklTZTdmdmZETXV6dHhWdmdpRFN3OFBYWmZ3TWZnWkxTcWVXWGJrVFU2NnRuaFA0ZFhhRE5QTFZzOGktaDJJN3haZQ?oc=5",
+      "source": "The Seattle Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T12:51:59+00:00",
+      "title": "Microsoft 365 slashes storage capacity for shared accounts amid industry-wide shortages — 2TB limit to take effect after April 2027 - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQeHJodzRScUJSNXJQZ0JOVkZ0cV9kYXBYd1BFWjNnRjNiRXpsUWJneEZRcGo3TW9uS3FYMVhfamVJMUZmd2lxM0d2TUtYbjZwUF9xczhaQlFBVUpoN0ZIcldrbkRoazl3VTE3bFRCRzRHVWxiRXQ5MHFtWG5XMko0Q2stRHRJc3pZVDNlenI1alZmeTl4YVFSVk56WkJVeEdJaG9MUlJiQkVIY3lmU2JnVXlZR2Z5V0h6bWR2RVFJdFI0by1Xa2lKYkwtdmZ1VEFxMFl3YzdhUGxyTlF0TzBlaTJlSXcyNFhQWDNuSGVwTkwweWwydTE5QlZYT3hCX1JGeFRUUFhBZ3g5SWRaX1E?oc=5",
+      "source": "Tom's Hardware",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T10:06:44+00:00",
+      "title": "Microsoft brings more AI to PCs as it challenges Apple - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T07:14:32+00:00",
+      "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFBjVDI5Q0tHcVBQb2NfRDJ4X21FODN4enFPOXlORS1RV2dFWWNrUG5GdHh4dDdtQi1WdTJuYzhSbm5sOGJ3aEpqQXVUbjMtTkNSQ29NVFVfNnFncG5PQzdpWEtrbDM2cDJYd2t2ZkM4a21jdnZ1d25NZEpEbnFyeW1vTGE0TGtlY0dZQjBYX0hac2N3LUExb2IwblBGbzZ2ZVBz?oc=5",
+      "source": "The Verge",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T04:04:00+00:00",
+      "title": "US Suspends Visa Program for Tech Firms Including Microsoft - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeERzSGlLb0YxN1hWdUR3RmtHUTV3ZXRJZUJLR1RsdVF1TWx1alJuT2xWZDRyZ2ZpX2Z3OC1oaTIxMm5VMnBmYzJYcXJIaXgyVV9GYVVfRElZSmZsU2hHeV9qZ196c1BiSGdMejRWNUxiZjNvbG5sY1Nrd0hOUFJEUkdHSW1URm1KeDVrLVNRVy0tZ2FTSGE1OGl2d3h1azltRVpJaS1vZXJGNUJKam9v?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T04:04:00+00:00",
+      "title": "US Bars Microsoft, Indian Firms From Visa Program in Blow (2) - Bloomberg Law News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnlrNnpCTFlwMUZvOE05Wm9QS1lEdEtEanc4VFRwRm9meHEtZUExMUw0SHpNYWFXbzRkYVotams1bU5zcHhaYm9tR1VtQmw2S2toN1Vac1Utc0pUV0hsVHJFdTNZcmo4azBtd2k4MEY2TkJYSlFsZmFyb3VqUEdhdnVWUWtuVHdOMDFlbGZyVlNjQTdPSEVZRzhqTUs1ZDJUM0N4dzdPUkZZYVRGSnlR?oc=5",
+      "source": "Bloomberg Law News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T02:34:00+00:00",
+      "title": "The advice immigration attorneys have for Microsoft workers worried about their green cards - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcW1yWDZpNjlPNkx3QmVmODh6azl2WWU3ZXpDSGVkb0ktVUtvOXAtQTNlWUJLbko5bFJleFEzLTdtNk12eEZSeThPTDBBY3JYZGR6TUJfa080ajlEdjh4TXo3MzlvWEFmb1VEYzZGNV9RSFJIQWtla3pKWWhnNEpLV3o4X09RSWNZYi1qbllxbjlpOTRsZW9kdkozemxyWEkw?oc=5",
+      "source": "Business Insider",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T00:46:00+00:00",
+      "title": "White House suspends Microsoft, other firms from green card program - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcVlPTXBUZ3NMWS01RTZuLXloY3dUQ1RxdVZyUnM4MW9VcEhtWm5OWlQ0UzhQdU03SUNBRG42a05Yb200a1pmMG9kRXlVOHZaOUw0WWVSQVpXWGtYREpuRlhsbVJnVTNpSWxjcEFYSnlqN3ppOUFjWU5waU1CdGM2aktEQTFhWHZMSWhtTFA5Ul9JdDh1eFVzZ2dPYUNCbXpmUFYxZ1MwWUR4UmFYdHlTc3JaN0pRLWY3UERJTlpRbGlmZFJIajBpdjdR?oc=5",
+      "source": "USA Today",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T00:29:03+00:00",
+      "title": "Trump officials block Microsoft’s access to program for employee green cards - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWxEWHVLM3hrdWRUWEVKUU1iWUV5Q1pWMU9qVFlqSmEyaldsUHhKQmE3Vm0zM24wRWI4a0RfQWdBUTVZMEFkZVdSUzFWbENCUWRJY0JtUU9kRkZXcXhvTnlST3RNd005N1VTNl94YVc3aFIzckltOHl0MVl3a2ZveHZJT0NKTmJTYVNPMGcwZUNuQXBTSnJHNVIxbTE1OW9wV0YxYTlUck5fdXg1NlJHbk1JQmYxam53MldLYmM0Vmc?oc=5",
+      "source": "The Washington Post",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T00:07:00+00:00",
+      "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSlNGOUJHbkJ0UXdETE9EUWMySjZkMWVzX3V6Ny1yNlc1Ym4ydmx5NXY2UEJyak1mNVROdkRqOTNGY2kxT1BrQUwyYVRzSmlDNlVIa0xnenNUM2cyWjg2NTd0Rl9seW1JOVFuRHczVk93M2RkOWdDOUV0Sl90WjFJeEZEeWNTUFFvNkNkRU81alBOWlltQ1VN?oc=5",
+      "source": "AP News",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T21:38:29+00:00",
+      "title": "Vance suspends Microsoft from a green card program to crack down on alleged fraud - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTmh2Z19kTG5EWmJONDVzaW5aelNsT3Y3MnRZd1pWS0ZUWThlSGJSUlFoYTZDRXREWHJaTVVJYU4zcW0zVW1Zby16WGJUNXZuRVRBUlQ3N29fYjVDNHc1TDFoMnlQVjhoLU5KOFIycGNvNV9SSTBUZWxtck4xbHlPMjFXdUthNFZ4d3pqRUZMLWVGQ1BFd0kxY2l6SDF0QmZGa3owUHJFQzjSAa4BQVVfeXFMT2pPeXZlSmN1YWk1dVBlS1REeVBFVnRxRUFpSk1hRXNBaC1HLVM1NnJkSGpnaE52Tm1HaVZyZ25xWlRFRW82RlZvY1VuOTQzem1ZMVRLVUszdHFYVGpmS1hYLWNicDRkMGdGTGtMeUJCYTRWVXZPWHVRbkNGWEJ1WExUTlhESV9FY3ZqRjYyLV93M2xzYnM3ZXJpb08xQzhfandWanpEbGpac1I4X3Fn?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T21:19:38+00:00",
+      "title": "Microsoft faces foreign worker crackdown as Vance blasts layoffs - Axios",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVhVNnkwZm53TWhlWTF2bEN3TlpHOENBWHVnTmxiMU1HeFoxVHptMC12MmxMY2UzTFY2Ui1NRGlIcEpJZlBNelZvVE5aTm56SVhxWXJUTmI1eE1jcEtvRkhQRDhQVTFQdDEwakVYR2czZFhhSmlYYjZiOXgzV1gxVG1EaDBmZmxLa1QzNzBTTF9OTW1UOTNTdXRZUk02a2R2QWc5MkZ6SEtXWjk3c3hKOVFvRzc?oc=5",
+      "source": "Axios",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T20:44:28+00:00",
+      "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOandCWlZsdmVOQklPYTNlUUI2Q2hCaU40M1JlN0gtNVhaVmotSkZLcUMxMWlidjBQOWpOOU1IejBXc0thNGV4YXA3VkJoYVlGOGZOSjVubXFCdkwtczBlMDZaRWdndnFEeVJNVVNUeVVQZFd0TmJ4bVJGbjdqbUY4UnRpN0E5eUhXdzJta3c0R0JSSnFqZmJhZGdCYm85bWNkMi0xWHM3S3JSN2RkX2IzZGgtREh6LVk2cFFiTXFSQnRMQ2tuNUt5MjgyaFdxajFZY3ZRTWtncWVMUjFqcTdSWFgyNVUwQQ?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T20:27:00+00:00",
+      "title": "Trump honors Microsoft’s CEO after Vance drops an H-1B visa hammer on the company - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWko1TDVDR05nRjZMc0F5WjBMNlByZTlPZzUzS3J5RVFxa3Y5SGJBUDF1M2VjUU02TGJvRU1KUy10QXBhLVM5ZGJUWEM2dWtHdnI0Vnh6X2hXSHplZVN6QVB6UDNtSjdzMzhWdE1Yck5sWUZrM3B1WTVfVTJZNTlodE1KX0JUanM1azdNRkdmTTdqUDNEMWc?oc=5",
+      "source": "AP News",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T20:10:31+00:00",
+      "title": "US suspends Microsoft, Adobe from filing for green cards - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFdhMUdkMERWWW1CclJRT3ItWWE0SVhnNFdCVFdTS29WS0Y1anQ3NGxNaG15RkJRRDFRcW5EemluNjU1clZnalVfZEt0b2U2enpQay1Ka2ExRE5RZl9XbXo5ZlEtc25lYkZKRjc3d09GaGdkaTBVbmRRM0FjbmExZTU5bTB5OFBlcnczOGRpOTNQQdIBkgFBVV95cUxQdEEtYzZTclMybnZ5dXJlcUoxRXBNMlBqS0ppTEh4a1NhcGdnMHFQVTdZMUFTRUpwVFVLT3JZLWRraU5TbDlkUmppV2xfM2NQd05qYy0zV2VJRnV6UHdqMmQxeTItNFV3a1JKTjRiTFJXOUVoeTdaUUc2X0NHd0VJMlp4WHI1cEdLT2xtZUhwaVNHUQ?oc=5",
+      "source": "DW.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T19:34:42+00:00",
+      "title": "Microsoft responds to green card program suspension, Trump administration alleging fraud - KOMO",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOUTNFOGstNXpnanlXcWJYNEtfOTU2Sjczc2ZLQlJmZXdnZVg1MmdsY3Jzam5WVjNXY3E4VjJkOG1jSjZpTzl6NmRlRS0xaWNrekVrdWl1alhEdVdzQm9IcjRMZU1NR2hOZXljUTJQZ2EyTUlmS3RwVGtuUmtENjFkazVrUFJyWnluLXBqR1JGRmotZ3o0QklGRGJhQTdxYmhDVmk3emJYOG5OdFFQemZKS3RqNlBPNmMtVG5SZkNyVEtiOWhmdU1iZU9xcUJHeS11RFd5SklveGh3dXR2UjY5elEwTkN0dXFNaEx6SFhGZ25EMnVtVEhMaUl0RGtEeU1KMEQ5alRiOHM3RkpsQjNjV0pObEQ3dVB4a2RkUDdTbzFGUTlUc2IyN2ZCRU5JQ28?oc=5",
+      "source": "KOMO",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T18:40:00+00:00",
+      "title": "US suspends Microsoft and Adobe from visa programme amid fraud claims - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWRMWUgwNjhseFRmckpXRXo0Ymw3OTZfbzh2d2xaa2pDQW85MlRpXzFzVXlNM0I2QV9hSERvTzVWdWd4Nk1COHNIY1M2WXowaEtOeDUxeFVzUU43cnZFS1RPM1VBb0Z3UWtGUHZWbnFmNFR3dWhEd2tTUTJueUFaYThVOXpTaUFwcWZJTEdBNFBXeE43UlJlOXZsVllXMGlQRklwU1h0dV9neXMzRE5IbnFWONIBuAFBVV95cUxONVZvejBXSzhzUFplXzY5SVRmczgzVTc3dUtobWhsX21lM0ZVaEVZbjdDbXMteWVHRXI4NGlpUVNhUTRxcEpreXZRVmJQRjlSdkVHNlNpdm9zNnVZNGg0RWVvcFA1cEsyV3EtYTN1aVZxMFhzeTF1VVdJUU5CakFFR1haV25QaTRfY1QtZDdrZnNnM0NGeGVfSTVveTRSbkFWcDJfNThRMGpJMGNGNWpiMnNWLWFuZ0hP?oc=5",
+      "source": "Al Jazeera",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T18:26:14+00:00",
+      "title": "Trump disclosed millions in new trades in SpaceX and Microsoft. Today, he gave medals to their CEOs. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSlpMQ2ZGQ2xSamtOSzEwVVpmRU9HNU9oZGZYcnhyLUhldzFxRjZoVkFxR0tTeUgtMTYzeEZtZjA1Ykw5dkRUdzZrYmZ2VFhKNFZadkg4aF9tU0RXZl9ocW9laDI4NHJ0X2dBNG8zdFgtcWgwMzlyc21fcG9CZGFvOHNHM1ZXTjNibWFYLXRVUTFtLWhnUF9GNnNIMFdjZzVBWnlDa2tLNjBZbTAwU1pnLUJvRFlWMFdOcUp0Qm9XcU1UNkFCWnB1cFRHcXdraFZWcTFPSklmZk9NR1I5ZjFMc3VUa0JNRERYZGV1UHJuM0Rza2M?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T18:22:36+00:00",
+      "title": "From Vatican archives to Microsoft Word: Michelangelo’s lettering lives on - Microsoft Source",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHFBSUFyMXJ1VnJneDRIbU14QVRldTJUa2RpRlQ0aHg0U1hBbHNRa3p5b1BaQlpaWk1heGVQNTNoN19aUXZsb0YxZVRuNlJVQ01UM2Q5M1RBZi02M3F6VEIyelhCanZEcUZaRnN0OUhjUTBfdnZxczhoay1iVnNFZ3ZrN2JITHl2RElFQ1UtTUw4MXBUMVpiQmR6RmZWbzloSUxfaF82RjRjdHhIc0tyUEsxd0w4bXhpYmlVMDF3?oc=5",
+      "source": "Microsoft Source",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T18:20:04+00:00",
+      "title": "Microsoft pushes back on Vance’s H-1B visa claims - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHRCaWtFRWZLai1PcWU0ckFpVVNoeUVFby02aTRHY3pMZ1pyT3RPaHVEUGwwdDZaV2ZiS3huOElMejlJYTZkcjM4UzJjZ3dzc19HdFdQdi0xVkZnRTJpZnFaYU9BT3QtWFpXMWdYRUlZd2pMRGoyQVh5ZWNITnRfbF94bjlIeHNaaHZObFNaOVlqclRKc0ZndWVYcUI1dw?oc=5",
+      "source": "The Seattle Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T18:13:38+00:00",
+      "title": "Trump's foreign worker crackdown comes for Microsoft, Adobe, IT firms - Axios",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHBUeWVBdWg1NlRjbm0wVUJSSFlGeVRMczI1UjNTNmFPUkVfVHpCVzRZVjM1ZHFMQlBoV3I0a21LY1JLaW1QWDNPMVFSYnpDSm0wWW1pVUJyWFhFc1BLdUg2WTRXbUNLMkdDd01zN280U0EwamFyS0puZllkMFRQOHA0Q0l4Wjl0VjJmcml3Rmc3Zk12Tm9ndFlzclRRQzE2?oc=5",
+      "source": "Axios",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T18:03:00+00:00",
+      "title": "Why Microsoft’s H-1B Issues Are Sending Infosys Stock to Near a Six-Year Low - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEZidUx5akhnZVN3a0o4UWg1d29HNUtqbUZfX2NLSjlJQU1IOGRvN0dDSDJfUkFaX3BXYjczbVdxbUo0cG50eTV0eUE4c3Q4eEtBRDRaa2Q0WkxhS0hSblRCWFZnLUlRLUZMQmNnT3dMWXFWWDdJdDIyTUdmN1hYRHRtYw?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T18:01:00+00:00",
+      "title": "Vance suspends Microsoft, others from foreign workers applying for green cards, alleges visa 'abuse' - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUEpCNkx1UUFsQnlESlZieTN1YXFGNXVUSVpNS1pjV0RwR2ZWc1VzbHp1c3dzSXlyTkZLcHNkSTNBOHQ1Y2FRdVpvTkIyaUZuNDMtU3J1eWVwZVEtS3ZvYWRLbF9FZUhzcmo1eVpzcTc1YXZJRDB6RWRMMHhqZUZWN0F6dE9xUWVLVVY4RWZ5UVBVbmZrNEl0RFVJWVBhVmtvWHFwWFRqeUs0Vk1tRlM3X3E4blJFU0NFb3JaMDZvLUZMSlZVdjd2anV6dURlRFhVdHI00gHYAUFVX3lxTE5NdlhqVWFRbkl1QnJGUC1xTDFXSXBQWXNvdzJjN093MTRrTE5xTDVCNnRjb2RvblZqdENzeVdFZlJLeHlFeVJxTEYxZ0xVeEozdEJBVU9QMlJXU3BBOUo3Tm5uTVdIMDBXNG81OFp6cVZNenFEcUczdnZEcXZSYjF6MC1yY0VCR2pIdHhvXzBkTy1nbWNpRWFCT184TDN0dUt1YlVkTWNhak5sU1RWTzRSUldQc2RiNTJ3aDdBRlZDUzN3SnlXNVRuWUlteU9ZWm5IMWxXZS1iMw?oc=5",
+      "source": "Fox Business",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T17:49:34+00:00",
+      "title": "Trump Administration Blocks Microsoft, Adobe From Green Card Program Over Alleged Fraud - Law Commentary",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQXVUVHRmdXFwYjg0NE13TTZCT3VwaWpNa0R4cnQ5aE5TaXJ1ZE5NZkdINHMtRmY5VF9TX3hQZUlEZ0hRU05CWUtyR3p4QnJSNkF2OWpTTG9peHR6cHY1YWhVeXk3d0ZkUGV0WnFxLVpoMUtxLVJ5UXBnMU1kcWtMWEtGSHJvRWMtcFE?oc=5",
+      "source": "Law Commentary",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T17:48:31+00:00",
+      "title": "Microsoft responds to White House immigration crackdown as Trump honors Nadella - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY3NETExETWh2S3l5QW1RZll6T182Ri1LSURnN0EwQUZHUEtJQ1pvbTA4T0Zvb3VnY0JtaldIYjRzWEJ4QTF0RVlHb0FHU01wcldKWWM0Sl83R2lLQThMcUlJYXktN3A4MjZOWE8zOFY1LUJ6eFJ0Q01sLWs2bXJxR3FoZUdfbmdmQm9NT3RtQWxVb2pfR3k1LVJvV0RNS0xhVG9qcnQzMnZCcTRHcVdMWTRSbGtya0N2Qnltckp0WXI?oc=5",
+      "source": "GeekWire",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T17:46:09+00:00",
+      "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGR4Z1ZlRGJ5eUNrRWtHU203alVpQm5RYk1sMVkyRGtKYjd5bERQN0dvb2hzMWd3c0tFVkdWTjdsczY2Z0ppc1FZQllkZ0FBa1Z0TlphLVhtSmd0c1ZhVmRqa01IV2dNTkNuZkNxYlE1bUJFZnQxeDhpZngtdXJmRW5mVmlJWThnbmNjYmkweDVibjlnQUVQb2J3YXdPSnc4dGRSZHp3WkxQMW15ckEwYWJnX2t0cVNUV1dFeVZR?oc=5",
+      "source": "NBC News",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T16:40:00+00:00",
+      "title": "Microsoft suspended from applying for green cards for H-1B workers, JD Vance says - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa1FyQzhaeDZodkJOeTJFby1fSkNEczlIV2YzSExmZUNkdlpwZ0ZMcFp5cnhjNkNOT1BkNlBxVU5EeWRiOHkwd1MzNmFwZ0g3bWMweXU4WFRfOEU5U0lER3NJdGdRNGQzekYyWTBVbWdoaktCLXJBSTJEZ1l2TFh6ME9SVUFJSTg4UThHek9zRkdTYURHZUZua2J3UWsyUnpzOHEwYVlXQQ?oc=5",
+      "source": "The Guardian",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T16:37:00+00:00",
+      "title": "Vance says foreign workers at Microsoft will no longer be able to apply for permanent status - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTJ0R2IwVDVTX1BXRFZnNUVtbUxwY0RtSUc2TVV5c0ctVG1wNjB2UEItOHpobFVpM3Y1RzQ3aHdOaWRhMU5PdVUyOVphSzMtWHJhaFhKOWdyQ3ZKdllKVE5ySUkzNERKYjNWSTJaVXV0THBCVHkzbXp5bHZBdkpQb2Nn0gGHAUFVX3lxTFBsX3VPb0NhdHFjYm9CcVlzU1JOdU5rcHhvX0xreGRjVjZmcG9NczZVMkpOal8yMVBLdnk5eWRpdmJUeFhlcXRzQmhOLW9CUk0xV0NYeGY2Zm9oVVI3bmJHMWNtQkM0M3ByX1ZJQXlLdWhIYlhaYmRKV2x2WHI2NlRhZGZTaWQ4Yw?oc=5",
+      "source": "The Hill",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T16:29:01+00:00",
+      "title": "Microsoft banned from sponsoring foreign workers for US residency - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkphMDZjb1U1aUM0d1BLZTRQcmI5dU1EckZQZHZ0cS12aGZIamt4U29GQzAzclFfTmJkclNyT0hGZ1BxNFVqZVc0d050M2NKTldNNXlhWjNlbU5fNlYtMDVtZlBRSURmb3g4OWl2SW9MbW9jS0tSUDF5TmpabldSeHE0Q3Y?oc=5",
+      "source": "Financial Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T16:02:23+00:00",
+      "title": "Trump disclosed millions in new trades in SpaceX and Microsoft. Today, he's giving medals to their CEOs. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVE90WDQxeTNDV2dKQWVRd29pVVZUbld3ZWt0QWFpMHRrbkxVZEwwTU1EdnYybFM4YUZ4ZzZyUzMxMDNlM1phTll5UXYwMmRLQ3dxRV9SVkF1UmZqS2dOakpnZ3czODlfWklKNXZ3aURYNXdEMk9UeFlYOU5QVVk4Yk9jWUsySUJiVkl2Tnl4eElERWhpZS1icVdSRVhuTTMxeHBzSkViRkhZMDFmeGoxQkVfbkFIRzlYeXVNQngwTXZNbWVQQlJDejY3OTFyNXlQVDZhTS1abXVteTExRmFBZV9XemxVRzc1cklQaU80R09sTnJEaDdJ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T15:54:08+00:00",
+      "title": "WATCH: Vance says Microsoft is being suspended from green card program for H-1B visa workers - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRENVNi1nWU1PRmhGN0xoS1MxNUhmcEJjNWdvSl9kdjJOQVN5V1VHMnBreXhBNVpsNk1UQk9FYUpkSEoxNjl0RUhyVjFiS1VBUTkyNkNvZmZRRFpzLXlLTDc3OHByYkJuZmtXOGNwUHhyMzJkdWRCckUtYUJZZ0x3M2o2LVRKaXdMdmpuQzdUQ3ZIMjNVaV9WdDJQem9HbHkyOFpqTUdaVUpqSGdHY2NKOUdzNXlmRldDcmlxTWhVYmZHb3JfOTNGRdIBzgFBVV95cUxNNHZ2Njg4ZHd5RDJFTjBGNTZ1b2V1eHhGY3ljWGRVd0NUcnQ1YWU2YWZtTTdqejl6Z0xQSlo4X2dHdGlVQ2tpRmdLZG4tMEhYbDZiSC1aWU1BelBTSXpUeW5sY0xTN190UlVwS0VxSWRSQnE3dmVyOFNXNVU4T2xqNFNBb21HYUx0OEpDU1hpSjVOTVdTeElxSE41S3FuYkpoUHZxSzAzQkk3TzVYc3AwWW5yY2hRek12eHQ3LW5FVVdHR1FHek14NEhKaTFDUQ?oc=5",
+      "source": "PBS",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T15:54:08+00:00",
+      "title": "Microsoft Suspended From Green Card Program as Trump Officials Widen Fraud Drive - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON1FwRVJBTS00eVRuenF2eUQtZnY0dlRySE5LNHFjdHlsSFlxMndNYkdlWGFxbDZaMGpFLWdOcERfQnE0amxqazRJVFNzcFliWTNDT003ME9iNGVSZGFPcnRMODRkLXBWVGc2Y1BETk5OMktKRU1ZRXhCZk5xcVRBU01RWjFSdw?oc=5",
+      "source": "The New York Times",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T15:47:28+00:00",
+      "title": "Trump admin bars Microsoft and other tech companies from seeking permanent residency for foreign workers - CNN",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YdlByeEJDck4tOWdHRzQ0UjZ5SWdZT20wT19ySTU3ZVQ2Z2lTUU02UEhhOF9tcF9oT2RtZ0kxcjdGVWphM3hOMFRRMTlqeUtsMC05cWQzUXMzVEZSemwtM1ZGS04yQkxCV09MbHZiVHl2NlZFQmtOZDk4RQ?oc=5",
+      "source": "CNN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T15:47:04+00:00",
+      "title": "U.S. Will Suspend Green Cards For Microsoft Workers On H1-B Visas, Vance Says - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR3NjZ293ejB5NkxvSkxmMjY1MjE1STFIT1pVVWpsQ3F2WHdkMDFPcFBLYktXRXA5bGItOWttS0J0c1VhRWpJWFRDaFNxWVNIS1NaREVkUmFwMnNRQU5xRThJVFAyYnJNYmJaOXJmR1ltd2M0cjFxVGJucjFsLUozNVVfS2xIX3ZYNk5FdmNqblRpNGM1UkRhdWdndHJjQ3JWY1FiMWVpandPZ1d6dUtNbFlBdGFucGpPTm4ta0VTUHhlMXh6WEJPWUxSaVhWakQ3Z05zZDJPNA?oc=5",
+      "source": "Forbes",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T15:24:25+00:00",
+      "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDF0UkZkaFdCWUpTV3V5c2RYZVNQak9rQVlxMHJfLWVrcGwxTTZHWWY2UUxrODZpQUhaaldPVUFNeFJ0Vlg5SXhrcmZRLVBWNW1uVzF5eWFRRjRqY0tibE5jTXZOZ0ZxMVBoUGMtRXlyamp4WDVHSkt5bTE0dUV1d2daUmdiREXSAYwBQVVfeXFMT1lDRXpaeUdqeThfZGRZYnBBcVdUR0RxWTVRY01GQVJlOU5iZURjWmIwdWpVS2hRY3JKZm9QMTZQdFR5c0VaaFpSR2EzYWZkVWZwdEE0MFJ4TWQzWHphQk94XzRaWHZkQkV6ZlI4MW9MNGxoNnctUl9Cb3FJcGpPaGtXbmFwY3RPSWhNTFA?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T15:00:00+00:00",
+      "title": "Microsoft Dynamics 365 CRM skills for Copilot and agentic workflows - Microsoft Dynamics 365 Blog - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNzM1TlpJdjhQZnpTN19VUWRKWkoybFhRSXJxUjEzYnVTM2M4N2l6ZHg4ZE9xN09ieWtVZDhZazBrMkFjMnlWVWFZR0R0dkplTFVtV00wZ0RSNldHQWExUFpsUnRIWGJKZVh2SHlKMWVKSUU3ZGxNVW9ndENLbEJnUVdVZ3F2TlpfOUVXaVZYSXZNa3lvc3N4cDFOVWgwelNEV1d3RHB1OTVIdjZUZWJFeHJqZE1QT3pFLWUwUlZacURSZ0ItdE1WNWFDZmpKODdxbnBsTWIwTUdiUWZpVXJUVHVoMDFPZw?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T15:00:00+00:00",
+      "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVVBJbVhlSWRyRUF2ZHZWM3NIcno3X01BcGlZQ1hTeld4M2NuYkN3dVJoNVF2M1piOEMyTUFlUEZnbGdPZWpnNFVDb3ZiS0kzbk52UDN4d2VnN2Rhb2hONmxzS3lUNi1hWkFlUkQ3RXg5cU5Hek44ZlhMSDVHcVVTVDZVcC1xM01PaDZNbUJKY2tvWk5IR0stZWQ3ZW94SnFyMWlEcXB5ZU5Zb3ZuT3dOeHZVa1BjWThXMDdDVHFpVkZkcHFvN0k4UEoxTkFhQVZMeFhtVVhoOTd6bXZCdjRzRU9rUU91RGs?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T12:00:00+00:00",
+      "title": "Designing Michelangelus - https://microsoft.design/",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuR0F6aEZ1dFY1UWFxS3djaHlZbWp6ZkxEaEtCeXZrZ3R5aHd5VTNaM3JHZDh5ZlRNQ2pES1doaGFZQXZkQlJkOE8xR2VROVNTNlV4bVVVQTE4VjJYZlpLUW10R2xDOWgzUFE?oc=5",
+      "source": "https://microsoft.design/",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T11:26:09+00:00",
+      "title": "Italy launches EU-backed probe into Microsoft-owned gaming companies - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXRwdExFUmdtR3JDRVRxRFE3bU9lc19PTThvb2tIZGN5WUNfUGYyRzE3Y2ZjRmd1R0VmUW9qZmg2RVFfRzRja1YxbmV6SXNYTGQ3WVZwNlJ3ZmpCNW41dFZTb0tGRU5la0Mxb0dHMGtrNjhqemwyS2M0dHJNZHBFaTdyZXZOZTEtcEpaREtiMFhNVzNsVnpQSzVHYzNIU2EtNWRWODZhcG5rRVlpdE1neVkwVDk0TjBJZExzY1FB?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T10:14:37+00:00",
+      "title": "Mapping the Market: Microsoft set to extend rally - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzEzVU5JUzJKLWVQZGpiUUxPY0dpOTNTUjU1NnU0dkZjQ0JUb0ctU0V2NUZDbk90OWFnb2E1emU4ZHRWakZQb0Y0MFBCS0RwSkg1WEpMcHV3ODBBdFZfTWtUdmYtRmNWZWpfRnN1YlEyems1ZHJBMjJJamdZci1PcnhXM2w?oc=5",
+      "source": "Reuters",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T02:17:06+00:00",
+      "title": "Bringing local models and sandboxed tools to Windows and GitHub Copilot - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVW05WkZFd2M3R2dUR3AxWW04b0lSQkU0MktkODhyWTJtejlnM1lGR21xcmJybHc2TnVsWDc2NDFpS0FoYTl3U3JjZWZZX0t4aUR2cndmMzlmMXhzS1ZXN3YwdWQzQm5QWlBqRkVYdTEtWU42TWx0Z0NhcGZsU2xpcmxBTDk?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T00:00:24+00:00",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMzl6VTAxVlJicTZvVFVfTXNsUHpyOFk2TmNDakY2ZFRkeTdyOVQ0VmtNYzE1MWwtd3o5SFB5TnJvSnNwN050bXVCamluX3luTklUby1GWXluZHctaHpEcGFFd2NleF9Ua3ZUdEtTenF0VEJKVnpHeWdxZEJUOVFzd3pJU2hOTkRMNXpfS0t6eDNwRnFpWnVSMWtzWS1MUGdlWElXQ3JMQzlOSzJL?oc=5",
+      "source": "Ars Technica",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T21:49:41+00:00",
+      "title": "From searching to doing: Building a faster, more streamlined Windows Search - Windows Blog",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTklsSkplTnpTZ2ZQMUhEMGpRTERBdGluaGdHQ1NSU1FhOElVM05EWGNLS1p3VkFkSG1ENW5qdWlaLUdjYjBNQnZqTEJta0tYMjVaUHlZQlE3cDhFdkJUMnBtU2ZJMEx1Nm9IMl9RU1BEUGNIcWNia1RxZDVKRVNDYWNjWV96dnZEZEg1Ni1BS2ZBZDA5SzU4Rjhxb2plWHVFd1RJdWJNZ2JCd09mbWN3QURnVDlkTE9ac0VzVjVCVVBTVFlkWUE?oc=5",
+      "source": "Windows Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T21:49:41+00:00",
+      "title": "Microsoft Execution Containers: Policy-driven containment for AI agents - Windows Blog",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHhKel95eVdnemQzSkZ6Y3dSZFRwdzNsVTQyYnNxRlBac3NPXzl6TENvUExvOHpUdlRlMlpJdS0zVGREbkkwWEFzUUhmdjB1YWlBX0RNV2xCbEd4elZqTEd0OGx3R1c4MWhUVnV5TEVoeVg3SEdYUlJyTFBqLUVSZkt2dFptQ3pXV1pwZ0U5bG9Zeko0R2xEaHo5VFhnTFhOWjNacm1tbmhCMHlCY0RhbFVaM2o0U2V6U1F6Tm1nTFJvb1k?oc=5",
+      "source": "Windows Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T18:50:02+00:00",
+      "title": "Building Windows for Hybrid Intelligence - Microsoft Source",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOXZ5NnowbzFpRTdJdHZ0c0g5UEhOZDhhNHMyb3czenlTUTlHNlFsQjBEdlN3Q0NpRmFUVE9vdm9UMGw5NXloRkZsTzRrTjFkeWNKcGVaeHR6bGlHazJoblREc0pwVTFEOVFHYXQxb0Jud0hLYXl1SUM3ZG5UNWppV0VtQ0YyNHA2bG1tdE02VVgxUQ?oc=5",
+      "source": "Microsoft Source",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T18:48:10+00:00",
+      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42emZsS3FlLU1vaVE4WW40aGFZa09nS1VLaV9td0JZS2t3Z2pwTDhkTG5ITkJVajYzQWVtWURTTkJTenR6N0paeE14bzg3OTVZYXkzNmRMWUFqSVQ4ZlhNZnpFdWdWUXlHcGdOTUVwSWlQcTd1SE1XZ25OWEdjZw?oc=5",
+      "source": "NVIDIA Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T18:33:57+00:00",
+      "title": "Pre-order our most powerful Surface devices ever | Microsoft Devices Blog - Windows Blog",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY2RfampBRU1GNHowSWZFaUNiamI4LU9qb2lqWGYya2tDVFZhV2FpZndlRm0tN2NLMEdxejM4cXFIbVd4OEdHME5nd1ZMRFpsUlFHbHdqNmNYMi1qLVBZOVAtT2ZtZzByOXdMamZKcVQ1RWdscW1KcW4tYjE0a0FwWmF1US1oWFRGNFpNaTVQN1JLZXB3dzVxdFpR?oc=5",
+      "source": "Windows Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T18:30:54+00:00",
+      "title": "Building Windows for hybrid intelligence - Windows Blog",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlhoazVROUNXSmdpZjQxdjFINklLazg4a3BlYm5xcmM5b2JYQ2Vtb3ROeGp3ZEF3Ym9YWmx2b2hOSUh0MHFxLXh5bVgyVFhnZlMxaV9hOG9VQnlpdkJUUWpTOHI5UTQ1bFFIdDE4WU9oWFFYVDdnQ1VEMmxJcnhnaGYwTHlIajhDallaX2RnZUptc2pFSUY5NDhsclU?oc=5",
+      "source": "Windows Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T18:30:52+00:00",
+      "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3RwVEx5UDFWcFpvRFBFR2hFR3pUUjRuOVE2MUNQVElscTdfNlZZZzNOQzZIRndNcUNKZzFCOVVRbXh2MklhT1NfaHlTTXdIS3Rma29DU3ZRMWtHQWlGdExBYm9oR1M3Wk1kU09LYWNNVDNTNFFBazhNWnQ3X0NOT0FhNXRWTVlHdDloek9GX1dvSFRucjB4U3kxTEpPTkhMNHfSAacBQVVfeXFMUGtjTngzVGppRjdrNnB2OElDaXhfWXRRWnRKTFFXZm04Rkx6U28tZ1loNjJMYms1VnRLZzY2d2hubmVLdGU0WWtlaHBCNGlfcXQ0VzNJVFhFS0NRMzdJdXJwc2Y3Z1RHMlNpLXJPTUEyTTFRVUt1UWJfc3dtdXFyaGpSMlY4bnpLSWdXLTBRaERvN1BPamJhdUd5c1ZpRlFXS21fSEZYZTg?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T16:00:00+00:00",
+      "title": "3 lessons from frontier AI vulnerability research - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3gyZHZKWTV5UWVFbU5YaDlwdkxtV0t6bTJWWTVSM2laaG11NU1sNnNIX1NNZ0dwTFJRRTltWmtVcnhzWW9ZbXU4YWZYekdzRUdfbTNIUWhVc1JMaUxaQ0JXNldaNkhQQ1FvQk9JaHpkWktyS2w1Ujlkc0RQcEhnU2Exd0Yyay1qYVM1dnM2VUdmQkFZcWFReFBBSElDYU9sM3k0a0RPQVFkZDQ?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T15:30:00+00:00",
+      "title": "Build apps, workflows, and agents together | New in Copilot Studio, September 2026 - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPXzRZZ01GUk9xVkNDV2E3c2ZSNkxOUjF3WWw1NVl1dlZaSTdWM2FSU25CbWxUaHVkcHA0aXZuRHpGbVk2N1BYRlA2anJTa2JjNWpSZzVVT0w0NGJqYXgyWEpHNXVwM1NhYXNBa0NaNnpYT0M2akNWUnp2emVaSUdIVERBeWszVU5hcjROU0kxWktrSVhiUm00Ukt3RjREeC1nTEJFRFZLVnQ1endrTWxyQTk3UWQ1T0VxYU9kdUY0ZW9KMTJfYVRia3hzcU1kckdHUE1DSlpEYXBhTllIek41RkRuOXl1ZWhFWEM0SG9pOXBFNVBGTmc?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-05",
+      "publishedAt": "2026-10-05T17:42:29+00:00",
+      "title": "Windows and Surface October 2026 news - Microsoft Source",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YWjhSWkt1NlJQRWZzOUlOdlluWlRsdHNYM2Q3QWtLX1RoUTFjSGdNUE9JazZLU0lNbTVxSkJJSTlNeHBPcDZGWXlMVDZzNElqLWNNS2gxWUFQdWJHZnlZdWJLNGdGLS1pNjgwdEdR?oc=5",
+      "source": "Microsoft Source",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-05",
+      "publishedAt": "2026-10-05T11:00:01+00:00",
+      "title": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era? - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGFya2NzRW50cWNkTkN2NkJTaVF1Rm9RY2VFUDlhV0Q3UWtLWTRkXzJrRG9uNDI5SXVvX0pTUS0zSVJuazduWVV3S0ZPelZ2X1VDME9lcWUwaEZOYmRqVFBRcVlmUTFwc3Z4Qkppa0l2bVJPWEl3R0otRDhhVkRBdTE5S1dGNFByOERKbGpPZjhRdzlqTHh3dHNxSktOeGFtcVo4aGVn0gGrAUFVX3lxTE1YY2ZVLTRYVUpjbFVBelVrRXdUZ2diU2dhbGpuaXpmSEpPa0xJM0tadFJpQnk5eGFqc3JQR3QtZEtneUg0UXNqWTNLSUhGQkZrdHpzbUFlN2J5QnEtb0lMQ2V3dWRiZGpJaW1INlhieHpXaF9mTElldUE4M2ZPT1BESlJKdFA2eVZPTndBVDlPd05INXBLT3JyQ21Da092a3dfZWZLLUJRZ190NA?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T07:00:00+00:00",
+      "title": "Insights from the 2026 Microsoft Digital Defense Report - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSHN5YV9YMXFwd1dlNlo3U3NHZlZfZG05MkdvZmc1TXduaTJYM3lmTk9KT2UxUFFFRWJfYjVLcmZhZTEtbVVvTWNsT2lzQnpyMlJSTi00dXk3aEVnU1RMb3FQT1lhVElueGN5T3JUeVpaM1VudUxqMHNzRXN5Y1lnUDFOcjJxbk1qaWUwNnlIZXdRR1hwSEY3MUw4b3JTYTdtV2M2SVc4T3pJbHNmYUFiekFROA?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T07:00:00+00:00",
+      "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOXd5WGZqYjdKZVB0RHBENHJEcU9TYkNzWTh0YmlONVVrcXcwdThoRVd5ai1haXhFNl9DVEtEcmp0TDlkQl9neGNNQzdlLWhjenI0R21UZkM2YUpxeWFvX2VsT3RfQm9aWEh6UHY4REVMZDlNQ2RrU3hBWnRtaXVCOW4xajVZeWY2VXpHd2duckd3VUxjdXZWcnFJcElKS2ktUUVfNWRpXzJiZXdYVGVWQWZyQkI3MmliSWd4RVlrQ1VXdl8tUFRUdHRpeDFxLXZQTldr?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-25",
+      "publishedAt": "2026-09-25T07:00:00+00:00",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
+      "source": "The Official Microsoft Blog",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-09-25",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-05",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "count": 9,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "count": 32,
+      "pos": 2,
+      "neg": 18
+    },
+    {
+      "date": "2026-10-09",
+      "count": 18,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "date": "2026-10-10",
+      "count": 16,
+      "pos": 6,
+      "neg": 0
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-09-25T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-29T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-05T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-05T17:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-07T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-07T16:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-07T18:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-07T21:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-08T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-08T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-08T10:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-08T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-08T12:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-08T15:00:00+00:00",
+      "count": 7,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-08T16:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-08T17:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-10-08T18:00:00+00:00",
+      "count": 7,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-08T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-08T20:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-08T21:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-10-09T00:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-09T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-09T04:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-09T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-09T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-09T12:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-09T13:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-09T17:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-09T18:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-09T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-09T21:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T14:00:00+00:00",
+      "count": 2,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T17:00:00+00:00",
+      "count": 3,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T20:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T21:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}

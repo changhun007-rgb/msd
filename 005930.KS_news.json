@@ -1,0 +1,985 @@
+{
+  "ticker": "005930.KS",
+  "query": "삼성전자 OR \"Samsung Electronics\" OR 005930",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-10-11T01:47:32.450516+00:00",
+  "items": [
+    {
+      "date": "2026-10-11",
+      "publishedAt": "2026-10-11T01:35:00+00:00",
+      "title": "[재계 인사이드] 삼성전자 평택캠퍼스, 사진이 보여주는 ‘반도체 부족’ - 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lOGNENTVWZUh2Z3RSZ2lSN0d1Y2lBZm9faENHMk4zcUt5TUxXWmVEWVVzcC1VTE9ndV9YRlR6MTBrMmtvUUhKMU4tREgwSkVFb2FDc1NmN2REai1kM1E?oc=5",
+      "source": "뉴스투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-11",
+      "publishedAt": "2026-10-11T01:30:00+00:00",
+      "title": "KB증권, 삼성전자 내년 HBM 가격 100% 상승 전망 - 자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9saDkyQjNlaUY2WUtOZ0NVekZncHpNOFpmWGxJb2UyV3A2cm9DdThFVWh6NjdpOHNvck43MnZlTng3MjU3cVI2R0t3Rlk4ckxsZUNocDNxa0tWSFRqSGNaTlVSR1I0Rm8?oc=5",
+      "source": "자본시장뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-11",
+      "publishedAt": "2026-10-11T00:44:11+00:00",
+      "title": "역대급 ‘삼성전자 분기 100조원’ 실적에도 하락한 코스피...대체 왜? - 세계일보",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFeTBKWlRyNnVIdGtaMjBBdE03cDQ2My1Rd1pDdlZ1SW9KUWs1TkNJOGpMWWdhLTNuU2ZkeS0zdGtIWG5qS1dZMHFYazhaOEJtMTNuUGFzQnDSAVRBVV95cUxQX1JnX0hSU1FiRW5ZNzRQY2ZnVXAyelFhbGtmbjhOYWltUjBiVHlLMmtLOFdzRXlocExBQTFuU05HdGV1cGoxc2o5XzNfbFg4NDRuMHQ?oc=5",
+      "source": "세계일보",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-11",
+      "publishedAt": "2026-10-11T00:43:00+00:00",
+      "title": "“외국인 계속 팔더니”…삼성전자 外人 지분율, 17년 3개월 만에 최저수준 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRXFuZDNnMG51TTI3SERWcS1oVDlScHg2Y1p0LXk5T3ZWWXdhZEd1MmllYnM5YzZUbFpBb2pxX1lhWGtZRGZmeTlwNEJUeEo4VzdYV0NkWjFtbHBHQ3dFRE91WUI2bVBvdnhwNUxueVBHaEIwWlB3V2oxck1vUXZEZktnRW1SYkpO0gGcAUFVX3lxTE9vRFdBZHlYWGhBaUt6Ui1seHRybHpray1UdUhMbTJQb2F4T0ZXVVdlZEdIQnJ4WVBrYnhTUTVnRTJNZ213Y0U5QjRzeXQtd0RlTXZlTk9jNzFremhQbmtXN0E4Z0FqQl85VEZNR01XUVFzZ3hISWo1dW1aVGJ6Z2F4ekFQYzFLV2pJWTJsR2NrNHM5QWtlbjFiX1Y3Vg?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-11",
+      "publishedAt": "2026-10-11T00:20:55+00:00",
+      "title": "100조 역사 쓴 삼성전자, 4분기도 기세 이어간다 : 네이버 블로그 - Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONTIySjRxNnFqV3BfVkpTM2xrZzdySGs5Qm95RXBPWHo1aTB5SnBxSXNXME9YRUk5ZlJhLUROQzhvUmdza0l2d3NJd0NGSk9GOVNzS3FlRkdDYVE1TjJFNjBMTExvMHpOR0s0YVhQMjYzNldrUm54ZmJpdGo3d2Zzay00NHJlSlUwbUpmVmlZcw?oc=5",
+      "source": "Naver Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-11",
+      "publishedAt": "2026-10-11T00:20:46+00:00",
+      "title": "삼성전자 100조 ‘실적 축포’에도…금융위기 수준으로 떨어진 외국인 보유율 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DUGFseEdEWGxvUUhpRWpoWlRRWHZIc2ZLeURqeHRRN0VkZXVnSmtkX2dkZmZtT1k0LXZ6Q1FNdHI1MlpUd0xKVWExYkZMOTd5MEE?oc=5",
+      "source": "매일경제",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-11",
+      "publishedAt": "2026-10-11T00:15:55+00:00",
+      "title": "CXMT, 4F² DDR5 RDIMM 연내 출시... 삼성전자에 2년 앞서 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFVxZVlCQ3RQdy13TGx5Tllha0lDWnZ0WnFBLV8wdTJLSExVRWxISnMtUC1lbkJsekkwNVh3QTNDVm1fdHowTEdlOG80MklJWHV4THY2TU5nR3VXdlpyVS1QZWNLUWtibzFDOGt1RXZBZUw3aXlxeW11MnBZMUhQMDZvZlZJWHc?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-11",
+      "publishedAt": "2026-10-11T00:15:50+00:00",
+      "title": "삼성전자 역대급 실적에도 외국인 이탈…금리 안정과 수급에 쏠린 시선 [주간증시] - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40RVdTbE1YaHIwV1ZFaTkydjUycmJSNzVZTzl0b1pQaFdWVjd5YmotTWltemZ4Tk5TYWZISTRMZkJzVFRqaS15SWl2dkhtXzByUjJZaDJkcEZnaGpoUFVHRFlOaw?oc=5",
+      "source": "에너지경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-11",
+      "publishedAt": "2026-10-11T00:14:11+00:00",
+      "title": "삼성전자 성과급 최대 7.5억…평택 아파트 ‘국평 10억’ 시대 열리나 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWtTcmJwMk1FRVNYckhnSTFDbDhTeldOWHhIZjJFTmFVNDluSEdGYWRQUGVOQ3lIQXNjaHFOYm9laHNMYkJPTHQ2eE5fYkJXYjdJYzYzRFNrQTA1LWlBdUhLenNLWW1UWVNwX2FwLTJSMnIxQ3pkczlBRThCRUJiUTJsaHQ3cWxUQlE?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-11",
+      "publishedAt": "2026-10-11T00:10:14+00:00",
+      "title": "“100조 벌어도 싫다”…삼성전자·SK하이닉스 떠나는 외국인들 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uUXVwcUhTbnVUMllISG4xT0ZaYWR2YUg1bTRxZWlYLU5WODk1aUxaWUZCZ2hpNXNJMnFja09DdXFuREEyNnc1clBnTjVtT3NiVkhwR2RFYk9JOVBmLVo4NVdrdw?oc=5",
+      "source": "에너지경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T23:57:00+00:00",
+      "title": "“이번에도 떨어졌다”…삼전 역대급 실적 발표에도 주가 하락 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5teXYwQ3FkZW1mZ2NEVWp5akdEcVhWM3JUNzJMZVlDWlZ1OGY0MnFBMU5pX2ZyR2VFS2ZHNEluYWpfT1ljemJoUnZQWU9KUFVYdUl2VQ?oc=5",
+      "source": "이투데이",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T23:14:00+00:00",
+      "title": "[증시전망] 삼성전자 실적도 안 통했다...코스피 반등 열쇠는? - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CMlRsQ3p4SHdDTThpUVZpNlF2eW9wS1ZKMWUzZUZVUFhvVEs3WVdQZktfT2FGYmhoQ3Y4bWJMQjFjbGwwc0x2bS1vMmZoMG5XMnR0ZnZzQ1FWblZiOEFnWnZpZ2hOelJMMEFEWWtJVHBuWDg?oc=5",
+      "source": "디지털투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T22:53:59+00:00",
+      "title": "반도체로 번 돈 쌓인다…삼성전자, 현금 190조원 시대 - 빅데이터뉴스",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWNzVFWWFUWmR5NVI1RVJzTDFodkRpU1R4ZGJPczhxOTRBVXFHeDMwb2tOQUc1WUx1WlYtb0tQLURuemJQYjVnMXhVUzk5R0dUQnZRX2REVmRidFRzd1ZQSTBDNjVPOHdHeGhOeHRzMWotanN4aEV0R2NweUs?oc=5",
+      "source": "빅데이터뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T22:21:35+00:00",
+      "title": "삼성전자·SK하이닉스 하락에도 KRX 반도체 11.4% 올라…소부장이 끌었다 - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ULVBFRF9rY05tQnpWQ3k5cDBROHNoRDJLenFHdnY1Wklxd3Nqd3BpMXdkb055WnAwNnVSTHJSTTFpZVpfVXFIdE5GdWs5RTAzMzZpazB6QV9TUGZ6ZVpISGl3?oc=5",
+      "source": "매일신문",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T22:19:40+00:00",
+      "title": "삼성전자 외국인 지분율 46%대…2008년 금융위기 후 18년 만에 최저 - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40anR2OEphU3RzZ3JCVHY3bUQ5QzY2Nnk2Z3FmWUh0OTV1NER3d0dmanR6WGo0NnpUZDBIaU10M0szclctRGNoWmZWSlhtOE1xWjAzaGtwZEVPUmZPeTlsRUZR?oc=5",
+      "source": "매일신문",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T21:56:01+00:00",
+      "title": "[위클리반도체] 분기 영업익 107조 새 역사 쓴 삼성전자… 최태원 SK회장은 광주서 '팹 병행 건설' 속도전 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqMU54anF3NlNlMjZDZUczcWpIRHVpdUdsZEZqMUstZTFKdTVZcVNsY0NrUE9GNDRSeFQtcldyc3RiZVdfcjdsVHVJRVdLYW5LOHpRejMwdEFMakNvSmJFTEhSOGY?oc=5",
+      "source": "디지털데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T21:32:32+00:00",
+      "title": "삼성전자 외국인 보유율 46%…2008년 금융위기 수준으로 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPMUIxR3NBWDB6OWpXNGFIR3BkbXJaWFhLY1pPQ3BwMEJTMGNudmNHV3hrVk81dGR2cVlnWGF6OGxxZTRrVGdsLXFRVEE1LU1MYVpCdXM4bTFfc3U2R1luNVZaNHkyZmVCLVlvVXBNYUJZRXPSAXdBVV95cUxNVU4xYWxoNGZZTFFTcnMxaWRxSlZ6cXZtTkZHa05sUFhfcGVkOGRMbzVIb3B5cjJ6dlpKSWhvQ3pOeEsxeGZIUWR4SEVqWTFJc2lzVEY0NWJMMEZ2eEl2S2h2cFlUVTdOLUFGVEEzXzY5Y1RMbFk1MA?oc=5",
+      "source": "핀포인트뉴스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T21:18:28+00:00",
+      "title": "삼성전자·SK하이닉스 주춤했는데…반도체 소부장 한 달 새 11% 뛰었다 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBab04wVTlQTGpweW14S1Y1TkJkNmFYUWViYW5BeHRMcmh0QlA1ZlJCMEVibDhKSkR4aHN1QjdwTFRaYmZ1S1FmN0F4TXJzcVFVdmoxcTZEclpMa19SQnVVZW8xUGxicnVqXzloR3RMY1NBdUXSAXdBVV95cUxObko2Q09HRlMtbW9fVHFjd0xPQjFMZ3Y2ZWpvUFh4b0NpM0pSUHFJMF9XZlBxN19Cdms0eERGV2E4UzZfeVhIN0gwRjAxbXlFcktsZ1FXSlFYVVBzMDJzdmx6dmNSckZCem1sQXBwc1Z2VnVGMnRfaw?oc=5",
+      "source": "핀포인트뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T21:16:00+00:00",
+      "title": "삼성전자 ‘107조 실적’에도 코스피 5.39%↓…반등 열쇠는 美금리 - 경북매일",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fczhZOWNqbEIzWXhteUNsV3BBZDJBQ0JmXzNWNVZfSjFCQ05qY0FTdDJCR1VMa3BqMWpraGRRcmxNT2lEYms5RktDeHY4X2lhQXFFcEpTSVZaQQ?oc=5",
+      "source": "경북매일",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T21:15:01+00:00",
+      "title": "삼전닉스 주춤했지만…소부장 선전에 한달간 수익률 1위는 반도체 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLQXAycUhRdS1TZk9meHJsMmt3Q05yMEpteHhGZ0QyY1dwckU5ckhIY0NsZkpjdm5HSERIOVFLSi0zZjBydVIxNFBPU0hfR1p2LXc?oc=5",
+      "source": "매일경제 마켓",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T21:07:36+00:00",
+      "title": "[주간증시전망] ‘삼전·닉스' 자사주 매입 막바지…외국인 매도까지 ‘첩첩산중’ - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNak0xdFZHY3N6ZUxxdFlFSDhxWVY0dXcwYzhTSDFYcjhPaWFNVm5iOW5QbHZ2c2E1VDVnRjJMTHpYekdrcWZ5aTBGeGhUY3FqMVZlOU1DbmhEU2g0QWplRzg4blA1bkVORUJQNDhVOWhqMjdVMXFDd1hSOHJackJrUE1MZFdWQ3Yt0gGcAUFVX3lxTE5PRFVaempGX014TXRlWlNOLUMyWTlSb2NlQTRXVWlzZjZfQWY0UXQ2Zkh5OUZkdGhxMlJyNDB2TU0tcU11WDYxUGdPRFFiRXF6dzdFSXlkMTBwTVhJS1RTWnBjSXVMeEhlSGs4dWFiOWZQSnhzQ2ZGTDZWVjBJS0tndXhUREUtcXY2ckNVVUhPaV9CYzVVYWdRc1pKUA?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T21:05:02+00:00",
+      "title": "연초 52% 웃돌던 외인 삼전 지분 46%대로 뚝…금융위기 수준 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rT0wtMVFzWlBCdnBEblpCRVJORk1PamhBMncxTF9MYVFhTnpxd29LZDBHWHdVanllaHAtaWt3U282ZDFXZWxSQTh4STJMR0JUTXc?oc=5",
+      "source": "매일경제 마켓",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T21:00:00+00:00",
+      "title": "삼성전자 S27 가격 인상 검토…메모리값 급등에 수익성 압박 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RYUt6OG1vTDN2ODZnZ1FuQ0lqRm5PLTdCVV9aZjVORzRQZ2tORTdMMDNXNzdUYkZVWnlzcXVqamhFYXdnUmpydkxhYmxOTEtaaXQ2cFFJelZ1eGkxNV9vcUZWWHVNbHM4RExfaVlWMlfSAXRBVV95cUxPOWdOZE5EQ1RsS3lqbllmZm8yLUpJWVJZNGc2UGl4M0ZmUW5Pa2dPNjBnYzIwTkw3VG93Tk81aFlBMktpckV5R293Y2FnWjJNYmo0dGVpQmNMRmh2SHlmQ3Bjd2kxYzZka1VZV0V5RTdWbFF4RQ?oc=5",
+      "source": "IT조선",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T20:30:00+00:00",
+      "title": "삼성전자 '5억 대출' 한 달…영통 집값 4.3% 상승 '경기 1위' - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBd0ZUSjY2TjA4Sm5RZ3NVVkFOcjRrVW05TmJPN0wzaXZRMk05aUdQZUJ5UVBZUllLY000NkZ5WGNCU1ZRNTR0UWRKcnNqQXVXWWZEb3F2SmxfbDQ?oc=5",
+      "source": "뉴스1",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T18:30:00+00:00",
+      "title": "삼성전자·삼성전기가 베트남을 새 반도체 기지로 낙점한 진짜 배경 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1d3VkVXNWlRZ3NMVld1SW5xQjRoY3pNMU9ydmxPYk1HcmdncG5uS0d1V1RvdnR1cHdFY2JSaXlQNGtodmhDdVdOMDVWS0RvbnRmV2x5WXFjclVCRnlGU0hMT25kQTdFa183U0JpRlhWS0c2WG5ReTI0ZGlYVEV1TXk3U2xiVlE?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T15:06:15+00:00",
+      "title": "실적발표만 하면 하락하는 삼성전자…\"우려 말고 숫자 봐라\" - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CbDBJb1V0VFlLMFM1N1diY2xfd2dTc05OSHVKRkRMbXFDYjJUVlQ5Z3V0VXhmcl9RSWZOUW1pREZQYlBRSXZZV2tvRFFPRUpzUVdlTXhCbnpYQXc?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T12:55:27+00:00",
+      "title": "삼성전자, HBM 중심 후공정 재편…테스트 장비사 수주 ‘온기’ : 네이버 블로그 - Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPanBybFJpUTY0ODctRkhSVzRhTWJVQlBRTGxBdW5US3NGNF9USEhpUm9rVmZLbU1vd3ZVaUZXczRERWw1M3VNNjZwYWp1WS1OOE1JYS01UWV5dWFuN1AzWWl6VDAzbnA1ZkdtQXJ3cjVsdWpmRVFNcTBraURvbFprMUZBYVltSk8yc2hJZFM5TQ?oc=5",
+      "source": "Naver Blog",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T12:03:16+00:00",
+      "title": "삼성전자, 100조 벌고도 주가는 4.7% ↓…증권가 \"최고 63만원\" - 세계일보",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MSWhxcTlQanpnTnFCem42S0p5OTBYY1NUYzVPSHNQLUttalVud2NQYVBObDhjMXRfZElFRHhtY3Q3bzI4UG53d0U4SG9mVjRvQV9zaHRqcHHSAVRBVV95cUxOT3RnQ2lzNDkydEpsdVZVamdoVWlhZ0RBc0kyeUx3NkNtWGF2bkZmNzJCeHNmbVk2UDFHTS1TRVJEWng0RWE0YjRXTXE2dXAtTFI0OGo?oc=5",
+      "source": "세계일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T11:34:08+00:00",
+      "title": "트럼프·푸틴 경유 합의와 ‘깜짝실적’ 삼성전자...증시 투자 전략은? - 브레이크뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Dd2VVSjJCZWF4di1hU2x3TXdnQ2tPbmFmWUp2V2h5OXdTRDdkU2lGX1lsakpVTUdmVGlWaExsU2Nsdw?oc=5",
+      "source": "브레이크뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T09:15:00+00:00",
+      "title": "'100조 시대' 삼성전자 최대 실적...주가는 하락 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4UkJrM1AzSVhST3VEazB3RTNjV1p6U0RtTVAzOEpQMEF0SFAycWFKbDVJU3RqaGs5cUhsQnZXWDdWUDFHY1FsREROT2loVEdHOXBDQTgwUUM2VzdiQXc?oc=5",
+      "source": "YTN",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T06:30:00+00:00",
+      "title": "삼성전자 메모리 성과급 7.5억 원…”서민 탈출\" 글 화제 - 자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEOXhKUFVOQmFhU1lNZGZiVWFWWUVhZ1JJbFdpOTVOOTdyeEFZNkoxNHlvLUM2cUZjbUZLVWN1Sy1iZXlfVktCNzVKWlBCTndZd3BFb1I2TWlfX3JKNi02YnFsdklwOFE?oc=5",
+      "source": "자본시장뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T02:40:00+00:00",
+      "title": "“삼성전자 들어온게 인생 최대 업적”…성과급 30억 부부 “진지하게 서민 탈출한 것 같다” - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uN0JiMndzTk5UOXpnWHhyM3VKc3JaWkw2NklueHJ1TXNVdkVYYXJUNnlrUzBhMEJjT2VkSk9sSEtGUWF2UFVELVRka3JQQQ?oc=5",
+      "source": "전자신문",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T01:48:00+00:00",
+      "title": "\"진지하게 서민 탈출한 듯\"...삼성전자 부부 성과급 30억? [지금이뉴스] - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ucm1jUWVPLVk3bGJuUVpQbzlrZTBoZ09XZ2dETnBQRkx4U2JfcXdNQUlKVm9ZXzBBeDhUSFFlS1E0R3I3MHNHNEpTbVkycEpWQXc5Y1p4UWR6d0F6VGc?oc=5",
+      "source": "YTN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T01:00:00+00:00",
+      "title": "HBM 고객을 파운드리로…삼성전자, AMD와 협력 확대 모색 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSk5ZLXNxUklpcFY2NU9GZ2RLOWl5cklXakpCYzFTcVlQakFFZDdhVFVTM2NERDdlVlNqUVVuZ1l1bUhNbHZfQUJPVlYzUVpZOWh4aEZOMTlobmVDSi1XaWtid25jRVZfMExOTzZ0Qmc1UGljdDFLZVBYS1RwLU52SVNPaEhGZw?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T15:00:18+00:00",
+      "title": "삼성전자 실적이 쏘아올릴 반도체株…'50만 전자·328만 닉스' 현실될까 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OcTJ4T24xZ0gxOW5tVDJGbkc5MW5JYTB6Z24wSUpBeTZmRmc4Smx6Q0hTUGVLLS1kTzhNMnhrdmdRTkxtTHl5d3dLekoyMi1GcWN3aXA5VERad0NZMWc?oc=5",
+      "source": "더구루",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T09:49:00+00:00",
+      "title": "‘성과급 30억’ 삼성전자 사내 부부 \"서민 탈출한 듯, 5년 내 퇴사\" - JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByMHpvNVZITFVPMTlWR0laLXhwaUZBTTdLLVkyT1BvczN0ZDU3aU9lTnNiVExQVzNJRGloY1dnLVpwODBsWjVrR3dGZ09JOWg4cVVxSg?oc=5",
+      "source": "JTBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T04:20:00+00:00",
+      "title": "삼성전자 성과급 7억5000만원이라더니…세금 떼면 얼마 남을까? - 주간조선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Zd1dNV2ZFaHVkc1E3NDdIaWxKcGhkaGNhQUdoOWI4WUhfWVdUN1VuOEhENFJqTnZ2SVV2SWhkNm1xY21wd2c4ZjB0ZVBVSnd6VkRjcDBkSEVLa2hFNFFUOFUxSkt5eEV4TVHSAW5BVV95cUxOT2tfTFlsMFRxUV9yb1pYWDMyZFVvVXl0ODctSElMY3FoTGh4N202RXZNNG5xX1J6SGI5NlA5UmE0S1ZoS2FaNlZKR1BubUEtamhoWnYzWVIwcFJJanBadGNDVzlwX1dZNmJsVU9OUQ?oc=5",
+      "source": "주간조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-09",
+      "publishedAt": "2026-10-09T03:07:51+00:00",
+      "title": "삼성전자, 올해 스마트폰 출하 목표 2.4억대→2.3억대 하향 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mc096bENYZGZuNlEySGY4QnFqTWJyS3lHc0luVGlBRnNDTG52MWNNTENPYkN3SWl6dmVZSXpWV0tsUmxMUzBzYzg1YmxsOVlZX3FYREVB?oc=5",
+      "source": "지디넷코리아",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T13:35:00+00:00",
+      "title": "삼성전자 3분기 영업이익 100조 돌파...한국 기업 최초 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1RmFhelgydVMtcDdGM1hkMV9oYTRoQVlGQU9CNlJ0cG1TakNIcmZXWWFxVzNvcmF6eG96ZW9WaF9vVlpQWk5Fai02LVlWQjBzeTZlUnlWa3ZkOG1rZHc?oc=5",
+      "source": "YTN",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T12:57:00+00:00",
+      "title": "브레이크 없는 메모리 수요…삼성전자, 내년 실적도 질주 예고 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjdjZJVkNOOWhGUm9ON1pRNlpwYnVHVEpuRWlUaGdBV19YbFk5WGxCanljSXYtc09WbUs2ZVJudnVTY0RUbEIzdXU2UUVnYzNaN19jR28wMjFfUdIBX0FVX3lxTE9TS093R2RjcVZMQ09VN3RzMndadGJzd3RLODlYMjFXSHRzVVk1b1hoMnp0WTVPa1hfem9MVlVkdm1WWHRMQWhYRXRZaUFPeERzYVFlYzM2T01KOU15LTJj?oc=5",
+      "source": "경향신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T11:16:00+00:00",
+      "title": "삼성전자, 영업이익 ‘초대박’… 메모리사업부 성과급 7억5천만원 - 한겨레21",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rdXltY0d1WnJUSkljQV82ZHlUMk1NWmJvWHY0Sy10Q3B6MEpiZ084NFVINmxRVFdkelpBSE9Tc25ORXhXY2Q0V0hjMUtMV2xFb2VtempaLXRVTmlZclYyNUZ0QzdRcmtKQlZqR1IxUQ?oc=5",
+      "source": "한겨레21",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T09:57:44+00:00",
+      "title": "삼성전자 실적 호재도 '매도세' 막지 못했다 - 코리아리포트",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4RzUtdXFHS2lnNkZIMlJDUGx5Rk9PMnp2aGwyNkh3aXQtdm8yMlNDOWxKRDM4MDNBcVc4S3V3ODBDaF9uVGpyS2dNbk5CRXJWajJ3OFJ6Szg5NmRpU3JaRU5ERURQZnhBUThjUGItWjc?oc=5",
+      "source": "코리아리포트",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T09:54:00+00:00",
+      "title": "삼성전자 역대급 실적에도…코스피 6,600선 후퇴 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rb1Z6cHJvYlpUcFJEWnRNYzNkU05oS0hwN3loQkNDZVBaQkFnWTl4QmU5Y2tpYkFqZWs1RmdDc2UyNDM4UTVrbXcxOUNTcFVnODA1dGYtNWhlaU9GSUFLTmg3YTF1Zk0?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T09:10:00+00:00",
+      "title": "[여적]삼성전자 영업이익 100조원 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTlRvTlJudlhJUTVPSzBIT29SbkZZOXpmSTRtcV9BaFhvaml0TktNaEFudGpERktLUzNTWHYza2hIaG9pdUxhaUxDejRRc2t1T1hjbGdEaEZBM2g2T0ZZS0M0QXlWWjhJQTBvNnpjekdGaDVlamFFY3ZXVW5xMi14UFpRODRINVRLWS1kZHpfWWFHMzNiSFBfOFBBbWdWNnV2aWxPbnpYcndKa3VIbW5kMXNBNEdvS2VXLVhlVFNwdkt3cVZ3YVZtMEhDT0fSAV9BVV95cUxNZG53X0lBSWdUOXA3SkRJR0NfUHJWNHhBVDl1WVFnZndBdFNaeldpWlpfVHBhb1NmQ3JOdjdTcW1IUjNyMmRyTmJzSFpFUjZ4NDd3WmhRY0M5MExRTzRLcw?oc=5",
+      "source": "경향신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T07:59:00+00:00",
+      "title": "꺾이지 않은 삼성전자…반도체 초호황, AI 수요에 HBM 업고 내년에도 좋다 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05WW1fSXJyc3dZQ2tIaHJWS1hrTTl3dG5paHNkWFZKeEM4aVlFRkVrT3MzQnFFWno0NGR0ZlFJWGdiUzVZX1BtYnNHZkRVNklWRzloQ2E5bGRGd9IBX0FVX3lxTE9EX2hOcUdaOVYzcHkxX2FFcUktU0xXdmpndmtIdk5yclZ4RU9LZXZjZ3Z6YmlXSm1oakt2ZmU4b0FQX0pWT0o5TG05Wk1XQjRNcFNTZTByQWZ3dDhiNWo0?oc=5",
+      "source": "경향신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T07:44:50+00:00",
+      "title": "“삼성전자 실적 발표가 두렵다”…호실적에도 반복되는 주가 하락 [머니+] - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01TklHcXZ4TWd5X0JqNEMwMjRKMVJ2Y2dPODBLRXRYZTlEOVlnMG45WHlUU2FMbWdHQVB6dDBxMXA4dkhCUkJiWE1selpIbHlZZnR3aEtXaDRqa0E?oc=5",
+      "source": "에너지경제신문",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T07:36:00+00:00",
+      "title": "삼성전자 ‘영업익 107조’에도 코스피 2.62% 급락…6600대로 밀려 - 경북매일",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fM3pja1o3Nk5JOVExV2NKU0FjNDhYeDBNSUxKbGtQWkVnTFlXVUtxbHdvazdOTU1zSjFsSDR6dlg1MUZvNmhGSGNCNlZqOFFsUGEwZzlzdkVjdw?oc=5",
+      "source": "경북매일",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T07:29:02+00:00",
+      "title": "삼성전자 역대 최대 실적에도…코스피 6600선 턱걸이 - 비즈워치",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XODQzdnU4X1NxNHJyNnlTU0otSHVfOGlKazQ4M1FOSlB1RHFhVkJKS1dIZnk2QjVJNXZfLWlrNEFCNGNhMVFjaWZMZTNOcTVObG4taWtEd0dvaDluU2lXWEV5TGd6WVEzMkE?oc=5",
+      "source": "비즈워치",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T07:27:41+00:00",
+      "title": "셀온? 리밸런싱?…삼성전자 역대 최대 실적에도 코스피 2.6% 하락(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qSnU4aEM1MmJGNHJvZkV1VklWaE55c1c4QkFYUFgwdkFOdWJOUnhLSlBiczhBTjJ4NzZJRHEzTGk3YWlIU0RwdmVSTU5NRmh0OWdBUUFiSDVrTzDSAWBBVV95cUxOV3lIRVFEZzVoQ0praGZzeVdLaVdUb3d5Y3ZnbXBNNW44dXdSaXoxLVFqRXo2R18zNVg4T254bjVkeDk1eDUtcm95NkdHSV9nNm83NjQ5YmtfMnBEQnJydEk?oc=5",
+      "source": "연합뉴스",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T07:01:36+00:00",
+      "title": "삼성전자 역대 최대 실적에도 코스피 2%대 하락 마감‥금리·유가 영향 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RbGRUWlNUejZLb29Xd2NPamlTNjNuZC1vNkJfOUI4Yzl5a1ZCMmEzSGFyWFlaRHd3YlN1eF80Z2xUd3B4ZTQ2cDdqckhzRGZVMHItRGJtblZjM1Zpb216NzlydTJ0VXItT1lyRTVrdUduelA50gF0QVVfeXFMTXlTaF9BdWV3ZTg0OWpVSUtQT0FaTm15aU1xc1JOcWNabjc0WGd0ZGMzdTRLSmI5ZktoTDdJV2RPNVBDclUzUTRYM00zRzlMb2ZMRnQyZUZWOFA0cEMzT0VTcWxhMDByQkhKWFRINzZMb2x6bjU?oc=5",
+      "source": "MBC 뉴스",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T06:51:00+00:00",
+      "title": "‘107조 실적’에도 주가 2.4% 하락···삼성전자 주가는 왜 웃지 못했나 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xbHc0YjhxNjB6N09FYzh4YzdNWlJ2T0RMdk9TM1VrODNGZ21FRmZhaTVET1hZc2sxUGJTR0Z4c29KY2RaalFQdmZZZ0RJZ1F2YlJuZFJyY0NoUdIBX0FVX3lxTE4tVzJwbGdMRWJiVUFfX2ktQ3ZURUQtZ2ZyUWU4ZjR3VHNNdFBQeko5TkdNcWttOFFyclppRFVibWtiLUxDZVl5ZjVsUER3bzJFR3pyQmV4SW1rNUg4ZlFR?oc=5",
+      "source": "경향신문",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T06:01:00+00:00",
+      "title": "예상 웃돈 삼성전자 3Q 실적…증권가 \"막연한 우려, D램 사이클 연장\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VYUU2eS1EWk1Nb1pEc1dEbGs1cW5EbmdyVUdHNDNXcUgxX181SlNFWGZkdVlqYTNiX01pYThLVFlZdzIyc3NlSkhPTnNhSmZEOU9Ndnc5X1Q5TmRrb3gyaVYzRExRcFdCLXhWcWxMVzI?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T05:37:00+00:00",
+      "title": "삼성전자 3분기 영업이익 100조 돌파...국내 기업 최초 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jdEFxRE9VMUtkaHRyVWV3OGg0MGpOd203dDQ2WG45MnZpbjRlTHNUU1Y1Y1AyYWkybGRwT2UzdWphQy1OcWl2QmlJQTlvTUZiOHYyRHk0NlZqOFZxRFE?oc=5",
+      "source": "YTN",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T05:30:34+00:00",
+      "title": "삼성전자 반도체 부문 성과급 최대 7.5억 원‥내년 3월 말 지급 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwVUt0UEtIYVl3R3pyVGhqbDFBWmZ2dGRFNjlWcVpOd1cxaWhqa2ZHV2UxbEFOZ2NvNm9JSXdXQWNzUTNGTjRab0loWmQyTlR1cjA5RW1Cb012TE9zazBQRWdiU242SzRBb2hXZkpTVGZCWkR40gF0QVVfeXFMUG1wNFBZOUlTUUJ1cDZQNlR4dzdjRVpoUDdmcWl2MnhZZ2tKMUZYZElJb2Q3TEZrUUM0REFORkoyZS1OaVlJWG1TNlFoeXk5aE5DODFoaFdHOTRNRjlsZGRFcTVMQkx2LUJORDJTQ25Da0pDRlA?oc=5",
+      "source": "MBC 뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T04:32:00+00:00",
+      "title": "삼성전자 분기 영업익 100조 돌파…글로벌 빅테크 최초 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FRElzenNWZTVubDVZQTJPSm5KX2FSX3pKWFFlU1BXQWxZWkFaWjI0MzB5X01aaldDRUpDNGhJbjBPNWlUS0ROTnJ3cDl2S3hBdEg5MmtsOWQ5STRBSzB6TEVIV1ZZOFU?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T03:10:32+00:00",
+      "title": "삼성전자, 3분기 영업익 107조...애플·엔비디아도 못 넘은 '100조' 첫 달성 - AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0UXNqM2JTeUZYREVKRjlJa2hBUjlNTG1mWmUxZEVfc2xUWmhmajQwZW55M2p3MnpHUHI1amVsSGkxbk1vZkQ4bmwydGlCOEpfakt0V1ZISk9oanBpRzJkS1prb0djd0NlMEE?oc=5",
+      "source": "AI타임스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T02:55:06+00:00",
+      "title": "리밸런싱 수급부담? 삼성전자 역대 최대 실적에도 코스피 약세 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iVU1qU2p5N2hWeHJpTGNHdmpxUm5qQktPVWY0RlVac1NFUll6OV94dFpRbEVsYzdtVTdfaU1kU2J4MzNfQmtOeF9XSnA0dTVTNjJETjZEbVVNSmvSAWBBVV95cUxPNjN1NWp2X284NkdUYUhmZmJlNFlQT3JYRmlnS2VjYVBoX2kxbkllVjNGTGVoeE9BLTBaMnJGZ2VKcVRsNEJsZ2FEeEV6VWtnMFc4VUlJbkNaQ29NYU5wams?oc=5",
+      "source": "연합뉴스",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T02:27:00+00:00",
+      "title": "삼성전자, 107조 벌어도 주가는 제자리…환율·순환매에 묻혔다 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnktMi13UkFiQnF6LV8wZmpCb2VlVnFrdnFJUkhsLWNLeGh2QjRSZk1UVF81WmppNE9BZjV5SnVKeG5BRlJPSUhuVmZxWmVVdFdEbC1LRmxMZmJnT3o4WUFFaGdhQnAxZ1d2R0N6bWhuQnFxci1jbnBrVzlPNUdtU0Jfdw?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T02:06:21+00:00",
+      "title": "“100조 벌어도 이정도라니”…삼성전자 주가에 무슨 일이 [머니+] - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VUWpvWDVsV1VnSG5ldTBSTzJKSXVIUWstTGdIZTM4QzdteFBUMDMtdHFuZkdkcnBhc2ZIZVhRN3d4a2syR0ZZamU2RFFRc2Fycl9FSEVOVXdHdEE?oc=5",
+      "source": "에너지경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T01:56:00+00:00",
+      "title": "삼성전자 분기 영업익 107조…AI 반도체가 만든 사상 최대 실적 - 부산경남대표방송 KNN 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OYmJ4ZkFFWGJ6a3Itek5OTTNUOUkxODB1anR3bGJsZ2xvU29KSER5aWxLeGdHSjZIRlRJcFR0S2M1R2h5RUhqT1MtY3dmTU9Bd0VRWmRpbw?oc=5",
+      "source": "부산경남대표방송 KNN 뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T01:44:13+00:00",
+      "title": "삼성전자, 분기 영업이익 100조 시대 열어… 글로벌 빅테크 중 사상 최초 - 주간동아",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iaFlRMVRSY0thSmE4WDU5UEZNNjRZcjNhMWMxaExNTjVRT0h1REtCLUFnWlRRNEhrSElndFFjM3VseGpSdEpRUXNTd1JpTFd5eWM0V2RQaXFZRXhmaVdJQnZ3TUhFOHpJ?oc=5",
+      "source": "주간동아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T01:42:00+00:00",
+      "title": "삼성전자 역대급 실적에도…코스피 6,700선 후퇴 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aR0g5S0hBM3NfY1BhNHRURDByZmh4T2pZdDdwN1k3YUNZYlJ1dzlBMmVRa1d6R3BJVFRFbWFxbmZBOXg0X0hUcmRlcTVZZ1BKTDFFMm5oVjFMT2ZWdE5Kc3o4NE9zcFU?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T01:42:00+00:00",
+      "title": "삼성전자 영업이익 발표에 주식앱을 열었다... 그대로 닫았다... [자막뉴스] - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlZjlXdENHSUhZdHlXU3R3RGV4VFBmcEJ0eHRSSFY2b09OMU9ROTF6U2JNWkZtN1pOWEZFR0pnbXFkVllmNlNjdDJJa3FyMFhiVE1lMXBWNDlEUTIxQWc?oc=5",
+      "source": "YTN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T01:16:15+00:00",
+      "title": "삼성전자 '분기 영업익 100조' 한국기업 첫 돌파 …이익률 55% 찍었다 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GTjZRcGloU1FDX3ZnU0g1Y18wLV9USW13Q1hHN0NCeFlPd1NheUNTTFVRdUg3X1pYYkVvSVh0YUZhU0I1d2V4UnBqM0h6UQ?oc=5",
+      "source": "전자신문",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-08T01:05:44+00:00",
+      "title": "삼성전자, 3분기 영업익 107조원 ‘사상 최대’…AI 반도체 슈퍼사이클 올라탔다 - 인공지능신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGTVN6cnBVTkNCbjFBSmVKUlREd2dTZmowNGNYQWk1OThzRXpETUw1Z092bWNWenpvV2psWi1LdE9CcnJsbjZ3RllaVU12ZUtNTm1aSFpJenZWazMzV0JaMjBQNmdTd2s?oc=5",
+      "source": "인공지능신문",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T23:56:16+00:00",
+      "title": "'전세계 최초' 100조 영업익 '새역사' 쓴 삼성전자…신기록 안 끝났다 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1S3hrdkVOX1ZiTWs2eVRxbzBZNWpiRjNyLXhkLWphemNlcUh6MGJrOGs5Uk1fTW9FUlUtV05GbFdzaU5XY2xnZTByMEMtVnl5ektNbVpIZDRmSGQ5eXdyNEVHNUlsUXlHZUJZOdIBckFVX3lxTE5LNVNIN3Ffa2JfTXZtWURjZ1hGOFJCdV84VUFDclQyUTluQVFmQThLRVdCTW9HcFB3ZEtqdnczVzZlaTE4RnlqX2pqR19rSUd2ZXdNSy1icHJhNkE4cGJCZ21taFNtUEpJdDRGSGVZd0pNUQ?oc=5",
+      "source": "머니투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T23:38:46+00:00",
+      "title": "삼성전자 3분기 영업익 107조원 기록…글로벌 빅테크 최초 100조원 돌파 - 강원일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGRHBoQTlmMWQzRzFsQzlUMThScmtmM0pnRGYza2hwMFJFRmNmNFRwZnBDN2RvaDgteFFNQXVoRTNwdUF6dWtxb21OVm14ZlR0ZTl6czRzdFB2d1k?oc=5",
+      "source": "강원일보",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T23:31:42+00:00",
+      "title": "삼성전자 3분기 영업이익 107조4천억 원‥4분기 연속 신기록 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Cb3ZfUXFMcVd1SDZiSFFrU1Z1b3BxOExWMTdsQlhSbXd5Tktva2xWRk1fbS1RR2lPb0M4YWFHQXNsY2NVYVRiajV4cXlkUmN0Vm1aNndrdW1GdDg5QkpTWTFEc1ZuNVpHVnQwSnpwLUdRTUVN0gF0QVVfeXFMTlduTC04SEpNNVBtMUpCNVR1em1OVDFXT2tKeE4tR0I1RjkwMjU5aldieFIzeThaVzV0LWRjOGppS21Rd1FMZDRUc1BfU0lWaldUSkJvd1ZPbU5KbGNiVVZubDVfUDR3N2kycXRKLWJvV3lUbng?oc=5",
+      "source": "MBC 뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T23:29:16+00:00",
+      "title": "삼성전자 영업익 100조 돌파 금자탑…D램·낸드가 다했다 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQVTVzcHZ6T0Z3TFdhajlucHZNa3h3RzlnQ1k1bVhvUTluNXF1Y3BmejdjWHh0SXk5RXpZd0UzSjhrYXM4cVQ1OExDNzdkVVZoQjM1UzFzVVl1SlZ6R2I5cGJPRGRvVUZrWGE1NXl3dkxKQQ?oc=5",
+      "source": "KB Think",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T23:20:40+00:00",
+      "title": "[그래픽] 삼성전자 실적 추이 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hSXFmWkF2WklxbmpIR2J0LVFBYnJJZ0JRYWxXaWk1bGh3MkRvYU5OOUp5UUdibDBKME14eWN6YktWczZsUXJZcE9PQWRTa1o0MGRYZFZ4Tkl3SV82UFVEVdIBYEFVX3lxTE5hSXFmWkF2WklxbmpIR2J0LVFBYnJJZ0JRYWxXaWk1bGh3MkRvYU5OOUp5UUdibDBKME14eWN6YktWczZsUXJZcE9PQWRTa1o0MGRYZFZ4Tkl3SV82UFVEVQ?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T23:03:26+00:00",
+      "title": "삼성전자 3분기 영업익 107조4천억원…국내 첫 100조 시대 개막(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04eVY1Q0dKUHVmRkpFZmpnVUJ0b0xCXzhsZm9MZEcxaUp3R2RWelEzaWRJekpkNVpvczh5U2ZGQkVQV1ZCV0ZCa1FCZm4tcmM1Q1FNemhxZ19HdjjSAWBBVV95cUxQVjZULWwzdmhqQVVlRjZpUE9GclpVTEVvaFVMa2c1dGFZTXAzeGtfaDl5LTlwZXUtLXN2Y2dlNm1Kd2ZyMFBkTDJNWGNOMjB6c2xMRi1oeWtTMnlBMlM5UEQ?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T22:59:00+00:00",
+      "title": "삼성전자 3분기 영업이익 107조 4천억원…’100조원 시대’ 열었다 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83NDAxQWtEblBwcmE5UWpTUmpGQmhiTW5raXRIcjVCVDhqV19hb3BCQlR3QjNFYWY0ekduNnM4SFhCTGZSVGNfMFdYWG5iNzFrT2J5QWZRczZ1Zk12VEtTWElEd05jYnc?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T22:54:00+00:00",
+      "title": "[속보]삼성전자 3분기 영업이익 107조4000억원…국내 기업 최초 100조 돌파 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eUpWRGNIbi1jbm9ZbW5sb3RKN0NobnlqNGROWHh1NGFQSHQzR2lNZHdzczBhV1NVUGw2TDZMeTJtQm1YRnUwNHZfbkhiNzVJc09wSUlTRmJoQdIBX0FVX3lxTE4wbWpKWXBScHpVeEloc3ZJbGdyZmxmZ2U2ZGpBeXJsVFF2R01qVUE2REdHZHBKaDJySVl3R3lZem84R2VGX1AzQWc0R2pkNk5zRHlUSnMtOU9RUmV5NVpV?oc=5",
+      "source": "경향신문",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T22:50:00+00:00",
+      "title": "삼성전자 3분기 영업이익 107.4조 원…국내 기업 첫 100조 돌파 - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4MHVrdFlRT3RHV2lnMW0tdEllMTJvN1Jpa3gxNzYxZ1NIWWRhU2RXSEdGaFRnR29VeWpLUTFoTXlGejIxeHlDOExzR2tMd1pPZkxPMzBTTmd0VGM?oc=5",
+      "source": "KBS 뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T22:47:31+00:00",
+      "title": "[1보] 삼성전자 3분기 영업이익 107조4천억원…작년 대비 782.5%↑ - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zWlVRU0VJVVh4M1BGZ1RCbGRjSHdTNGhtTEVlVFBIeDJSdVIwWjZEblpraDZMOGJHQjNzVmptdWlaVVNmNGt4V0xlU0ZWUnRNZDlfUnAwX01XU0XSAWBBVV95cUxOWmNETEN5QXdoWENjOFh1eEYteE9NbTRoVDVxeUVrN1RxOC1DODZtXzEyTGVRWG81TU1oTmpKNXZkUXhMLUNpNFFEUWNtYVlDUG82SlVoWUtkQVoteURIcFk?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T22:46:00+00:00",
+      "title": "삼성전자, 2026년 3분기 잠정실적 발표 - Samsung Global Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQkQyeHJWWHhfMjFtUWdJY3RDM2xqMHhTUmwwRUZXeVFMelgtZ3ZoYjBVT09ka3p3MG53RFBpNlMtQm1CZUdXTHlNaWgxNWYzZkR1U3VNZ0lIU2g2YjM1YzktcXRsTG5fNHhrYWJFVDZVQVJjb29ZVDdyRmx2dkdYaTdOd2VsRk0xXzRqeGtTR1oxT2dHaXM1UTdfVnhNcGVaX3pxVF9YbzBRU2t2aWh4TmdYdmQ4TjVVMG00ZXRlcDNSQkE5ZjdfcXBldEpkaU5HMUJnU2NTR0c5bEdzUUFFYnlwLVI3VEh5eFE?oc=5",
+      "source": "Samsung Global Newsroom",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T06:05:10+00:00",
+      "title": "AMD 리사수, 삼성전자 전영현·SK하이닉스 곽노정과 회동 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05UVNlVXNZaHRsQmJncFUya2dRc1V6RE9SZWJPNmQ4Z25BaHRTcWVBMGhhZno2bkJaRzh0RVJZUVZCTWlRbk5CTURWdnRKZWVEWW5TVm95Tl9sTFXSAWBBVV95cUxOTzItTGtxR0ZwbC10WjF5dlRDQ2Q4MjJRSFlERGZwQ19MRjNLNTJMZGtQZ2tLbUVub21TNU12LW9VY3VsTWxnR1JiNDJuQlJZNUp0bko5ZzY1NHlwX1B6dWU?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-07T00:35:42+00:00",
+      "title": "삼성전자, 분기 영업익 100조시대 열까…내일 3분기 실적발표 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFcnVwMldGb20xbnlzTWN4ekNZRWtPb2RpNDV1cDVWMFRFR3NWQ3dGamZTdUxFdF82UmRaejBkRk1JNXNUeElzMXRXOXNVYXRDX3ZMZU9GZ01uN0HSAWBBVV95cUxPY3U0VkN0c2d0M25abG9WdmVieVRCdlJDaWR1R3dCcURVR0trczdlZDdpY1gtVHU4N19lbE9rZl9DYlpPTGY0ZGtVdFpCYU5neFRkb2RoWUJ2QkV3WG5IMW8?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-05",
+      "publishedAt": "2026-10-05T23:00:00+00:00",
+      "title": "삼성전자, ‘갤럭시 탭 S12 시리즈·스마트태그3’ 국내 출시 - Samsung Global Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPWlRtTDFVbTI5dVVRNTR6d1ZuZ1BDYWw0R2tpZV9VRlhxNWhPeFVtd05URldQYjdDVnUzNXl5ZW9JSjM4bGdNTVRQOU00YU1Bd0dWQkZCNjRmVzBJSW9qcUoyU19odHFiR1daTWdHSnVOMjgwb1RwcFN5V3hOODdTWjNHYUxIeVBSNy1lOTdEVW8tZHlOMmpXbTJ2M0J6UnBEd2pjc2J6WVBKeUhEUW0zcktoOU5RYmcyYl9pMnhmWlhqbmVMYmt5RUoxVkZYMDFDbFlxMWM5eVY4dW9iODNoaEpvWUJrVm53OTN1amlhZjhtSF9KaVpnM0lKbl9PZERITy1iQWZEZXVXTlV5SHVUajNya212cHY1MWlnV3pHSFFSU2w4OWJPN2ZFWTNocDd6eGMwRFRnUEcyWlE?oc=5",
+      "source": "Samsung Global Newsroom",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T07:00:00+00:00",
+      "title": "삼성전자 \"2029년 파운드리 고객사 4배로 늘 것‥HPC 66% 확대\" - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92cHVGaFdCa1ZlUzhIbDBvU1UzekY0MXpvWHJlcS1iRG1NNmNTSEk0Uk81Qmx2cUNmNFVkcUxubVdrdG8yN2RXbHhDd1pjNWtuVTNrN21qc3BqZ1hSc0V4RmZvd1BpeFZ4ZHY5WjdEc1dnWW1r0gF0QVVfeXFMTklpUlpjMlNfbXE1OTBXUGE0ZmZwVXo2aTVIQ3VsUXJ6ZGFWNkpVYlk4SlhkMTBsRnlxVDkyeHVqUVd3V1NVUDJleVdtWGdTLS1XVEtLTjkwTkVjMXNhM2lud3AxZXIyWERwMnNVdVh0cmFoTWE?oc=5",
+      "source": "MBC 뉴스",
+      "pos": 1,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-09-29",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-05",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-07",
+      "count": 13,
+      "pos": 6,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-08",
+      "count": 27,
+      "pos": 12,
+      "neg": 8
+    },
+    {
+      "date": "2026-10-09",
+      "count": 4,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-10",
+      "count": 24,
+      "pos": 8,
+      "neg": 9
+    },
+    {
+      "date": "2026-10-11",
+      "count": 10,
+      "pos": 2,
+      "neg": 2
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-09-29T07:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-05T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-07T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-07T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-07T22:00:00+00:00",
+      "count": 5,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-07T23:00:00+00:00",
+      "count": 6,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-08T01:00:00+00:00",
+      "count": 6,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-08T02:00:00+00:00",
+      "count": 3,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-08T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-08T04:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-08T05:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-08T06:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-08T07:00:00+00:00",
+      "count": 6,
+      "pos": 4,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-10-08T09:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-08T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-08T12:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-08T13:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-09T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-09T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-09T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-09T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T01:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T02:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T09:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-10T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T12:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-10T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T20:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-10T21:00:00+00:00",
+      "count": 8,
+      "pos": 2,
+      "neg": 3
+    },
+    {
+      "datetime": "2026-10-10T22:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-10T23:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-11T00:00:00+00:00",
+      "count": 8,
+      "pos": 1,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-11T01:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    }
+  ]
+}
