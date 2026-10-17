@@ -1,0 +1,961 @@
+{
+  "ticker": "012330.KS",
+  "query": "현대모비스 OR Mobis OR 012330",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-10-17T22:11:34.498508+00:00",
+  "items": [
+    {
+      "date": "2026-10-17",
+      "publishedAt": "2026-10-17T22:00:36+00:00",
+      "title": "현대모비스, 튀르키예 배터리 공장에 현지 주지사 방문…전동화 협력 논의 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NODBUeXo0Mm83akhJYVlvRlQ3ZHctYkVyNU54dVdlcHRjanNwdzM3Tm1xYW55cmVSZ3RSZ1gzNnhFWHpYUEJpU19KWEg0RDVyWkxjZVRZT3JVYV9JaEtuNENLZw?oc=5",
+      "source": "더구루",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-17",
+      "publishedAt": "2026-10-17T17:26:11+00:00",
+      "title": "돌아온 ‘우승 후보’ 고양 소노, 4연패 탈출…현대모비스 95-82 제압 - 쿠키뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IVExGbklTVWpBcDM3bGdJLXlZVUhJTy1zNzVXcW5neEV1S1hPZVVJWXlhLU5kbUYxZ0hqNjdxbmlTTGJMZzlqYThMdVRVVHpqMWhxZTNuQTFOQzFuclNhbHhIWQ?oc=5",
+      "source": "쿠키뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-17",
+      "publishedAt": "2026-10-17T04:48:10+00:00",
+      "title": "울산 현대모비스, ‘도전! 피버스 키즈 모델’ 참가자 모집 - 바스켓코리아",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aN1VTdDBYbkRNdC1JR3dvaVJKeENSX0JUYTNncjVvYmp5S1RrdTVwa09Jb3FtVlVjMXNveFdhbHZFcDI1eExWOVVzOUxJSnlUMURHNUZmQzY1U3NtaFRIYU5GMmRfNDYyR29RTEVkdWcxN2tqMVpR?oc=5",
+      "source": "바스켓코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-17",
+      "publishedAt": "2026-10-17T04:40:16+00:00",
+      "title": "[농구] 소노, 현대모비스 잡고 4연패 탈출… 3점슛 16개 - 천지일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZcGhNZDBicXNKOWZQT1gxaWtLV055MHJ4V0xaQk84bmh0VFFMdVV4bVFxaDZOcHdwOXJ5MHpieHQxdlpoUWh4TE5LOWZqR0U3WmlFREIxcTl6VFlLTWFqZGh5UjJfbm1wekE?oc=5",
+      "source": "천지일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-17",
+      "publishedAt": "2026-10-17T01:19:12+00:00",
+      "title": "울산 현대모비스, '피버스 키즈 모델' 콘테스트 개최... 유니폼 출시 기념 - 스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FWndLSEhHTE00TjZRaV9vX1oyQ0htbC16Rnh4UkFxRHRUWTNSRElZQS1XUTJIOEI1TnIybjNWNkVYRk5mNHhSdVZDdnFuaEZtNGVpaDJ3SG9PeTZCMnd2QnluOFZ4anlLNTlGaEhVUFY2V2hFNUE?oc=5",
+      "source": "스타뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-17",
+      "publishedAt": "2026-10-17T00:56:20+00:00",
+      "title": "“별까루 마킹과 함께” 현대모비스, ‘도전! 피버스 키즈 모델’ 찾는다 - 스포츠월드",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ST1lueExhYzZmX1ZWM0gtWjhkMVVxWFNvWFp2dldiM1Q0SXNicWVCa0xTTVA5N0Y1R3JTVVo0VFFkemkwZ2lCYVJPaHI3aW5DbnhaU1RmNUlHemtwUWR1YVlR?oc=5",
+      "source": "스포츠월드",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T15:31:27+00:00",
+      "title": "프로농구 소노, 현대모비스 꺾고 4연패 탈출…3점슛 16개 - SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81Tjg2NzJ4NnBUZ1VFazdzMXh4QU9neEhfTjFzUV9vaHA5OHdLYm1qNHNsYmxlcEZlUW5CSGpUMTVCT3VBcGtoalFvQ3VFTHdRZDBGMmhiQkxVRzJBWm9jaXhWbnRKV29OUWc?oc=5",
+      "source": "SBS 뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T14:58:00+00:00",
+      "title": "'3점슛 16개' 고양 소노, '원정 15연패' 울산 현대모비스 잡고 4연패 탈출 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYlloc2Ewd25vLUpweVFRNDRwRmdTeThvdy0wTlRmUlljTEFmNlRWSTNrWXZ1aEdhZThGNmgzWGhUTm9aMUxsc3Qxdk9ETmM5NzFKTGFQVnctMTQ2cWhkbm00X3lGVDFYd19mNEFVbm9WSzhTNl9uVmFMaGtBVzlETUp4dFhBZw?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T13:25:14+00:00",
+      "title": "[화보] 소노와 현대모비스 경기 화보 (소노 95-82 현대모비스) - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82MVBXTnRfWnplZWxndE9SenJEVTV3b3NjMS1BdGhPaWxRTVU4OHhKa0xyNFJ5dndHQURreVpkWV9jX0tnOXBWZ2p2dzhUcElwMFB3dUJ1b0JLUlc0WXoya09QZ1FPUUV3X2V5VEZUTlY?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T13:23:34+00:00",
+      "title": "[포토] 루즈볼 다툼 후 이정현에게 사과하는 현대모비스 게이지 프림 - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ubnhtR0ZsVkJsVXV4ZG5sV24tbk41VFpyNWo4SkNvTmx3M0lhM0VGSHY4NmpSWkdXMmZqMEd5eXdGc09Fd0JkakZDdkUwRnd6WUpFLXZueGZBM1dZZGNaelNRZjN4XzVjSU1kNHlfVkM?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T13:15:08+00:00",
+      "title": "[포토] 현대모비스 박무빈과 대화 나누는 김태완 - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyaEdqVE9TUzktdEZ2dS1RUVUxbUl4MlE5ZzJCMnVXUW51NWk0Y3hFOXpnSWR1T3BOUXRjVFRUcG9BNnZOM2NZUlBPTkVQRWNYSWducmEydTl2NjRXYTNoUFZsaXVBYnhtZEtOTW5KTVY?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T13:14:25+00:00",
+      "title": "[포토] 현대모비스 이승현에게 지시하는 양동근 감독 - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1weEk4dUVzSHJRRGtFYWRRcVRtSGFQYzN3aUt5RVF0OWJtSVFiWUwxQVY1VWNHT3FFNmFqY0pPQ0ZadEFrQi1IU21BeEhqcHFVYXhmM2FLTEhfOHdvWGdzNC1pQktnVThNYkVJc19VSWY?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T13:13:51+00:00",
+      "title": "[포토] 현대모비스 서명진 ′득점이 필요하다′ - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YLWdDRDV0X05STTV3YlhjM3k2UEE0SVcyRUNaSFVjZXBMaGlDNkczeDFoYkY3UEctZV9OMGRnZnFET1VXWGlvWmN3dXM1Z2pZZExiMGtReElBNUd6dGZKMHdWcUV6R1JoWk8wcUhQNHk?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T13:13:34+00:00",
+      "title": "[포토] 현대모비스 선수단 ′현대모비스 화이팅′ - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xTXFlakRRY09UWVdELU5kdTRUS2J0STJLQ1hHQndCOFM3SU9TS205ZzhTMndKRUpIR0tyRUk2bGdEd1FiN0ZnaV9uQ2tLWXJ0NkxvSTVtSlpiSlI1UnNtemxTSmhvUFRwRC1OclFVTzg?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T13:12:06+00:00",
+      "title": "[포토] 현대모비스 다리우스 베즐리 ′과감한 덩크슛 시도′ - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51ZGhTd2N2d2RhWDAxdDFnSEZrdmxSRHluQks3cjdYRDFnMnFKRHFZNVYtblJsSFluam05ODVrMGRCYlRqZDJnUXdtOEhIc0VTdHVXanlEbWlsYnBETFdHUGpVX2NuUHhNWlJKUGFQYkE?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T13:09:02+00:00",
+      "title": "[포토] 소노와 현대모비스 경기 점프볼 - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IRUIyMFF1MHJTV2w4NjFEa0ZLTVFJaVVYYm5GNUw3R1BtS2JidXk3eElHQmRkeUxmcGRCaUFOYTlGc1Rvb3J4UWZvVDJnT2hoX2JlcU81czhyOHg3dkYtVnc1bU9KTWNJbWxpQ0tMaE8?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T12:42:40+00:00",
+      "title": "'15턴오버 자멸' 리그 최다 턴오버 현대모비스, 양동근 감독의 아쉬움 \"슛 불발보다 실책이 더 치명적\" - 스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwSU9WUUZvYXl4U29wdFpZUnY2V3ppcFZ3VXdEWHFsVnRmNDhlN1pBN2NXbWZMLVFOTUwyOC1NZV9vUWRkR0Fic0JBV1NMS0F4OW1FY2prX0tWR3E5eVltSG1YcGlvYlFUMFRJV0FGTXBQMEdTZXc?oc=5",
+      "source": "스타뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T12:37:20+00:00",
+      "title": "‘이정현 18점’ 고양 소노, 현대모비스 잡고 4연패 탈출 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yd1M4ZXU2V0kzY2ZWZktUd2VHY0VidlBkMDk5VUkzN2k3RF9HWTBsYWpjYWJsU1BkVndRUVZNZDV3NmgzUlNHenlHenljbnVzdEUzR1AzUnFaYmFWd1NkYzBlM1FBSmhGZDhZT2lZWmVONWhl0gFmQVVfeXFMTnlBRUY3TmhDeVBlSF9jMUl6dDNYMkhGN3I5M3hxNnJ4U0JQUmpHY0V4YmhDS3lWNHg3VG5SRThoZVpIeW1UVHNLVEQ2eGd0bm1STjJMMTNBSW9UbTdyM1JsRVloUFRB?oc=5",
+      "source": "동아일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T12:22:35+00:00",
+      "title": "프로농구 소노, 현대모비스 95-82로 제압…4연패 탈출 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PWE1QYU1LRkVOMTBlaEFsYWh5czNxSXNhaFVqSGVvdUZlalZvczNjV3k0MGZmc09icnVvaHc3S1hNYjJrc2RKLUdzcHJNVHZxZmltaW5JVW5tSmxYV1QtSNIBeEFVX3lxTFBjNkZaMXlxSFYtWVBCV013bUY2N1FLSDczWHNMZ0lSYUZPam4tWjZBNnhONEZkeGJOVWZnR3ZYdmxDY3N4WkVER3JBckN6U0E2MXhPWmxmOE85MG11YWZRMDFySHl6ZGN5aS1mUGF3X1NYRHhaYkREcw?oc=5",
+      "source": "뉴시스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T12:05:26+00:00",
+      "title": "프로농구 소노, 현대모비스 꺾고 4연패 탈출…3점슛 16개 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oTWdRV2VzdTNwb0RUaV90VHd6bFFVVl9OWmdlTjFZenhSVGxJRXZ2RDhGOTAxNUZFLXl3aDVIRzlsNEV4Ylo2Q2RlMVMtSmZjUHloS2hta1UwRGfSAWBBVV95cUxNVDVlbFNFamtneVdGRFBRNzBRQmhWR2xBV0I2M3FGcVhxSEIyMU0yUG9NWGtMQlhwRmQ5amVqVWJiVmFKRkJIbG5zWG0zSzJyWjU3bDlPTnZTWjBlc3l2M04?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T11:57:47+00:00",
+      "title": "'3점 16방 폭발!' 고양 소노, 현대모비스 양궁 농구로 95-82 완파→지긋지긋한 4연패 탈출 [고양 현장리뷰] - 스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92Yy1EbklWMDh0cW9GZkVIM0RwTkFzTkpWYXdDN2dVaG9hMEJSaXhiaHRZYTlGOW5zMXdoV1YyRUQ4UElkczhJampUTWtoTERTeUFQMGphZkQzRUI5ZWNfcUJIdXc1ODBZMENzeWhmcWM5bS0yaHc?oc=5",
+      "source": "스타뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T09:49:43+00:00",
+      "title": "[웜업터뷰] “우리랑 할 때 터질 수 있죠” 소노 만나는 현대모비스, 양동근 감독의 걱정은? - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RTnk0bkpidWJDeTdERDdxaHZJMHpNTUpreWhjYlJHVDJZU0NnTG5RbmtzUl84a2NDRGZTcXgzUmluYVhtUjRjS1F5MUdXbjVRaFpPbTBBWUFzWmk0cy1PR0ZXNXVoZTM1dWVOamRIc2Y?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T08:15:46+00:00",
+      "title": "현대차, 인도 푸네공장 준공... 현대모비스, 상하이 혁신기업 발굴 외 [시경Today-자동차] - 시장경제신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iRXlubWJXR2JLNGx3VzlrSlZYUVVoYzUyMFhiY3N4c2FFOGZ6SDlsa1pQeHVKS25BYUxrMmFtdzRkVkRoV1dtM2VKREpCSDctV1hfcUdGc3ZFcWUzTktXSDN0NVhmNkJtOENBVFh5aVY?oc=5",
+      "source": "시장경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T08:08:04+00:00",
+      "title": "울산 현대모비스, 울산고래축제·런페스타 참가 '지역 밀착 마케팅 나선다' - 스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XdzhmbDBKdEFZX0c2eXl3OUN0aG5GYlNhcG10TG9fOVRkREJHOHg4RG1BN3BlQTJ0NnJEYUdkVUJVdDdGZ2ZqcEhmOUdFb3hsNl9JQnpxdlNKTGplN3d0VW9UbHZ4RmJfZ2g2ejdXcEZ4NGRQVVE?oc=5",
+      "source": "스타뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T06:40:00+00:00",
+      "title": "[프로농구] 현대모비스, 울산고래축제·런페스타서 지역 팬들과 만남 예고 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJZGZ2Um9zRkJWYzIyMVhQRG95Q250Nlg2WnJWUzNnbkctUFdvMDZlbWoyT1NybmpFSkFpY0lFZVdLTmNzYzN3SVZhYllwQWplN0pJdENIRC1YVFk1?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T01:40:49+00:00",
+      "title": "車부품 수익성 제자리 … 현대모비스, 3분기도 AS사업이 실적 떠받친다 - 뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0E4YTE2bFl0WVVoYUhMcGJoMzVhb09fVWhXVmk2cERsbHh0LTkzTXFOQmVBMjNaQ3piMWl2Y0VxQW4tY1ZjMmk3WDhMQkRJal95eE00d0xYd2pFRnhNcmd5S2xLMjExMFUyc3QzYlVaeEhibWFYWHJNT3lRYzlyTNIBgAFBVV95cUxOX0E4YTE2bFl0WVVoYUhMcGJoMzVhb09fVWhXVmk2cERsbHh0LTkzTXFOQmVBMjNaQ3piMWl2Y0VxQW4tY1ZjMmk3WDhMQkRJal95eE00d0xYd2pFRnhNcmd5S2xLMjExMFUyc3QzYlVaeEhibWFYWHJNT3lRYzlyTA?oc=5",
+      "source": "뉴데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T22:08:06+00:00",
+      "title": "“글로벌 오픈이노베이션 아시아 확대”..현대모비스, ‘모빌리티 데이’ 개최 - 데일리카",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0a0l3blJGTEJzVFZnX3VyYVU1bmVaRFJzZTJmVENkNjBhSXQtcjJfY2NFd2lhYTVhVm9jTFg3U0xhRF9QSnV6UHMydmRMNHUwd3JfaVdxX3JHMmdtTjRnTE1ZUzFkX1hGNzQtclpTaXp2WmI1VVE?oc=5",
+      "source": "데일리카",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T21:00:00+00:00",
+      "title": "[전망] 현대모비스, 원화 강세로 이익·목표가 '하향'...중장기 성장성은 유지 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tLWoyVlFPaEVjazZCbEQ0VFlXRndhaFlpUlNLcjVHeWdGYzNGZ21ySlpBT3RZelFSMEVmeGZmTHBPak5YRklqWXAzRHVRN1lpeFR6Zi1mUUNTa1o5SW5Ka0plSkU1dzRlT29XVnR3?oc=5",
+      "source": "알파경제",
+      "pos": 2,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T15:33:00+00:00",
+      "title": "현대모비스, 中 로봇 기업과 협업 가능성 논의 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFSGRDRnk3VTlOZzR4REwzQ2Ffc3lXRkdXODM4eFFFVEQ5U1BJanBaV0lLaGk4ZlM1TzkwMGtFVVNNR1Q5X2RRd2tJTlFKUExaQURyNkQwdDI5Z1lDV3dlaHhjM3p4VWlXTTlYMnN4NjRpdmlrdEtUWjEtTkoxX1E?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T10:11:08+00:00",
+      "title": "현대모비스, 상하이서 로봇 생태계 글로벌 영토 확장 - 경제타임스",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jNFctYm9rWjhjMlpqN0lvSmRnZ0o4dlJvY1NkNzQ3c01hTXlKQ2pDQnJIc0dLSDBLRGUwMFRsOEpvN1RxajNuVW00NUY5bVJCVVdfaWo1bXM?oc=5",
+      "source": "경제타임스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T09:19:53+00:00",
+      "title": "현대모비스, 실리콘밸리 이어 中서 로보틱스 협력사 찾는다 - 대한경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPYll5NFV1WXNVSDNCMFczcmRqZ1ZuZlk3QjRJSXRVNGFwV2ZoaWdkNGRwMEhSclVPNkZaZ1UwNEF2V1EzV1hSRTJUYmRLdE91ZVBfRWh1NDlxaVBIQ2RLSENub1A3WmktT0ktZGNIWmFSejQ?oc=5",
+      "source": "대한경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T09:04:00+00:00",
+      "title": "[기업] 현대모비스, 중국 기업과 로봇 관련 기술 협력 논의 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3LUlZMlMyVUVJa01wTEZyVXhhTlNEcjdRak5GRFFTSkx1dUUtd1ZaaEJta1VNQ1VYd21Ua1VXRUZETUxZTE4tZWRuTGFYZGdTekE0cFVKMmd5d2F4cUE?oc=5",
+      "source": "YTN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T08:22:47+00:00",
+      "title": "현대모비스, 상하이서 첫 오픈이노베이션... 로보틱스 파트너 찾는다 - 다나와 자동차",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcWM3VFdmZ281eURabEFTLXRKUmJLNmZFVkZveGllOHFWc1RYVV9jMTFZeU9MRzJyaXg5bzI4Z1pkTDB3MENfYzdYbmdqNzVFZk9EQmV1SWtfWEttMm5KSWh6cVVVZGtkWFE?oc=5",
+      "source": "다나와 자동차",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T08:16:14+00:00",
+      "title": "[자동차오늘] 현대차, 팰리세이드 하이브리드 기술력 입증 外 현대모비스·지프 - 천지일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CMUZ1ZmxSTk1hRUFkN1loTmFyU2xyV19DRnlGbFRTY1VxQ3YzSUM4UHMwenB2V2YycGowcTJzdlRaSjc2WDNNYmN4RGxralFlMldvdEpZbnd4dUdnTzE5QVR4Y19QYmg3QXc?oc=5",
+      "source": "천지일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T07:46:00+00:00",
+      "title": "현대모비스, 미국 이어 중국서도 ‘로봇 동맹’ 찾는다 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aLU8zLWRYSFliOW13M29YaG5TcHBEYnhpVDc5eHo1WTgzNVNLeW5CSGpLblRYemVscEw2VVlPOS1VZkhIMkkzVGhvMy1QTTkzSnZFREpoblRCaXdTOThHY3EyR1M4Mzk2bHc?oc=5",
+      "source": "한겨레",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T07:13:12+00:00",
+      "title": "현대모비스, 中서 로보틱스 협력사 발굴…오픈이노베이션 확대 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBld0RGU1RIa1dZVThDMDN6aDQxMEtZODJGYk5ZWnAwZGxEZ0dWMWE5d0VGcGo5RlFWVU12LWhEWm9QdWFISGVYZ1ctZ3hlRy11ZVBWeF9ZMHJENHh3bWIwVzRReEo?oc=5",
+      "source": "매일일보",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T07:05:14+00:00",
+      "title": "영토 넓히는 현대모비스, 中 상하이에서 파트너 찾는다 - 라이센스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mZFROLW8yYjU1Tl94RnlMTjU5Nkc1MkN1TjIzMURMMkVJX2JiR0IwNGZJX3FldjJzcXp5UGNGbVhzUjNlRVJ2TjZ0MlctRUM1Tk5NOUxnekxERHhCNHRaTVBzVmJ3N0FWc3R3?oc=5",
+      "source": "라이센스뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T05:55:52+00:00",
+      "title": "현대모비스, 中서 첫 모빌리티 데이…“로보틱스 협력망 확대” - 마이데일리",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10Y1Vsb2pVV3FuaklDRVUtR2NkYlBHSmUzMHVQT245SXFYcnZfZTJIRHFIWVFCTWlSVU9Fd09OZVVtNFF0T3l3RGF5RUxJblVHVjltNFZELUZxcEtOSlNiMw?oc=5",
+      "source": "마이데일리",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T05:53:20+00:00",
+      "title": "현대모비스, 상하이서 오픈이노베이션 '모빌리티 데이' 개최 - 스페셜경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BbFppaktFZzg1ci1rbENrcF9xcTVIcDZQZi1mNzZzV0hBQVc4ZU5Xd1BMcHRNTnMtUi00bzVpamNidUZUWWFNRDAwejJBNDNLYWtyQ2tadlhQUmRId1otRGpDZk16UGVzVjhrRg?oc=5",
+      "source": "스페셜경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T05:42:00+00:00",
+      "title": "현대모비스, 中 상하이서 첫 모빌리티 데이…로봇·피지컬 AI 사업 확대 By 알파경제 alphabiz - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLYmI5ZHlESjIzRlZjQjMweG9sT2hVM0MxSkJSNU1yVVBKUWI4R3pVSTdfNjAwa25KQ0JWVlN1X0lEa0k3dzVGWk56Sjk5X0ZyVTRCNVZlTjRSQkt3cE9YVjJLLW9qdkZ5NHplVDgzTnI?oc=5",
+      "source": "Investing.com 한국어",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T05:34:32+00:00",
+      "title": "현대모비스, 로보틱스 협력망 中으로 확대 … 상하이서 혁신기업 발굴 - 뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5bW9WcHN5Y194UWQzcEVLTGN3SnVvdDFFWDdkT3YycERRYUFjckhBNkJMV1hqQkZ1Z3BoeFRiNDV5WjZUZ2hIMGpwTE1ZaDFiMFpZbVV4ZFJETDhmVk50U3RmbWwyZWxfX2tsMTBjVmI1ZThuM1kzeVFwb9IBgAFBVV95cUxPcHJ2RE5Dd2ZhYUZIRTUyclNqZDZPYmYxT2pfdFJGWFY0S2hlVEdYemt5dWgwZGJTTmcwaVlrSmNyLUVnMVhqM2o0VkZ6VHFWb0J6Y1NLSE94c3RZb2pxd1pFaXdreFZQaVRSbnVYeDV3QngwdTUyb3lWdk1JWkl2Ng?oc=5",
+      "source": "뉴데일리",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T05:28:22+00:00",
+      "title": "현대모비스, '로보틱스·피지컬 AI' 글로벌 협력 강화…상하이서 모빌리티 데이 개최 - 백세시대",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyYjhlbm1QSjlJUk5NZWxuZlFOT1Bid3hWYk16T3FNdE1PZU1rRkpnenZUdDJ3RFRQTUlOcUxQcVI5RDVOcV9hcERqMHk5OTI3eTRldGZ4by1SU3NNLXRIOERmSUVsTUM2eS1Z?oc=5",
+      "source": "백세시대",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T05:06:10+00:00",
+      "title": "현대모비스, 美 실리콘밸리 이어 中 상하이서 오픈이노베이션 확대 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PUjg4SnlYdFpVTTA5ZExiRkU4WGQxbGJaVWxzR0JKVTJab0tmYWZHMjdvN001TGdTZGwzTFowZDBpdEVlbzZQMnY0WnNvVUZWSEpYUmlzb3RWREZVWW5nWGxMMlNqak9ZU2h0bFRn?oc=5",
+      "source": "아시아투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T04:31:33+00:00",
+      "title": "현대모비스, 中 상하이서 첫 모빌리티 데이…로봇·피지컬 AI 사업 확대 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hM19tdHF3dTBWM292ZXFSTzdYSU1oZ29ZOU5ycVBaemoxUnVHXzNOZU5lTTE5SktFd3VrTWdXMURWRkVkSjVVUFY1eXZoWFhGWHlOZzhDVVF0d0p1dldOcmtITmhRXy1DRWlBOXlB?oc=5",
+      "source": "알파경제",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T04:11:21+00:00",
+      "title": "현대모비스, 중국서 피지컬 AI·로보틱스 파트너 찾는다 - ER 이코노믹리뷰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wYXF5N3h5VHpmY1AtVXZkUk1tT3M0X2pQbUR4dFJ6MWRMdTJkQXFTU0xqRGhBSEl6TlpObUlUOUVPRUt0ZHBVSGVLNlMxNWQ4YWlSWVVsQkt0TFg5WVV6S0F5Y01UaFFqZGhpRw?oc=5",
+      "source": "ER 이코노믹리뷰",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T03:50:07+00:00",
+      "title": "현대모비스, 실리콘밸리 넘어 상하이로…로봇 사업 동맹 찾는다 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zQ1NoN3Q3OHhKMUptQ1kwVHFpSEhsSmpUZk5ramh6T2dJZS04Z1Z0UnFLQVAzeTZwTkJoN041UGVGdG9xbnRQX2JEcUtiZk1COVZyRk5yOXBIMkhNTGdINw?oc=5",
+      "source": "메트로신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T03:18:02+00:00",
+      "title": "현대모비스, 상하이 제조·공급망 활용...'모비스 모빌리티 데이' 개최 - 교통뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZTXlaMC1uYzl3YlJGNVhTdUZBVENINzZOZzdvT3JtMS1lRkVCYTYtdDQ0dnNCeDBzLXA0RFI2MENqUEZzeVhGR1pFLXF5N1kzaXNWeHdWNTd1VXgwdlg0NWtfVXBZVTlfTVltXw?oc=5",
+      "source": "교통뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:39:00+00:00",
+      "title": "현대모비스, 실리콘밸리 이어 상하이로…로봇·AI 협력망 확대 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRUVRIS1J4SWtQWDZoMlpnUXVySlVVMmJsdGNRcnpPaF83dlY5STdKLWFJbmJ0a3Jtb0ZDejh4MjJyaXNQNk9QcXdTUEplWkNVYjdsckV2TUdrcmsw?oc=5",
+      "source": "뉴스핌",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:33:32+00:00",
+      "title": "현대모비스, 중국 상하이서 첫 오픈이노베이션 행사…로보틱스 협력 확대 - www.fetv.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jZkxnaFJNSEVRT0g2RE43N1Jrb0hKN09rOV83RlBDRUI5UFJNU2dRdlloYVJmejA3QTBvNHNIUDVpendneVFmUnhQaXJhRTRZX0Y3VkNnVjh6TDlvZkVPYXB5NGJwTFdx?oc=5",
+      "source": "www.fetv.co.kr",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:30:24+00:00",
+      "title": "현대모비스, 중국서 첫 ‘모빌리티 데이’ 개최-로보틱스·AI 협력 확대 - 미디어파인",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vU2pYTWswNnBDM0g4MnI5RnJ4WFhJTkQ2SDVUQzB6azZJUDd0ckFSUTBuZUo3M1V5UnhxVXpGbGNETXRtTk5XdTNvMmtZS2dDUzZBTk1sZVZsTlNPNWFvbFVFcG10ZG9fcWdoRnB3?oc=5",
+      "source": "미디어파인",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:19:38+00:00",
+      "title": "아틀라스 부품 공급하는 현대모비스, 中서 첫 로봇 기술 파트너 찾는다 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LRjZTQ2puMGNrb1BBelR6Z3NDT3RoTFpPTWJldnZ1SmtKZlFMc3h4Z09qYXRNY0x3QW1RTjhHdkl4NnJIRWhvMlBSWFk3T1hzUjd5dndmaE5Xa252OWx5SHk2ZkxyTHR0VFhrcUN5eUxfZVFEUEdqUHRlSTRDaUk?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:12:03+00:00",
+      "title": "현대모비스, 중국서 로보틱스·피지컬 AI 협력사 발굴 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84U3dVcVZGUDJBdFVuU0pfbDRGVDRfUGRwMkdfUU5LR2Npd3doRVIwa1IxRlRGOExCU1ZNdXc4SjJKU1RoVTJCd2JGM3g5RmJVVnJDV2J5cnkzRGtncmgySNIBYEFVX3lxTE84U3dVcVZGUDJBdFVuU0pfbDRGVDRfUGRwMkdfUU5LR2Npd3doRVIwa1IxRlRGOExCU1ZNdXc4SjJKU1RoVTJCd2JGM3g5RmJVVnJDV2J5cnkzRGtncmgySA?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:08:30+00:00",
+      "title": "“실리콘밸리 넘어 상하이”… 현대모비스, 글로벌 기술 협력 - 뉴스웰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ETm1ibWdTQm40VEtVQ2VDcDZYUjJERGhaWnN0cjZ4UkV4el9uenJkQzIyWldlQVJINzdHQmh5S0RFZ2h0TkxOY21RNXFKdE1GcE5yekVhdGxaTVA4dEFrMG5yajVfQTVmUFlUdg?oc=5",
+      "source": "뉴스웰",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:02:00+00:00",
+      "title": "현대모비스, 美 실리콘밸리 이어 中 상하이로 글로벌 오픈이노베이션 확대! | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaE53WXZDTTlNcERqMUYyZGd1UlZJQzlmSTc0Z19KcjgtcHdSamdXeW5BWXFNdHFvSVF0bi0tc3dYOWtxUWNZR3ZVYmg1SjNMVmxONmdrWWFRTEU0amN3dVdmWGJQNXd0NEIwR3BNRXB4d2t4dlZERGRpR2piSTJucG10emhlSzZKcWlHMWRuSkw?oc=5",
+      "source": "Hyundai Motor Group",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:01:01+00:00",
+      "title": "현대모비스, 美 이어 中서 로보틱스 혁신 파트너 발굴 나선다 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BWWVuc3QzX2hlRmZMdmN3dzNVREdfaFV1V0JoZGNRZHpHM3o5V1AwN25ONUxIV2R6Z3FvMnpIQkRESDlpNXowTkFxbmxSbTk0cWNPN0hDOUNoZw?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:14+00:00",
+      "title": "현대모비스, 中 상하이서 로봇·반도체 파트너 찾는다 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54TTdadFR5UVV3UkJweFZpQ0lhN3ZMMktsaUkxMVM0WVBURWdYVWJabGp4WXJZaG9DUmlJYVBaY3hmNE9LQ3FGNmU3SzE3UFVGV1FzM0R1elFuSlZHSGs0RHgzeEx4VENCVEtpX2tPcV8?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:05+00:00",
+      "title": "현대모비스, 中서 첫 모빌리티 데이 개최…로보틱스 협력 확대 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xejNpTkV0d011MGV3cXVHTnpXd0dLeXNvUWJ2QVc1SUZCZnE3OGRNTFAyYWlWbkt1dDZISEdUUXVuUGdueDlEMGlGTmdSNTZQOUlLM1F2dG9fNDM0LU9VcmJVeXM?oc=5",
+      "source": "서울경제TV",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:05+00:00",
+      "title": "현대모비스, 중국서 피지컬 AI·로보틱스 동맹 찾는다 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1NFMmFqOXFGY0x2VDJWMHBTaDVvRHdRTWQ1NzZBY3dPRTE1bW04S1llTjlxTTJiVm5pc2pTckpBUnBUSVFmXzZrSTdEdEdLakdCYjU4UVlzVTRDU1ZXZ0Q2SnpoMF9wLW5hZl9WaldTSHZMbnFzMTkzbzVldm9Ncg?oc=5",
+      "source": "이데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:02+00:00",
+      "title": "현대모비스, 중국서 로보틱스·피지컬 AI 협력사 발굴 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fUmlWT29YOHlQQnlmOWNpOVBnbUhRMFNYTmE5elhaUk5CeGI3blVoZlZOMkhMMzg1R21CY2h3MWRYazB6RllwcTBaNzZSR1JzTVo5c2RqV2ttTjTSAWBBVV95cUxQZFdTVkpSd2g3T0IwYkdyYlptUEdLUUlVNnJLWUlGeFBnbWM1aXFYcXA4YURiajRSUF9YNGlPZ0tHZjdCck5pTHdnTHBLOTJWQzJUS3BMLUlLbTdfNzh4MTQ?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:01+00:00",
+      "title": "현대모비스, 中 상하이서 오픈이노베이션 확대 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nSEJzWW9BSlJiZXNQV1BzbmFtNUU0SGFuT2FqMG1KRzNMY0o0UTVGaGxQUnBIQl92ekI4T2pJMXdxdFBSazVSYW5mcWkxNDF5SUpRV1dmTUtlUdIBVEFVX3lxTE5sclF5VlVvVXRRS2FLWXRTdEM5c0tTeGZ4RGxhQS1tWGpVNkh2ei1xaTk3MkFTcFF6WnNNamc4UUhwMmVGempVTlJBLUkwZTRTYUwzMg?oc=5",
+      "source": "더팩트",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:00+00:00",
+      "title": "실리콘밸리 이어 상하이로…현대모비스, 글로벌 오픈이노베이션 확대 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xYmxqUl9Lc1RmVXNkckRYUEpGdVQ1ajhMTDkwUVdvTmVjV0s4RU9XVXRueTlERnRLbkRCTjktZ2NjM1Q3ZFFrSW1PekZtbno5QlY4VUw5ZGEyWHdyUmZUOWJFTHM0bmhwaS1jcUxkOVQ1Z9IBckFVX3lxTE1xYmxqUl9Lc1RmVXNkckRYUEpGdVQ1ajhMTDkwUVdvTmVjV0s4RU9XVXRueTlERnRLbkRCTjktZ2NjM1Q3ZFFrSW1PekZtbno5QlY4VUw5ZGEyWHdyUmZUOWJFTHM0bmhwaS1jcUxkOVQ1Zw?oc=5",
+      "source": "머니투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:00+00:00",
+      "title": "현대모비스, 중국에서도 오픈 이노베이션…아시아 시장 선점 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVT0FkYzhaM216cUhWZTFOeUM5ZmFQTm1yNUo4TmM4UlpKOElQdF9jaE9zaGdPQVRTSUFYZ0xFSzk5V3lZZEFSNGxzTjBJSGVaM0ZGOVppM3haQTBxUHZRZTRKYU1KaEk?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:00+00:00",
+      "title": "현대모비스, 中서 첫 기술협력 행사… 로봇·피지컬 AI 사업 확대 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wdjZ5a0V0bUphNUd3TlpwX1UzNE1ZcmFvb2pxTnlHZGM4amxCLTFWc25IazNwS0JSLWpUV1k2NG1rUDZfdzBRN2ljRmNPWnEzWWhKT0RPS1BZZGJIeEtxdzlaamQyc0ZmaWphR3NjZE1vcHYtc3hwSFVQLS15SWPSAZMBQVVfeXFMTTlzU2pKVnZiMmJJbVZ4RjAtZWpKZzFSeEZQRzBxYmNmTjVhUThLcHVPMXQ0QXlEcDNlLWJIUVhkNXZNTlpiVFFONTZpN01nb0d1Z19NMy1KWUVtMkNNQ2VORTcwa1ZRd2RLNmhLTWFWX3U2OHp5U1ZhelUybDAyRFFtREo2OWs5Q1Q2WmdQdDVHQjVv?oc=5",
+      "source": "Chosunbiz",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:00+00:00",
+      "title": "현대모비스, 中 상하이서 첫 모빌리티 데이…로보틱스 협력사 발굴 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45ZndNcllMU2Y0T1A3bVZsMWZLa3E2Smh6NG8yM3RjMnpqczY2NzJMYXpxMlZnNXNFclROTTE3amlDbWU1VjhuMTlGMlQ3ZFdxM1hfNGdCQ0w2cWxGbjdFVw?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:00+00:00",
+      "title": "현대모비스, 상하이서 오픈이노베이션 ‘모비스 모빌리티 데이’ 첫 개최 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1waG5oQTJPYjhmWjBHN3YxeFdfOTJzbzJsODJZSDdiYm1DOE80UTBmLThwb0FrZ0tYbTBBYzRDM0dhZ2M5NW9sRG5wbTdNUUFQU1HSAVNBVV95cUxPcExQb1ZEUGlaMGs4eUVDRTFsdHlRLTYyRmpvS2hsOUktVkNranVnWDkxbFBiWUo2Y3lvZUEyZFp2eVVOaUcybGozYVdqT2JwVnlVdw?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:00+00:00",
+      "title": "현대모비스, 中 상하이서 첫 '모빌리티 데이'…로보틱스·AI 혁신 파트너 발굴 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ta2VqTnEyUnBTZUs1c0tMWHVBWHhzQjN2QjA3WEEtYXQxYzBGdVg5N1dfODZHMDlGelRuaXY3WlpuUGx3ZHkwVWhCX3ROaDhPdVpIa2JZSDNQY0UxTnhMZg?oc=5",
+      "source": "아시아경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:00+00:00",
+      "title": "현대모비스, 中 상하이로 오픈이노베이션 확대…로보틱스·피지컬 AI 협력 모색 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0R0xOY2ZKTmNlTGstc01lU092REhtZ2dxNk9sT3RUYjJhNnJKdFlYZGpmMHdSTzBxZkNDaEk4X3V4Vl9veTUtaEI4RS13VU5zalNNZQ?oc=5",
+      "source": "이투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:00+00:00",
+      "title": "현대모비스, 로봇 사업 확대…中 상하이서 협력사 발굴 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xaGRTSG1ya2ZVSmtXZFN6UGR2NE1VNkZRMmJsRGJITVlFcDF4WEQ4UktseDhoWERQSXRBU2RxTXRrRkJ1eWY0cW0ta1I0eUxVRjZhbzdsS1NRNERwTERLRmFmd2U?oc=5",
+      "source": "디지털데일리",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:00+00:00",
+      "title": "현대모비스, 상하이서 첫 ‘모빌리티 데이’…로보틱스 협력 확대 - 스마트투데이",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qR0FmWWlKVEhPQWgxeFdZc2ZQX2J3Y0lFcUNub1ZIdThtRXQ2V051UlpMY2NkdV9ha21FLXlfMVluMW4wWDZBVC1VUm5NQlBSb2RvOUw5TUxmck13elpv?oc=5",
+      "source": "스마트투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:00+00:00",
+      "title": "\"로보틱스·피지컬 AI 업계 관계자 한자리에\"...현대모비스, 중국서 첫 '모빌리티 데이' 개최 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44a0ZKeTUxYXN1aHdoSklVR0xNYzgxWENVSkZ2djRrQlNXanFkUTVBU3JHYUk5R2pIRm5Ob2g4UmFJY2VDWDlNVlV0MkI4XzdfbGtEUlRuV05kUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:00+00:00",
+      "title": "현대모비스, 中 상하이서 첫 모빌리티 데이...로보틱스 협력 확대 - 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mejdPbHhELS14ZEx0eTgyODdhUE16NnA3Y0YxUlpmc182cG15ZWRucVpDRS1CYldzZnczV3VhdmVKbzdkUG0yVzJLWnFFSDRRYWlrOWdqbGFGRHJScWc?oc=5",
+      "source": "뉴스투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "publishedAt": "2026-10-15T02:00:00+00:00",
+      "title": "현대모비스, 中 상하이서 '모빌리티 데이'…오픈이노베이션 아시아로 확대 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12RGNRTzMxU2p6dGU4VGYyeURhYms3TW82Y1VmNmVPV1dpREtqcnd3OUdTSFZWT1RxbFpIb0pfZWdGZXFRbktiYWRVWmtOTjhoZWRDVzdVWGxuSkRhZ0FzOdIBeEFVX3lxTE15TW5IanNpTWQ3enJQdHpQOTM4QnNmYlVQd2xScmxXeFc1XzJVV0duQm1ZN1A5UHI3RjNEVUZOZUo4QW94N0pXb1FaWXRkZEFabmluc1pHMi1XTTFVbnRibGZzZkFOTkNLak13bUpON0l1aHcyXzEtUw?oc=5",
+      "source": "뉴시스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-14",
+      "publishedAt": "2026-10-14T23:48:55+00:00",
+      "title": "현대모비스, 中 상하이서 첫 모빌리티 데이 \"로보틱스 협력 확대\" - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvTDhqa2xLczZDYURUUzZWU2tXeEFUbmh0UkhVNFlUbDRRVjFxZnpzc0tsZDlURmQtTlRyQXoxVXZ3aGd4TGtVMGU2WU1NMkRnUmg5dFBEZGs5a243VVJWbQ?oc=5",
+      "source": "뉴스1",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-14",
+      "publishedAt": "2026-10-14T23:35:00+00:00",
+      "title": "[리포트 브리핑]현대모비스, '비용증가에 대응하며 현대차그룹 차세대 핵심 동력으로 전환' 목표가 800,000원 - KB증권 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsLXVoMHZHS05lUlBPVm5sWl9sdHRQY2s5ZXU0UkZIUEI1cmVqamI1bmxDdnFWbTNtWld5QjR2M29XZnpsMnpsdjNDZ0lwVEEycHR5VjhGMkp0VW5H?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-14",
+      "publishedAt": "2026-10-14T23:05:00+00:00",
+      "title": "iM증권 \"현대모비스, 4분기 이익 개선 기대\" - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OMmVtM1A2MHAwbDJMSVNBMmZPV3FoUENjekZPY01qOWZQY0pjTUY2V1BsYUozSkFCXzJqM1NmX2tiVnJBNC1iQU0td2ZMaEFPNFNDbw?oc=5",
+      "source": "이투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-13",
+      "publishedAt": "2026-10-13T07:37:05+00:00",
+      "title": "완성차 부진에 환율 악재까지… 현대모비스 주가 눈높이 낮추는 증권사들 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PWG1GNTBYako4NlBhTFpaRllqVVZzaVcxT0IzWmNJV1F1V1lpODdrWnNUQjNaQ2ZaNnNTUDJPSF8yNGdiTzFJZDhBckdkYk1NYnBvTmVSUUg1Zw?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-13",
+      "publishedAt": "2026-10-13T00:10:08+00:00",
+      "title": "키움證 \"현대모비스, 현대차·기아 파업 부담…목표가 14.7%↓\" - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqVkFFbS1lRDhLQXBOVmltSUlNeEtURVFxdHMweWJsTUgwSEhILVE0Vks1TFc2eDh1ZVlFYV8xSmNNY1ZkUzNiaGRRem1ndG80ZzdwamRDb0lzM3lyNkZ3?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-12",
+      "publishedAt": "2026-10-12T23:50:02+00:00",
+      "title": "키움증권, 현대모비스 목표가↓ \"3분기 수익성 전망치 하회\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1naUw5Z29Fc2lfM1ZhMU9DYVRjVXFjMElVakpIcGpSLXZjazMwQVd0VTFSdVZZNDUyUHhJdDR6QkdQOG1ZeEpUcUhNNUlvOUdVV3VkYUEzNDdlTHPSAWBBVV95cUxNR3BZNWdzUmJka0VEdWZpUnJVU0dBSkdPU3FBQkJ0blNsNU0yOEUtZUNXbmxwNE1Ncl9WRXBlZFNOb29PN09aQ3hUWjluZlRLMUJFSV9wMzZnQlZXN1hHU20?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-12",
+      "publishedAt": "2026-10-12T12:08:24+00:00",
+      "title": "살아난 프로농구 현대모비스, '우승 후보' DB 잡고 시즌 첫 승 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ySWRuNTB4YTlvQ0JkdTZsWXdlOW1ld1VfV0Y1RElxRGxsVk1IR04tX2x3Y2JxeXdpcDdGVUxiSW5zcUdEM0ZjanYyWVZEMTJtQzEzTHc2VTloVG_SAWBBVV95cUxQMkhicXdWOU5ycWM5ZTNHNTBac1FTQU5ITTlJOVFWMkQxRGE1WXEwYXJkVXR5b0JJemxEWnZIYjNBSkdwMG1uck5lcWdMR1R3elJUbVRnWk1KZ1BVOEQ2Mjg?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T07:00:00+00:00",
+      "title": "“현대모비스, 현대차 판매 부진·환율 부담에 주가 전망 휘청”…목표가↓ - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lNDJaQUNFN0NWaXpOWC1vRE9PYVQ3U0haYlNsMU03TnQ2WU9ybmczNWhTQmp5M1BnMlo4V2kzaVlkT1ROYVRFWld2ZHRjdDNQZ2c?oc=5",
+      "source": "매일경제",
+      "pos": 0,
+      "neg": 1
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-10-01",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-12",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-13",
+      "count": 2,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-14",
+      "count": 3,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-15",
+      "count": 46,
+      "pos": 22,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-16",
+      "count": 20,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-17",
+      "count": 6,
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-10-01T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-12T12:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-12T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-13T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-13T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-14T23:00:00+00:00",
+      "count": 3,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-15T02:00:00+00:00",
+      "count": 25,
+      "pos": 13,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-15T03:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-15T04:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-15T05:00:00+00:00",
+      "count": 6,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-15T07:00:00+00:00",
+      "count": 3,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-15T08:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-15T09:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-15T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-15T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-15T21:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-15T22:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-16T01:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-16T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-16T08:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-16T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-16T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-16T12:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-16T13:00:00+00:00",
+      "count": 8,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-16T14:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-16T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-17T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-17T01:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-17T04:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-17T17:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-17T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}
