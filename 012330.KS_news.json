@@ -1,0 +1,943 @@
+{
+  "ticker": "012330.KS",
+  "query": "현대모비스 OR Mobis OR 012330",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-10-24T23:05:34.643883+00:00",
+  "items": [
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T22:55:31+00:00",
+      "title": "[수비수의 시선] 현대모비스가 느낀 것, 한호빈만 삼성의 시작점이 아니다 - 바스켓코리아",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FRjkzdHhFX2R2QVlVTzBZcE1rUmpMTUxhelB0TjZnRDNjMG1ybEQ1TEROekpxUWhOODBKamlMcC1GU3dEa2tVMVNMRjBaSDdlYnJXaXZQMU91Y3VnRXdFUVg3NkF1NWRfaU9rc0ZUUmRsS3BvOXpZ?oc=5",
+      "source": "바스켓코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T14:42:32+00:00",
+      "title": "삼성, 브레이크가 없다... ‘개막 7연승’ 새 역사 쓰고 8연승 앞으로 - STN SPORTS",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwYU1oVl9XTURTNlg1NVNRUzJZQjFkU25IZzdUWC10bHQzWkFWTUQyanF3ZHdiU3ZuYVhwMDVncnlDVElKRVVfWV83dzFBQlJRTHpVTVhsdnMtcGQ4N05WSktpRDFGYXZsQndmSmpCVQ?oc=5",
+      "source": "STN SPORTS",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T11:57:00+00:00",
+      "title": "[프로농구] '지는 법 잊은' 삼성 '7연승', 현대모비스 91-71 제압…소노 버저비터 극적승 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nUWw2RmV2UzZlRnVYMTU5ZWt5RURuRF9Mc0Z4RlMxZ2Y5WmF4LTBSamQxX1NMMnB6dTgwYVpVaGZTM0V1LVFyNGItbHp2V014THRjTTFNUjVZUDVQ?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T11:14:45+00:00",
+      "title": "[경기 후] 김상식 삼성 감독, “이겼지만...” … 양동근 현대모비스 감독, “(다리우스) 베즐리 혼자 쉽지 않다” - 바스켓코리아",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9leG4zajlYX2gwbVV6TG55U2F6ZEw3eFUzWG9DLThvYWc3RWxzRWZSa05NSmg0dTQxM2lYcEpHWTdvTEM3M2V6UGdhaGpQc2I4aEhRSW9zeEhGaklmTGdSSU4teGhrbEViM3kxVHlzZ0FCUQ?oc=5",
+      "source": "바스켓코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T11:03:13+00:00",
+      "title": "[오늘의 농구장 여신] 현대모비스 치어리더 ′홈 경기 승리를 위하여′ - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XdElXZ1E0TDgwT1FuMnQ3TUhzemNIemE1cXctYkRrQjEwOFFaVkNtUlFoX0xudnV4UTJnMkRhQlE1WFlUenViY1lpNkRwd0EyeG40TkRnTFowTlFDNDQ5V0I0OU5DLTdkcTN0YllYM3BYek5f?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T10:57:12+00:00",
+      "title": "[화보] 현대모비스와 삼성 경기 화보 (삼성 91-71 현대모비스) - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QUTA2Q0lrSENTdWhseHZWM2ZhUTRXRkFFZ3Q2d0g2MkhaWmhCUExJSWxqdnBFSjllVzhWLTZkRnhxZWdwNXpEN2FmNkxOQklaenlmS2ktTDVmaUNuQzhoc2VxWUtnLXpqM0xrVmN5bzNZOEhv?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T10:37:51+00:00",
+      "title": "프로농구 삼성, 창단 최다 개막 7연승…현대모비스 완파 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwRm5GcUpmYTNnVmE3UmdiS3ZzVmdYc0g1SWhfNmpFX0ExRmhxSlBHNXJmRFdDVWdiLVBTa0t4ZTEwTUpZNW5VdThyNUdCVFY3Zm15MWFWWDItSFdhQVpRNlp3TG4tTGpSQ3ZOYmpERldndm1J0gFmQVVfeXFMT2N5blo5Y185d1Q0SWZPUHFOQ1RYOWNWcHBlVHYtSU85WjREdFd6Q3ZobVc3ZUkxRTBzbmNNc2dzbV83c09Mc25VNGJ6NkdhcW94RF9zTHJXUzNmSmN6Y0VWYVNSNlJB?oc=5",
+      "source": "동아일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T10:33:11+00:00",
+      "title": "프로농구 삼성, 현대모비스 꺾고 구단 최다 개막 7연승 - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YYVlmQ1N6LS1rVkg2allST3k0QWhtTS1FZHJ4eEdjOUdfaktqbzBqRGp2VXE1Um1WUHRqeE9wc21YemdTRkFuYjlBaFNpaVlVRFltY25zSlNzVmhiQW1EcEdLdEM2RThBbk1J0gFvQVVfeXFMTUVUNDh2NFRORmN4Y0k5dk9xQ1JUbHoxQlRGejhTaUpOczFlaW91eDlVN0RBblBZQmdickhHNEhuUDB3WXNnY19FWUFySkU0dFFCblRtbU8za3k0Yk5jbENFNFZSQ0w3NVlyT0RxWVlJ?oc=5",
+      "source": "한스경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T09:30:37+00:00",
+      "title": "외인 1명 잃은 현대모비스, 에너지 점점 잃은 이우석 - 바스켓코리아",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJNW5VeEpCNy00QTRJMVlkdGstZzM1bTNzdWtkdTdnaEtwazI2ejZZQ0F1MWE4NkZKV25tMDZSekV6Q1d5Z3UxaGVuclhMUzg5UXRidkxSa005dHBOOTF6S013U2JGRGRPQ3lQTUFzZ3ZteGRzaHJJ?oc=5",
+      "source": "바스켓코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T09:23:59+00:00",
+      "title": "[프로농구 울산전적] 삼성 91-71 현대모비스 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rWmo1a1hmZGZlc3I1S3AtQjVRbENyTDkwRXNlRG90ajVaU3FDWVZ2S2ZUZHVCWlQ5bU9IajRpUXZBbjg2QmR6bG53T3hTaWhnUkxYS0R6UEZUQnPSAWBBVV95cUxQVzdXd3hDYTl0bVZRb3E1ZjNpRzNrWF82T3FOVVNZQ2YtUm9NU3gtaUt5djhDTUN3OFY5ZS1FNDRPUlJtdFRQN3BLX18tY2xZWlp5dENob1VDeUN6ZzVCQW8?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T09:12:18+00:00",
+      "title": "[BK 리뷰] ‘상식은 역사가 됐다!’ 삼성, 현대모비스 격파 … ‘구단 최초 개막 7연승’ - 바스켓코리아",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhVXVydXlpaFNSbGM5dGpwSmpqZ0pobTBxbXZIMjVJZWd2Wng5cEh3aUVTaUtFVXlfcERpTUF2UHZreFNLS25xMTFmeF9FOEttbE1FUnpCeFB5dW5QQWloYVM0TnoyWlJrOFFpYVlfX0Z4RkNCVE1F?oc=5",
+      "source": "바스켓코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T06:15:00+00:00",
+      "title": "[오피셜] 현대모비스 게이지 프림 왼무릎 내측인대 완전파열. 전치 6주 진단. 현대모비스 대체 외인 물색 중 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenhtY2lEWUNqVjBrc01Vc1dtMmcyaWY0QXhGeXJIeXhkYV9odERwaEZpVFFpZkxIUW5ZR3BoaHM1UlBhWmdWc3dFMVRwcGYwSHBpWi0tYmpaNGlnS2hqemJoakJEeWsxSVhmcUFSS0ZKcFcydmduVkVVUS1XWElCaG1aejhOZw?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T05:19:49+00:00",
+      "title": "현대모비스, 사업 양극화 고민…호실적에도 모듈·핵심부품 '악화일로' - 데일리한국",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNQ3l3THZ0ZFdTSm54VDFtakQ5X1d0c3VqWTNLc0ROY195Z1B3SGw0TDB2UU8wUUNDdzVpVVNQM3BpaF9vRVNCYmp2N0JoMEd6WHBBSEdGUDcwTHJlMDJvUUc1WlVKbWxnVElicGZRa9IBc0FVX3lxTFBqbXByODlNOWtxVWEyY3hIaTVwSmpSX2haSWRaQ2twcklpN2FHdlBhTGpmTlAwaGo1VlBrcnoxTC0tRFZubkp4SEdobXpEaVB4Y202M0owRnpmTHpOZXhsV2pMUHl1OTVTb1ctYW5QUU9jZDg?oc=5",
+      "source": "데일리한국",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T21:50:03+00:00",
+      "title": "[인사이드 스토리]현대모비스의 '반도체' 도전, 지금인 이유 - 비즈워치",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DT3JRbFAwYmxhbXJ0dlF2dzlFVDNoM2ZIemVaR1F4ZHNzNVM1b2lySDJfSk9LV2xqY2RKU3Bqc0lkd0hSTE5KYzR5VnpPVDFlVEdoWlVMYnBDVGtyOWxrNVdRaE9Scnk0Uy00Mg?oc=5",
+      "source": "비즈워치",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T13:58:00+00:00",
+      "title": "[현장리포트] 현대모비스 초비상! 1옵션 외인 게이지 프림, 왼무릎 내측인대 파열&반월판 손상 의심. 23일 정밀검진 예정 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaDJfcnVVbmRuclRsTWZLNzdGbFdkVmJQeDJ0aXBKT0hnb1dTekw3RlNEeE9KeEZ2V1phaXF2OGhLUk1OajBrQUFObVBIdkk1Mk5PcXd6ZGlySkFQbTJ4UEs4cUo1dnBmeHliRzY4cTZPbTlhRkhEbEpKRzEyMHE2eXg3cm9fdw?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T13:25:00+00:00",
+      "title": "[현장분석] LG 유기상 복귀 + 현대모비스 프림 부상 악재 + 베즐리 34점 폭발! 창원 LG, 현대모비스 88-83 천신만고 끝 짜릿 역전승! 현대모비스 패배보다 프림 부상 더 뼈아팠다. - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUVSSW8tUGVPTjJBNWdwQzJvanAxUzFLdDRKc0NzbUhLY2tmZXZneXFLQ2FxZUZGTUVrTngwWGx6aGliNHNLVXdDdXVvZnNhUTNtX29QclBIWGxOaVBxUm1vTWZVcEtKTXNmUnNXc3BwbC1keTlCTHJzOHQydVNtXzdFLWNOZw?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T13:05:48+00:00",
+      "title": "LG 마레이, 현대모비스전서 34리바운드…역대 한 경기 최다 기록 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUTRDRXBPVDRlMHA5ZEFfS01mUUQ5akp2SW5FNWtDaUpxQkRNVWxxSXNUamUySHNYTzB4cmRwcUE1VW85aXZOOEd6cmZjalJrMTI0VDBMVTVua2NTYWZaNWFtOS02emlOdlZXa2FHdXZkb05Jd25PVktQdVpjUUJjSTNUcWxjQQ?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T12:57:55+00:00",
+      "title": "프로농구 LG, 현대모비스 88-83 제압…마레이, 한 경기 최다 34리바운드 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14aVFTN1BLekVqb1gxNHd5OS11ajBncWVqNGFsd194SUdvVFB1dWMyd3Jka3N5elhuRFBXQ2xBMlV1ZTlzSm9fTzgtUG92RS1QNGNBbzVWY0pWTTZBY0I4dGdFREtyZDlzZG5Rb0xSamwxSjBS0gFmQVVfeXFMTnJXNTdUbWx0WWFyTFZIVXNoVjBuRGJZR2E0NDlPdm1idVdTNmRqdWdZU0hHYTJ1R3NfeTgybEFVRXhUaVlTbjFWNTZ1RXFBbF9qM2UyNFBJeWFnek5tU3ZyenJlNXZn?oc=5",
+      "source": "동아일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T12:27:00+00:00",
+      "title": "[현장] 현대모비스 악재 터졌다! 1옵션 외인 게이지 프림 무릎 부상. 2쿼터 교체. 정확한 상태는? - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZlNuck14ZVZsb1ozNGJ4aVNkcEtsNnVfcnFlNVFkVXRialQ2RDNJMVh3SDlEbmRTU09BNmpTZmpTZzlpbGNBbnFEejRSdWo5NlB2RF9mNWFCTXpBZ2NROGRyNWlBeDRUZF9uWkZCSGIwR3hvVzF1VklvLVdxelVfUkd3M0Nidw?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T12:19:12+00:00",
+      "title": "유기상 돌아온 프로농구 LG, 현대모비스 잡고 3연패 탈출 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02YWZ6bEIweURhQ0hqSnUxSEZJMlVSVk1ObVdIckVzbnc0WnRlNVpTOThGWnhsYlQ5LUJmcDZPMnQ2U2F1anJDejdGWDhvcHQ0VEpNQlBlMkJ5WGtENkp6ZdIBYEFVX3lxTE02YWZ6bEIweURhQ0hqSnUxSEZJMlVSVk1ObVdIckVzbnc0WnRlNVpTOThGWnhsYlQ5LUJmcDZPMnQ2U2F1anJDejdGWDhvcHQ0VEpNQlBlMkJ5WGtENkp6ZQ?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T05:29:06+00:00",
+      "title": "현대모비스, 국내 차량용 반도체 경쟁력 강화…생태계 구축 '잰걸음' - 백세시대",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YeGdIR29Bem8wYWJDZjRYMzdLeTlGYzU5V1hxNU1lazQ5R19JVXpGZ2MwNkFqZHJVZE5tSnY4UTVTOGMxb3VlbmQ0NmU3SllXTm9CYmRJc05tc1VEUU1yRVVGZkxWRVVTODhF?oc=5",
+      "source": "백세시대",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T05:12:30+00:00",
+      "title": "글로벌테크놀로지, 현대모비스 'ASK' 참가…협력 사례 발표 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xbEU1clBsYS1BZllEZGxqTENDM2xVTTJ0MkhBSGNZSnN2Sm1POGZWY0VQYUFSSkJmeV8zUEtZRjlHRUVaYjJzb2M0bW15U09zTFRrOG0zTXVCT0pCdFpBONIBeEFVX3lxTE0xZkwwQzlacGw3LXhmb1FLR29OYVRnSEsybXpyV0ZmSUhIZ0tidzNpcVZEZnNFVGdLeG52MUZwRzNfVFM1UjJIUEtfbjhxd3pydzFJNnNFSFBWRDNNckFPZmxqa1N2d3A0TC1YM2NDZExiZmc0MkhsTQ?oc=5",
+      "source": "뉴시스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T05:10:15+00:00",
+      "title": "글로벌테크놀로지, 현대모비스와 차량용 반도체 첫 양산 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aQWI0bEhueXRQdUduaW0tV0lTUjFYVTVaWFlUQXdiaHpuam9sM0o4SVN6Sk9wYWs3czF3MWJnUnhhMk9Ja3RiUDItMDF5dw?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T05:06:00+00:00",
+      "title": "글로벌테크놀로지, 현대모비스 협력 결실…차량용 반도체 첫 양산 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41N0tTbWRuSGxYSjVXYzRuMEc2a09idzN3SlpEWWd5T1gzVUkzUllsaUcwelZORGtDaGJkXzdUaktZbmNFYVBEdFkwSFAtNnJ0VnZycXVaaTJtdw?oc=5",
+      "source": "브릿지경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T23:59:56+00:00",
+      "title": "현대모비스, 차량용 반도체 협력 생태계 확대 - https://www.autoelectronics.co.kr/",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Bb2lhcmVrS3hCRW5IeFNodmdRRnNhV2pjRDBwTVJCdzVvNGZWdkZMQURFc21EQnhGRnpFSWhxc1NsV09qR1dMLU5iVk9JTnMyQ1RhZXVEVGdmX29vT1V1N3lISE1rbHd2RFdaR0xub215WUNL?oc=5",
+      "source": "https://www.autoelectronics.co.kr/",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T23:02:02+00:00",
+      "title": "액트 \"현대모비스 램프 사업부 매각 반대…'6천억' 산정 근거 공개하라\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Z0dOeEJySjliZnNHd2h1VzlPcnJPQkVJS1BQZ2VxUjhSVWFyZlludW5kX2RSTzNyejM0N2Y5QnplUmJBNkFhR2dQdGlIYlFyQXQ5RERjNGNBUDBEVjQtMFUtNUtWSG90YnctRE1FSVU?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T18:50:00+00:00",
+      "title": "\"車 반도체 국산화\" 현대모비스, 공조 시동 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vQlNvTW9zX1NMajJfeVB5X2FoN3pzcG0xRng4SmdwMU9wQUMyVVBUa0FuVklQdExsR2M2TDR2OE53Y29WdWo0enpUTVRjOG5BckpoUXB2YThGWURpbXdUQVY3cFloLURIMFhLT9IBckFVX3lxTE5QU2FGQ0Q0MkZSSXA1YkpjNnRlRmVIbkhydm8wLVBVR2twRHUwLTI2SElvT1RiX1pwUllRbGJ0anJQYm9lY2xiSFQySmdYT0tXTDd1a0VybWNMNGJ5eTNfWC01d0U2c0dnR2hsQmlyTGdHdw?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T18:27:22+00:00",
+      "title": "“차량용 반도체 개발부터 양산까지”..현대모비스, ‘전주기 생태계’ 구축 - 데일리카",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9adEh5UmZHSk1BSGlsSWJyckVIZXJ6Tjk4Q1pucGN0ZjhrWTd4eE9qWEw0dzM2M1RBMlpmbEptcm5rVjVaUUhNTUg1R3Y3bGMyU1FHY096NVZ2SDdpcW9DVTZORW1RNXNKdmFoclFqUzlpRFJWc2c?oc=5",
+      "source": "데일리카",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T16:04:25+00:00",
+      "title": "현대모비스, 차량용 반도체 국산화 성과 이르면 2029년 현대·기아차에 본격 탑재 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84eDdpMjFDYU9VUVpfaE5EOWJNZ2hxLXBfVVFMMS1nTHh1cGtjTGYzaFlYUmtJRVZiZXdIUkx0U1lwUGxCZWJvX2pqY29kZHZCeXc2WDZUOHVzbXZGTVRSdjZOLUJrTHM4UHZjRzUyNlhpbk5LLUREaW5GY3VuRkE?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T12:12:14+00:00",
+      "title": "현대모비스, 국산 車반도체 13종 개발…2029년 양산차 탑재 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zSGRHZmlvUTd2V19VZUtYSGJvSy12eW1WNXd5cGpyOWhxR3ZINlRSUnpXN24wUERHZWhYLW8ybFhrbkRpeGx0TnI3TmRWV0cySXJDdV9va2dOSFNkRnZISHFsZkc?oc=5",
+      "source": "매일일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T09:22:30+00:00",
+      "title": "현대모비스, 차량용 반도체 생태계 협력 강화 - 다나와 자동차",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2WXAyajh2VmVvM0Vjb2xfeFdwdU81ZzJJMm5kX2JCam40bW1aTTBKT01PRmVFNXlfQkU5bmxjSnRMVGlsSVhUTWtzZGc2Mi03bXFmYkw5azlUdUhMb1ZodnBBTzJOYVBZSjlmXw?oc=5",
+      "source": "다나와 자동차",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T09:02:18+00:00",
+      "title": "29년 'K-車 반도체' 상용화…현대모비스 중심 동맹 강화 - DealSite경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ydDl5b09nZy01VVU4REhZUGF6UTU3dHZ5NUdVM21GeWwtY3NTQUhqc19nR3dGR1FORGpWOG1YREZXeGRoNTloU3BEcDR6WG1EMjBKOFFB?oc=5",
+      "source": "DealSite경제TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T08:58:19+00:00",
+      "title": "현대모비스, 車 반도체 국산화…개발·양산까지 ‘원팀’ - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5UDVyM2JPUXJJSzQ4QWR2dENZMkpGQzN0VTEyeHJZSk5PdmhtaVJwU0RqOVhVcjJhMHZfMjBCZ0M4MTlkRFZRZHhTa3hyOWZleEl3VHkxTnlsME5qbXpVb1pDdkI?oc=5",
+      "source": "서울경제TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T08:37:00+00:00",
+      "title": "현대모비스, ‘K-車반도체 코리아 원팀’으로… 전全주기 협력체계 속도 낸다! | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0U4eVp2RmxoREdEYnFLTFk5MmJydGs0NlJtUE9UeTFGeHNxSjVaNFNzQkF4cjVEUXFyZmRXdGJXMU5JalNVSzUwYVEwWllRRjRUMWZwcnlTWXo4RnQzTWZCbWIyUHNWM3JuRnhOaC1FQkdkSVRfN09yWVI2MVJ5ZGdRTEQyaU96UTNqejZRb2l2clNUYUpkRDVqdzJldDhvX1RTenprX2VYbGhG?oc=5",
+      "source": "Hyundai Motor Group",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T08:25:00+00:00",
+      "title": "[비즈&] 현대모비스, 자동차 반도체 협력망 53곳으로 확대 外 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOM3VmRnIzaVdKNlRJcmpBR1hwZzBzZWtJY1l6UnQxZ0J4X2h1Yjl0RjFfU1pvbUFZYW8wQmQ5U05WbnBWTTZ0M0hLRGlnYmtlZVhQdFBiaXpKNm5WQ0ROaDlhU2FWMlk?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T08:12:56+00:00",
+      "title": "현대모비스 \"국산 세탁기·TV 반도체, 차량용 전환…로봇으로 확대\" - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlSV9RYklyYm1MTmNlYVNvdEUzMzdQR0piZ1llcWk2NDBvR2owWWRLU2YwbmpxTkNoVGhxUE9DU2xjRXdvWmxGOXlmLVVfY2hvR2pZUG5PQ254YWhmampSMQ?oc=5",
+      "source": "뉴스1",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T08:12:48+00:00",
+      "title": "현대모비스, 車 반도체 국산화 속도… 13종 개발 착수 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EM0pzOEZZR3RkZUVqQkVmcS1qeEljelo4Y1o4cTZrYnlLajJCVjVsR2d1enE4b3VabDQ0QkcwM0VBUTE3RXh5R2ljX19PdERSRHpVM2xQS0xJSXoweGZiRjVReWJObUFSa3hHVzY4RmLSAXRBVV95cUxPVmNTWWxieEtrWWhVaUhUd0RnWkdFWko1WUQ4bDFzSFBUbU15Yzd6ZGxpa3ZSVHdTZ1lYM1pRcW40ZElpQ2VZRTZYRlZXZFpCXzdlTGVSZTlyMHZ2TEh5SlEzMEtyZ00yd2RQTm16Z0JDR1FkSQ?oc=5",
+      "source": "IT조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T08:07:00+00:00",
+      "title": "현대모비스·현대차·LG전자 ‘車반도체 원팀’ 출범…국산화율 10% 목표 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvdkxLWkZndDdlMEk4bzFOWGhqTHI4TWktT29rZXN4V1YyQlk2M1ljNTdIaWZ0ZlRuNjdOdUR4emlkQUw1QkVCQTZEYlVZOThDNEtRNktpaTZNNmdpN05tS3BvRER2eXlMZDF4VEI2NER2VUNjS2fSAWZBVV95cUxPakp5cHdTR29iMzlWWk5PZVBLRTM4MXJsX0s3QmJvRlRXQVRsX2xqQlEzbHhSS0ZIQmhuamJyUkNFZ3VwQldNOUhuVGY0RC12TmlOcjlwZnZuaDc2LUVtNFpwYTVYTEE?oc=5",
+      "source": "동아일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T08:00:00+00:00",
+      "title": "[르포] 현대모비스, 車반도체 국산화 ‘원팀’ 협력…개발부터 양산까지 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcldyOEZCaVBpeks2ZWRIam5TYl9kVzdEUTFwQktPWV9ibFZOU29tQWVoSDdPdlJmNldROVB0MmRrOGQ4eURVTmwtWU05bmJuQnplcFkyTVRiVnotMVVHeFUtYk1OR3JDWmR1M0xvNjdFS0VPZHprZzNyY3M0MzFXclRwWG8?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:50:57+00:00",
+      "title": "95% 해외 의존하는 차량용 반도체…현대모비스, '5% 국산화 벽' 깬다 - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsQmVfaTFvRS1haEVJdFdQNEYycHBMWjJZaEJhbjhpVThVeEpjV0RHOVVmY19mY2JvZmdwcVFaajZqSDRzVDdudmN0dldwaFdCV3pyUGd3V1Rqa2x4aURQTmZVNEhsM1RC?oc=5",
+      "source": "녹색경제신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:46:04+00:00",
+      "title": "차량용 반도체 국산화율 5% 벽…현대모비스, 팹리스와 돌파구 찾는다 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzcFczZ3JMbDN2aHBuVFJmMENBQW4zS19NMm1tbEVCTlBwV0c1ZVJpTVJxazltQ09MdXJzVnBtZHdoLXh5VGg0T1dNRVVjSGlWcV93X1pmVjh6dw?oc=5",
+      "source": "한국경제",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:42:00+00:00",
+      "title": "현대모비스 주축 K미래차 연합, 車반도체 13종 개발 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92ZXBzTTVYRXdycVMzU2xRNzJyWUpGV0RqQkh3bi15RG5jbWpiOUVMZTc3MlpEc3lhLXdub0VXNTNpLXkzUElsUGRKd1lVN3BMMjFPRU9aZXZUOXlqVVI1aDhrS1lEUFhrMXA3ejlFWHdWSmttVDR3NWk5eUk0QVXSAZMBQVVfeXFMTmNERHViSk9FUnBKdXVvTlhnT28zVHlxM3pEQ0xscTZWZ3dkLW1VbUxQWjNlNUF1ajFOdXhSRUVXVWw4ZHBjZExoTm5kLUNJdXV5ek1sbmQ2U1EtZnJta0o0UG9yaTRYWXJwM1ptSHNXeFRadXktQ3VpSzNqc20yX1pHajVnSkhGSFpVMHVsTWR4VS1J?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:40:00+00:00",
+      "title": "이규석 현대모비스 사장 “車반도체 국내 생산 우선 활용…해외는 보완 수단” - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aV2JVRmtXY2pvOFFSOVlNbWdva1RnN3Y0d25kc3ZEcnFfaFQyc2dZMmp1U1k4T1hScVBEUkJBdDBRNjU0NEc0eVFCTG5WemQwak8tRg?oc=5",
+      "source": "이투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:31:34+00:00",
+      "title": "현대모비스가 국산화한 LED칩, 2028년 EV3 부분변경에 탑재 - 대한경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95NHZTSi0yRG9yQXhOeklKNlVWaVJON21jQnFVbUFhRG9JY2N6djlpLUF6TUstMzNLQTZCZVpINWtyRXM5Yk85aVBjLXNkZHgteGR6WHVDOHZ2aF9wa3pFZzZtTmNpUGJtMW80NHZfb2p2YzA?oc=5",
+      "source": "대한경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:30:53+00:00",
+      "title": "‘車반도체 국산화’ K부품사 원팀 뭉친다…현대모비스 2029년 양산 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vbXlSOFg4WnRkZ1NpdVdNSFY5Y0dscWptYXp5REJIREJldzVTTVZjektsMjhwOVo1d1VpT2Q5QmU4SzRoU3ZiOEozcjRnSENCbnR4bXZn?oc=5",
+      "source": "중앙일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:26:28+00:00",
+      "title": "현대모비스, 차량용 반도체 국산화 ‘속도’…13종 개발 착수 - 뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QYm9zT3B5bmppQTFjejFPY3prOUZiV3diTy1zTmtUR3RKbTUxTXVSbVJtaDhJelA2NUM1T3lhOHVkQ1pKWTJsRzQ4SWxHaTV5UkN2TU43cFBnSVN1bTU3Nw?oc=5",
+      "source": "뉴스토마토",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:26:07+00:00",
+      "title": "현대모비스 '오토 세미콘 코리아' 열어, 산업부·현대차·LG전자와 '차량용 반도체 TF' 구성 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uQTNhOWsyWEdXT3dlTE5MOVd2SVcwTVlNOVVsbk1nNVhzMjg5eWF4N2tuSXN4UUtNMFpvUkJXQ0FrQ3VnMmVQdUhvZFpEaEpvQWZJbVg1NzN5NXpSWF9FTUpCWERhcnB5MG5vc00wWWQ4SUE?oc=5",
+      "source": "비즈니스포스트",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:16:29+00:00",
+      "title": "현대모비스, 차량용 반도체 협력망 확대…53개사 참여 - FETV",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uNWVRM3VGMkJkdmluRmlsRjBNUW40dkNpd1BaVC00dVgxT01PUHJXQ29BZGVXTXpnWGVxNk93Y2xyMnpJU0ZCU3pjN2hXMk5la2NLWloxMHJhWWxuOExELUdncVJhajdB?oc=5",
+      "source": "FETV",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:12:13+00:00",
+      "title": "‘차량용 반도체 국산화’ 띄운 현대모비스, 2029년 현대차·기아 첫 탑재 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zMzRZWWl2MjFnVUFiUk9NYTYtdWlvODFFZnhjSC1NZG1VSVMxVV9JQ2dSaUtHY3NHa3dtR2NfRU03WVpmbnI0Q1ZOV0k4ckdCT3kzaXQ1NlZLRG1QZTYyNllIUVZvNXZfeVFZN25vTmIyVjN2SjBrVk5UX0dYNk0?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:00:08+00:00",
+      "title": "현대모비스, 車반도체 국산화 속도..2029년 현대차 신차에 첫 적용 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tQVpDQkt2MzRLc2RtYnVlWThaQVRoRS1fbGlVZkQwNkh6SmtYaW5XelZXOWZZOEZxM1hfZEl3OVRCTVkxUWdNaWhGMVZCZUlSZkExb1BLUUotZw?oc=5",
+      "source": "파이낸셜뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:53:00+00:00",
+      "title": "K-반도체, 자동차로 ‘원 팀’⋯ 현대모비스, ‘생태계 협력’ 승부수 띄웠다 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHX2ZwVm5HX2RWVndaRnd2Qkh1NGVVV1VZSEI4TXFHVkFwUFl5U1pjTzlXVUxYUU1NYVhFTEJkVnlkSURMb0VlSDNlZjNNaUdrMW9FQTVGejlCZw?oc=5",
+      "source": "브릿지경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:50:08+00:00",
+      "title": "현대모비스 사장 \"車 반도체, 멀리 보는 투자…자율주행·SDV 대비\" - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CMUlSUVB4RUZZQmVqYUswY3JWZE9FaEFFc3hqY3VmcFVrSUJIcnZTRmlTRElkUTRya2MwTllDUFVLcjkyOUlCUFZKY1RtR1lqVW5kZzJRX1hycVdhRkFZSA?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:43:42+00:00",
+      "title": "현대모비스, 'K-차량용 반도체 원팀' 구성…설계부터 양산까지 전주기 협력 - 오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FeG0yaGZNZHZHUHF3XzJMSkdDU2F5MFVxTVJIY2hjOThRQllLTGR0SGlKMjVZNzdBSVY4ZEZOUERCQWFhNnZGeXZmTHpHelhXbHFFLTljTTh2N0hqRXItOU1OcnZXZWFKTFMtLTZnQkg1QQ?oc=5",
+      "source": "오피니언뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:33:11+00:00",
+      "title": "이규석 현대모비스 대표 \"차량용 반도체 협력 과제, 2029년 첫 양산\" - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DcmdtdExNZWdjS00yaXBTQ3ExRzl2OTllTWxVajJWNlVlV2dnWVdUVTFoQ1JvYUJsVERlYXZjbEd3WENvYm9NdTgxc2xMT3VaYVZwQkIwMDFYZlNVTWh5R09B?oc=5",
+      "source": "디지털데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:21:00+00:00",
+      "title": "현대모비스, 車반도체 11종 개발…현대차 탑재는 이르면 2029년 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZMkZDOC0wblJWZHBpaHFDVkk2NmRBaThFLUY2WkJKZ2JWMWdHcnJyOGpkN1pyZFQ3aE41RW5FOEwzSGZFNVFZWks0ZXZWLTVkb3RjTUwwLUIyak8y?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:13:07+00:00",
+      "title": "현대모비스, 차량용 반도체 국산화 속도…공동개발 넘어 양산까지 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iYXZWYzNUT1NyR2cyeHZMZzh2UTh2X1h4OF9nZ0dvOVVKZTJNS2k3MVRvZzM4cDFqXy1nNVFRc1Q1YVhSMDhWQk9PQ1NmM2VMX3AwekRUS05WUQ?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:44+00:00",
+      "title": "현대모비스, 車 반도체 국산화 ‘K-원팀’ 확대…2029년 양산 추진 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EWi1PM3JxT0VpTUQxV3BfNVRZTHg4dk5VSkN3Z2lyUWFMQ3RQdGVSR1ZIa0pRa3R3NUJPajNlaDhmZHpmQ1hCcUFMVXRMQzJ4c3JJYm93ZnByWFluYWc?oc=5",
+      "source": "더구루",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:24+00:00",
+      "title": "현대모비스가 끌고 정부가 민다…국산 車 반도체 만드는 '원팀' 구축 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4STFIdjllbFphTWQzQkRHcW45akVyczVNZGdrREVuNzUzYjRWZVdlOVNsV0xXYkh5b1RkTTkxNFZlZ213aWN4NW1UVUJSM2xSTDdjbnlGbGFjRkp4Sk45Mm9LbFNnc2lUcjNpaFF3dW0?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:21+00:00",
+      "title": "이규석 현대모비스 사장 \"국산 車 반도체 뒤처져있어…2029년 양산 목표\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IX2stZmdPMXd2a3VRdTVsM3UxczZxOWNsRkdraWo4U2RjUFdERHhOSUtVaFROVi0yemlQd21NSjV1MEJDVTV6MU9MRl9HX2hDc05nc2VaRE5FQzRrTmxJRU9ENHNFMk8yYVk0QmpmY0Q?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:03+00:00",
+      "title": "현대모비스, 국산 차량용 반도체 개발 속도…“2029년 양산 적용” - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TMDlrenhCLTVPaWFYOG5nS3k5OWdwbUV6Z21CYWt0Z2lGMTZtT2l3S2J4WERiNmtDekUzM1lpVl9JQWhkcGlpS2NxQXJXRnQ3aWfSAVNBVV95cUxQRF9MX3ZWWUJpanFMY0htZ3NhSXJqMmJNTFE1bDdJdnhOR2hnNXdmQ003QmVGdEZWZk1TdjV2ZEU0d0s4UUp5NVRQR0F3b3RGSzFjQQ?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:02+00:00",
+      "title": "현대모비스, 국산 차량용 반도체 13종 개발 착수 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCR0VjemR5Sm1uamlsTVloNnduU2hJTDdxbVVZQ3ktTHRlVktrTFZuWHRpel9RNzBSMDcyMEFsYmI1YnpjSTBJYkVyckpmeEpZWGJQcVFJenctY1NNVFVNYk9ZY1BaLVY4WHNMUzNRZVc5U0E?oc=5",
+      "source": "마켓인",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:02+00:00",
+      "title": "현대모비스, 車반도체 13종 개발 착수…2029년 양산 적용 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTmpsY3JxRXpfeFluMUhuWlRUcGwzZHBuZnR2OER4NnZYMGU2XzVTc2RYeGJWaEFBbTlNeWt2aUJ0c1pzUzVtVGFSamxDMEw4dDRwSERUQ2NBS0p5TzVBRW1RcFBnYU9NeExYdWRLNTRrelJUSzRkS1ZQR01ZN3kwMA?oc=5",
+      "source": "이데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:00+00:00",
+      "title": "현대모비스, 차 반도체 동맹 확대…2029년 현대차·기아 첫 탑재 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VWRzV3ByQktWVFlYQVJEQ2d0U21RTTRkbUlDUUFEUE84bWZtaENMSzlRbVgtWnk5alZMOVQ2dl9wNHd3bXdNZjdIUEtGMUZtWDNJeWRHRFdBeFHSAWBBVV95cUxPY3pXZ0psY25Dd0x0azdjODZhRF80OHZidXNaT3dwNllOd09sUEZSaGF4VTZ1NnBNTUtXbmJkQXU4SkJ5WWMzTkNZeERNUWFZWS0xeVh1UHNKY1VSUThBb0w?oc=5",
+      "source": "연합뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:00+00:00",
+      "title": "이규석 현대모비스 사장, “국산 車반도체 2029년 첫 탑재…자생 생태계 키운다” - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lNG0yS2NKNmlfcGZkZWFDR0NuQzZKcUhnUXk2SC1ycnZyVWViUC0taldwcnVxV0VKa2VDTzBJLVhRTXBkUy1hVlQtbEFsQQ?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:00+00:00",
+      "title": "\"단기 실적보다 공급망 생존\"…현대모비스, 車반도체 생태계 선제 베팅 - www.ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBud0hKTGFxZzZZd3A5X0NDRmoyX2ZUb3JPRjJYU2pvbXVUTGQ3eXVRR1hOSDdGR2IwVkxMT2JGSzB4bUxOSUpaRTN5RjlqbDBQcWZiZWJyQkUwUkJNQ1BNanZQcFBPZk5V?oc=5",
+      "source": "www.ebn.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:00+00:00",
+      "title": "현대모비스, 'K-車반도체 원팀' 본격 가동…전주기 협력체계 속도 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mWHllaE1GTG44QU5IWkRvRHVUcC1rbWdGUjZURklUYm1XejJWT3ZyY1JOS3BlWjVxTkpXYmFrekJ6a0FCTnZDdndiWk56QQ?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:00+00:00",
+      "title": "현대모비스, 차량용 반도체 국산화 속도⋯정부·기업 ‘원팀’ 구축 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tdWVRNHl4emZqOHNpQkx6UzB2c2piQlN5cFJhTVdRZEo0T1JaT2djSFJtbmhwRDRRTng3UnJHY2xxYU1WTWhsbG10eTlqZEowR1hvUw?oc=5",
+      "source": "이투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:00+00:00",
+      "title": "현대모비스, 車 반도체 13종 개발 돌입…9종 2029년 양산차 첫 적용 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41czlPbkpQMWtFallwS1JRTUJiSVUzN19BR3M0ZnNhNHo5cm9pSDhReGF6RldKSVZJcWJnRmVRekpJekxKa1hlSEdQaG9UakJvMXVMcUpCcUlJZm92b3ZUXw?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:00+00:00",
+      "title": "현대모비스, 정부·삼성전자·SK와 차량용 반도체 국산화 협력 강화 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PLUctaFVPVWZSbGFFeUNndmt5UzluOFFveElRZlRRY09ZRmVKZjBJek9xU2VybUV1SnJ6ZGVUd3FvSWlnUTNmZ1N4a1pRd1E1LU5LSmpvOExKeFY0QlFPSw?oc=5",
+      "source": "아시아경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:00+00:00",
+      "title": "이규석 현대모비스 사장 \"차량용 반도체 국산화…2029년 양산 목표\" - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hV1FqTFBYSzNvRDJhMmRfNkg4dXBGc0VRMVRtNmZuLV91czI1WWkxTXhIZERwbEhTRUNJcG52TjRCRjFHV1hxTnpIYklvYzZJd1hJNkVvTEdTSUZTM0k3Qw?oc=5",
+      "source": "아시아경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:00+00:00",
+      "title": "현대모비스, SK키파운드리와 車 전력반도체 국산화 맞손 … 2029년 양산차 적용 - 뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DRHM2T2psQWJsa3BmWGdZMXNDV2djQVBoNXd5ZFVBRFdmalNZbnJIcUpWOHNLR0tuTHBpdE9vM3NQcnJVZmJieVVzWWMtSG5DSmtVeE12TGdIWGhuSUljTllval9mRS1lNzRMNjYxd29YWmcwRkEwTGRwY9IBgAFBVV95cUxQNVBZRGYwczh6NnVQN3NWaXVlRG5kcVVnSjZSZ2pwdk5NejVYdHhrZll1TzRtdXlyYlRHMWdnblVJY3UzZlAzbGlvc2sxb3puYkRjTjRldGlwZlJyLXJYMmlvVmpzZFB0QVBnOGhhVHhfdC0xRllxWTlIOUJqLXNFYg?oc=5",
+      "source": "뉴데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:00+00:00",
+      "title": "이규석 현대모비스 사장 \"멀리 보고 하는 투자\"… 車반도체 '국산화' 속도 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uaTVjcmUzZGozR1ZOSFlMdDMyQWVPc1FwWlZzekNhOHAyUnQ4NDJfMWpIWmVZSmtRTDRHUW1veU9ObUFXclBaR1ZNYm9HSGpkSzF0c2ZvLXAxUVJU?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T06:10:00+00:00",
+      "title": "현대모비스, 차량용 반도체 국산화 속도…13종 개발 착수 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jaFF3emhpMjZyeTI1LThEUW9yRzRHbjBZNGN3VF9PeGo2OUxqLVBtenBSbWg5S3RORjlDcE13LTRxVFl2OGdDckpyamxhRWNIOEpyLXYtNWxPZlBUX1l6d1lnano?oc=5",
+      "source": "서울경제TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T03:20:00+00:00",
+      "title": "현대모비스 6위 수성·현대트랜시스 27위 도약⋯ 中 폭주·유럽 침체 속 ‘K-부품’ 선방 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaNG83SVo1SmE2SjAzMGlDd0NmZG5BeTQ4Q01aZm5tU2FiQ0Y2TzVYMEdQcGlPVFZweTRoN3Vic1BpQWVlYnhIZmR4dnpTd1I5Wm1nNDJPMjlyQQ?oc=5",
+      "source": "브릿지경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T02:00:01+00:00",
+      "title": "나는 CATL, 뛰는 아이신…현대모비스는? - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BVFFtaUs0SE5JcTFoWElNQWo1SllTX0FrbnZTdHNWYkczNnBEM3E2dFRDRmJGbW9tVWFlUm12U2NnMHRla2Q0WlcyeEo0cE5BbTJpZlh3?oc=5",
+      "source": "지디넷코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T08:59:36+00:00",
+      "title": "현대모비스 의왕연구소 화재… 1시간 30만에 진화, 인명 피해 없어 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55d1Y1YnFRaXV5LU92UC1TclBZcGRiVElKSU8zVWRIMW1PZTFrUzdkUDFvaXZCdXBYVWFxZkZpV1B0bzAyVzJEQ05JLVY5MFpOSVJ2UnhyYzdEWjNoZ2s4SGVDQ21Vb2VGakNENVJmYWVDZ1pM0gF0QVVfeXFMTnl3VjVicVFpdXktT3ZQLVNyUFlwZGJUSUpJTzNVZEgxbU9lMWtTN2RQMW9pdkJ1cFhVYXFmRmlXUHRvMDJXMkRDTkktVjkwWk5JUnZSeHJjN0RaM2hnazhIZUNDbVVvZUZqQ0Q1UmZhZUNnWkw?oc=5",
+      "source": "IT조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-13",
+      "publishedAt": "2026-10-13T07:00:00+00:00",
+      "title": "주가 하락에 커지는 매수청구 부담…현대모비스 램프 매각 경고등 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGU4cm0zTU1nbE9ZMlJPMTRPYUZLb1FLM3pzWmdZMnlGRko1eWtjMkxfektORTJ5blV5NC05Y3pZMWNMaHBCT3pXd3E1YWJLOC1PR1ZWSkdPUTBVT0xMWTNGdlY0ZkxfUDVua3Z2QjVCb2dlcW1CekxjVnhBc1BvcEhJSQ?oc=5",
+      "source": "인베스트조선",
+      "pos": 1,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T07:00:00+00:00",
+      "title": "중복상장 아닌 진성 매각…현대모비스, 분할반대 마지노선 낮은 이유 - 톱데일리",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15T1hjc1RiV2dDZ0k2TkVuM0k2ZEQwN2U3VldoVG8zZ1I5ZXU5N2lwTENJX0x5R1pzV1AybHA4Y0VXeF9KZ19UaUhlaFVCRlc1?oc=5",
+      "source": "톱데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "publishedAt": "2026-10-01T07:00:00+00:00",
+      "title": "SDV 시대 현대차 지배구조 바뀌나…‘모비스 재편’ 먼저 - Daum",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UbmpZODZGNjVKa2xZVjlYeXJTc2IxNTR0VW85bnlxLXFZUjB5Z0M4QVVuUWFqZnhSUHpxTTVsRml6R3VQU3c?oc=5",
+      "source": "Daum",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-30",
+      "publishedAt": "2026-09-30T07:00:00+00:00",
+      "title": "“자동차 램프사업 완전 넘깁니다”…현대모비스의 선택, 주주들은 웃었다 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ZzN2a05QcUJxZHQxTnVocUYtTzA2TDJmV09NS1A2S3lUSTRGQTh2UlVNa2dzeUVKVkNLN3EyQnk1eDNmV3h0UkpjeVF5cEVRNVdxNHh3?oc=5",
+      "source": "매일경제",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-09-30",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-01",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-02",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-13",
+      "count": 1,
+      "pos": 1,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-20",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "count": 51,
+      "pos": 7,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-22",
+      "count": 11,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "count": 11,
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-09-30T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-01T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-02T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-13T07:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-20T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-21T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-21T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-21T06:00:00+00:00",
+      "count": 23,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-21T07:00:00+00:00",
+      "count": 11,
+      "pos": 2,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-21T08:00:00+00:00",
+      "count": 7,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-21T09:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-21T12:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-21T16:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-21T18:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-21T23:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-22T05:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-22T12:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-22T13:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-22T21:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T05:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T09:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T10:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T11:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T14:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}

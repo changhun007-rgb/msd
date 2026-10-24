@@ -1,0 +1,973 @@
+{
+  "ticker": "000660.KS",
+  "query": "SK하이닉스 OR Hynix OR 000660",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-10-24T23:05:32.191736+00:00",
+  "items": [
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T22:20:00+00:00",
+      "title": "삼성전자 29일·SK하이닉스 28일, 3분기 실적 발표 임박 : 기업·산업 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCenIyYms5MkFBdkJZUUNvS0hrUy1pUEc2UTVGdE1NN3loNlFfMWpkTk1fNHQyblQ5VXBBOGE2TXhTQzFkcEV2TS05WQ?oc=5",
+      "source": "재경일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T22:19:00+00:00",
+      "title": "SK하이닉스, 5개월 만에 시총 비중 최저…실적 발표로 분위기 바꿀까 : 기업·산업 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fUWlJUGRmdVd5WmZndXkxV1VhMmJIZVBPRWFxWkZ3WVBncFEwbmFHRk03OVZNNVdNU2Jfc010bXFZRnR0UmZTYU1iRQ?oc=5",
+      "source": "재경일보",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T22:06:37+00:00",
+      "title": "“1억 넣었다가 8천만원 잃었습니다”…집에서 쫓겨나고 싶다면 이거 하세요 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zcHFPNy1FTmFUNEpaOG95V0M4Y293eGVCQ2ZnelNfczhMcGlxWUhPTzBMX2M4WXJTRjNhRE1DNHRFTHg4aDY2LWM0dzdkaWlFQ1E?oc=5",
+      "source": "매일경제 마켓",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T22:00:31+00:00",
+      "title": "유니테스트, SK하이닉스에 162억원 검사장비 공급 - 비건뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yM240bFhsTklmNXhoTFJ6UjY3Q2N0eThfcGFqandmUUhvS3FWdHRWNjhFSlZfNVNzbE9SaDM3VzZlekZxQUVzZ2QzNkFUWl85djM5S3lPTVR2dWNHaFdzOTNWVGRqUQ?oc=5",
+      "source": "비건뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T21:50:21+00:00",
+      "title": "삼성전자·SK하이닉스, 이번 주 실적 발표…주가 반등 발판 마련할까 - BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JRU9vb3RQM2VmRTZWNmxRaW1KTGI1UlBkOUd0eW82THR2UmZERnFScFYzdUtZak94R3BYeklrRzBFU3pNY2l0ZDZBWHZTM3NsRHg4akRnbVdSSW1SOHBHU0c0MHphWDlpcG5z?oc=5",
+      "source": "BBS불교방송",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T21:10:01+00:00",
+      "title": "개미, 이달 단일 레버리지 14종 순매수 전환…7월말 규제후 처음 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTTzI0LWNYQy0zOV81c2xqdkdKVnowZkpWc00wUERGSVVhQWtOZEt5SXpMZGJpUll5REFPU3NNTU5VYUZvTDF6elVYU3ZjNzc5RHBKQU5ZQy1kNzDSAWBBVV95cUxPanJVUkx5MmIxdm4tSGZMVkQ5U0d1V1dhOTl1U3dfdEVDLW1XU2I1ZDhHSF9YTDBWQzItMGJwVWpKSVAtNUZGU2NSSnV6T053NWpTS1hDNE8wbW5qRlUyeno?oc=5",
+      "source": "연합뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T21:05:01+00:00",
+      "title": "고점 대비 56% 급락 SK하이닉스…이번주 실적발표 반등 계기되나 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yTk5RZV9EbHpnbHFKU0NaVmhkaWRZVkpHeXNMX0t5ZGpxekgyOTA0aUNIN25VeVE3TDdDM095anJNTDlldWxUNjRzenRrOGVONDRJSDh2M3ZjRGfSAWBBVV95cUxQcjRaaGhLaHMxWDdDYlFHZl9feThJcGdDN1UxNWxvZE0wcXAxamZzbE1YNUgtTzdTYWd5VHFrcTlvbUgyRnFiZGIyX0ZPSURJTE8zYzR1MzBScndJemtsZmQ?oc=5",
+      "source": "연합뉴스",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T21:00:07+00:00",
+      "title": "[마켓인사이트] 솔리다임 상장중단에 반전한 코스피…금주 향방은 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HQjNGNUJTTnhvYzRLYzRsUnlXSHlJaXM2UmozV0hyV28tUjVMdG9vMk9KSW1VTnVvVlNHY1BWLUtFSGdzd0ppcG5JanZBMkQtalE?oc=5",
+      "source": "매일경제 마켓",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T21:00:00+00:00",
+      "title": "솔리다임 美 상장 검토 중단 SK하이닉스, '투자 재원' 확보 어떻게? - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nR2VGczQ2YWRhTUhqMGZCLXhSdEd0TTlzTFZmVGk4UEtNOHZsd2lEQ2Z5Mi0tSTBFcEVPNm5lU1B1eEZUM2tzRE51NjVCY3RuVTUyMlpkc1ZZR3lrSm9aMi1vMGI?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T17:14:40+00:00",
+      "title": "SK하이닉스 \"솔리다임 IPO 검토 중단…경영환경 종합적 고려\" - Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVFZ2SWp1Y2YwZmFuZzdZd25EOE9NVXFiM19lV1czZXJHaDRBRGowOC1mTDJuNWEzb3czMVVoRjA4RDFZdEtPM3NVcWxZQjY4ak5MVk9IeDdLbXlTVnNVdHhleFUtTng1dC10SVZzMk1JTlVPRzZ1MWVENEpUYXhSMUJCMEFib2tfS3N1VEV3OA?oc=5",
+      "source": "Naver Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T15:25:57+00:00",
+      "title": "외국인·기관, SK하이닉스 2.3조 던졌다…개인은 삼성전자·전기 '사자' - 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SU0l6S0phTWxTREgxa1Qxbjg4WnRYNWxqcm5YNHhySVNGTUVHR2JXZjFCSEVVdGVsZDYyaDFaLWlGRUxGR0RseURkM2hCQTdmU3loSU1rRFlxS2hubHc?oc=5",
+      "source": "뉴스투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T15:00:08+00:00",
+      "title": "삼전닉스, 바닥론에 거품론까지…다음 주자는 소부장株? - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNTjFMMXFPWWdnYVFyc2phbFo3a24wRGZocjdwR080UkVBZ1BoVzBLUHFGd2hrZFZYVWU1T184Nk55M01NT2V3RzI4UFhUS2UzYTlQNzdlRlNVTmc0Q1pzdzJTMA?oc=5",
+      "source": "더구루",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T12:40:50+00:00",
+      "title": "“SK하닉 고점서 절반넘게 날아갔는데 중복상장?”…분노 잇따르자 철회 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDY1R0MDFIRVBqM3lwUWhNbUtlcWYwdmNiOGphc0NJU3pPbEpvdXA0SGtNYVNnNThsTTNFVjhXUU1FS01xMDR4X0FaTGZBSWtHUmc?oc=5",
+      "source": "매일경제 마켓",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T09:48:53+00:00",
+      "title": "AI 기업 성적표에 쏠린 시선…SK하이닉스 주가, 앤트로픽 상장이 변수 - 베타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtbkxXM185VlpTczdpOUJhV2lMR2gzQVRtQVBoT2JKSzBPZHVvbXc3ek0zZzhhWk1aajlsMDFqNVdEZEtnV3R5R3RwMzRIMFVLc0M3RjR0OVhlNTVQajJJVnBTYzY?oc=5",
+      "source": "베타뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T07:07:40+00:00",
+      "title": "\"내년 증시 주도주 바뀐다\"…삼성전자·SK하이닉스 이을 시총 3위는? - www.ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BS1VIdGRUVXdNcEhnbVZ2RTJwZmRZeUVKZWVtYWEzUlV1anJlQ0hXMWE1UjdoXzFod2c2RFhPSmU1cm5sT2ZOWmpmUGFlOS1NdnU2azRTQXo5S00xZnNBSG8wakNTUE5K?oc=5",
+      "source": "www.ebn.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T04:48:52+00:00",
+      "title": "SK하이닉스 솔리다임 상장 철회 30조 주주환원 주목 : 한국증시 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sU0t3UUFYVFB5azRBM2VwWlEycWJ4ajdHU1NsMGxNUWw4d2hTeDgxNXVRQ3gzOE40T1pMT2wwdFlHcFVaS0dHVHc3SQ?oc=5",
+      "source": "재경일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T04:16:34+00:00",
+      "title": "삼성전자·SK하이닉스, AI 메모리 경쟁 격화...HBM 넘어 차세대 기술로 승부 - M이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11YmlEaTRTQWs0cWotSG5FNnU5Y2JwVDdsNXlZTnJkTlNKcjR4WTZDWlBNTjdLX2ViOHNUVlpHbVQ1U21feVNtSnpOZXdGOC1XSHdjbTMxSF9FUFI3M25xNHRxYkJjVjA?oc=5",
+      "source": "M이코노미뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T02:00:00+00:00",
+      "title": "'괴리율 46.8%' 한국서만 헐값 거래되는 SK하이닉스…격차 벌어진 이유는?[주末머니] - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tMGNfUmFDcXZMbDlrUTF5bzBnaVlLOHF5Y1FpbHhIWWx0OE5WS09rNWlPLXlrZEZKRW9ybVUyMXVSWElzWFFNWk9KWHVFRVp6WkZVaWNjYzNXWWFvMjBMcw?oc=5",
+      "source": "아시아경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T00:30:05+00:00",
+      "title": "\"최태원 회장 큰 결단\"…속타던 SK하이닉스 개미들 '환호' [강경주의 테크X] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HT1VGWkUtOHNDWXhKSzIzcnlsbUU3Nm1QWlJUNGJYYW1kTjRmdnQ4U3NQenR5UlZPTmNJOG5yYU54cko4VGlfeHA5ZVpCNnZWZHJZUFZHUjFqdw?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-24",
+      "publishedAt": "2026-10-24T00:00:00+00:00",
+      "title": "솔리다임 변수 걷힌 SK하이닉스…지금이 매수 적기? - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zY1hPYTJBMlo4LWprdmxFMXpPWV94ODcwQ3ZTeEYtUlJkVEdqQUFKcUF4SVhKNUM4UUJ3V29TMHdRVEtTR2dlWkZUUFBYa3RFVWZuUlBMdEoxMnRMQzFUS9IBeEFVX3lxTE9DdXdwTnk1Ri1DWFUyMG5lM2xZcWlNOEZENmJFdDBPUzlZOWZYOEhGN1B5eUpyR0QxcVdLUV8yV1J3dUZaR0kwc1FKNFRlZHQ4NEtHTFBLZjg5eGdNeEdLOEVUaHd1QTdzTFExckdqWVoxd0d5ak9tTA?oc=5",
+      "source": "뉴시스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T16:40:00+00:00",
+      "title": "SK하이닉스, 손자회사 솔리다임 美 상장 접어 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56ell6WnhNWDBfTnlKNndJc1dGY1lFdTRSUVdpNzE3X3U0MnRhTHZQVlpTdWo0aTZpWkpsMWhBb241OUttYTBaLVprbEpHRlRkd1hSbDJSQ2VYLW1fa2pZX2tQdkVtakwwVEhZNnNmdWNWd2JPNVHSAWZBVV95cUxQcVAwaFJ1dzhTdzhqUmhJOHVweURBRTdjdFpQYkx4c3RRQ2wtTkNFMFZFRG50amh3M2FUOFltX085UWpoQ192SmdORGUyOWhTaEdTay1BWXFRZUNRbnVmVnc2ZE5IRnc?oc=5",
+      "source": "동아일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T15:41:06+00:00",
+      "title": "'솔리다임' 상장 중단‥SK하이닉스 4% '껑충' - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBramY5TnRqOUsyRzhoRWVnQjhtUjI3SzRQcE1SamlFMlZVUndGUG9Xd0lIcUlYRlAtMXF0R2VSWDd1MVJ3QWFIdmFuOTJNRGhqVHhPbEJTQmYyLVgzQmxONVNhR3Z1dHFTVmE2NmJuUlRhM2R3YnBRMdIBeEFVX3lxTE5ySjNucXJZWThLWDVyaHA4cnBkNVBIM1ZuUGRfVzJfS1B3RDJuZjRPTlc0c3dYRmxCb0JodlJXYXRxalp6U2kyamkyMWxaRDRKUzBTN09mWE5tdXJjaTgwYlZHanlzS0pfQXJaRnlnZnpocG94M21MQg?oc=5",
+      "source": "MBC 뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T13:00:05+00:00",
+      "title": "솔리다임 상장 접자 '환호'…SK하이닉스, 하루 만에 '급반등' [종목+] - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80allNd3lpWC1pb1ZtVFY3czJNb2RlQklyMVJNZThmTFJNT3hFOFgtTDRLNHlpZDN2SlI4QXRIUFhJa25pcTJQMm1nVzJheER2T3pyd3NRVVFRUQ?oc=5",
+      "source": "한국경제",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T11:58:07+00:00",
+      "title": "'솔리다임' SK하이닉스 4%↑…코스피 막판 상승 전환 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42NjNCbFB0SVZQZEJzc3JNSGdrRUVBSFRMYkFrLURnMzlONzR2cXdxUUp4T2RUTnVacVR5WXVBVWVnQTNFUmxHcElPWk12WU1fM0w2cURTdllGb0s3Vm1SYdIBYEFVX3lxTE42NjNCbFB0SVZQZEJzc3JNSGdrRUVBSFRMYkFrLURnMzlONzR2cXdxUUp4T2RUTnVacVR5WXVBVWVnQTNFUmxHcElPWk12WU1fM0w2cURTdllGb0s3Vm1SYQ?oc=5",
+      "source": "연합뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T11:57:00+00:00",
+      "title": "’솔리다임’ SK하이닉스 4%↑…코스피 막판 상승 전환 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VNTZiMnFtU1lOdkcwYmMyZUUyU3N3aExnYkJHZEFQc1BpTjFMLVh1UEkxa2h5RFRvdW5EcmxBOTVtblBaWnl1UzA4YklJSkFSRWNpS2xDOExEWGdCeU9TRVBOTHFSOU0?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T11:05:13+00:00",
+      "title": "SK하이닉스, '솔리다임' 상장 전격 중단‥주가는 반등 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zY1hWOWFyUHI0M2daWDVibllZLWg3MC1mTTBmS0k2a0NqbG9TQl9tUjhTRGlqQWUtLVZWR21oNG92OTZ1TzY0TEhEQ0o2bk9qYWU0MTJrdXpWZzFSelJrT2FTTkYyNTdPZXBTN2tkRHR2U1JJNi1VV9IBeEFVX3lxTFB3Y2NNaE9ONk1oSlFYZnh6QzRzRmU0X3lCVTh4clJoOVdlV1VlZmxaUlgtYjNNak1XdXg2blo2MHFLMFRNU1U0eE1GRFFlS2JkMzdyd0J5M2VWNDNJbjlvUkllRW5IdmRia2QwT3dhUy1xZ0ZVRWxZbA?oc=5",
+      "source": "MBC 뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T09:33:00+00:00",
+      "title": "SK하이닉스, 솔리다임 美 상장 검토 전격 중단 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xbDF2cWZrLXkwbF9lVkdjdTlySFJjYTBNdUFuakNJaWNva0tuZmxtWmxvbnkyQXU1cnRTTmtfdjhEdV9hTDNncjd4Zk1xSGtlQlRNWWg2V3d3bGJsaGtMZi0wZHFTS0E?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T08:16:12+00:00",
+      "title": "SK하이닉스, 미국 손자회사 솔리다임 IPO 검토 중단 - AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rWXZwTmtmTHdOcUpNQlFjQU1zdTh6YjZqTjBMVV81VTNhc08zOUMwMTFxQ0NyUUZraHB1LWZEcGpnck5FVGFiUGIzUW5CVkhlYkJ1R2h4WTlpd3BJVmFFMDlkX1VkVzREUXc?oc=5",
+      "source": "AI타임스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T07:06:43+00:00",
+      "title": "SK하이닉스 주가 다시 300만원 갈까…솔리다임 상장 철회, 왜? - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XQzlrNFNvX1hXRF9FeUdRVThMN1dOSVFxblBTSURlaXl0VXpyRDc0blZWMldrY2wtR3RwLTB2S19nZG90aXF2QmJDT2Zpc21DM2hjUGIwOEFGd0xmQ3JybXh6M2Y2N0c30gFuQVVfeXFMTjE0VkI2aE84b1U5TE1YR1Nxc1g3UFRkMzhhRFdSUnhYYUVPVDFtakhnVTNtSnBpVDB2RGFWbVBPek1HWFltdnVoaEt6a1d0N0lrVExkS25sSXdvcXU2VVprcFFqTWJDY3NuSUZsalE?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T06:47:24+00:00",
+      "title": "\"삼성·SK하이닉스서 일하고 싶어요\"...반도체고 지원 열기, 서울 4.7대 1 - KBC광주방송",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MnVLMjlDOXhBVlFsRXo0ZWh6cmZyd2ZRUXJtMUNYa25keGdCLUstYURjTUE2V1NKQWFSRjlfNHhtZzR1UnNmcE1hY2NaSzItU1EyY2V1QTgzX1FzZFc3Yw?oc=5",
+      "source": "KBC광주방송",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T06:36:55+00:00",
+      "title": "[속보] 코스피, 0.3% 반등 5,550 마감…SK하이닉스 4.4%↑ - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LbS1kOTJQdGJyWENJMkJYUy1vQTZ1eVVmbnUtdFNxWkxyWnMyYjRfRG5kM0h4dks4YXQwRFlPWkJCWUNjTWhHRzBKdWIwenIyMk44NWk4M05sUDc5ZDZxUNIBYEFVX3lxTE9LbS1kOTJQdGJyWENJMkJYUy1vQTZ1eVVmbnUtdFNxWkxyWnMyYjRfRG5kM0h4dks4YXQwRFlPWkJCWUNjTWhHRzBKdWIwenIyMk44NWk4M05sUDc5ZDZxUA?oc=5",
+      "source": "연합뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T05:17:00+00:00",
+      "title": "SK하이닉스, 솔리다임 IPO 검토 중단···증권가는 ‘주주가치 제고’ 기대 By 투데이코리아 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qT01TZGM0bEdLOFAzaXdFbG5aVEJfbjlpOVdvUUdObTZBNFVXTkhUR0dWTXdPMFRwNGk4V1lBTl9Fd3JFellsUnB5S3dQdjRncTNZNE9oVF9rZEdZclppNG92Wjg0Y20zUzhwdlItVTE?oc=5",
+      "source": "Investing.com 한국어",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T04:47:46+00:00",
+      "title": "中 YMTC 쫓아오는데…SK하이닉스, 솔리다임 IPO 검토 중단 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zZERWTEN5M2pVcGg3NkNQQVJ6djVQeE9SRjVFNk5yUEJYckRiVnZlYWREOFNWOWQwcXRBZUNpblFoMFYxMTV2MV9PMF9jb04zUkpobFo4N0JCUWhxc1plQlFCUThBNGhBTC1iatIBckFVX3lxTE55VW9sWkJFT09WcVgzRElsN01ma2ltNEpMY2xwdGNLa25qUV9ZMG9iYkg1OGlYS3M0cDktcm5SNTNwMnRHLURaSkNpd19TQUxhRWRJNll3MVM4Z25RMHktNGtQY3IzaF9xWk1oZTd3YVBkUQ?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T04:43:36+00:00",
+      "title": "낸드값 치솟는데…SK하이닉스, 투자 '골든타임' 놓치나 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94enpaNTlhblhyVUpHLTdQR0tOTFRHSGJSZnZwYUl4cWJUNDFyVWhwV216OWZ5cGtMOFVqMGRsOUZXNElNLUZWVndONDFTODV3aklHeEtPalRjVGNDTnNxVWdLQzU4NTNqdGlYS9IBckFVX3lxTE5obkRzUXBiYjUxSDNYS3FfZ1gtRUdzdnlHM1BTck5LaGpXZi1jYnZvWkpxRGZUQ1pBNk92a1Z4ejhmWmJRVlEtM2YxMEltcmU2WFk2VW1NQzZra3lReFRhWEtMRnFHc0ZGcTJTNnJDWWsxZw?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T03:06:00+00:00",
+      "title": "‘중복 상장’ 논란에…SK하이닉스 “솔리다임, IPO 검토 중단” - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vbUxDUmx3UFc2YlF3M2hMaWxveDY3ZEdSelVQUFFaZjlrSS04dnZUcHVvOVhBRURpYm9GaE5NOXBLNWhRbW9kZGtfN1hQc2NZSF9xelpoU0lseVU?oc=5",
+      "source": "KBS 뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T03:01:00+00:00",
+      "title": "SK하이닉스, 솔리다임 상장 절차 중단…\"시장 고려\" - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrelBxTWFMQzZaVW9lSDNsZVJkZWt4UG10M1RheDUxZDM5VVBBdDVxcVJZeVRZZWZfcmRraVVhcVpkRE44TmdhZVh1WHJMRlA5WXdfRnF5bVFJdHJpYnFIbDcwT1ZsS2M?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T02:29:52+00:00",
+      "title": "솔리다임 IPO 검토 중단에 SK하이닉스 낙폭 제한…장중 상승 전환도 | - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TZlNnWlB3djAtWVFmTWZQTWlwTzJGdmdLbTB4SEduZXR2RmFqWVJXdTVUdDBtbXJLQjJfMFJhWnRVbDNqNVlxb09qcGVLLUx1VDNCU1Qxcmt0UkM4bVQtTU4wTnRhRzlzMzVHR1RBVUdiUFdY?oc=5",
+      "source": "연합인포맥스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T02:29:00+00:00",
+      "title": "SK하이닉스, ‘중복상장’ 논란에 솔리다임 나스닥 상장 결국 철회 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZM1ZPTWVLLWx4dkgyUGxNeDl3dzE4ZGFsajU0eGFvNzVLcVlMenZVME82ZXZlU0xXM2xMSGdoaUpWU0RpZHBTLThaOXdTems0S1c1QzVTdjJLRkhnbGhqdWM0c1JFOTUtTXc?oc=5",
+      "source": "한겨레",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T02:12:00+00:00",
+      "title": "골드만삭스 \"SK하이닉스 ADR 유통물량 확대시 나스닥 100 편입 가능\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OVFFnbEJJd2pEc25XZHFabjdvQVIteXFVTE1HdFpoamwtam9pSVdnUkZzcjNPV2E1RUtQUEUtY00tUXo4dWJIS0V5cm1lYkkyVWxzZ2tYSXBYWVA5YmM1X3R4Njdqa0w4eGc3eUN5VHg?oc=5",
+      "source": "연합인포맥스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T01:37:52+00:00",
+      "title": "SK하이닉스, 등락 거듭…AI 수익성 논란·솔리다임 IPO 중단 영향 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52R2V3bVR4R2stanM2bE9mbDFNUUY1R3lScWxxS2w0SF9HWTF0aUJCa1ZhbGJkTWhGeThLMEVzaE5UVVI3dzMyRWd1ZUQwZm5hb1ZNWFJBUEVuenFwVlgtVFJtVEVzRTdI0gFuQVVfeXFMTWFQSDRRQm13ZzgzM0FrUkQ1bnZ2cGdUNUlES0VnRjhFbWtGTXJXc1VpWEU3T190ZGxseWw3RDhHRXRnVGI5YTB2d3pnQ2RUUkwtSVdIeG5sdEFadzlqbjUtOU15WGZvYW9iaTVFcXc?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T01:30:08+00:00",
+      "title": "급격한 시장 변동성에 솔리다임 IPO 내려놓은 SK하이닉스 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xR2Zsd0paaHJWY2duSS15eHd2RXlWQWctMWhjME5HWVdtNllIRy11Zy1iSUgxYnl2QTJYWjQtNGw2cGNBYlV6VzJMakt6ZUZXUHhaSDVYYVJNdlXSAWBBVV95cUxOblBhel9fall0TGxmc3Z6OVd6T1NhZVkxVVBERXhnMFlWamx5OEtjUzdCSmZNZzMtY0x3UmRfaWRmOWdUS2gxNkdERTU4OFR2bDdlclFLSko3ZkVEaGV0RE4?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T01:28:00+00:00",
+      "title": "SK하이닉스, 여론 반발·몸값 부담에 솔리다임 IPO 철회…美 투자비 고민 원점으로 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcHl3RVhsYTN0aXZMbUszQjZQNVItWXZwcUNsckI2aGJ1ZTdJQXlPMXZ2eHBBaG5TM0xEVDhkVTFVc3BPVkRSQzQwaEozQ0FqYUgwNUI2ODhnUUViWnhuQ0huQk1WRmx1Nk1CeTJpcUFPZkZ6MVJNRS1LZUctaDF6V1ZqTQ?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T01:20:00+00:00",
+      "title": "SK하이닉스, 솔리다임 IPO 검토 중단 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tVkZTT2FOakw4YkJKdHd1cGtucmlZZWt4VzBHSGI2dGZ4eF9qbTAtQmdmQk9hWi1ycU1DTWRQVHp0dFh6dmhVVFUybjVDOEo1b3EzNnZ4ODJIeHhnbDZYV19lUlNwWEE?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T01:18:09+00:00",
+      "title": "키옥시아 지분가치 41조 급감…\"SK하이닉스, 왜 팔지 않았나\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82eVI1ODhaalUyN3Z3MEtDN1M2QlJYWUh4cjRQaTFuUDlTeHpjSGg3bDNxMnBvNE1leEV5YjZJREdNZ1V3U2lLX045N2F6ZC1KNVlHZ054blV0NV9PTDdTaldTb1U2Ykg4QUVOei1aRHM?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T00:49:00+00:00",
+      "title": "SK하이닉스, 솔리다임 IPO 검토 중단...\"시장 여건 고려\" - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmWHZMWFNTc3VxRF9GT1JmS0dGdzNNcXZETGo4VUZvV0NOQkNhVjlvcndBUThUQXRJVW5DSFBZTkszbFR3cnNONF9ZZzNzX2d0ckppS0dBdzVrOW0xdnc?oc=5",
+      "source": "YTN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T00:47:00+00:00",
+      "title": "SK하이닉스, 솔리다임 IPO 철회…\"시장 여건 고려\" - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmVVdoUlRLQXZLTnJNYXB5ZlNSSjJfZHFuUVREV2xKTGVLaHVJS19QZ2pZQ05qamhBR0JMMlY4UmYzVXNHbG9BUnVUcWpQazdreHNZcm81c1luU1ZrLXNrMWNtcEwwdTA?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T00:44:00+00:00",
+      "title": "[특징주] SK하이닉스, 솔리다임 상장 중단에도 장 초반 120만원선 무너져 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLVpybVY0bktkZldqeEVaVVNtQ3plelQ5ZFlzU3YwYVhpcUpGOFJzVzhIQ3ktdml2WGpZOE5lMkRSTkNvWmRGYnI0YVJFa0Iya3JiWEUtWGlBdVRPRGpERVJDR1ZtV3FueFZlc0h4WGJjQWczb1N0aFI1SkhvbWhxSDN3QnA1a1pn0gGcAUFVX3lxTFBJV2kyQ3NvZXNETkZRNHZJajZPNnZwQjFsdWpCYktaNUxHclB6NXRHMzMwRll6V0JuQkJCY3Y2a1YwU1A3ZEl0S1BKVHNvVXVpWUpJS2FaUDZUbE9sSnBMdEl2RUQ3N1JfLVlaQ3dZMUstaUNZeXY3ODh6UmQ5OE1MeFpZdnJ3WTlKSGladnpKV2ZoNE1ncDVobDVqLQ?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T00:36:04+00:00",
+      "title": "중복상장 논란에... SK하이닉스, 솔리다임 美상장 중단 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2V3ZXN0YWU1QjBLRTVsckcxTHNrdjZhVU43dWNneExoWXRLSFJLUVl5VDBCTEl2TXRsUzVFbDVQcEtocmdpNkhWN0NLNUwxZVJzbVFfMzJ5UFRHM0djdDRTN3VLZjA4aENuUlplOFVBUXpVZDE5R2RkSWVRdEFTcUo1UQ?oc=5",
+      "source": "조선일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T00:14:44+00:00",
+      "title": "SK하이닉스, 솔리다임 상장 검토 중단 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ibVZmZ1lJMjdCTjJKUXAtNUpscVF5UWUyV3FtSkxMOTJKOHlnMVNZZHFWTkRYOEZHc3hsQ0xUMmRULUFVRjg0RGhlcUR1RE5waXpQNVJlZU5KeS02TXJ3d2xSUFRsdw?oc=5",
+      "source": "디일렉",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T00:07:28+00:00",
+      "title": "SK하이닉스, 솔리다임 상장 전격중단…\"시장여건 변화\"(종합2보) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DX1lGQmhmQWo2RDN2Z19Fd2s1LXI2Mi0xUjdBQXZuZHhreXphZXEtNFdSVDJvWVZ6VlgwTkhTSHd5MmpORXlVMXJRU1o0OUVocktKNG1BOWpSV1HSAWBBVV95cUxNOVBzRmoybWZaVEVHdHVWUW1fOGxlM1dZa05MMHJVUUpyTGNoVjFnVWNGT1ZBTjktdE1yNi15V1hlOVMtSXNOSUUxUFNCUzFQMGowY3RMUVVxY3AwSTB6R2E?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T00:06:11+00:00",
+      "title": "솔리다임 IPO철회했는데 SK하이닉스 주가는 왜 떨어지나 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zcFBsNzBkdUJHdk03YzNtTGJJSU9DRk04UHpHZFVGbnBEaEtpMk92VGRRQWF4Y0RaU2xsNDNRdVNPWjdYVHRLSDZuaHIxOHBDVWMza1dBWDZnQQ?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T23:55:00+00:00",
+      "title": "SK하이닉스, 솔리다임 IPO 검토 중단...\"시정 여건 고려\" - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50ZWhuYlNwYi1RbWdNZk5FeWhCdDJDZHNDN0lwTk9HTUdsRlE1R3dLU3dIX3pwbExuOGtBdEl3S0VhVTh1TFVuYV85MlQwUnc5bWI4bjVYb1BSNzVfcWc?oc=5",
+      "source": "YTN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T23:42:00+00:00",
+      "title": "SK하이닉스, 솔리다임 5조원 프리IPO·IPO 검토 중단…왜? - 주간조선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91aHNEMktCaWNEdVRKYmRzVzBVaTVzQ3hKQzlMbGpKbkl3bjlhMHBseHN5RXg0Vkw5WTNTbVJEYlJQOVgybXQtY2U1c1VTU2p1T2lCMXVnQXp3RE1Bek5kQUZPS09LYmhEZ2fSAW5BVV95cUxPYkRwZ1Z3NVhoQ0RiMnk3bjhwX2ZUc2R4OF9ucVRwUU5ybnZQVGpkTDB1ZlVybExkeG5vd1RHQXMwNEZOWWVkdVQxQWU4WXFfbWdLRkJpVmFtby1hT1M4UGNEWXVJUzVUWDRhSE82dw?oc=5",
+      "source": "주간조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T23:23:00+00:00",
+      "title": "SK하이닉스, 솔리다임 IPO 검토 중단…\"시장 여건 변화\" - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3bDdjZVZFVDMwUFhWZVNubnVvbXN5WFh3WS1EeDJSdElic1Y1SE1CUTBTRTVaajkwMVJnV3FIV2lSSE9vTXpYblBsb2ppMENKNUR5UlZNSnRNWWdxTC1KQm0wRjZUeHc?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T23:22:59+00:00",
+      "title": "SK하이닉스, 美 솔리다임 상장 검토 전면 중단...주가 반등할까? - KBC광주방송",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85cXdJR2FrLTNDSVprOVNyMFlXY0ZCN0RtNURyTENBX2VBX3Q2cnl3TmN0cTVmUXZXSWNEV2FJTlg5TVRsX3pnWENobE55cURpdVl3c3ZUSDRfS19qRndmeg?oc=5",
+      "source": "KBC광주방송",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T23:19:49+00:00",
+      "title": "SK하이닉스, 솔리다임 IPO 검토 중단에도…프리장서 120만원 붕괴 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kX3hURkxmM0NoRGNQRE1UdFVFSnhGQWV1dE91VXdHYWY1dmJnYlpzcFVfc2U1WW1Ra3B2dUdyVEkyV2lOSWRUOElDZ3E1MllXT1NQVkswaG9jUQ?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T23:14:00+00:00",
+      "title": "SK하이닉스, 솔리다임 美상장 전격 철회 … \"주주가치 제고, 증시 여건 고려' - 뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yYlZSeG1fb2MzVTYzVTZYOFdOTlNIZ2RzdFZzTTgzUXNld1hkb1E5emVaSmNCcEdzYl80WG5McENqeHBRR0lCczFHcnFJb1lKSnB1OE5oUFpsMk95TEx4YS1ncXBEOHhJOGMyZmNYSEhxSDV4R3RKbXljNNIBgAFBVV95cUxNZzl4M0lvV3JoVVE5Z3FzTGtES3J6UjU3VVJGSGtHY1NWZlNoQWViVm5MZDVYcEQtM0pYRmQ3S2hpVU1OVlhlczdkT3VVdHVrWGNMYmJrSFNDcFhTMTF0LXZkM0lkaThNWTctNWFlY3ozZklmN2xBWFJtWDJGMU5LVQ?oc=5",
+      "source": "뉴데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T23:09:22+00:00",
+      "title": "SK하이닉스, 솔리다임 상장 전격중단…\"시장여건 고려\"(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JUjJuX1JrSXAyX2lTc2ZCMkZTV1hTYnlmM0ZUaTdjM0tVbDRYVXg5UW83M29CT0tJMFVEVjJRalBTMXlySjN3Y1ZuN2pCb1lHSkFJNWFMMTJRR3PSAWBBVV95cUxOM3gyQlNOZkpORk1uTjktSWc0YVRJOTg2ejcwT0dNejlUaGZLR3M2Z3ZPY1NlbXd2UXNtV2xQTFh0SXVWeWRKaGxGaXFfc0NWMlVBQUk1NGlBWjE1MURLOVo?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T23:05:52+00:00",
+      "title": "SK하이닉스, 솔리다임 美 상장 검토 중단…\"기존 주주 이익 고려\" - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00emlUdkJ4NzI0OEE5TEpvZHBibDJZcVBwcXBETktBak9IX1hoek5vZFNRaGdSS0gwclVJRVVwZDFOR0EyYmlHM3hhamdhaE5WTXdlZGNR?oc=5",
+      "source": "지디넷코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T22:58:00+00:00",
+      "title": "SK하이닉스, 솔리다임 프리IPO·IPO 검토 '중단' 결정 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMUk1ZmtvdjFoNUZrbU9SdXRGMmxuZjhJMGtiaEs2RWg0aC0xM1hGN25fZUJqRmctUmI0OTM3QnowZ180ZnNidzl4U1lRVUloUzhhbzh1eVpIcjRpTGd5eG9YVGZraDMxVjFqZ0EzampVYmVoajRxeXdRN1lWeGI4eUs5cw?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T22:57:41+00:00",
+      "title": "SK하이닉스, 솔리다임 IPO 검토 중단…\"기존 주주 이익 고려\" - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94S2lWQlNFeGFUMVdVUlVTa2ZYMV9USDB5a1E3aWR3emhCelpfQ3d2VEx3djNianBGMFpNT0tOMVZsM0xJNlMxUDc2c196UUdGQ3FYZ2VxUjVPYzlGbmd3ZWZmVW5qM3lkZlhybNIBckFVX3lxTE1JU0dQZXk0THpCWUNDY0FZOFpsSExQOTVTZlNqZUtVc1J5Q3g1S3V0dUJmWFdQbElneERvUTRnMWZna3JsMkhFei1lSENoLUUtYmRhVkc5dWpha0s1bGh6aW1VWWI1d1dKSDRmcmdVdU9wZw?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T22:53:27+00:00",
+      "title": "SK하이닉스 \"솔리다임 IPO 중단‥자본시장 여건 변화 등 고려\" - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xVEhFdHJpWFZkVHJlYjh1Yy1xWmRJdldEekJLZ3VBQ2MzTm5RMml3a1ZycWtNNmd0c3hHY0IxVHJWS3JvR1hpTlJhQUU2dDZKazB1dklZamowWkM0VmlabDg0b2hlT0t6VHJzUXdZVDJuNGlH0gF0QVVfeXFMTU1ieVdmNkhZbVpKOHk3NFJLeUlCY09zUjhoU0xneHVnTk1td29rdjR5ajNGOF9tcUdiTlJkMWVoWmtWWko2Y0doODNrQTJwTXB6SmgwdzBybGZXMVVTNHRqV2UxMGdNU0tKc1BLNElWU0JwNE8?oc=5",
+      "source": "MBC 뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T22:52:00+00:00",
+      "title": "SK하이닉스 “솔리다임, IPO 검토 중단 결정” 공시 - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01UTFXWHBTMDdUaDA4VTFPSERMUk1GMGJva1MxX0I0OTRJR3RrLTJ0TmZNMlZvWEplNWJaNnR3SHdWNlpvN2d0MlliMDRUQ3lZQlFFWUpGSkFSbXItbUJfRHpoSHFkdw?oc=5",
+      "source": "KBS 뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T22:50:00+00:00",
+      "title": "[속보] SK하이닉스, 솔리다임 프리IPO·IPO 검토 중단 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qMzVzUXh3cXBBMFRsSm1UZDN0LUZiTTJzNnBfclhYRGlDTEZnanc3S3pORE9IOTV1ZVFWbFdQSEw4S1VVaHdhQ2Vzcm1TbGFoeGk4VWg3UmRTNjBEcVhPaXZwemp5NEU?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T22:47:14+00:00",
+      "title": "SK하이닉스, 솔리다임 프리IPO·IPO 검토 중단…\"금융 시장 변화\"(종합) - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFQm5hNERrcmZjb19sLWhlZy1yd0ZnNnhXX04wRkE1OWJwMkhVRTFiQXEwenE1UVh2YXVfV05KM2tVVkZMNFltYm1la0N1cEFoaldDZloyeEhGOEU0cldTSXlVNUhiUnZWUEVmYlZkd1NqT3RhbVNyR0RSbVYzUQ?oc=5",
+      "source": "KB Think",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T22:47:00+00:00",
+      "title": "SK하이닉스, 솔리다임 프리IPO·IPO 검토 중단…\"금융 시장 변화\"(종합) - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuOVNmdHoxT01KSUhhNVpYVDg2aXJ2eFJta01JNVg2Q19XWmZOLVJUNDduRTkwc2xWVnp3YkVGN3pFNXpqNVA3cmxXRmlXTzhwakVZYTRhNloySVpCaXk3UXFTQ1BBWmJ6aGU3WFpib28?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T22:43:00+00:00",
+      "title": "[속보] SK하이닉스, 솔리다임 IPO 검토 중단···“금융시장 상황 고려” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95d2NwbldPeS1TUW1XU1AxRktkMEE0Q2xiX1QzbEJKU2hhVllEYzBNU1ZKY21ZODRPZHMwZXZzT2xaR0NUZUdCMVdGZV9nTXl4aXZZZllkT054QdIBX0FVX3lxTE1BU3hlUDk3OEx1MkF0MUFJZ1puVjIzX1RBNFQxREhYRkJmRmlnME5Xb3I4QmNCVmRCT21KZ3FzNXVpOXpFa2wyVWpCRGY5X2IwS0JBbWVIa0dKc1hjcGc4?oc=5",
+      "source": "경향신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T22:40:00+00:00",
+      "title": "[속보]SK하이닉스, ‘중복상장 논란’ 솔리다임 미 상장 추진 중단 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kcVItWVpLRTFNSERfcEVRcUd1V2FJVVp6VGtsQUIwTDNLbDkyb0hic2x1QkRpUVdzdmlRTHhPYXQzUXBMbUVBSnBrLVJSZkZqRERiNkZ4WmVsQdIBX0FVX3lxTE9jSHpYYVlRakZOQWFKMEk1Y1hDRERqbHFZOVJLTlpNVHFZbmhWdXptSjNuUGJXYUxFUjhwdXVOcFBxdGRoZk5PZjNVQ09tcFEyWmVxeGt0azd6aHpkbmpv?oc=5",
+      "source": "경향신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T22:33:41+00:00",
+      "title": "솔리다임 IPO 검토를 중단합니다 장기 성장과 주주가치 제고 노력은 이어갑니다 - SK hynix",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMZW9fZDVjQkxvZmpDMWNBSjBEdUgwelNGYUpmbzk2TE05WnlaMXh1QWEzWjB1VmoybG9wMkJaTUliM1QtdkRHZ2E3UQ?oc=5",
+      "source": "SK hynix",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T18:00:02+00:00",
+      "title": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HejhZSGo1b1Rya2NkNVZ6ZDJieWpKeXJSZ1UwektCTDd6bkotSk5BeUpXRkFlc1NfV0VlTHYwQm54RXhuNzNtZTRLUWFfeFBhM0lOY3FKcDJDZw?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T05:27:00+00:00",
+      "title": "KIC 주식운용 부장, SK하이닉스로…지방 이전론에 커지는 인력 유출 우려 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdzJ5QXhZTmxIWWNORV95RU85Z2FQSEVRQkZEd0hHNWtPRnQ3UU5OR3VuZEpPUmFoUGJ0YWFwQXk3YTB4a2tUZXBrZTAxZGoxNEhOVUJOZEJGYTlWVG1kQkZXakRJM3Flajh5V1JqbW5XZTBISEtDQ0g5ZU5nekowR0dnMA?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T05:09:00+00:00",
+      "title": "이억원 “솔리다임은 중복상장 규제 대상…SK하이닉스 등 모회사 의무 발생” - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUIwc1A4TC1CNllqbFZBZFdQSl9lSXRMb3lJdG8yUlNfNUtkTmJRRlZ0UE1iN1p2M3dSYXFWNi1FM2gyZ1M1dUZhTnR2d3hnMHpVckZEUFVxRk1UUWQ4aVEyUlphU2NIYVg1RHBSRmpseFNZVXd4QnFCT3pxMW5sNUFCWGdudWxj0gGcAUFVX3lxTE9JTU4tVlpXU0RNSzg1TDRXODZTZ3RUVWJJLUpDdHZZX3JLeEZQNXBtakRmaklWQUZraUtaZm10QnBoR3BjTGdkOUtJazhBUW5fRVhUU29Da1FQVWlBdkk0dWZINzktTGtodTI0VUlaUUZCZUdLRXJVXzZhekp0ckRaYkJsNWFBQnNJbkp3RU0xaXBTTmxkamJOVGdpSg?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T02:51:24+00:00",
+      "title": "이억원 \"솔리다임 중복상장 규제대상‥SK하이닉스 등 의무 발생\" - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qaTBBZjFldjA3M29JSWY5Qk5XX0J3OFNsc094NXJQQzZHZVJKYnE2aHdOV1hPQjdVTTZ5cVM5X0lBV1ltWm15QzVDZmRrOTRfTUFjWWY5V2x3NXM0aUIzckhfLU0xOTctRDFhM2dPUWpPbGF50gF0QVVfeXFMTl9ic2d0cjZOYW1fWUgzM3NucWxlSEI1dEMxVGpyS0FrV3RPNUU4V2lUMEpMdG5JXzY2UWNTV0x2WjdwQnZ1TlZWU292R0hWWjQzdEFnQkVQdEI4eEtQNFpRMVVBWkxKNHdMR3QxMFFHRzVoVDE?oc=5",
+      "source": "MBC 뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T02:00:03+00:00",
+      "title": "기술 혁신으로 쌓아 올린 금자탑… SK하이닉스, ‘제19회 반도체의 날’서 5관왕 영예 - SK hynix",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxbmgyTzFVZ1VQdGxxYVF1UVdCbTlGSEpuN21xWWlQc3JwZDVYWjk3YVRoX2FWazluVVdxaHVsSmkxR05DeGFBY2ZHX0tDR3I0MHYtZW52azBjNFBQTkc4?oc=5",
+      "source": "SK hynix",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T00:10:00+00:00",
+      "title": "[솔리다임 논란①] SK하이닉스 던지는 외국인…한 달째 16조 줄매도 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9faV9kNFBYZ0x2Y2J0YTVHSXY4UUtLYkZ5ZHZ4NDZudG5xdkJaZWdZX3FsMWdaQ01iVVh6UjRWbk5JTmdmMGdBb2JDTGRta3htX2tOd3ZiTHNkTVcwZ3RzQlFwTUZ1QW5wREpBU1ZlOF8?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T08:31:00+00:00",
+      "title": "SK하이닉스, 40조 자사주 매입 종료…증시 ‘수급 공백’ 우려 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUFyTURyazJGbXJiWmw4TXh1SGJFNEZNRDhSc0Z4aEloR1dxWlZwdGNkQ2RNU1pCdGZVZDBKbld4YXo0ZmhxU2tlcDU4eE5NYWdGUExDVHhidXU5bTVuejlPQmlEbTNXUm1KTUlUcXAxdFVjcnRQT1RMREFKZWozTTBaU3RxaHho0gGcAUFVX3lxTE12NkRNb3pJVVRHdEE5X1hfZUpLbUxKcUxza3RmbGVWbTNtUzl1TVc5X0VRbkFCeWs0TXA1NmdIdm5iWWZ2Z0lyZWZFTE94QXZtTl84R29WVHRmRE1ZQU9rS1BXU0J3UUxYUFFBMEVTZ3FFNnp4d2ViT1JReDJLQ1dzYjNjTTdENFd0X084VUREdXJuMXJHRnpXSVZJOA?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T08:19:51+00:00",
+      "title": "로이터 \"삼성·SK하이닉스, 중국 공장서 첨단 낸드 생산 추진‥美 허가 불확실\" - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4R2RkclZKRHQ3WFJJcHF1VTBVUTd1ampkVjhhdGdyM3lNbjVWUXBYOVRYZl8zTWZtTGZzMnBGckpoWWszYm1xMnhoU1gySjlpZ1djU1RsOFVNclZwamh5NDlhZkpjaFpUOGlOR0d6cE9UdFVj0gF0QVVfeXFMUHM4Y3JBVGZYWElGaV9MN19ZNmNkM3VJaTcxZ0ZVZFoxV2lKUDhKQUxrMTJJWnZWYW9raTloc1BhN2VMbTRwZ1RyT2JRb2xVR2xLVlFublRXcWhwdE5xOUJsc09saWk5UlBEMWxJWTY0Mk1xTFQ?oc=5",
+      "source": "MBC 뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:30:00+00:00",
+      "title": "SK하이닉스, 발열 잡는 'iHBM' 공급망 협의 착수…HBM 선두 수성 승부수 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oWVl5X1J4VmlmRjdfZVlJazZtbmU4U3ZFWkdIZEVXY3pNMG11WU5qMlB5TUpZc0h1NmFHUmVhQUR6ajI0c3NQSnE0OVRFQQ?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T06:00:24+00:00",
+      "title": "SK하이닉스, 2조 원 규모 ‘수출공급망 강화보증’ 출범… 정부 · 무보 · 시중은행 손잡아 - SK hynix",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91M1dBZTVHV25nTFZpVWZDVWJ6WUl6TWtHb0dqRlNyMlVHYy12QUNKQ1loOXRQQzhoRHJxbTRwQ2xRWjZtLXk4TUs2NEhqVDZ4dkJlejJwZGo0QkhsbFY2UHJTV0VPNzVR?oc=5",
+      "source": "SK hynix",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-18",
+      "publishedAt": "2026-10-18T01:09:00+00:00",
+      "title": "SK하이닉스, 솔리다임 美 상장 준비 속도…'중복상장’ 우려 확산 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGpGZWY0b1BETmtXUDN2Q3gzTXk5VVNlVjNZUTVXMDZHLVR5d1NPeU9Ga0UtWV9KZzZMcmZ6RkxWWWQzYVVrV2ptQ3FYVl94UE1TdDJVTHVIRlFWcXppM1Y1QlJVcG5kYlVTUFhwa3lsdGRld3htUUlWcXpTSzF6ZWtB0gGWAUFVX3lxTE5ab2s3ZlUxTHRPMDVfaUNDaUgyaDZhR2N2TWFrVTFKaC01Y05Id01oanRsQWxiMHc4emVIaExReThPVEpaVF9xTmdvT2ppekpqN3Z0Q0NBbW1KRlZ4WW9ZNzJpb2IxR3R6dVpwZmxUeGs5YXBtSXdjQVgwQjZHOHVITUpTOXg1NXZmZjkwNm1JMGtOa0QyQQ?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 1
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-10-18",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-19",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "count": 3,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-22",
+      "count": 24,
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-23",
+      "count": 31,
+      "pos": 7,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-24",
+      "count": 20,
+      "pos": 4,
+      "neg": 2
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-10-18T01:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-19T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-21T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-21T08:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-22T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-22T02:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-22T05:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-22T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-22T22:00:00+00:00",
+      "count": 10,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-22T23:00:00+00:00",
+      "count": 8,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T00:00:00+00:00",
+      "count": 7,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T01:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-23T02:00:00+00:00",
+      "count": 3,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T03:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T04:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T06:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T11:00:00+00:00",
+      "count": 3,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T13:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-23T16:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T00:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T04:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T12:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T15:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T17:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-24T21:00:00+00:00",
+      "count": 5,
+      "pos": 3,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-24T22:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 1
+    }
+  ]
+}
