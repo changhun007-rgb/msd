@@ -1,0 +1,997 @@
+{
+  "ticker": "GOOG",
+  "query": "Google OR Alphabet OR 구글",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-10-31T17:38:22.322509+00:00",
+  "items": [
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T17:08:26+00:00",
+      "title": "France Wants a 5.5-Cent-per-Gigabyte Tax on Netflix, Google and Meta - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmhtMDkwcE4ybUFxZVctU3RhUEVteVBTeFhVTGxQWVplaktyYndmUjQ3S19udl96VnNfVVpXcDQ0cWJEN0VybGQ2eHROVnF5TXl6aV9KREtwdUI3RkY2TG1MTEhHQ2JfMGdZakdkTmVHX0J4czlweWZNeVEySnpJaUx1QXQzbGpJaGZyVGtZTy1kajlpQXU2Mmxyb3BCa3VadmtQN2ZITC1ySC1XUHZqbQ?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T17:07:01+00:00",
+      "title": "France Wants a 5.5-Cent-per-Gigabyte Tax on Netflix, Google and Meta - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS045cS1iVWtpZlo0dFhVZjR6M3RPb3BfeW55RUkzOVJEMDJRLW5kN3kyMWRucTZoMGc5b0JEdUd6S01EZURjTkk5VndiT0l1c25pWmYwY2NaaHQzVEZlTm5DSzRvRW1pZWk3dXZHclFRTWhyWGpUSFVxQTh0bHVNLXo5SktRR3pwVm9GYTF5bw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T15:52:00+00:00",
+      "title": "Hermantown approves controversial Google Data Center during late night meeting - MPR News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdjV4b0JKVDVQR1ZabFNJdzk4NHBiQTA2UTJIZWRfV0Nnc3Bnem5iZ3F3ZzBlZHNqMTYycVBRSW1XTzFCODFEQTluTmVMNlpCU3U4TldlR1A1VTVYRjhuUUpZVVFhN0R0VG0zWWtsVlhrSGtucGJxRzBiSk9EVFRWN2VTek9TSjlYMk8wTzlRQTJrcVJQSmczSzl6dE9VTU5tanFRc1JISjc0RTBERHIwUnBWZm9peFphdVlZ?oc=5",
+      "source": "MPR News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T15:46:12+00:00",
+      "title": "Reddit CEO: Google AI Mode Traffic Gone? 3 Fixes [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFBiU3NwejMtSWNfU0ZHQ1FtNnMxUjdsc1B6SUN0dVRNQkRRTHZqOE5pR21JTUlKX2F4Uklsam9tMEU0bzR2X2RhWnl3MF9za25VSDJFVXBwQkQzUnQtTlFrU2I2Y0tJSklKaW0yRUFQRFIwOVV6a0ZjOVVYWVVHTVJTMlBqYlVleVl4Sk9B?oc=5",
+      "source": "shattered.io",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T15:36:14+00:00",
+      "title": "Google's AI satellite sends a very expensive haiku to Earth - The Register",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVNOU0ZZbExuc2dJdktyT25oQ1VicHF4NzRmM19GSlpPNVNKSk5YRmYxR0xERlFLc0NwUGQtNWZvNTJ6alN5UHBlQm5DUDM3RmFNdVl6ZHRIOFlkVVQzd3dGR2hlNVh6OWxuRXdkelp5TXdiOTMzVXBBdXhSU3lwOWptcWZnUnQ2SHdkTkFXMXpQQktjSVhNYTJ3R0tlVUl1SS1TRloxbnp5d1N6X0EwX0hyNGRLUQ?oc=5",
+      "source": "The Register",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T15:22:52+00:00",
+      "title": "Is Wall Street Bullish or Bearish on Alphabet Stock? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDM4WGd0RW1BQkdQbC1wN1pUdGFOS3diN1pkS1NPbkJUcnJZblNIYzRDVk8zMlJVTXdacEtnVV9NdmZyVzRvY0UtdE5wRWtvR2JCNS0yb3pBaVFrT2RsX1FOOUU3MnhvVE9Kb3g0SmhTU3piczlKSFJmc1dqbXRRRXdPWWFJSEZCQXN6MjEyXzBoZFg2VXViQkFLQQ?oc=5",
+      "source": "Barchart.com",
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T15:21:56+00:00",
+      "title": "What Are Wall Street Analysts' Target Price for Alphabet Stock? - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0Z3bHAya243LW1keWhTNzZfU0plWF9qOE8tOWpRbWczd3NlazVaYU93YjdDTDA3Nmp2R2hUdThDV2FveHpNanNqVGJTb0VXNHlsbjN1dFVnTnJaYkVNdTN4cS1aTnFHdHhDdzRfdVNjXzhoU2FIMTFOMUtxVUJBS3VWZU9fZXlwR0VzcmxkaS1XRDRjUnBMU3ljUm9sMDhsSmc5Vi02STI?oc=5",
+      "source": "Barchart.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T14:43:00+00:00",
+      "title": "Yes, Alphabet Stock Got Hammered. No, We’re Not Selling. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FSDJJcUY4c1h5RV9Xc0tUVVNrak9BaTNXZTVpc2l1STRPWGVYNk5VbnA2aEpaMGV0ejNGY2ZPSmIyaXNKLUNiT1V5MDVJUnR2blBQRGM1Z2JLcFRRbDBRcDk3TWt6V3owQl9ZcHRySDE1emRVQ1E?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T14:38:00+00:00",
+      "title": "Hermantown City Council greenlights Google data center project - kare11.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVVfRkUyOFhsTVZsd20xclk1ejBPdTkwYlJHc2pBN1BNa0VmX0RXUml2MjFPVXQ0Um5IMWNYQ05rUGdWQWoyVWFvZWN3enRpY3JHR0JNTjNGMTlyVTIxQVlWaUVOQWhEejlQVmtNZnJVWXl3M2dDU25zY1dBZUMycmcwd0dnRUZkU1lZdTNUVUFzcFVQX3lFNVVyMW1XanViU0M2QVJZaWoycTZ3M0lTY215TGhWSnpUZ25PY0s5TnpqenVfdEsxRmNhbVRzOUZLM2ZxVWMtTUxhazZR?oc=5",
+      "source": "kare11.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T13:57:16+00:00",
+      "title": "Hermantown unanimously approves Google data center over public objections at contentious meeting - Bring Me The News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYVBQOU5ZcllnNkMzck04aVRKZ096UldKTC0yb0lSN0JDNVBIN2RZdGJjVmc3TFdqM1ZOTjhSVENBR3cxeXNTeUhoOHgxUFR4bUt3SlNoNVYtZjBSZmhrVGNpR05lSkFPQjNkaUlGejRES2FxdmtTTlVlX1BZOGZSY3BROG1sUmI4OU1tTTJvUHVXczZhbG43YkRWM3pFbGVfZWxaQWpjaVRWWUVRdkFJMHR2cHpPdElVbjNIV1NqcFRVUHI4NU5wMk9zMmc4d2NCX3RocA?oc=5",
+      "source": "Bring Me The News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T13:48:57+00:00",
+      "title": "Alphabet's Earnings Horror Show Continues, But GOOG Stock Is a Buy Below $300 - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTjZsNndsR2wwWmt0R1VYT3ZlOFNXbGY3cU1VZVFIbmRHMG9jaldrVUZPeTdURWFkcDBkZWlLblo1VVhRN2V5MnVLOVNZeXhqZVBEMnc5VXliVFlwX0dKU05BVkR5bHJqUlNpM2dzd0toS3VGWURPN3ZfbjRuYnZyVE5qNWNKZ1UxcVY1SjBKaVU4elhMR0Y1MDRtajh2aVlqVXl6U1VyenN2aDNDaEQ0QlppUVVCTGVKUnhR?oc=5",
+      "source": "Barchart.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T13:30:10+00:00",
+      "title": "I am finally giving up on Google Keep, here's why - Android Police",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYk9DMUNUVWpaNU1IZHlWYkc1Z1pWZGRCaDNrd1RjdkJhRlplUWYzM3d3cGFheFliN283b1ZLSGR0VTRQLTN6MHNWRzN5SWtRcG5COVBJQzdHZkdsLXd0cnAwZWxhWkM5SFZSZWR5cDRBRDVsNHo0MzgwVHRsRExPcg?oc=5",
+      "source": "Android Police",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T13:15:00+00:00",
+      "title": "Google taught the world how to search. Now it faces a revolution it can’t afford to lose. - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQWhkcE5YbjhoU29ic1owUk02SENIS1oyWHJNZDZ0OUxOT3ZHeHdJNmNodGFlVUthTEViMVZsOElET3BvTF85aWlndVIxUkZKWk5kem9sX1g5TjNUTDlJSnJDNUlSc1Y2dC12eWFtTFNTUDNEaHV6ejhKSUM5QmJ2MlBiVzMxMXpnNWxabnFXN21STUVZUjVqNjN1SExPRDVaWTl6TUdOM1FuWWc0RWdhWkMtbGd2N0pzQTRFejJaZkpEX3dHOWR1Tw?oc=5",
+      "source": "MarketWatch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T13:00:03+00:00",
+      "title": "How Investors Should View the Launch of Alphabet's Gemini 4 Carbon - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUXB0OU9KWGRzWVBBT0xTb0lhR0c3Sk0xZmQ4RnBRazlfTTFfamxHb1ZWblVQcDdic0FDa0VrUWdhdTNhTEk4Y3BRcjlqRDRnWWdMT2FSX24wcFZfYS14bWwwRFQtVFJyMWh0cmhva0hLVV9OZWNmZ0Mtb0FXR0pSZEl0MUtMdmxTb2FfTXBVaVgxeHdRQndUT0xEaDFhM2ZMOWs5dEluM05VWjlQQmJj?oc=5",
+      "source": "Barchart.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T13:00:00+00:00",
+      "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVcxT2RHa3JpRWd5czIwSlFuR1Q0ZGszc2o1TE9JNmhmVTdwUzhYWm5nSVhhNUU3aFZOYWc2bVdtUVowMjhqaXdMbnZSbGJ4N0ZrUkZkM09nT1F6blc4MnZzamI3VGQydVRqT25zTEZlbW5GUFB4Q3ZjU3lsMmpMTWJZR3ZnYm04eEFxTm93VWpBNUVQaW9Gb2ZPZG9WNjFQSE1tc3ExdHBzYVVoNFVjM21TMEQtQQ?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T12:55:40+00:00",
+      "title": "Alphabet: Market Misunderstanding Is Baffling, But Don't Be Fooled - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHZQOHNuRjN4dnJnNGpCdF9KUE9xaDVUWDlIb3JXR0dsc2luaGNSeFY1N1dXbGd0MC1EWUpMcTM4OFdteFI5c3BHblVWS3h3ZjhIR3JxVlVzTm1Od2xiVE51bjltemQ3TFg5cWhnQXhkZFMwcU5Jb3Nxb1Q3ekhRbmRFcWw4QnppQy1nVE9QcTNXUHNjd3pYanpTbi1xNHIwMFZ0RlhB?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T12:55:14+00:00",
+      "title": "Alphabet’s record plunge, Intel’s 30% collapse: tech’s brutal week of reckoning (GOOGL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXpqa0lKdWREa3VhWWFHeUItYzg5UjJXd05MeF9oNW01cUJkWVlxU0pZMXhyOWlUT1hFcnVGNUxpNjlOWWI1MUx0ck1EaXdjMkUtN3M0UnpleEZtYXBMbEJ4b1h0S0JsUnhTZElQcEdNc3VKMHB4UlBwSUxLQUNDZ0lTSUY3Y3ZpbXhHZlRCNUNYOUtkeENfU2g3cndyb2tvS1ZScGlnS2J0VmQ5ZWNFMg?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T12:00:27+00:00",
+      "title": "Amazon and Google both have custom chips. Here's what they said about their future. (AMZN:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGpSUmk4Vm1ZTVVrc3lSXzd0RWZlX3BnVmFhM2JnQjBxRWk3WDFiZUF2SDhUXzcxazRYdi1WcG5GTGNnQVlYTl82Ym1wMmNJU1BjM2FlMFBXZWZqOUxqVjFfdlRPOS1kZF9EWFFwYXB6MkRJdHlSVVVidVliRmRWWGRWek0tQTlWcFpvUkZyVkxQdFFHcXdhV3RoNVVxNjBmNTh5WmV3UlBvMTE5bDFUbU9DWHlKemtnZFE?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T10:53:18+00:00",
+      "title": "Stock market this week: Alphabet sinks 12.6% as Tesla rises - Opening Bell Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2ZVp3QVZKVmtBQmUzRzZ2QkVZNF9MTGRWSkZCOTNZVW93VGhoTG5UUXdxWW02dVVSaVQycHRIaF9tTEQ4eEZqRHNMODJ2dmM2Z3BQVFB3WjI1R1VtRzBRanZZUDdVeGV6ZUlTZ3pteHRlTVNMdXZmbGF5RnFWQQ?oc=5",
+      "source": "Opening Bell Daily",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T10:34:31+00:00",
+      "title": "Google Joins OpenAI And Anthropic In Promising New Scraping Controls - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSDZQYjdOaVRyUmdwSW1OVHQ1UjFpN1Z6NmxQZHNRUElQODJpbHB1eVlRWWJkQndBMVAwczBJbGtqUU1YOWJrNnppWHFYLWJkcjBfODR6SFpiNFR1SWVIOFNMVGsxbzVjbTFYdFF3SjN6ZzkyT0tRNk5BcUkta1lFdkxSci0?oc=5",
+      "source": "Engadget",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T10:00:00+00:00",
+      "title": "Reddit (and everyone else) faces a bleak internet without Google traffic - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGJCbDV4cHVMRDAzdzZvT1IxdTQ3SFhONzNsVXRiQm5YNEk1Z2h6ZkpmU29XTzRPdGdNMFNRMUItVngzZzczZmhmUlBWV05NbU1GZWtBUkVsWWJjTlBROERrX2ZnYUU4YURLR256Rll2dDdYWjhtOS1nbGNPQ2VySHNDYW1FU0RuVkNjZ1lVSDE5dUdaZzUxNk5aZVc3YzY1YW0xR3dNTk9IakFiMkFTNFJkS1NTZzRqVHlSMFZpR3dtVGFpbWVERmRn?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T08:19:28+00:00",
+      "title": "Alphabet: The Worst Day In Its History, And The Cheapest It Has Looked In A While - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOXNMMkpLRm5LMGprdFh0OVJkWTVNUHJtUFprWmNTMmp5WXpPQl9VYnJXZzhZaGtEeV9kcTVVS0Y2Y1Noemo1MThUTzUtOGg3N2VtX0E4ZzR1Z0ZVSWM0TXNWdFgwdU5sSjdwdnhDblg1VUlEeVZaYXpSM3Q0S0g3V2QzRmZxb3ljOTJFcUFXYTFOa0FDbWlWWTljYW5nbndZZTlWXzlKdjVTQmVHR2FUMGpYMzNmRGd4dzZRSw?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T07:40:28+00:00",
+      "title": "Alphabet: The 30% Earnings Miss That Wasn't - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkhBVDMzNk02QmdlMTB3djEwN1YyVzdoNjdTeE1USEE1UXFWZy1BWXZGSWQ5WnF4Q2xkVXRETUxrTVpsVS10ald4dllzeW9XbFVPQ3lGMWZ1bnlVWmQwVGRDaVZWYXhIVjlWU2hydmNOUEloMERzdUxKZ3FEVF9uNUhkVXVCQlIyX0JsanVuTTI?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-31",
+      "publishedAt": "2026-10-31T03:59:00+00:00",
+      "title": "Alphabet: After A 12% Drop, The Parts Are Worth About $337 A Share - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNUdzbE00U2tyR2k0aGpjT3dQV1R3RWVVbFRHRi1DRnJuV2taQnFBZVNfbzdsNnJlaUV2YmFwRk1qXzZLYVljQXZtS0tsS0VWWUl3azNERzRMenNjcXZMUG1WWV9SQWlsV2pTdnJnYUswQUhWTm5nVTRDam5yc2VZTkRmWlMtWVZuV0FDby1qeG9OYVZiWnIzb3RHT1AxTTFlSmhIeXBNNE9GNjJXaGFvTg?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T22:07:00+00:00",
+      "title": "Google TV vs. Roku: Which Is the Better Streamer? - CNET",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeDBrVTdjQnN1RVRPRGR5UUdtcnlFZ0lBb1JEYmhaenROMWgzUGJxNnRHWXhxVk56OFBqeGFyVmxMVlU0M05yU3lkbWk1OVEtVjdwTVVuUHhSWk05WGdJdmtFQTdOd1gwMjZ6Y2ZBTjFjUUI2Z0ljai04cnBQR2NPS2k1QmhIS3VKZnhuajlER0hjRG8?oc=5",
+      "source": "CNET",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T21:15:55+00:00",
+      "title": "Alphabet Is in Talks to Join Trump’s Golden Dome Defense Program - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMlZwUE4wRzJXbjlYVEpYNHgwTVEwSEhfNnJUWF9zeXBjbE9odkJHS0JENVFqT2lvcjdOS3ViZzRVczZzYjlqcC1nOS04cm5FTFdfb2xLZm9ETkthd2NwVWlNX09Ea0dYXzBsd1pIY0RWbEdvVUhlRk9mekFJZ2NDVTVURHZYenBVM3k4SEVNTnJWSkdQalZjRVkxZC1Gby1Xbi1WeGcyTThMZVMwYlI5RnZhM1lSdw?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T21:15:21+00:00",
+      "title": "Alphabet’s October wipeout hits $758 billion, its worst month ever - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDY5bm1Fb1ljRUR2TmwyOE43LVFTWS03bkhBNHJORkZfM3BZMjZQbjZyd2wyZFd4NXhYRDJsUWRFck9wQ0VkVkRMb1Nhb1pmUktpXzhsd2tVN2FKT0x6blhXQldjWTdzM2d0b2lUNHFkNHJLZ3RzZTZ0NE9rcWRxUGx2RjJ2TGVXMWFWdlR3c2xEcHRGdVhBZ3MyakRhejJrZEk1UWZFN3BrbVBfLUJrUFJ0YmpwVEdyTWZhUQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T21:07:16+00:00",
+      "title": "ARTEX and Friends: Enter Agentic Offensive Frameworks - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHJrY05HcXR3TFd0YVF4MTVHQ3lvRDk0YnFDbzFCWDBqV0UyTWwxQXJVaUtSYTRIcFpPRDRLeE1lRjVrdVFRdndlQlpZWElTTmxOTE5FeDRoVHJIWFhPaFZvcTc4ODFHMEYxN0EyeFVpRG9MLW9yVnN0bmdkcl9PWkRYZHdqY3hMdHFaNjlkWnpqRFpDaFh5NGZPUzZ2a3FaSllrOHRpV25ORFItVlE?oc=5",
+      "source": "Google Cloud",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T17:15:38+00:00",
+      "title": "We’ve received our first response from the Project Suncatcher prototype satellite. - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM1ZQekFiMzV2eHlIU3lBa0lZOFI4VXVVbHFXTXFMQkNYQVRyQTRDbzUyWmcwYUNWRFhrYVJldGEyWXlmVFdaTU9HR0dyR0tjQnRYTnByMjQtYjNiTXZFa2ttQlhqVjB5V0dORmFxeVRSVVJPNF8xeWxScllLcG5sYkV1T1prTWJkaVRNNTZTTC1CbGxnYmxKMVhwbHNQY05MRjJIdW5IaG83VEhxTUROOGNn?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T17:00:00+00:00",
+      "title": "Google’s first data center satellite is online and writing poetry - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWFhS0ZkZnRnV2JEWFJWNXMyb1U4eWxqQ2JUOWM4RXBZOHNNemh0QWVxbWxrYzhXSVpkWEg0U0gzWENkbmJZU1RzZmNhWS1MRWNTVEpuQzlrSGZKR0ZOQW9ReXBjbXc0dzVzNjdCZ0tndU1LT1BrSEE1MWRmeVRVUU01ZDBlQkE1RHY2T0pWOHY2YTNiQy1iZVZnRDU0UWFU?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T16:41:34+00:00",
+      "title": "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading it - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUppRjFUM21sNjBPYkRRekFkZ2E3VWNfaWNTeC1CSGlSYW9DNVhlTEJxRHQ4MGZvQkRCVmdiTDgxMklEOV9HZElEcndIQjVMZ19zalp6LWtySnZsYmtRc3JRS1F4N1ZLV0ladUJpM1pDakRseWFhek9VUXFHZEEtWmk4R3UzODBta3l2QnFGemJBdUdRazlrLTNaN1ZDd2pXZ0thSVQtLU5Td9IBrwFBVV95cUxPb05XV1FZTmhTaGFKRnJqdnVUOEZ4ZHR6dlU5RUpTUFFPei1aMFBBQzFaY1BLMWljVEt3VzFIcTNqYUhRWjBMc1JVOTRNRThEZzk5NC1oSWZBSTk0eEhBRnNocmtiLXRhenBvNHVscFpWcnRBemZ4WmRmcGxXYld2NXZOeG1IOWlGbnoxVDFXMFlDUUxsSkpNNkRfc25iSXNTSUxOMi1xRnRDOVRRUlRz?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T16:15:23+00:00",
+      "title": "Reddit shares plunge as Google's AI search squeezes traffic - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQks1Z3lNdGwyQnFsQ3NQTU1jWTMwNGRGV002QW5RaDhIOGRIRG9xZmFWTUpsYnpYWVhvbUE1N0ZRTXNlOVRJMjdIVE5nOU5tWEhWRGNORVZPUWxNZ2otUF9zUEQ1QkRlWjNNRm1keF95MFlJOUo3bXBmRTZJQ3ppdWxmOVlQbENUVXE3dXUwcTItTUNQTTJEQmJCdGJXeXNwckE?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T12:50:26+00:00",
+      "title": "Alphabet stock crash leaves this trading metric at a level not seen in more than a decade - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ0xtV0l0cGJDWmZVTTJHdU8tMkNPZ2plb3U5WlQ1eDNOTVVZcmlvbzF4ZGpWRmstb1IzNXZnaEM4ai1CMDZ5MnpDRExhdUlTQWoxaEpmdldNNnBjYk5zQVozMWZfQWJSZXJGWHFqNzFEOEdQcEdVN0JsVDRWY25yRW00OWkxVkdqMWZTcW01YUlRbnNlRHVKLXhiZGdncElmYnhvUDBsMWl2WDdSMlo3S2J5dDhOMXVDTHB2RE1ldi15Y3dMWUI3dlNjcVo5OGtUbjNYZ3JiSlNDWUZ1NTlldWF6ejJVTHcz?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T12:00:00+00:00",
+      "title": "Alphabet’s Post-Earnings Plunge: Why Google Remains A Quant Hold Amid Tech Selloff (GOOGL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1VKZ3FGV1NfU1BZSmU2T3ZjWUJIOTJrZmdLS3JTajRqOHk5dENuODdPTXpKN2F3dzhYcy1nNFdDNmJ3eE51VDdUZ0FxSEUtc1ROeF81TGQ2TGl3VlRWdllobTNkRVhNRVduTXFHYURoaDd0bmRUSWlFWUN6MzRwOGN0Y2dobjlMdGhROTNnNzBJd2MwWHdVcmhWVDJ3VVotb2xGQ3AyMUlEZWdTNlNaS0J2dTZHQQ?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T11:32:09+00:00",
+      "title": "Google Just Burned $9 Billion in a Quarter. Is the AI Spending Party Getting Dangerous? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcGFxbmtIdmF2U0FMSXNVMlJCTWM2S1c0NVF6RTlwUU1EVHl4dWhOOHF4X05pM0xZd2tvZFpCQlNhQ1JqV3Vvc3RGcVZUcFZUSUVHdld0RDdpckloeWtDeDY3S0FFYWdxc01sbmpkRlRvY2JQZEN4X3A5OGRzSDZtN3FqTkhvZGhnN1JjOGJicnJ1eU4zT2VKbw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T10:00:20+00:00",
+      "title": "Google Search Revenue Growth Slows Despite 5-Year High in Queries as AI Search Struggles to Match Traditional Ads: ‘We Feel Very Good’ - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPenNzYlpEd3dCR1ZBRFAxdDVBT3dJOEZBR2lUemRndjc0YlZ1bjFQb0tybkdEWmg0TUpiVFpUMFlGU3JUbTlpYlRKODJ2TTVOMEVobC1pRkY5MzBTaWZCV0M3ODJ0Sl9zb3dlTmxPdUVWNGYwZXBkRmNqNHVrWHNGVDI3WmF3eGNabGhteWRXTTZVZUdlV3o4VmdrcVFuODA?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T10:00:00+00:00",
+      "title": "Google is happy AI is cannibalizing its most profitable business - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWR4SHVieFhPVGxKem9qUHk2U3hCSjQtMXdWSUZ0dGhYY0txYWxuRHR5cWpicjI5Q1YyYldXZzVoUURZMUpiUzVQQXBaRUx4dlgyY1k5ZExnTVpGYUhsdU5hbTdUanNDUHk2QnkyY3kwOXZ4ZTVUOXRneXNCaFQxQ21lTXdTMTZ0Yl92RG1iZmd6Wk02bGp5TmJOcmRTa0ZhNVNvR19TenBGVS1jZGt2QUJ2Z3pFd05MelpUMk1obUoydw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T09:03:24+00:00",
+      "title": "Amazon, Alphabet, SpaceX and Meta are all to blame for the new tech stock rout - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREdoUGl3MFdxbTlBczk2OXRndWF6aVAtY3BFeU5raF9mODcwVVNvc0F0d3ViU2RpcDBIWUFRYUlVS0o4bVY0TDFMSDZuUFJGc2t6U0czUTNYVXBzeHZoXzNVNmJWVzZfaGVhZW1ZU3EwaVJWRlpwbnV5cUhuQklyV21MQ1duclVsZ1JyWnpHajA3OXE0UTlzMVJoMDdIT3JUY1lRanRycmtsaXZJcVJ3UTh1UnNKOERaa05pMGF6REFQUFdxOWZib3dTTjBVekVydGxFOEZWbw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T01:10:00+00:00",
+      "title": "Alphabet’s worst day ever leaves Google search valued below fossil fuel stocks, BofA says - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVklwb2w0aEhtU3Q4OC11VW15SjFHQ1lqeEZtNV9iaFVHWl9oSVdub2otNzZsSWxzWnhRaUFPczdEUGFmOS1Pb1JDeGQtZ2ROTXEteEJwSFVjdG81OTdUS1htVy1LTlhjUmlBUmlJeWQ5SHphUEVSQVpyb0tYSENHejZxbkxOTE5BSG1xNk54aVZLUzJ4cmRPTQ?oc=5",
+      "source": "Fortune",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T23:41:09+00:00",
+      "title": "Google’s $500bn bloodbath reflects the danger it faces from AI - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRkxZWHJELW1Obk50akt1TlJPX1RMVUdBVEcwMEdPOFN6dTNHQ2NTV3M4ZzJlSkx5eHNUczlhNGlUS0pIajFtU1NhOF9zNEhTVVJzNjBmb0duckV4SmtDU0xIMUdmVVZBbndRUWlmNURPa2NXX1l4V0xsbkZIS0hSNUpwZzBOX00zMXQ2cmt4NldXX1RnaVBtZ1FIbUtXQnZPRXZGeXlVcGc1dw?oc=5",
+      "source": "The Economist",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T23:17:00+00:00",
+      "title": "Google parent Alphabet suffers nearly $500B Wall Street wipeout amid AI spending fears - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVNFY2lBeUZZS2t3MnBITVE3WGVpdUhPQTRIV3hwWE9aazh5b1BCZWtJNTFIRmdScklnNXRGTWM4ZDE4N0J5REJoUG02V3p6YmV1SjF6dlluSkVpSlNESHV6SWFBV0UyTHUxUjZIbEx1Q3N5SS1uYVRaVmtVTS1COGxSMzVJdzd6LU5MYjZuWnZIYWdXRVU0VkE2YVpCdEJYZmhQQlRIYUluQzVsYlNud2hmTzJPMV9HaFlFeFNn0gHDAUFVX3lxTE9DemkxMlBiTmhWNGtuSGxUSFJ0ekZpR3BQOG0xNkRGdFlibEhXU0FJYWJOZUgybXozamFLdDRUdHExRU9pNzlhNmpPbURmcklCQTEtWnRSMENuN241ZEV3Vy0wd3EwaHRqUE1tQXZtaHRZdVJEeXhrbllqT0dVWnBiM1F6MFdULU5Bd2F5clZaZHBQQmttSFhJckg0a255Tng3SzFvXzE3NENudFF1LXk1Y052N3VETFBMcncxbnRoX1B5MA?oc=5",
+      "source": "Fox Business",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T22:15:33+00:00",
+      "title": "Shares of Google’s parent company just had their worst day ever. Here’s what it means - CNN",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvbkJ5TjFBalI5U2dYTm9ycjZMNTdCdG1qWVNrem80VzB0eDhWejIxV2M0dndPeER2NjFBUFR3VXBDZmYtQ0Q5eWZUUGg5MFNUTFdZZ0FaWU5NRWRabkZpSWhvX254SlJzMExsR2RDemhXY3c?oc=5",
+      "source": "CNN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T21:53:41+00:00",
+      "title": "Alphabet shares tumble in $500bn rout - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFpfdm5ucU1pTmJEQ0l6bDliR09sZTFzV1lKVjZaWldRanU2cUFjVG1iY1hhZHFBcFpQZkh2S1VWaGpxc1M5Y1pvUGhsZnQ3SE4yTkZHT0dyQTNoR1Npb043NW1tRUlST0NEdE5qSVB2T1BiRGFiZFFpVzNXa1RVZXJCbWU?oc=5",
+      "source": "Financial Times",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T21:20:00+00:00",
+      "title": "Alphabet Sheds Half a Trillion in Market Value in Stock’s Worst Day Ever - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGV1bXVNOXFOR1NrQndfTDlkLTlxemh6b0JkY0l0LWhZUTJIUWVadTdDOXl2aG1WZ1JVT0l2TzE4OURJMFhKSlctVmptS2UwZmpzajRHT19BaEF1dzNaWjRVcjh3YnY1MV93dkt3V2dTZXNFdEpHTHJ2T3FzSHowekRBclY0eWw2bWRrZHhnajNyNlFncy10TmdTSHBBYkMtUk1KaV8tMXc0bG8x?oc=5",
+      "source": "WSJ",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T20:42:00+00:00",
+      "title": "A historic drop for Alphabet’s stock drags the US market lower - AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWE2NlZVNmVDNUoyd0IzVGhKeDFtWFV0VEYwdU0xeWNGdk1mdGdCZFI1OTM2aE5fbTh1Rk55S3lubUdIMkc1UVY3d2xsUm9IOHZJdFNFSmlKSkVZdFNOTERLbzlTN2VjSEUxZnZleElyQ1Z5WHRQNl9KY25xZjVhQ0s3YWtyTDNUQWFQQWlB?oc=5",
+      "source": "AP News",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T20:33:32+00:00",
+      "title": "Alphabet shares record their worst day ever, shedding $500 billion in value - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMndTLS04T1FTZGdERGZVOVpOcThYTkNlT0FHUnp4TF9lVU52SDlfYlY3VzZubGxkcDdwWDQxbUlpcDUzUjN1RF9qRXBfbzlTaEsydXlNMnpIRjJldVpOdWdVdVBUZ2c5aVRZS094c01NZk9aZGVUcl9WZlhzdG4yNHRCVEpfajlTX3NYVmlpdzRPQQ?oc=5",
+      "source": "NBC News",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T20:32:00+00:00",
+      "title": "Alphabet Stumbles, U.S. Economy Surges - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHdoVmM4WE11TzN5YVlYMGZTWERHb0JKRzduWkxxVTJyWW9wdllHbTBheHhTQzdKVHpSWDBHSG9aVXE1R2xCaVRMRWFVMGI0a1pSMGdGODhLT3ZieU9VQW5pQVVzYjJjeXhubnVSb3FnclpCYVZhZ1VBTHdfaDZYZXYtX0ZPRDQ?oc=5",
+      "source": "WSJ",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T20:21:57+00:00",
+      "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T19:42:56+00:00",
+      "title": "Purdue is first U.S. university to deploy Google TPU AI infrastructure - Purdue University",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9vclNrXzlpdXBFdGZ2TmxOUkluZnQ0c0xXUVBvckNacHlRZlRWdkpIbmExcHppTDIxZGtJZWMzWUZhRmREQ2prNW54a2ZvdGNnd0JHUERRY1V4MVBraUpET291aFQ3VXhWSFNaei1ZYlFSRFpGazVHOFNpc3pRcDc2Q3dsSERvejhBc01tZVVyV1NpRUwxdWhpZEZTRlhnajlYRDZubkRNMGg4TFE?oc=5",
+      "source": "Purdue University",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T19:32:40+00:00",
+      "title": "US files lawsuit claiming Google wouldn't give employee new job following military leave - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeXotZEEtVmJIQW5kaXVxYVk3RFQ2RzVzYnh0Ymk5UzROZjJSTDZwZmFmU0tHcTh0U2tDSkpxdHA5bmFqeDB0YmdtMHlKRHl2MWduWkFIR3QtVnFEeFNmZ2NMNFlyaWQyQUJZRlBzQ2x2VUdEWE1OZHRHSk92RWxCWUVIc1YxUldJcm4wSGxPU3RORVNDSWJSaHllMmtmUWxZZW00c3ZGbEl0eTBpT3ZOM3IyWDNiUl9TNk1R?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T18:00:36+00:00",
+      "title": "Google is eating itself — but it could still eat everyone else too - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0JLZml4aFh1cFpQVXkxOElnY1VYd1ZaYmZURzQxVGpaQXdWNzBiZ0VjMzByanBENUxrdFF5VDVRNWxqUlcxeGthUDh2bURxb19fSUNLWWxqQ2hrV3o5SnZDN09xSFVRYm1PY2hmblpwOU5JSk5TRFRQTllOVjczNmFyMW8?oc=5",
+      "source": "Financial Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T17:54:00+00:00",
+      "title": "Alphabet Should Follow the Berkshire Hathaway Playbook on Earnings - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZTJlSzY4Q3lqWHNqT3hwdVEyN0NwRnFrMk05eWZ1QjNBM3VmLXFfNFJJbUZZdXJxQjk4OWM2U2RJSXdJa0hVWWstYWNVZUxGUzhYSUhURW9wdmZ0RjVlT1BkUTA3YXp0WHJZR0Fnbzh2alFYYnFuZ3pRR09MVWNfandkZndrOXEtMWxwcnZB?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T17:45:00+00:00",
+      "title": "Alphabet Loses Almost $500 Billion In Market Value, Marking Second-Largest Single-Day Drop - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVl6T24zMVdXT3ZaQTNzRHN0MDVjU2wtSE1zaGtjYkFLS1JRTTB2cFJETng5U0xVVXBQWlJfM1NSS24zcmtkaERtR0xrX2tZWTdwc3NMWURESXZyMFdORDUzdTU3TndNQmYyX1JFZTJtSmVnVkdsbGFYU1Mwdm5HRHl0T3paVnVwU0Y2di1UaUEwd1RlODdlVEdaRlI0SFphQ0lJQXhJN0Ftc0kyRE1hMm92LUYtQUcxai1CRldySlNMc0Fwak5OeDRoT3dPd2tfVGlaNFNiVUxMYmY5dWNhQzB3?oc=5",
+      "source": "Forbes",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T16:30:12+00:00",
+      "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini. - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONUxrMU16TDAtcWlsNDZSRG44TmFOTS1ZdWtwVFBFUXNVWHY5cF9LdXNLbHB0bE9abE14Y3l3Q3JiYy1uaXNTNVhpeWRSLVFfOUdCZVBFZjlVME1mc1ZlRWtsTGFYM0d6a01hWG9kbmlyaURvUnUxZTRwUTNJUW1idDRIdGQ?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T16:24:55+00:00",
+      "title": "Google admits AI search makes less money, but it’s fixing that with more ads - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2N4WlltWWNlOEJwa3pkRGZVclpXZFpBNFM1R1BYSUxrZFRKUzl1dkREZE1wQnZVSEE4bVQtOWM1amVhVEY4dHJTaWR0dWtzMV9JUkZPdXNlZy02NUhNXzJPVGhaVDNlaXltRHJoUDh2a1dNNlRlcjVSMUEwcG54YTljZEFVYXVtSFR1bUtCUmpHZ0ZhdHQ5VVIzRlB6TFRCU0s3MURXY3E0RENnbGpYcF80T3U0dw?oc=5",
+      "source": "Ars Technica",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T16:09:04+00:00",
+      "title": "Finland launches criminal probe into land clearance for Google data centre - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZk1Mbjlqa3B2RFBxMXpXbTcwVjdMYVpwYkhDVmcyWkpKSEpDTDFzZG9QeHVWOERzNDRJYmNwRHFYWUY0dHV6RDRvaEl4QUYxVVZtOTFZNUNqa18zR2ZiVlJ5eTYtQ0hOcEswMGt3TzdCV0tJazJnMzlBZmZuWXdLZUhQRURmbEZfVTJFbUJKdUJGekNIY28zT182eFBlM2FnaWRJN0dRa3JhX0Exbm9xRTV5T1ptMl8tLUVYUFNmWUthLVQ0YVhMaFU1cw?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T14:56:00+00:00",
+      "title": "Alphabet Earnings: Why Google Stock Is Falling - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1cyWEw2N29xSWxneld4YlNXRFozMUVXMVVuR1ZBbXBDWno5Nzd4QklMQmFVZi1yTld5M2pfTk9TOXpYdGRBVm51WTNKQ2J4MVJPME1naEtCM3N2SXBNbVVlZzVBdS1nbnVnNy10WFFQanh4Y1VjUW12Y2dsYTVzTw?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T14:25:52+00:00",
+      "title": "Google misses Wall Street expectations, Alphabet stock sinks in early after-hours trading - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR25CYmFOU2xObG0wQ1N1eTI1WktadzJwZl8tdmFXV3N3eGJRWGw3T0VjaWJBMmliTXVfVlFaNDlzU1FVTnpySjhJZ0dmOVZWZ2dCY2FRVDV3ZktrZkg2OV9ZdnZNZzdENkRSR1p5aE1oalJPS0NKYVRoOWRqanI0blR3S2oybzU2bkJ5dTFkX1BBekJ0aTdmQUJyQ0JGYVhZVEw5Zkpwdms?oc=5",
+      "source": "AP News",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T13:52:20+00:00",
+      "title": "Google stock plunges more than 12% on Q3 earnings miss - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFB0eUlHUndiMWdzRDRqWExlUGI0ZHdwM0FMeVRSNHVla0I2QS10aUxmdWV2VHpMUkZLUVZTb1NvcFJ1SnJiVjlkc0ltTjFGRjRacTE0NDNCemZqSHNzeUI5TmxncHhQLTFac1I1cUFPRm5ySFB0THFJc0JEb0xNMTB1S0t3d3lMNzNJRmRXWU9KU2phb0tEQnp5VU5SOEZpUjlqWEU2cm5udXoxdVNqV0Rxaw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T13:48:24+00:00",
+      "title": "Alphabet heads for a $500 billion drop in market value, the biggest in its history - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0pfRGxYakdFTWU5eXlYYTd5cGVuVmpzMDFiMDBuX2ZOQVB5aFV1Qmk1dEhXQWwtSVNtU2ZOSTNfVDMxS2NoMUpTbmJ3a0hYOGtvOGJldXlkU3k2N3djaVhDMUNGN0g5Q1J2SzRXMkhXbzI3MUxqd2t5SEszX0JEZWZPUmRSd3VZQmYyZzZZeDNvY0hKaExMcnNTbHhzeTItckpZaEJmbWxodHVla2FKTTN4cmdFY2VjWk96cjdwLUtjX3FMRmZwLVp3SHJiX2xNajBR?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T13:37:27+00:00",
+      "title": "Google Erases a Record $500 Billion as AI Eats Into Sales - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNl94WE51TlQ2Q2dVVTBDNlZZbzF5Mk02UjZRaEJwQnhoM1lGX0dWODk3b1RwZDB1SDVHYmYtOUQzaWJyTEc0ZXlTNmpyQU50WVhaQUpJX3dyMkVFbmgyVXJFVy1fb21TQUxEOXFIWmtzdFEyYVk5SkU3ZGF4LTdnN0EyTlo1NklicFg4TzlpSHYwRE9VYzdUUTZ4N0ZLaG9XWUs1Nm5vM3FfSktn?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T12:00:00+00:00",
+      "title": "Proposed Google data center in Pine Island to undergo new environmental review - MPR News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkF2Zk42ZjNWSk5JNXN2QmVWSGt5RGQ2YWlMV1JCdFBBUlg1YTVlSE9STzRxa2pEbEV2M1RuQVZhY0hKR3kxZU5WTFFXbjMwa0xaTXhuaHlNWVk4UWxTbnNEa0R3bERRbVB2aVYwZGFFY1BnLTROWWJkXzVKT3hSV2ZFUExBbFMyYXZXRUwxZ2ZscjNVeXViVjJ2VHJKamtUWHczUHJ3?oc=5",
+      "source": "MPR News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T11:30:01+00:00",
+      "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pM0RNUDRnMFJXZkRoZG5ZdVVXRHozTUtidUxjMXdKbFBHVW9hTjg1NlFPcFcwLTZCQzM3cTRQYnpzRE1LQ3pNUkpxQmN1OEdnN25fZGhNUDlMZ0w0VW5kUGdoWWd4ZDFWNlZBTHFQaVpDd3B2M01UN3ZrcWzSAYIBQVVfeXFMUDhDNzNOa204RlZoNUNMTUZnWEVNY0RVbmtlNjQwc0N6YU0wWlhla29xRE5GRkhZbmwxRjEwNE9lZ2VoaG9mU0loVVJGaEprdmY2TkE3U1luNlE3Q2g2VmJVSlZkQ0RPYVdpSGYzV1lSMFZzZmRjU2lFanhOUThXUzZGZw?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T11:00:02+00:00",
+      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNNIBgAFBVV95cUxNNHc4N2kwVENwVmxsU1pPY0FkX1FDd2FlYW83MDlFd2QweG02NkdoQU5lMmZCVVh3bXhLclJzVXAxcTF5ZU5uQXAtZGp3Qy1ZdWFpWUszT1hQNXhIMVhYZFR3aXF3a0NhaUF1T05XcnNIUHVMZEVBdGpKT3NZVFI1WQ?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T09:30:00+00:00",
+      "title": "Google Parent Alphabet Still Has the Ingredients to Win in an AI Pullback Despite Stock Price Hit - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUgzSXRFc1hETjM5VjFRbjM1bHRhNGg1Vlc1NzAyUklCSG5IN3A1NGdINDVUYUt2dW1jTnZwQW9UQ0VNQ3FGdHc5OU9Kc1ZpLVpJS3QyeWtTaGJYMGZaLXJUSnUyb01pR096STNBY0Z6NDd6bjNCeWJzVXdSRHR6LTJCM3ZjZVlTUFAwRThXQWFLVjZDbDl3WGllUHk?oc=5",
+      "source": "WSJ",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T08:35:01+00:00",
+      "title": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc0dhT2FxS3RWNmx0Y1ZrbFY4OFBwZHpINU9Od01NMlcxZTMyYTd3X1NiOTZYYzJLRmpzQ2N0OWNJdzk1akxtSERuUl9aT0E1ZUFBRTJTZTMxSVBRTmJtQjBaWVgwMWMwanpsb1ExZEVPUEVQR1ZINW1zOGlWR0o5bkljQjJUcFA1M0NKNDdOLUNyb2PSAZgBQVVfeXFMUEtscFE2UFdzM0pIME56Ty1ZQlBvLUFSVUttY3NNU3ZWYmROUDFkaVZWYkdSZVZzSlYzNGdGMU9FclMxZ0VNZzZiR0JScmI3azBJWWxXVV9rSXNQRC0tTElRLUxNWTBSM2lhZ0NER3RuRGxRY3dmcC1FVVY4RHJza0RBaWVLNGFUZVV1VHg5R0RJYU9WWkp6VUI?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T23:39:00+00:00",
+      "title": "Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVFNKU0VHYzVoWDI4M05yc3htUHZOT2o2Y3dfc1o3b1htd3hWT2xFQTBVUDBXaFM1SmtORUlCbVZRTVZmRWxqSXM3YldtaTNhenBJY3JTbXhDRGgxNDBoeG1LVk9DS25wcWJTbWJjTkJ5SHhMSnZXbnlMWVFsU210ZmhvZ3pnRGlpNGIxVUlB?oc=5",
+      "source": "The Guardian",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T23:26:00+00:00",
+      "title": "Alphabet Stock: Google Earnings Miss As Cloud Computing Booms, Search Growth Slows - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVDdBTW9ka2FSLWY4ZDNxTWY1TUNOZnBlWVd3SlZZOGhPa3hsWndTZTVja0VPbDk0Z0hCMlZFTXE1YXVlRENkNTkwbmdUMjFhNlBWYndVV3FhdXI2QnFNcFFiQWtLMWpCLV94WjRNbDMtLWJqU1gxTDNlU0JwV3phX0RmN0RVLWZzRnc?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T21:48:37+00:00",
+      "title": "Google expands AI Search ads globally as core ad growth slows - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeThmNGZBWUdUVXNrQmZtLXJtb0E2OEpWSkphTzJ4a2FSdTBsZHowYUF6VXl1dkpSdmJvUUxFaXREZkxKZ2JIdFl1Rkl1QVJfTXpqcmZ2WGQxM1hWaW5wRVZGcld6M2hjVlUyR2oyc2QwNE9MTDVjMUZXSUJvdDNXcHdkdjVWTjFhbTJMWl9LSk05alhGcTktbzEtREY?oc=5",
+      "source": "TechCrunch",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T21:45:53+00:00",
+      "title": "Ads in AI Mode expand to new markets. - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvT2lmdHpvN25CRXltMFhSWVVRQW5WbE9RQ2t1LVhwM1R0ZjZpa09HUzlaMTNHc0FPbGRsa180STBpanAwX2d3UzlOdmN2SjJFd1ZWMzBrRk1jdmFVY29DN2twUVpQb0d2eXBZZHVDYlFfUQ?oc=5",
+      "source": "blog.google",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T21:43:00+00:00",
+      "title": "Google Shares Fall 10% as Growth in Search Revenue Slows - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmNkSG5GRS1SMkpKWG5nQjc2YV9BOEU0X1dEZHB3V1VvRGtXdDgzTVdMdnNEcGVzclJqWU9NVzdjYWZybm95dGZhR2NjdEotaGFvVERZM21LNFBpNUhIV1B3eFNMaFNJbmgyWnhFaVdZTmNTXzFzU3ZIU2R0emgxdDNCSVBMN2d2?oc=5",
+      "source": "WSJ",
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T21:40:00+00:00",
+      "title": "Alphabet’s Google Cloud revenue doubles to $31 billion as cash flow stays deep red - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0Q0YVlPZW5LQlJKcXFTOEFremJocUtxWVVTM0RzWlBETjlCdk9IRTZwdkVFeUY5eHE3OUJTNWVEc2k2Mkt0UGRhbVd3cmRtdUtsX0ZEQnFDOFBzWXR0ZTVlei0xbEhZcGJUb0RRNFRGYjJVcG1oaGNlV1BOU2stMGdzUkFTQ0FVN2MydDZoVEYzZ1ZZQk1pZGtuZzFTaUJKMXM0bXRnUzA?oc=5",
+      "source": "Fortune",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T21:12:01+00:00",
+      "title": "Q3 2026 earnings call: Remarks from our CEO - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHM3bGd3cDMxcnppSXR3OVRtVEVJcm9BWXBjN0xFZXB1Mkd6bTBhZER2ZzBYaDZocHJlOEpwbDJKblVJTFYyc3dLcUljendNcHBLRHBwMUFkdTlfc1REVXBiM19KRHhMelZ0MHZXOWVtWk5nd3UySlZNbjdwdHFWZmJ3UEYwekRNa1VEM3Jn?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T17:46:32+00:00",
+      "title": "Google AI gets cagey when asked who won the 2020 elections - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2c5c3hqaXM4T1NpeFJIZHp6akREd2pKRWZhMlhvcVRxT0ppbFk5REdodlpGR0FnYkZodzNSQlZBQ0o3ZzRPbndUQW1tTDlQTmFJTVlSLUpxWnhOYk5iTU5tTzFwcUxfaF83M2JRaGxKVlhqRVFDOHRtel9UUU1pMEROek1YdkxiZWpSWTRfclZwTk5NYTd2SlJ3?oc=5",
+      "source": "Ars Technica",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T17:08:56+00:00",
+      "title": "Gemini 4 Carbon: our next frontier model - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5",
+      "source": "blog.google",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T16:00:01+00:00",
+      "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027 - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mMXgyTllzVlZsWFR1UGY5bTVRWWNYRnFoX3pCdDVjNU41Q3VQUTJyb2lTSUs3ZTdBakY3M0RVaERvZUZRMXA2RlhlYTNyeUJnb1MyX0ZjVHJWODNxd0pWbWRHRjNqb0FWVC1xdzdzZ29qQW8wMl9Z0gF8QVVfeXFMTU5rc0Fla1l1QVdxV2I0d3Znd2JCWm1tY1EtdFR6NTNuV0FaYmhWbEVsZUhFYWdNcXZ0ZGlrdWVaZUxnbThKMVR4V290N0hyb3VmSmtRVDFuUC03Yks5b3poak1UNFJoNkE3RHkzWWZMeUFqajFCc0Yzc1BwSw?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T17:38:08+00:00",
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning - Google Research",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYk9TS2ZTLWU5ZTE1NVh6RzRHUUtVS29FV1I5Y2dfQ1NWNFBBMG12NjQxUUpQWXJtNnp2elRmbzJucGxxODRLRGE2dllVYnhhZl90WFpKSkg1T3BjY1NxT2xzbTFZclUwbWE0Z3FNcjRNNS1oLVF4YkEzN0V3Q2FZUno2Qmx1dXlDWnpvcklGRGIyWE15NUppNnZhRFRJY1pSR20zalMxSWNIclJZUmdF?oc=5",
+      "source": "Google Research",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T16:21:34+00:00",
+      "title": "Google and Oracle are partnering to bring Google TPUs to Oracle Cloud Infrastructure - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcWRibmpLV1RyczRyQ2RRMGZaeDVFbEZwNWhvMjZJY0Iwa1JnVHp4UWJHbi1CWTAxU0ZDaW9qMm5SeEd5LXczXzJvRXpGbmhWV2FMcDBISHpRSkRLQk94X3hPOWRjanJIb1J2ZzNpMm5TWTUtLVJSaVhmV242VFNrcE1IYmpTaWxLeFBiNUdnOVc4RE1FN3FQeGxDQ0p3YktNOS0xN1ExbHo?oc=5",
+      "source": "Google Cloud",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T16:06:33+00:00",
+      "title": "Genie 4: A new generation of world simulation - Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSHE1Q2pvLWgzQk5SaDNUVjcwWnpNLUoteDhJZVRLU3RPZjFhX2dtSGdSRW9OVGdLbUZRQ2dyd3pMeWRqNEtUM080azFBX2l6RGZCd2diZkxYU19LSE9HNUNoTUFHa3NLMUN4SjhwMmRXdFFHVW1hVEpsZkxnWTA?oc=5",
+      "source": "Google DeepMind",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T15:14:55+00:00",
+      "title": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud - Google Cloud",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmFHdjgxSllxUXBrQTBJSEJXWXdqLUYzcHM1TTRkZEpMeEwxMHZmVGNkd0hCMVlHb0VrdHhwUzJLQnEydFBvLTZvcVU1TVdaVlFVUllxQ2NQM1pmY24yRFRubjViLU9ONkpDUEhPVUMyU0pRX1hBRzVrOWtrTXFCRDZkcDl1Nnp0bmVqT0NTMGxZYVZ4Z29WSmh3V1A3NGRsYzBDWTNSVm9leV80cTlnYk9Ib2JQX3RzRlB6dUVNUGtUZVM1NThz?oc=5",
+      "source": "Google Cloud",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-10-27",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-28",
+      "count": 10,
+      "pos": 12,
+      "neg": 4
+    },
+    {
+      "date": "2026-10-29",
+      "count": 27,
+      "pos": 8,
+      "neg": 24
+    },
+    {
+      "date": "2026-10-30",
+      "count": 15,
+      "pos": 4,
+      "neg": 6
+    },
+    {
+      "date": "2026-10-31",
+      "count": 24,
+      "pos": 6,
+      "neg": 8
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-10-27T15:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-27T16:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-27T17:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-28T16:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-28T17:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-28T21:00:00+00:00",
+      "count": 5,
+      "pos": 8,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-28T23:00:00+00:00",
+      "count": 2,
+      "pos": 4,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-29T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-29T09:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-29T11:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-29T12:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-29T13:00:00+00:00",
+      "count": 3,
+      "pos": 2,
+      "neg": 6
+    },
+    {
+      "datetime": "2026-10-29T14:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-29T16:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-29T17:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-29T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-29T19:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-29T20:00:00+00:00",
+      "count": 4,
+      "pos": 4,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-10-29T21:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-29T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-29T23:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-30T01:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-30T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-30T10:00:00+00:00",
+      "count": 2,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-30T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-30T12:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-10-30T16:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-30T17:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-30T21:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-30T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-31T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-31T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-31T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-31T10:00:00+00:00",
+      "count": 3,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-31T12:00:00+00:00",
+      "count": 3,
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-31T13:00:00+00:00",
+      "count": 6,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-31T14:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-31T15:00:00+00:00",
+      "count": 5,
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-10-31T17:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}
