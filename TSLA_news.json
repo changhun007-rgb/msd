@@ -1,0 +1,943 @@
+{
+  "ticker": "TSLA",
+  "query": "Tesla OR \"TSLA stock\" OR 테슬라",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-11-07T09:54:53.477344+00:00",
+  "items": [
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T08:08:34+00:00",
+      "title": "Tesla Model 3 Performance 2026: 2.9s, 510 hp, $52,990 - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdEtoMW56U1lQNDdYRlhVR0VRSWxpbko1dGRnbFFXZExadUVQQkFxcko3aVFxRG5FNGR2dkhVMVFaSDlZbkw2U1JyQXBqc2NFeWlRYWlBa1JfM1hkMUFTRVU1OTJQbGpTbTU2NktwOWFOeWRldnVDSGpzZ0VWUnQwc2Mxdkc5d1hXVkV6azcwLXdyREdPLVE?oc=5",
+      "source": "https://tech-insider.org/",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T08:00:11+00:00",
+      "title": "How China’s EV quality drive may help foreign carmakers regain ground - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNFZBWGZIbVlPR2xDMk5aZFFJOHN1UzdneldyS3ZxcTZIRGJGdjduZlRPZzF0c1hZbm9SX3VnNGtsakVzTVRqNTA2ME9HSkd5SzQyX1Y3eGlSSXgxdjAyTVJQcXZGOWRSbVNDaC1mSTR3d3B0c3Njc0ozRlRoMG1ZdTVkOWhNa2xtYk8zdXVzLVc2Y0ExdnB3NVpwWFo0eGpMdENYTkJjVGtJeUZ0ckdFZ2ZmemdfOGo5NHlJQW9vLXNCR01wUFZlaA?oc=5",
+      "source": "South China Morning Post",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "title": "Tesla Cybertruck faces an uncertain future as Elon Musk makes a major shift - Cleveland.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2owUUhjdF9jNkU0R3d2X1BhcnhsRU1sbk1qdG1ENDRZVWpHMFFyYzRfYTIzS0FBMXg3UE84UDQ3Rl94MVhFSVhHQmpoNDd2bVJGNDFJcVZpTkQxcWFZWFdjcXJuWlhSejUzOWhTUF9zdWpueDdJSVktLW9fUTdSQjJUeXFPTWhxUkJ6VFlhZzNaNGJ1cFBOeEVBVXd4YWctTWYwVzBrZ1BKVWNQZDdOdU9MNHZwSWpiUWlV0gHPAUFVX3lxTE40ak1vTkJIX0hEaXd0bVZWT2U2emw4R1ZvODhPbHdyTElVV1RBdFNkalJ1Y1plYkl6TmI3QUZBYlpBSEFPSlcwYnZlV2x2VEtLd215Tk1yWkY4TC1RcGNJaVRocjdJZHJUT0FJeXRraTBBYjI1ekEyTEV3SDlKM3BXX2tUZWwtSF9pcU9sUHF2T2NlQXpSR1lPMXRCQ0kzTDR2bm9HRUwtdnZNSGFCRUc2ZGdZRVZ6ei16YUdLUjAzQ2lBbmlnN2VnNDJBWGJKOA?oc=5",
+      "source": "Cleveland.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T07:57:34+00:00",
+      "title": "Tesla Cybertruck Production Winds Down by Mid-2027 [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObE1xSWdleUY3MDNWVkxSZHk3YnB2Um0zMTRzdFU3dlpGdXVCM3A4bXV0c2dOUVBiS25MX2Q3Z01QXzVrd3F4c3VWSWRiWlNpcklmMzFuNjdQQWJQcFotSlh0TUx1Qi1wdFZHWmRnNGtyVnlpeEhSWEl2UXVLcVJlNGY4QTR0NnhvZVdjNS13MjQ?oc=5",
+      "source": "tech-insider.org",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T07:02:15+00:00",
+      "title": "Alpine A390 GTS vs Tesla Model 3 Performance: which premium fast EV is best? - Electrifying.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObkc2UVhJcU9MNTRhOEgzeXRBUjU1TzJZRGlZZnE2cFpudUhOeHZFUXNsUlVQY1dVRzJOZmY5bklZamM2M2ZoWFMydl84ckUwTnh1YkVKS1d5OXZ0R1BSXzJITUVTME54WExKLUQ3dnJhX2F3ZDRhVHN6dmlYTlZMQ0gxWWFBbE1PWVpycHpfU2c5Q25RbzlqNDYyNUVWeWw2WFRxb2tYTEU?oc=5",
+      "source": "Electrifying.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T06:38:13+00:00",
+      "title": "Tesla China October wholesale sales total 67,829, lowest since Feb - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU3FTYkhuVy1sZVUzY2cwOXA0N25CVnRhTmlOQnVfakdMSjlHR0FaZjVIQXI4WnpneHo0ci15UDJ6amVlUnc3cUx6S0JjSlpvTjc5NlBWUkUwZjNubkFPdkFST1pycWpqZWgtdGUwUFBWX3A5WnBsYW1ma0dWUm9pZVF3eU1rNGZzamVqUERzTTRLM2puVktJay00VWZzZkVHWkQ0RGd6R2QyWVJwMG9vQl93dktqUQ?oc=5",
+      "source": "Moomoo",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T06:22:56+00:00",
+      "title": "Tesla is pulling the plug on the Cybertruck - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmxMNVVwUWk5bGZOMGh4QXpzam9lZWxUeTl6cDM1eDRIcFN5b0t1TF9FS3lOR1BaZ1JaZlhLRHIyOTU5VWE3c0FvS3VQRl90VVhJbzVPYTR2WFJqai1KUWoxLWk3REp3bHZ0RjVCNWpjZXVFczBTeTlhX2dzM0o5eUlpRVhsQQ?oc=5",
+      "source": "Morning Brew",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T05:07:00+00:00",
+      "title": "A Retiree Who Bought 1,000 Tesla Shares at $197 Just Watched Musk Kill the Cybertruck - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM29KT25TZmppcHZCWEFUYVdPX0JXejV2Zm9RUi00UkUwS2tUVlE5NzNYTnNqN0hwOEI4RjdNeHJBTWZuN0ZoNmZBSE1zQmNYQjkxQjZvbUg0Q092ZWdWMmFkOVVJTTAxZWtRVElnLTNEYmxTcklRWS1XajI2aFE1eENrV0Q3alZ5RHJnMU0tZWVMOFBtUDJlVG5KTDJjVUp2c29hUnhPaWFfbmUyS0FwZFVJTTc0Zm5kanQxNWR4RVNzQ2E5bUE?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T04:06:35+00:00",
+      "title": "Tesla to End Cybertruck Production After Safety Recalls and Falling Sales - Law Commentary",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMW9zNzhXbVNzZDJ5a213ZjRWX1FUZFA4WFFWaFBVbWp4cWlzakh6dXk1aFhmem94UlFrT0N5bGdZNFJWN2U0MjhnckVOakgycHgyS3hyYTY0c2VDdVFoT295NWV3ODZPWHNXT3JyTDZXS3p4OWV3S002dmNKLWo1RVV1c0NfanUy?oc=5",
+      "source": "Law Commentary",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T03:34:57+00:00",
+      "title": "Tesla, SpaceX Face Different Risks From Gina Hinojosa’s Texas Midterm Win: Bitunix Analyst Says Expansion, Not Existing Operations, Is Key Concern - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXFCbHYzVkM3elJzcVV3NFlRS3VkTldkS000bWlYandkcTRIcE1mVzRzYW5kcm5ONy0zZExPc0F6NG9xNjJCWHd6WHl5aldZVGVMWHJsckJUbVNENlBicFBFSDBKWEtiSGx2anM0VUI0aXZXck9tc3lmZk1NNk0zR1VabXJEcDBCWU1JcWxLMFdzWmVKVExyTnlUcm14WXM?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T02:46:45+00:00",
+      "title": "Musk axes Tesla's Cybertruck in favour of self-driving taxis - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUV3TjVlbVlmUGxPV2dSNGVGSDU3MXcyTmEwU014UVJWdHAwT0FwdWV0dTJZWkdiVDZpT2xNeURTVEJSNzREenBaYXU5ai1aSE81WnMyYlloeEpKT1dCeDRvV1laZHhWZDc4LXlybzNVckphMGxyclBWeklMeTc5Nk9nNXo2MGJhcFl1NTl3?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T02:12:00+00:00",
+      "title": "Tesla (TSLA) Stock Trades At An Expensive Price For Sales - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnpRMks2c3FJZVU4SUpvaXlOcFVOcUx1ZWtjZThBeTI5QXRaVEVndjZFTC0tOGtrVmM0VWh5VzZhUFJHaFJoLUM5cVZJaUtLTGdOQmZOeDdaSll0Mkw4Y3dOeGxHc0NPTXpRZ0FwOGRrVGFiVG1ZVkRvQXh2Sy1keWxFdG56YzlvSEE?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T01:27:44+00:00",
+      "title": "Tesla to 'wind down' production of flop Cybertruck - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWHpBd3NESjR2NVMwTUVURFo3UDhrNHB1UC16bFRiZ1N2VGpYWmpvVi1JVVdDNE5wXzdyLUdlLW5ZSDE5LXhMR0lISkFCVGs3MzRJbmxmalRsdGwyZ3VBOUNJMFR1R25qWFZwNlRNdnNkVXAtZlBCcHhHVjdBdmdnZVhRTURscDNJ0gGIAUFVX3lxTE55d0VzUUdXX3JXeGhsOE1nYXlQRVBqWmJHejdJWUhtX3hObEJuWmV3dU9nUGg0WWxTSzdHN2p1aVlPbUxTeUtMV1FuOG0wR0pQa2NHX2ZkT2I0OGE2UEVwUENqU0JZTC1MZGhSSXV6THliSjVDcFpyUGlJdFF6ZWJHUHRnZm1aeHM?oc=5",
+      "source": "DW.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T00:27:03+00:00",
+      "title": "1 injured after motorcycle and Tesla collide at Redd Road and Southwestern in West El Paso - KFOX",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWJjYWNYX3VOcWlsN3ZoTnpzaGdSZTlHWjVlRW12VnczaGVrWndOTnZIOEVjTVV0Rko4Zk1UQ05aTU1aaHZSeEd6X3Q1VGNPQk9yMWpndTlPRUYtSW54elNRWHlVYjc1TF84QmV3N3puQXNqcm9WV2lOSHdEZUZ2U2ZodVJoTEF3YmR6UFhvWVIwQ2tEXzc4RXhEelNWWUU5aV9IR3Uzdw?oc=5",
+      "source": "KFOX",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T00:22:49+00:00",
+      "title": "Tesla to wind down production of Cybertruck - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSktrVVpVV1oxTDBwZm9ZeDFZWGx4QXJ5eThkbXUzRU5qRGRuekNkVmZrSTkzZ000UHgySDJKLVB1N1RZdE5MS1JacGZNdWxoNlUzMUgyOF9VT2o1WjRCekgxNGR5VkowSUVYUU9vMElYRnVBbldVNHM3ZkNWQmtmeWM1TURQdjZzRE4wcDZXVVFwRHJxOG9XNXdTOEVGZnVC?oc=5",
+      "source": "NBC News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T00:19:00+00:00",
+      "title": "Tesla will end Cybertruck production in 2027 - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWXZVM0xHdkFBM0JIQl9pMkVqVVpFdm0wakt0WXdfNUdPbm93aGQwZnJVMC0tT0RPVFpoTXBxSmo1b0NIbUthU2ZudG01VFNXVjJKcUU1Yl9UMFl6X25LbTBzc3lGdkk2UEt4ZmdiTzRQNnFwZlJQc1RpcGZtUmhXUkVVSTZXV29HSVZIRlV5YWh0UQ?oc=5",
+      "source": "CBS News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T00:01:00+00:00",
+      "title": "Tesla halts Cybertruck production | CNN Business - CNN",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeGJXXzdJZkdWU0pjaTYtdjdaU3htUHpoQTZJYXAyampTZElvWGctWEp1UGhrZHQ1bWhEWElPWWFkOXVZUlo0LXRRY084cEg5NnQtMjgtME5pdGs4eVBCM0pOMF93dzl6SXNWcU1zUkN4Qjc2SXp0U1JmWUhLMlRiajhMY1dUa0Fhb0NTaGJNTG5jbHVBRHc?oc=5",
+      "source": "CNN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T23:09:34+00:00",
+      "title": "Looking to buy a Cybertruck? Time is running out for prospective buyers in SoCal - NBC Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLUhLeDBwU3pjZEdKV2wyTDU1M1cweUVIclB4NW16X0JWU1lKaWV3anFxTnJCN1Zvc0VkR0RqR0tzMzNCcGllbmZDYmdQUnlWYlhyei11N1hkMmJES1ZNM3Y1V2dLeUtQVWNoNXVWYVMxWHM4YS1Nemw4RVA2TkZrVFpCTVEzMnpvY21GRC14RQ?oc=5",
+      "source": "NBC Los Angeles",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T22:27:00+00:00",
+      "title": "Tesla’s Cybertruck heads for an exit after years of hype and division - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkdNclU1NURkXzBzcmRNRDZKSDdGaDZTdC1aSThJc09TM2pPcEJTZktIQllOV1ZrX0N6QXk4eEhHR0prbE03QlJjS28wMWp2VVYzMVhUeTlKYzBuRWtiazFEaThCNUhLNUQzUG9rb0xPaEQ1bF9KcFo4dzQ0a2FxSWNEM2JYWEkwQTRLQ2ZCSkk3c2luaWhqUERaZUhkLUVsdFpaQlFR?oc=5",
+      "source": "AP News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T22:07:19+00:00",
+      "title": "It's sunset for Tesla's divisive Cybertruck - Axios",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TZFRuWVBDbG9NNHdXdjduS0JFUHR6NU1VRXBYVkFGOTRLUUx6Nmt1NFhRVzluV2NhZjc4VzhZTlpXNmtsbUliNWw4bkN3clRSNGZKaTl0U25mcDd0ekJaTDJrSWtwRW5NMEhqSGQ4MktiM09VX25iMHNpeExCQjA?oc=5",
+      "source": "Axios",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T22:07:02+00:00",
+      "title": "Tesla to wind down Cybertruck production at Austin Gigafactory, Musk says - KEYE",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS08tV2ZzMi1qSmtTblAyUEx1Nld6T2lmZlFzWWs5Y3Zkc1JheEZoY20zOEhoVGFVa0lFd2U4Rmo2SFJtOUhaQ1J0bFp5NkxvZVZUS2RLXy1fdjRfQkMyMHNvZW5sc2h3N19iSmd5TXZCR0I0amJIT3V1eGlqd3I3ZEFQRTN0SjJJZU96NDhqQ1lEbXRBWjI4OEd4eVAzcDdlQmdacnJ0UVQ?oc=5",
+      "source": "KEYE",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T22:00:00+00:00",
+      "title": "Elon Musk announces Tesla will wind down Cybertruck production at Texas factory to make room for Cybercab - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjkzMUd6c1NiUkIzNFFNNk1BcDFyZDFKdGw5dTBWNzB5X3FxUkFCZ19aYnVPZVpNT0Yzd3p5V3hycXVCejNfeHJncGhuLVpHSDA1aVRSdS11bnlqWEpNc0Q4bXJCVjVFN21fdWN2NUVPZ1RXNWRVV3dISGo2d25IbVJ5ZmdXZ1NTMUozUVlKUUdqRkZUV1E?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T21:59:00+00:00",
+      "title": "Elon Musk once said the Cybertruck would be Tesla’s ‘best product ever.’ Now he’s winding down production - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ2lXTktpTlozT3hmbktnSlluVl9QU3Y3UUY5eG5uRk8xRjVRdm1tOHhac2t4XzZhRkE4dHhMWkpkb1gtQ3I2a2lRb0ZrYi1aS1FhdnBIMkJZYUhDVGUwVFRVRVFHMWt1ZTFSenc1Y3JJNTdVRzV5ZHdjTHA1MEFkN3ZrMEJGNTZVRTZDLTVfNkx6TVFHTzB6MGhZWVhpd3Y0cmdqdWZfRTBEejlpQ2VIbWRWNXZXbHJOMm9Vcnh6aGd0WEt6bVRUVnpkUlRUTE5ISHFILXdMbw?oc=5",
+      "source": "Fortune",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T21:49:50+00:00",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lMWdybVlISnZwQXhjTHZ3c3BFWVJuSG94UWVtd0wtT1NoNlFOSW9GdXliaXNES3lsbXpQaGlYeVcxZU5xRExMblRTNGh5SUJtNThlMnRVdVBjOFU?oc=5",
+      "source": "BBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T21:41:00+00:00",
+      "title": "Elon Musk Is Killing the Cybertruck. What It Means for Tesla Stock. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1BjRWpvRk9HZ21UWmN4Q3dkcmlOMEktZnpTMmRZYXg3N3pGUlhEaFNXQ1pjeE85QTlidTBlblZja3NPNnE4cTh5VGoxNEVSOTZ4UEJzVTBSNmtLN3ZPOVljVXNvRy10N1ZMZ3NUU29fWTJpb3A4WGZwX0ZEWUlhSFowZFg?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T21:32:54+00:00",
+      "title": "Tesla will phase out Cybertruck production next year, Musk says - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3MwNzZJT3k1V09xNUxodERwTXlmcGlKNWFJSzV5T1BlZGxkb1drTjVIZnNRY0RxU001cjBnZ0hTXzJoMlZnSlA3Mm8xQVBhWEliX0NabW5FOVAyR0ROckJVX2YzV2diLWV6bFVKMWFsVC1xM2N4SWU5bUtmYnFMbTNyYXFxNjRWaDhrYjBXQ1Q2YzBZUnpxVGhCc2g0LUtQNUxUUmdjR3FBUHo5eDI2aFlR?oc=5",
+      "source": "Los Angeles Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T21:28:00+00:00",
+      "title": "Nvidia, Intel, Tesla, AMD, Coherent, Lam Research, Moderna, and More Stocks That Explain Today’s Market - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fblhqTzg0eVNMSFpfMnVwVHktcFNzU2VnVUEtUk1xUUFGZWZVemk4Z3ZOeFRjMU5JZFF2Y1BOclh5UV9KNWRnOG5xb1Nmc2FDajZSa3BBRTByX0ZleUk5WGVVeDY?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T21:27:20+00:00",
+      "title": "Tesla Jumped 4% the Morning Musk Killed the Cybertruck, and Investors Know What Replaces It - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYkN0WmxhVUdfdGxMRE1QSFpHUFFuY0ZXdkUtUXcydXJZNW52RXRZYmUwSEstLXZGVUhoNXRFREd1Y3JLTnVhUnd5UnczUXNrSGRMTlpoaVVuMWpjb0lyMUFGMEZ4T0N0aFltaC1mTFdHcHpmemd2aWlsdEJ3cGhNUmNGa1AzZGZCR3NUV1B1X1N3eGN6T0lr?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T21:25:00+00:00",
+      "title": "Musk says Tesla will wind down Cybertruck production in Texas - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZm10bzVmOFRPMlltTnRIY1MtVTNqZmZUSDdtQUg5QnpuSEFFdnVuZWgxcWFob1JtZGNXQktUUUNmbGktRjZjOFdUVFZoZ1BXa2xJb0JnRW5RMy1yMldpcmM2a09DdWo5dU1CLTJrYURjeVR4MU5GODE5X0hBUUk3RUY1XzFCYW1fZEVxTUpqWmVRQ19xZ2tTV295WjlDdzFPM29vY3ZwR1hUTnpfQXVF?oc=5",
+      "source": "The Washington Post",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T21:21:00+00:00",
+      "title": "SpaceX Land Deal, Tesla Merger Dealt Election Blow. Space Stocks Rebound. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM2JQek9iNjBJQ1pWRDVQVmtsbGlPcGNHNEp2aWN1UEhQWDdKSWxaNmZta1hUUTZMRU10UjFmaE5PUkdQUERVaktPa3VrYURkVDhRcGZhRmZ2TmkwVDdUYVFFWWYyd19CbVVYdk0yWUxyRDRuVWpHb1NNREFaZ2RSTHpjSTBtZURuazNQX0RVQWN0MG11UDFtZl9BVXB4TDNac2FFbFVzS05nRFNpdmJSX3ZZVVR6VGNLZjZvU0pxOGpPQ0dVNWduZ2JPSTdJT085OG41WndPWUFjYlVpYkVybmV5QQ?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T21:19:31+00:00",
+      "title": "TSLA Stock Alert: What to Know as Tesla Pivots Away From Cybertruck Production - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2ZyTU9vSVROQnNnQmdydE1nMjk3X0xZd3lqMGtyQzdaUklBVTJHVzlWWnEyOEhwSEVKVkc5SlR4SWVBM2FORVh3b0tCa3Y5ajREak5ZOXRDbmFlVHkwQU54RzVmSS1PNXZRcE4tZ1oxZWE1ampNTVl4N214eUpYWHBpbThwc1JGSmpyM0V2VWNsNVBSMHhYZGMzRV9wSGIxb3psVTc3TXRzQXdfYmtHVWhjbm84QldPY01pNG53?oc=5",
+      "source": "Barchart.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T20:57:00+00:00",
+      "title": "Tesla to wind down Cybertruck production at Texas factory next year to make room for Cybercab - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3I2RHZ3c3ZoMmNway13ZGMxOVk1TFNKYlBld2phSm9fUkJsS3NmaU42dkJLMW1fc0FuYU1uaDlzcnBtckIxbXE1d0ZPR3lacWdHaU5pREhfSjYxZXZuMzJFdTVEX0c2Z3JnVlIyU3YtdnczWVlaNkQxMHlvaUc2THBLWkJBQ1AwVGJJNEJxbHVkemlKOGxhZG42eEU4eEkzRkdDc1Q4TmR0M0JxM3JTQ0VHNXZLeDjSAbwBQVVfeXFMTjJlU0VIYUh2Y0hLdWJnSzJyUjhLdTBZejY4QjBPRUNtRFZhc1doTTNWYTJ3R2p0SmxTZEZmdzFsaHpYMTJNSVgxUjZEZE5yLXEwOXg2azZ3RXZRMlJaY25Fby1MTXFDT2JQdF9nLW40by1MR3hnb1IxTnp2VW5WdHJLNHE4SER6SjZiUnNBalF4ejA1YlBDNVNJUDljNHpUTXpzMU83YTNnb0syM2JKZXRMVUVMbmVPV2hya0E?oc=5",
+      "source": "Fox Business",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T20:48:28+00:00",
+      "title": "See Ya, Cybertruck: Tesla Prepares to Say Goodbye to Its ‘Controversial’ Pickup - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdlhoM1FRb0tJUWJtSHQ0MkptOGRZSXJhYlduYkNVV2Z5UWQ3UHd2Q2RkdGtoeER6QmYwSmk0cG0xaFdVVHg1RVUwNDdSUUZsNkUwb2hDVjlJSTlpb1dTYzdWcGNkTXAzVmhKU0RDam9sRlV5UUUwYTVRV1FVYkROaFRmOGl1M1M5M2U1aF9EREFWQ1NRbkp2ay15Y3dRTXpvVVU1OWJ4eGpEVGpPSkZuaC1OQ3BGVFEtNDB1TnoxOUpkOWZNSDBnMU1mLTVKdw?oc=5",
+      "source": "Investopedia",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T20:00:59+00:00",
+      "title": "Tesla Cybertruck to Be Canceled in 2027 - Kelley Blue Book",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iSExiWVlDS0g3LTlkNW4zV184OUlSYXI0VzZsQUpDZGhHQjlwZTk2SmFxWWo1WXBDbF9RdzhweHdHelNTMDVZaEluX2lyNHZrUmxnOERnVk5qTW5YQ2JXNUF1djF6YkExU1JUWWRmbF9LSkhNTWNWYw?oc=5",
+      "source": "Kelley Blue Book",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T19:31:25+00:00",
+      "title": "Tesla’s Cybertruck heads for an exit after years of hype and division - WISN",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjM3LTZVcVJaekhQUEJqQ1JaLV9yMlNOSFFneGN5c1NnNFQ2SU05MnZodnBEWlVzbDFBTGs0RkVyVUk3anRuZ01vbTViOFZHVXpzaEc1ZkM3NUNhaHpOS2dMX3FQbWhpcTNNUEQ1TFN1ZXR1QTZsaWxVMkV2cTZYOTZB?oc=5",
+      "source": "WISN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T19:28:31+00:00",
+      "title": "Tesla to wind down Cybertruck production - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMmF2dzRvbmFpS3JFWkhlM200N1BGYVhlWXpwTEhIZmJxRmdkdTZIa1FIVzhPNlhRZlFaZUw1UkpEQkwwRjhaY0lYcEZLZ2VlTzA3SXZaSlU0emI0enJtZlhOWi1pZHhXcThEVVZKYnZPYzJEU0pNQ2g1ZnZEbl9Bd1pwdjlGYUIxek5mTDRpYXhoX3Mz?oc=5",
+      "source": "NBC News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T19:20:00+00:00",
+      "title": "Why Tesla is ending Cybertruck production and what comes next - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYXdoTEJWQ1NRamM0QWF2VkZQdm93aFN2WjdPSlA2RjNBemJFT09UMWFPa2k4MDhkMEk5Z0JSWTZoQnBkbWh2UEc3elVBcXVNaXNSaVdSMGFkRU5aQ1N2dVpxbkhuWVg2a05kcUdFMHIzcnBPQmI0Y1pUdFFaZzdkNVFIM3Zob29mNm1WcEJtR29xVWk2a2dSdkotM2RUTUp0d0N5MW9QbWMwU3M?oc=5",
+      "source": "USA Today",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T18:04:04+00:00",
+      "title": "Obituary: Tesla's Cybertruck (2023-2027) - New Atlas",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXbkZPZHI4czFYTDd3czdfcVh3SFEyVGtlU1JQSUhHLVJvWkduTzMwUnhzaVdMT2hOY0d4czJXc2JOaktMR3ZSYVJqWkNjbzRrMmVnTHBobWhVVm1BakJ4RTVGejZNSFhpdDNLYzF3X3NNV3lhMm5r?oc=5",
+      "source": "New Atlas",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T18:00:13+00:00",
+      "title": "Good Riddance: The Tesla Cybertruck Is Dead - Edmunds",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWFJCenFWLS1TSjFoU3JEakU4ZEE4S1dTOXp4YWM3SEtzMlY5dzYwT1VGV2k0bjlLNjFRYktjajVHMFp0a1Y1OTJ5Q1g1UDdPdTRPY1dhend1TmRJS2p5cUp5ajFNaWQ1RnB4UHhQdHBCN3BnbnpNU05DdGs?oc=5",
+      "source": "Edmunds",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:51:50+00:00",
+      "title": "Tesla to end Cybertruck production in 2027 as Musk shifts focus to Cybercab - ABC7 New York",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUDhtX1FISndUa2sxeFRldWZSLU84ZjBUbHgxYnY1eHlIejdyeUVfWHUyTjM0SXZKNVhIaUhISkw1MHJiWXhPT2g3aXhWSXdqVk4zVE1zTXZHNy13dDhwUUFJbWoyVzhmMUQxdDdxU2xkeENGTC1sVkNMTHhtX1psZnZFR0lHMlRZUEl4MFJJamJJUEZrZUF3VmZLbXhQZ9IBowFBVV95cUxPQVBJOV8xZDBIREktcFBIUmFrYjJrZlZnUGM4eUVoYVVVaVBNZWJ3UGZDX09ScHVGS01fUDkxdy1oNFNFUTRYQ0h1ZmhaVFRja29weXFkcDQ1bVlMNjFjVXRCVldnQ1J3MXZNQmYzYmJtbGlSZm1Ta0pvdHQtWWFQODB6MEhJdFl5S2ZFZmVCYkJROG5wX2Q4ZjBkTldBX25Cbmxr?oc=5",
+      "source": "ABC7 New York",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:40:09+00:00",
+      "title": "Tesla Cybertruck's bumpy run: cracked windows, long delays and 11 recalls - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlZoWnUxVlNKWGwzMk1oMUUyeEFfdFh4ek1IZWQ0d3R1SFRCUTZPNnhaMDVILTU3VkNrcWxDNWlXNkdNVEZXYW8wY1JDZTBHTEJYWW1VMElFX1gzdDVCUXpJUm9wVUF0UmNlWXJTNV9mNmpjejJMN2JfOE55WkowQ2Q3aDVlNUlmQ0FzT1Iwal83VWVSaTZMNm92ZEVJM3J5ZTF5VEszR1ZCWndXMEk0V3J2WDYydElnUzRaZnVSR3c1TWE2TkZjUExLNDg?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:38:41+00:00",
+      "title": "Tesla’s Cybertruck is a masterclass in failing upwards - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVnJzMHp1Y1VTcG56V0I1QWNrWVlPZnhPSDloY1AxdkE0V3NDOGhnVFJsVXRuaE8xWG5wbGpIQmJRMjVVNUZCR2VVWnU0Zkl2bGlxVVYtNDRWS0tQck5lcHpacTQxWjZrNnFhRWE1MFpxZHVtRVRTM2RLdGJTTXptLTlTWGs?oc=5",
+      "source": "Financial Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:38:29+00:00",
+      "title": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3BET3ZQajVOVnRXaEdyMTZydUZQYTNWN2Z5TG5GczZ2SzdPYkRTcDFPWURnN3RfM21KZGNlMl9odXVBNlVGamxianpvTGZXa25jZ05uc3M0bTR3VkJBbFp0c1ZQUEY5b2l2MHFFV3hsSXRkb3dNQ1Q3WEEyMVRadnBR?oc=5",
+      "source": "The New York Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:29:00+00:00",
+      "title": "It’s Official: The Cybertruck Is One Of The Greatest Flops In Automotive History - InsideEVs",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UQW9aWmpXalZxdkpabTkweVBpWDROdXMxS0lXX2c4V0d6dzlTRWkzbm5nZG5GZW0tdDQ1bktpM0tQTU12VzJWSy10eUVfYkFIMEpnVFppdTZnNm5XU2pEUWtsemxKWU5RWmdsaTlUTFg?oc=5",
+      "source": "InsideEVs",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:14:22+00:00",
+      "title": "Tesla Is Killing The Cybertruck To Make Room For More Robotaxis - InsideEVs",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0paSVNoOG12dHVYWXlPbERKNFNXT2xoUFhpdTBHMTMwbzRfZjBTVVJndFVFQ0Vtd04tR3dzSGZPYk5zbkJwT0k5Wk14b1BBSUg1TEVwb0htUklaS0dMU2xxLWs5QUJnU0xZMmY4VUtzalFodk1XYlBqUUR2dTVMU1BvVE4?oc=5",
+      "source": "InsideEVs",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T16:53:37+00:00",
+      "title": "Tesla Will Kill the Cybertruck in 2027 - Car and Driver",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nUTA5ZGlpRjh2ZmpjZkhFOHN3X0FOZHl6QkZmWlpael8zaTZ2aGkxclg3ZzBDWFhZQXJ5Zi16bk81bTFVZnVYb1RkeDFYWENtVzNNLS1yaWxaOEhJckxlWktkSFlLNkNPWDY2aXRtb1BmRnEy?oc=5",
+      "source": "Car and Driver",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T16:41:31+00:00",
+      "title": "So Long, Cybertruck: Tesla Announces It Will Wind Down Production of Slow-Selling Pickup - MotorTrend",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CMThSQ3BpeUgwNGhDYnpqalh3M1JCQW8zUERkM2F4c2RkSW1fUExkS0I1anNLM1FiazRNazFwcWI2X0xhODhLU1ZDQ0dlclFMdVZValRCbDFfWnI5N1pxVFZrZ0I0ZFJncFBvYmlEbnphdmhjZkg4?oc=5",
+      "source": "MotorTrend",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T16:22:59+00:00",
+      "title": "Musk bids farewell to Cybertruck as Tesla bets on robots and self-driving - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOelNJSDFOR0xNbkI3MjJLdlh2WFpzS2VFNEJ0QjcwTllGeVpOVm1ORTF4bE1WMldSX1dxNDhiMFhadGJrdUE0eC1xZmhiRDVqSHpvZzJWWUJlOHNDb2ZLc05HNVp1cDVPQ245OHNXNTVLNi1mamFidVFSYm5WSFNHYjRJT0ZyeXMyVS1vbVlEOVIwSXNNZ0c3Um9INEw0RjRhdVUwWGszTkI1QWxfTno5V3l1TkFDM1VVZnl2X05rRko5cTk3YWJnQW4zVVRrc1gwVDZB?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T15:56:00+00:00",
+      "title": "Musk Called It Tesla’s ‘Best Product Ever.’ Now the Cybertruck Is Being Scrapped. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHpMa2lsQWt4MmYySXFrVk5TRTBleFg2akdjT0RhN215TkMwVkFnRm9yeHhBQ3NiZkdKQWV1dENHR19vTzVNYWpIS1dGdDU0dGNSanVmT1BROW9lLTIxMy1wVUJmTTFGNGh0d1JCYTI3VGhfT2dNT1RMVkp4cVJGZnY3RERwOVNOcmlrWjlfTVFxZ3dTNlVqMkxjdDhxMGZ0OVduTlplV2loX0xXZklrclVMNVpzOS02MDlQQQ?oc=5",
+      "source": "WSJ",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T15:49:13+00:00",
+      "title": "Musk says Tesla to wind down polarising Cybertruck production as sales lag - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3AtNk5jNmgwekozamU3TXEzRUlnbG9OMEtxX1JBWWJNa2FRNHV5c3VmcWNDa0ViZGxYRzlvYU90dkNOZF81WE00LXZDaktDTmFNbF8wak4tb05ZT2EtQ1Bib3ZFWlpxSWRQQ1hva0NMR1lHcVJQZWlZbklMSmFBSTZfQUI2NzZQWndfQjZHU3ZUeXc5NXVuZlYzTm1lZWlleDZNa3N5Z0JSc1Vsb2NBcVZRNGtwd9IBuwFBVV95cUxQOW8wQjNtV1c5Z0FQdzBZc0FQaXB4RGJvRGVSOU5weEh0RkttTTZ3X2RESk5BRU02VnQ2ay1Kc0pMUjIxSXNMeXZFUWU0MlF2SFg4WVpobERWOTBQYXo2dVk3bHZjZ19Rc0RkckFJYWdQRExlRExZNHdfN1g0ZjducVBYN1VZaXlNQlB0dGNaS2JIbVVTMGJWWVphSG9WSU1Id0wxTzFKU0UxQkhmWEtLbkFqd1ZISUlqaWsw?oc=5",
+      "source": "Al Jazeera",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T15:42:04+00:00",
+      "title": "Why You Shouldn’t Buy the Dip in Tesla Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPck8yUm43eG1PVHRTTnloZEJQUWxGZllwQ3VoVmRtVDBBengtSzNXVnVWUkhzWmt5bk9BUC1Sb01PcF9OdzJOWkJKLVhReFVFR1lYN1Q4NWtweXdYUWl0WHNtdEtabHhuT3JCMDBuMUNsWjAwWGxYMVRuZnJwYWM5Q21hRk1GRTAyZDUwWDU4MA?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T15:09:06+00:00",
+      "title": "Chip stocks lead tech rebound as SpaceX, Tesla jump: AlphaCheck - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTU1YMTNYUDVZUGRpVDlva2d5X3VMZGhXYVJUbjlaTTV1bFNQVVZKX0pZTnFkUE9kcl9kSGUxWEFVX1BzcW0zbzBFNjRvS21vWld6eGxoVmZ3aG9TekpObmRXdzhlSlItSy1JTHNYdVp6d2dHcFpSSi14M0lNd0JKdWZnNFR1cWdVOXNxWHROX211TlpUMkdjS0VFdncxVGJJdEc2VDRsVzgxSy04LTZ0V2ROMnVrTjJJQkxjZTkwZGNzZlJHaHhv?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T15:08:00+00:00",
+      "title": "SpaceX and Tesla Shares Drop After Historic Nasdaq Rout: What Investors Should Know - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnpvZ0ljUHRNSjB4MVZmWGJ5TnY0Z3V4V29BXzBHODd3U0VXZkJzU21oZy00ZHM2cWotWEg2QWFRX2tpT0Rta2lrOS11TDRFUGVvVW03ckR4OHFMdFViX3dDRnB5bndVYThSZkV5Wm1qUld5TV9CdGlBbGZQZjFKMTZvWDVOTUlFekx2LVhabG9wMW8?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T15:05:48+00:00",
+      "title": "Tesla to Wind Down Cybertruck Production in Texas Next Year, Elon Musk Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGdvX0pvbXJYRDkwem1xU0pQQVpPaFZlemVSdUFkTFdQMU5iNDVGTDJOLVd6RzNDcmFvaG1ReXhobE5UbmFlTzYxNmt4bjJ2MDlaSEtZa181Q3dnb3BTSl9CdURSWWo2ODRiQzBGa2FnMURLTzV2Q09LRVRKVTUzb1NMV0ZtNk9vYjBGY0NMR2xnWWg0ajlVVjgxQ0xmU1hKdU85Y2JsTTg1UzhBVmpz?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T15:02:22+00:00",
+      "title": "Tesla ‘winding down’ Cybertruck production at Giga Texas - KXAN Austin",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOWtPOXhWa0xmZWQtd21zRTcyN2xIWFNpUXhRQm03U0Z0VHZtZzZfbzY4TmRKcVNnUHgySThJS0twVzZfbmNSNTFPTjFNU05CUlktWElzNzRMdEIxVWJBTVlqM2xNMFVFYkJSMV9fcDhiTmRKNF9aQ3NBUGlPUlR4WWJoYmVvQVNmX09HdVZzb2jSAZYBQVVfeXFMTnNyYVRHbVY4Yko4QnZZVC1JeVFVM2hoQ2xycDlDU3NLVVJFRVRRT1hyU3J5bFl0ZkVzd1ZKdUFQcnRfdHhBOEZBUEVuQUlHbVpXQnJfUTNfXzlvcmdzQTZaWDZicmdLcU9URngyODRaRnNCQnhrLW4zbDE3TEVPRmVPSFR6MUpCUUxNVHpJVW9pVWZ6Ykh3?oc=5",
+      "source": "KXAN Austin",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T15:00:49+00:00",
+      "title": "I asked ChatGPT whether SpaceX shares would boom after a merger with Tesla - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVXJON3FQckxmekdobkxvcFdRaEF1ZmxwY1VneFQ4Q3kteUxYc3FiR3N3TFREbjFpOTV6VU9NRk45ZDRiYXktQWc1SF8wQ08zVkdPUXpOMVhiX05kakVPd1dpak5mQzQ4SEszb0JHdW5FM1JwaUdiNVlJelVhMmtQeW02VzNqRnhKT1phZA?oc=5",
+      "source": "Yahoo Finance UK",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T14:41:44+00:00",
+      "title": "The Tesla Cybertruck Is Dead - The Drive",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPZ2pScmwxVElQT2hHM0FzTHYydGRmbFFfaVotTWQxY2FjN0dNVElNQnlsTjlRUnkyX1h5ZEtXT19pcWFneUgzSWs1dHBRWHhrVjd3OGpJeC1MT21iaHdBMVFJbGgyV0lJV0E?oc=5",
+      "source": "The Drive",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T14:32:00+00:00",
+      "title": "Tesla To End Cybertruck Production; Shares Inch Up After Election Rout - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3p6NkpwQzRSWW83RTNlUkwzSVFCbUZtUnZGUmRiRWVqV1pYc3prRmxFQVllZHRtUXEtRkFVajNlZzFsaHpNOHMxZzZFZTVhR25takFNZk54NkpndjFUT1BibUxkek83YVdrR0gtQVdZUkoyX2QwQTFHSjlJRkR0dFF3?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T14:31:00+00:00",
+      "title": "Cybertruck's Days Are Numbered. Here's What Tesla Has Planned. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTNsN0hRZlYtMVJKYVBPaklIZk9acEtjeDNnWFN4R1JMTGRLUnV2ajFrR0ZRZzJlZUpMNWNKWVpMdWxTOFQzZXJuakNkVmJjbmpxeHVMYUszaDFQeGw3ckZnYzhNdDFBa2pYa1p6WGdaYktjd3B4T1VIaGpZU0ZCWURfZE5CYmZScVVWbFNkNm9vM0FlVTZObDdpSVgzaDJBN3pmbkZ3?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T14:24:03+00:00",
+      "title": "Tesla set to wind down production of Cybertruck - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbWtnUlF4Z3VoWFhsY3ZDZmNmQi1IUHIyMTBwZFZZZVN2Mkl2dmtaZ1g3NGV3c0VGRlJkc2F2VjJaWFRrVHVFVXR1NXJ0Q0JjSHQ2Q3lVNkFvNFpaSk5pMXhBUm1TVlN2MS1QX0tZWHFjUEVwVUlZMXpteFhBVUxkV3pfSTBtdHBNenJr?oc=5",
+      "source": "CNN",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T14:18:22+00:00",
+      "title": "Tesla CEO Elon Musk says company will be 'winding down' Cybertruck production at Austin Gigafactory - KVUE",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZDBkTVFoRjBQTWdfYzY3NG5rcF9ScVFaMWJFZDhubC1tUl9oZWZrSk5ULUxRTUhQdXRXd0dmZGVEUzdjNlFMZ3lucjNUdGZCdTlUX3k5NVpsMnhzdG9KTUV4YmZQaWEzUkFfOU5zX2JjYnI4M2t6aWhXWWNOLUthUmw2M3R6Nk5WQWpIOWYyQ0NIZXhIRUtiZmRlTlY4V1pJNS1abTVtd1ZjbTUyRW4yejRTRWpnMG1wbGNHX0dtbUpaQlZMQUtkNGowZE1hNm8xeXJQUWF4QmtFV3ZUZHpXRGtaTUpGZWt6SjM3TmlFZ1ZOQ0dkLTRaa0xicGhHTTlLSlJVeWpDSUV5dw?oc=5",
+      "source": "KVUE",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T14:16:00+00:00",
+      "title": "A Polarizing Halo Product Runs Out of Road at Tesla - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMHZheXhuOGlBaVMxQl9vak5FMHVDWWw5QVZNNXNDSDZFSjY4LUlkamFOUXVqTFpiVzQtNE9ZeUdiTHpnRFNaOEFUNXRNaGJFUHdocnNDbjVDblhyYXJzaEE1bmtUMWVVbUx0VFZyeW9fZTc2UkxLT2NlUi1sYjZJZFlOaTRTY1dSTUZjbHJQdmx2OWR5?oc=5",
+      "source": "WSJ",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T14:03:00+00:00",
+      "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSV9SM1lUMGdGbE9tUXFmc2pKS1dvZTg4V3N6MXhPWkMxdEEzSU1mdjZQVldkSDBqOHo5dGhkeDFWUzUyTzhkVVk5cWpzemhRMi1sVks3N01iV1ZkVENUODA2UWpuUk40cDdRbi1pc3p6Rzc4bm9UaFZVdjlPWHM1bEJuVDFMWnFKSTBlZTV5NA?oc=5",
+      "source": "Electrek",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:36:41+00:00",
+      "title": "Tesla to wind down Cybertruck production after years of poor sales in few markets - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSG1oeC1rMEhSa295Y2lsOEx4bVJITmY3UEJRcWpBRE5SNHMxWWtyN0thOVZxdmI4QzNWYlJhenlOYVJQRVppb1IxR2lEbmxQNlhFOXNNTFVidjdCNEx5Rl9xTmZTUlVydDJSa1ZUVFNMdjU4Uk8wbWlOWUxhYlE2SEZEdUYzUGZTbzZFUngzMjVzaXlhN21DSFgxOHpnd3FwY2J1Smx2Ymdfb0k?oc=5",
+      "source": "NBC News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:29:00+00:00",
+      "title": "Musk says Tesla will end Cybertruck production in 2027 - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2NGswdEUycm1SMmlwV2dEZHpDQ1JzdUUxdnNJQWRnbEhxVzFHMjJmSS1jcVNwS1FLVHNZSzE1a3FTR21KRWNLb0xSYS02Z1NqSDBuZy1ra1BSNnowQ3VLeHBEUzVIYXM1TGNyMGFtamZPa3FLdWVqTkt6V19LS0E?oc=5",
+      "source": "CBS News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:25:27+00:00",
+      "title": "A long-term Elon Musk backer is cashing out of Tesla — and cutting its SpaceX exposure - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50N2p0ODY2OFNfOERPMUdWY3pnZUkxSDNGeENjTC1sQ1NaLU1mZTVUS1R5VFVWczgyTmxNb29LazBCMW1IS012TDdraGljeEwzSldjMWpTUll5RWxJVHNBdlpBSzk1RENHdm5hNDdTSnh6UWJULUE?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:17:00+00:00",
+      "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOckp5MHVCMWRzVEZIQlVUZjc5QjVOZEpHNHBPY0VCbGtocXRtMXJXcDJyRTBSYVI5OVJ0eWM2LVFha0FsOGJSVV9PdHNmR252NU5NYTRmQWE0eE5yVHdnaDJXVDVvZDhmdExmMnVUalNTeVpURXIxZ2tpdVd6SXNfamN5djF2Q3JhclJReUFSLXlsWXFIbUhCSGFNM2hONzhxYXRSakxQeFlySGZYYnN1OFFDMDJRS3czVUpqZlRIN0w4S2JxTC1mRU9hZw?oc=5",
+      "source": "The Guardian",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:12:36+00:00",
+      "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUQ?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T12:31:00+00:00",
+      "title": "Tesla’s Polarizing Cybertruck to Wind Down Production Amid Slow Sales - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd0Jtd1JvNWI2RUJHUlA0MVd4Q2RWdUFrelplWVVDNVBkei13Zk9najBrWDY2aHpUY3lYN1J4d21LczZSLTllR1k0Qk16eEtKVklKa01NU3JSeHdzTzBOUWV5aTlnNHBJOXhvWGZTT2R5TjFlUl92M3NvQ2lMaEJGOGhJaG1CQWtyUVZVenVBQ1NQOHVabDFZWUxnOWJDUQ?oc=5",
+      "source": "WSJ",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T11:50:10+00:00",
+      "title": "Tesla will stop making the Cybertruck in 2027 - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTh2YnNUSVpBMFg3eVZ1ckpLR1Zzbk1MTVp3dVhVYjRwZW9EUWlvSUV2amVvdy1hSGFvRDZ3dURmY2NXX1BmaVBMdUpkWFJOdUo3NXBGdzN3dURGUlo2YXJXWUF4QmNyUFRDbDdmc0JqWXBhZkxDcHZrc3MxcG1jMkhZZUg4VDA?oc=5",
+      "source": "TechCrunch",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T10:40:00+00:00",
+      "title": "RIP the Cybertruck: Elon Musk says Tesla will wind down production of its most polarizing EV - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkxvb0RxQjJFZ1FfQ1RaSWpBODJjOGcwUzNrM1BiNTRVWGxxR3ctZkV2OEV4UVFlQTYyWm9jb3A5ajBkenFhOFItd2ZrdEhJVE8yNUZCN2JlNXpPb0V5dThoUnp4SXU4TkN5VURvZ0M3aXh1WDdDejFOQk9pdXoxdmpSakg0NHUyc2hPR0QtMnNIbWc5SFEwWXpwV25TbDRRblFYbA?oc=5",
+      "source": "Business Insider",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T09:44:18+00:00",
+      "title": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlVaZU1LeDhwOFdtY2ltb2ZHRV9mSHdENXZDYm83Nl92dUF2UWpJSU5TbWVzV2RvNXVBNGV4bkVIYmpMNE1LclE4ampWYXRnWkpuUVhrdS1VVE5tcFptakxSYzNGMWpqTkY0Z3BzVFk1WldlenFVcWJhU09WcWlwTUQ0MFY?oc=5",
+      "source": "Financial Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T08:57:06+00:00",
+      "title": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year To Make Room For Cybercab - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUZNLTVPQ29tNld4bHBMTXNQcFhjYmRMdmZEX1A1M3VfUVhiMFlLdlJBZjU2RTZmUTAyczdhcjB2VEFCbHBHV1FtV09NNzRJcHlzX1dOWXRfRTFqQ1FxV1h3NFdJWV93SmpySE5ZWktvQ21zWFR6MHBrT3pWM3N4X09jQXNyakVHVVJzcy1ibzB6ZF81d180X3o5OGM4SXJvM2RmQ3RVVkFvRlZ1NlNxci02bG12MGM?oc=5",
+      "source": "Forbes",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T07:04:00+00:00",
+      "title": "Tesla to pull the plug on Cybertruck after years of poor sales - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWnlMcV9XTE94RnhqbWNmQ1B5Y01Gd0tReURLRG5nc1VOVlBQR1RwazRSdXF0azlhbS1nTmJ5M0MxZUxMMUQxM1pxRHVjN1VVQWM5OGtOOGdWU1Fwa0llb0hxTXVHX05rV3JoRTR3eWwtTkNseGQ2eW5hcTcxUmQ5YnRYUVNwaGdwaDlhelZ5dmJoOVZhaGU1N1Fkb1RTUDFMY1lCUzlMcG9SYUNDcUlMeHBBYXBWQmM2QUloLWh5QkNuOGRvMTRVSml0dmxEN2lqaU1va09iQ0o?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T21:42:17+00:00",
+      "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVlBX0FCZGw4ZnNTUlRoSU5wSjJRWllFQ2JTZjBHNy1CQ0VXNWZWb1Y1V2dDWXhLQWIxZC1hNG00U0xXUjZIdHV6U0FaWS1hN1BURXBNd2g4Q0RoT0lFX21qMlNrQTkwelZndmExbGpSdlhlQ24taDl4QXpTQkNmVlJZc3FaajZl0gGOAUFVX3lxTE9peU5XOFhISzIwSnNNaGtiR0Iya1JqWVNFcXgyQXVPVXNubjAyMXVYMUR2aHd1MWRnZEhmLXI1MnRONmk3SHIzUGtOZnQ1U3JFdjBkSnYxNHdsQTVSQnBGWmVwUGxSZWJIYW1JZURVYUxsa2prV1VXeUs1VW5CU0pISHRtYVUzLV9LSTNyTEE?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T21:41:08+00:00",
+      "title": "Tesla Shares Tumble Again in Deepening Post-Election Slump - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFh4NVlGWFp6NXZ2OXhVdGRKRjdQSmpBbXJHNm9ZWmIwQXBLVElrWDBNYm9jLVI3NEV3bE5YVVpzR3lEcXBDOTVlWTZNYk8xYXZPNjNTYll5VXNrbmtRazdrcVc0TzlCMFF0LXNWTElZNnctbm5ycVF0Q3dMQzFkSzRQRE80YjdudEo3bVB4WlFlbzRVUXlpQk1FZHRucXlNaG91UGNUc2xieEhZbXc?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T19:53:31+00:00",
+      "title": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXI0TWJjeldpYmNUM0tQR3NKcEh6bGtsaWUzOV9XQnQyaFVnNlNuaEcxakNkdjd4MzBJR2NoMWdua1RaNEVfSzNjOGRCVU5vVmc3MXRYdlkzVEpYV3JZR2JMYVVSMTJ5ZmkxY2VYM2RSWm1nb005RENwSk93NTcxa0U5X1lrMUw1cHRFV3c4b3lhc2doNHFJM012TE1yN1N5ZEo2em9pSExVcHgtQ2h1cURZOE5taVF6aFVKZU5GWVpHX0FDSGpGYmppMFUtUXM?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T18:32:00+00:00",
+      "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3dxT1laZVpiN0MxSzNRM196aFJ1c1NMRlNia2pGTS1xTzZ3YUwxbjJTU0lSVjUtVTZjMWdJbW1vcHhWQkd3WVE5azlmbUM1MEhzQ01UcHdnYktYcDhpa19FYnNXVlN2d0NOcmJBSjY0QlRab0JSZHZmQVh3ZGV4YlYtQll6dw?oc=5",
+      "source": "Electrek",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T16:03:45+00:00",
+      "title": "Prediction: Tesla’s Next Act Could Be Its Most Important Yet - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXVxcU5YMnJiZkNpUWNid2dQYlFaeUVuMFRMU2tjOTc3MzJvWkZXS1F1Zmp4dEN4VW9CRG81RjVMUVliQm1QaEo2RXUzb0otMmxvNVRnLTR3OFZ1bng0MzBNcFJzT3I2N2RBcjBPdmZGc2VOZkJ6MUJmOWI3U0FibTVPUlF6RzREVzFseTE3QUk1Ni1aeWV4a29Bdlo?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T11:53:33+00:00",
+      "title": "Shares of Elon Musk’s Tesla and SpaceX Tumble After Republican Losses - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUJMNUhfVmg3dHlfRHhVb0tham91N0NObjZjNXl0bWN0Yno0QVdFNFVueHlnNEo2eGJJbTUzajY3cVZ6cnR2TG9vN0VpVVBpcEttSm1sZVgwbmpnTE5JZ2EycUV3ZXY5WVk4VTRZaHpHTTNSVHMtZUl3d0l2UXI0LWZsWTR1dkpmcF9R?oc=5",
+      "source": "The New York Times",
+      "pos": 0,
+      "neg": 4
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-11-04",
+      "count": 1,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "date": "2026-11-05",
+      "count": 5,
+      "pos": 0,
+      "neg": 6
+    },
+    {
+      "date": "2026-11-06",
+      "count": 57,
+      "pos": 6,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-07",
+      "count": 17,
+      "pos": 2,
+      "neg": 2
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-11-04T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-11-05T16:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-05T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-05T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-05T21:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-11-06T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T12:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T13:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T14:00:00+00:00",
+      "count": 7,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T15:00:00+00:00",
+      "count": 8,
+      "pos": 4,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-06T16:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T17:00:00+00:00",
+      "count": 6,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T18:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T19:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T20:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T21:00:00+00:00",
+      "count": 9,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T22:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T00:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T01:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T02:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T03:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-07T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T06:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T08:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}

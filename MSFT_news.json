@@ -1,0 +1,1015 @@
+{
+  "ticker": "MSFT",
+  "query": "Microsoft OR \"MSFT stock\" OR 마이크로소프트",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-11-07T09:55:05.883898+00:00",
+  "items": [
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T09:25:25+00:00",
+      "title": "Analysts Are Bullish on These Technology Stocks: Microsoft (MSFT), SiTime Corporation (SITM) - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMTNVZmVVeVJXUkhBSkJ0dmhqVTJhNHdKZVVCQ0FFSF9qR3drS1cyR3djMFZBT0hoS0xNdnRLY0Z2d0I3UlY0NXA5cTNrbGF1RnF0WHBJVk9EWDdmTmd2dWxaX20yX2I5QUFMbExaeVM5MmZPUTlLQ3JpT0l6eUpMM3RqVnlfd1lFY3Y4enVjSG44MVBDOXVVQThMSl9SazY2SEk5bTRRWVNnanFUZ1E0alp2bF9YYVRGU1VmeVplanFGZ3RJdUd3MmNkSmt4dGhWbDE1RWhVamhYNEMzV3VSQkRuYzJqZjNwU2RSUXhtbkFEQjJBOFY0RDRaZlNXZ3ZETVg0?oc=5",
+      "source": "The Globe and Mail",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T09:20:17+00:00",
+      "title": "Google Workspace vs. Microsoft 365 vs. Proton Workspace: Which Is Best for Developers and Freelancers? - SitePoint",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaTNyYVZTLXZxUmVJSnJJaGNySW1QSnJVek11T0locnRPSG9FTXpqcEVKSmx5WU9DMnFPSHlQbmdPdEhNU0k1V1NjWXBMZ3VIdEl4cE1DS09saFU4TFQtRWJfVkdvVDV2MlZEYmZYY0VVWTFhejN1b01EN2pid0JfanZVRUE3N3M?oc=5",
+      "source": "SitePoint",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T08:36:05+00:00",
+      "title": "You don't have to wait for Black Friday to get this Microsoft Surface laptop at its lowest price on Amazon - PC Guide",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUXZ0LUtOc0dvOGJKVXB3M3UtWVl1dE5GUk5LZmZXbDFWRVF2RGM2S3dDT1BxNmx1aEpjT25oSncwbU9lRFo1MkE0MGxzU3BUMDQ0bjlrcjhhTENHQTBsVmtmeFZVNWpRSFB6OEdoWF9BVGxHWjBudEw0Tm1UVXF3WHl5alhWYWQ3YzhlUklwSG5hWTQxbjZNWm5zWWY4MU9aSjhndkxRMmFFVVYzMDdONjJvWUVvekxtc0Q5Y3VmRjRLNVRJUlpSSGhaV2I2NFZoRVE?oc=5",
+      "source": "PC Guide",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T08:00:00+00:00",
+      "title": "Key facts: IREN Revenue +66%; Microsoft 200-MW Upgrade; Analyst Cuts - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlMyZGNHTzBrS0xaa1haU29QcjEyV1RQdVZHaXp0cXFmZnRtLUdpelp0ZGMxTmJ2U2FjVXlINjF4MU9oMWY3UWNWNVFiRW5waE9UQUM5dHkxX25WZy1PWTFYR3cxYUFVN1RDSDlLMVlzeU9ZcDZJVXBIMFFZWVBrRkg4MjY3RlA2MEMxZllqY0xqSXRIaTVFU2hGS2xRTWFVWDlQTndYQnZLRjVlTG81Ykd4Z2lkeUQ3QmVYRG9sNS1hTms?oc=5",
+      "source": "TradingView",
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T07:34:01+00:00",
+      "title": "Microsoft Reportedly Looks to Cut Reliance on Some Neocloud Partners, Plans to Prioritize Its Own Data Centers - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQT2phVFBOVHh4OHdyQTZFc3BUcHhacUR6NXpSVjJCUDI0TzlPOWl5NHlLNGRPSnJmS1pBUnppY2Zwbjc5Y0xraTJueDg5eDZXc2diOWtkZlVtR3BOdzBUMVRsLU1zVDlxWkM3X3FmdmRNYWpobzNaMEI1MGNEREFkV3Zfb3JWQVRqcFhxOVd0UlpBMDlBbFZWRzNlczFhbVhESF9lX3N4X1ZiVVpiaXJWZTFMM0txSnA3d2czR1dXdmExUk9MaFloRkZ5RHhZRmE0elpSX0hqSWVIU251Tkx6aEUyODUtVlJYS2V4Y2VFZ0dta1VYWWRDNzBURFA?oc=5",
+      "source": "TradingView",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T06:43:00+00:00",
+      "title": "'It would facilitate Gaza genocide': Protesters storm Microsoft planned site - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUzVLVkROT1M4dXJUeDR3WV80UWhVaUxwUDd1SFNnQTJ4SGVQdFNaaHVEUnUxZWRFS3pGWWxhREl6NnE3a0hOMXNEYnpFY3J1WUpYaWkySTVOSHpTYW1RR1pSbDhMZUVOTUU0bW5Ld0FwT0tFYlFoQ2dELVQwdXh6TjFkcG84eHZOdDVnYzBRQmFwbXF3YzRZMzFNWHJleUJNRkdNQ2VZRmVlZ2xYLXBONGxBUE1pbk4xRzIwc25zUlFIVjQ?oc=5",
+      "source": "Middle East Eye",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T06:08:27+00:00",
+      "title": "Microsoft Scales Back Neocloud Partnerships as AI Infrastructure Stocks Face Pressure - Microsoft (NASDAQ - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX0lzZy1ldXQxRTFROTZtMXlsNTJnR2txQTdlazVVN3ZMdlBzeDFEQUEtLXE1TjBMQXk2M1BqMjBoMlNoSFFxa3lQYkJYdmN2MHZFMXM3R0NQMHRPWmVmaHhNWFVHejNUbV9IV01EZXhHVWdsYkdoTkU0b2NCNDhmX21iT2N0S2NVVmJlMmtLUG1mQlBsVlMtOG1uZVdvbjBqa0MyQWZjSzVzcC1xTnFr?oc=5",
+      "source": "Benzinga",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T05:32:00+00:00",
+      "title": "Microsoft AI CEO Mustafa Suleyman reacts to Delaware’s AI agent proposal, says it is ‘deeply concerning t - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcmd5NTBBTUlSYVl5TGlhNnFQZWdNQVVTZ3VsOHI2QWZmWHlMeW9ydWNRNDBVb1o2TGRoX1psVVFUZ256dkRPeVdvM2FHUkN0OVdGc2ZQcVN1OEt3dzdHRkt4NWlmeXVpTHBpM2dtTFM5bUpxZm1LdllWU2pEVUlacElESzZQYW9JTllGc3ZfWkJ0WGFva29jSE14Y1VoRjR1bl94U1l4enhUMzZ2SFVYVVhBa3hBRVdraWtmeGdXZUxndFhiZnVBQzB2UUpvSmlKeWNtSlJ1YUtnZnNQenY0V2lLRmZqdmtfOVZHRUhVNTZORFlSWTNBd3pVVFBpX1ZUbGR3cEFkcXY5WEpQWWZNdHp5MFFRd9IBmwJBVV95cUxNbDZEZ1pmR0ZrNDlaTmU1MHgxN3dCSTItMWRaWTRlVko1SlVtcG1adzVqbnJVQ05hZVoxUDlqNk5EcXYwNHJBVWx2ZjFpcDFBdWRqb2xHN2VER1ZpU3FKaDViR3VCOWtZZk92alB3YlNXQWVjeXZnV3lMck9hQ3p2M1N1ZDRyY1R4cUd6UkVqVTBjTFdFOFlzVkk3RXZKcHFRUjYxLUkxNEJSZ0tENUlONEFVZUhaWkp4YkhkSnY2SlNXNXRVX19aVXhDRnpDZHRWdmhKOTY0clR5SVl0U2QwR1VuY2ItRVJWYlYtY3dlblJ4Zk1HV044VW92RVFycjlFemxVeXNqUjZnOHB1bXVmYkdOU2ZpWVhXckVj?oc=5",
+      "source": "The Times of India",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T04:55:27+00:00",
+      "title": "▶️ MICROSOFT - IMDb",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85ajZlVFYzN3pmd0xPMk84anJkNEd3MHhiRXpJQVY4SDZPYUVKZFBHbkNtNTdmZjdhSElTR1dPT19vNUhlSWlMcnZHSi1zRU9YSlE?oc=5",
+      "source": "IMDb",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T04:08:21+00:00",
+      "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSDRYc2RIYl9vRzhRSVplWi01QTJNdXcyeVk5eGRkdTh4R3h6cWZmbXBUMlpkLWtlMnlBOEZuOFNGamFJa05vVURlMkdsbTllZzN2TW9oV25vRmctVXpqcGNlVFlJcXlGTTlaNV95UmRRallpWk9SZk92ZGVUV2RLZmstd21HTFpDVHNtQnFvbWotejloQjhieEZOZkRPLVNXSDd4aW41cjk4WWJINEI1eGhZSmwtNUXSAbwBQVVfeXFMTXFaMDFQN0RUbkxSc2pYeFBRQmZ5WW1SMzB1Z1YybXB1S0JvcWZJNk04bUVsUGZTYVdPdW1SejlhUWM1RUtBTnNMZmFodl8zd3Vna3MzZ1JqaFVwMXhKWTE1V1hfWEJZdnEzY3VKb2M2OG5JOXE4RFRuM0gyelhUbUNSUXYyVzlnaVF1cjlwdW81eTJwWDVIV3l4Y3hpdzZUVVV2bFgxLTNrN1J3V0xVMnlIQ0pJVkk1NlFFRkM?oc=5",
+      "source": "Al Jazeera",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T03:38:01+00:00",
+      "title": "Microsoft (MSFT) Is Pulling Back From Key Neocloud Data Center Deals - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMl9UODZoUFhCcm5lSkVLRnpNOC1aUjJDTGpfYnRhZkdYZllZb0R2MWJZQjhZekFFZjVwZUJ4OGRYdU01cHl1aldmYVJaaEtqZmtKMDVqWlBKWk83TEh4alptZHF1dlVYb0h1UllvY283ZnRwaENMRUlIUmVEcmZlUmZ0WU1zU1BMT2h5SDBhRzNfQTN0N0Nz?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T03:12:00+00:00",
+      "title": "Futures: Market Needs Repair; These Big Winners Are Broken - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVU9IbWdfVU5FdE02c2NySGtkOVZLa1YzMXpYS3lYNURLczg4NUcxb2lKNmJFbTVXNGh1RTllMTdrOU9EY2daWXVmVjNja3BzZ3FfdVljeDlLWVkySnZRQW5KNnJMcmdQazFGRlZoREU2UlZab19sUHpMVGtxcWllQUl2R1hzX0xlLVo1OFhiYTZNMmUyaUk2blhNbVc2QW4xZnlCUk9HZXBJUDlCQnVveWhwWXBibGNZN1RzbDNvb2JCNC1UQlRlTFZPeDZoM2lGb0xPalBReHFaM0xYd2lTWg?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T02:53:58+00:00",
+      "title": "Protesters slam AI and enter Microsoft data center site in Amsterdam - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRN0d3WkQyN3NPZF9sS1FjMHJkNXVaeTNUZVh2SXdGbGEzVmFoR2txSjV1bF9VRDhTQkJfeXQ3RUY5Rnk3Sk5VaTFPOFlMTWhSZVlpWkp3TmVKM0NLc0ltaEtuemZwMTA?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T02:44:34+00:00",
+      "title": "ARTEX abuse expands as cybercriminals target financial sector - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSHdvajI2Y3h5N1VFVWh1SHhYNXVELWxPTndDbjBoZzFWaFJzSlRyWUtnTEJtUF9nUWFZMTAzMnZVX25kUlQxOWFQQi14Ylk1RDE4XzNDdWtPUDVRaUFJYmtmdGU2RGhITkdBckhTWndsWHVNWTdTOURHOVEwSWJTV2xycDF4WkpCcUxHdzdIQ0NVdUllVEIyRENublNjMi1nTjdhTlhUU3RBWDNkRWZiNEZMZ21hS3ZScTVN?oc=5",
+      "source": "Microsoft",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T00:15:02+00:00",
+      "title": "Washington Post. . Protesters broke into a Microsoft data center site in Amsterdam, hanging anti-AI banners and spray-painting graffiti. Protester Sam van der Beek said the demonstrators were opposed to “this whole AI infrastructure,” saying that data centers a - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY1ptb0I5Z3BnMXBod1ZYU1VURTJmZVVIbUNZYWg0UFlUemFDNHVDM3ZJQU84SF9tY2ZUUmViZVJDbUZiTHhXNjc3MnZQdTR6emlYc3JfSml3N0xCbTNTbEJtSFZIYm9zNGRYRWdjSlpVYlAyeG9TOXBQVlVZem5ZQjBMdEdUXy1USUtXUUFrZS1vNDBUc2hGQ0NlcF9GWVA0Wi1XOGhvV3E2bkFvSGFJS0k3anhSX3VYeTJwRGpiVnI2SXRJY2twc1JteXREaG1KT0tfQWcwMV9Hc0RzcWc?oc=5",
+      "source": "Facebook",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-07",
+      "publishedAt": "2026-11-07T00:05:50+00:00",
+      "title": "Microsoft addresses high-severity vulnerability in Paint application - SC Media",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2xqNU5wZ2djSGhLSEpTUkIyWkRFN3duTXJkYjFkclBPUTlia0E3VWJvUkZMWmtDcjJPQVdCX1hxUU11N2ZMSWMzM3lUdXVaU2Q3dVRNYzlFM21Ndkp4bXZXTHdXaDR1SkVYWmk4azVKUDNsU3drNzkydG1FTVYyaEZ2UHdac2U4WkZwenNqeE4teDdfb0ROUDE2ZEdDMTQ?oc=5",
+      "source": "SC Media",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T23:35:55+00:00",
+      "title": "Microsoft proposes 30-foot sound wall near incoming Granger data center - WSBT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMGREWWthaE95RGVacHFSMkdoYW5fdjRxNGpxSVJ1MkhVY0ZnU0FveGFBazRTclJDNDFheFJIRVpwT0ZLRm5lM1VvNlBDN01iODd3MmhDMm5MeGpZcDI3eTB5cTdlNTdZMlFfM0Z5a2VNcFIwZ28yWDZWOXRodnV4NVZHZGxrNVV4bUZmTDdfSFI2QjdPdXo5MXVjSzdLbXg2?oc=5",
+      "source": "WSBT",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T22:48:41+00:00",
+      "title": "A Retiree Who Bought 1,000 Oracle Shares at $39 Just Watched Microsoft Walk Away - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcHJCUjh0R0d2OThyOWFnYW9sd19pbTZ0eEtwVXd0QmUzbTF5XzdQVVdCUEcxMEJOYU1vRlRIaHB1U2U3UWg1Nm91SDFQWXhXbjh2MVVaVk5VcUF5Q0Q1YU1aUmM4QmNRTVdNRzZCVHluS2FDTlA5ai1ieFlKamRjNjhtUmlzWC16N2xvMjVzQTFxS09sNjFR?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T21:28:56+00:00",
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports By Reuters - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdS10RWhOZnlrZXUxSm5kVk9NN0k4WWxPek5MTE0tREgxNEhQaXU3blpRc0JjLU5zdGpUNGdhdDBKMi1mWHZuemwxTUhYZVVZekROdTVNR256Y0dic0JBOEFrOHE2UkVJNm9PUmtrVWpXZThIQk9KX2lGcWNTVEpUN1BpR191dHlTRVdiYjRxeUFrVDcwazAxVnFqRnRXNmJveVlyZzFaTXFIR0o0NFEwU0FmQndWYm5OWFdaWWo4Yk12Y1VpSjJfcGZLaENqU2J1aWlDRVMtNUZ0dE0?oc=5",
+      "source": "Investing.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T21:20:00+00:00",
+      "title": "Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdnQtaGFqaWM1TDQ4c1lHMmFaVmxONnFYSlFTdjNsckE4OUFHR004dWg3QmItMm9yMTktUWEyaDVYUjFST2lsTTBGbDQ3Q3hiMVpudEpWYWEwNmJ1Tk5DQXVnd2hRSXN1UFJ3dm1FQ3htbjhsMkJPamFEWnlQUlREMUZHWUZTOXZpUkJqb2NGUmxjUzVKZTdJYkZ4eW5pR19nQkk2SU9USG85LXVIN3BIQno3Z2FJQUlKUUdFN2tkU29YRVZBUHVSbTR6WWFMWnhVZ1BpN1lzclA5dnM?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T21:07:33+00:00",
+      "title": "Protesters break into Microsoft data centre site in Amsterdam - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbEJYYkpZb1FlUUh4NXYxbzVjWHY2Z3R5eHFmZWZTNGg2QnRsX1dKUkM1VEE0SEt6U2NOeEVwdC1XMjFOdTFjallMRnB1MS1XNmppRnNsa2JnSHpxUlhJcnBTR0g4Qk5ESF9XZTYzOTZjaHAtZGhkR0phai1salJOMGVhbEQ4eXItNUk2eGxSM0FSUk9vZ0JBYlh6Um53SmpoRUJEcNIBqgFBVV95cUxQUDlDN0VvSWZ3czcwMmV4ZjE3eEVycDNvUUFsTkZaSHl5SUFTWVhCcHZnWTR0Wmdlbld3T2Eta3RFa25XVHFJNXlDZmZNRTJwVkRyeUduVTAzQVpsejBhQVVZeTBhQ19SMVZmX3BIeGRpOTk5N2o5T09wRTVpb3Y4SDZibjg4bDBiRkV1SEE0bXBKTlp4NGlkUGF6dmpuaXczd3NOQmU1OHVHdw?oc=5",
+      "source": "Al Jazeera",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T20:27:53+00:00",
+      "title": "Dutch activists invade site of Microsoft's planned data centre - France 24",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM09qWXJPX2NXZ1hEaWk4YlZ5UHQ2a2pHazNsVkowUkFwYmxmbjBvZUJEUGNBelBEYW5lMG95MWJzUkxSdmZmRzlIa2RDNUw0cFVmQ1Fka2MtbmF4T2Vpc2VPYno3dUZ1WXhEcmc0TnJOOURYQXlQM29XUElQQmpDVjlfWm5LUjdiT210dzV6WVBuME1OTDJHXzEzNmx0THlITkVTVE9taXlPMG52Y0E?oc=5",
+      "source": "France 24",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T20:10:05+00:00",
+      "title": "Microsoft Ends 2023 Oracle AI Cloud Deal [2026] - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQekRVTFFRLTc1WmgxSGFWVzk4V0JFN0NPTEk5aEpGV0pFT3BKUTVZc195Sk8xbTVmRV9lUkRPVWdheFloU3FIY2tILU1pZGZDaXlfRVo2UEhEaEE4MU1FQ19vX0p3QUxERlhucXNUSm9sUUppWnpIcFh6aWh5dFZIMUFGcw?oc=5",
+      "source": "https://tech-insider.org/",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T19:58:48+00:00",
+      "title": "Forefront Dermatology cuts manual reporting 85% with Microsoft Fabric and Formula5 - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORldBNDZwLXdJVkdfcW9lQVJOYTVITlRUVVozakJSVkFuckhnV3hhemx5Z0o5V1dCUldyS09LcDZ3NVRLYlloVmxRUk41Vk5GRzQwbXM4cEJkYkNDSnQwUC1jampMTHlLZ0hqN21GZkdnc2xERFdueHczUEFBN2lmZTA4WGx1Y2RQYjNNSHdDZVBIWk0?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T19:56:00+00:00",
+      "title": "Activists break into building site of Microsoft datacentre in Amsterdam - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjhvckhKVVg5OFBvdTJtaGNDdU9pdG9pNmh6ZFVNVzhBUWcwWVZ0MEhOYnZGbmhiNTZHck1FRVVPRFZoQS1HbHJISHdlbDJCRUtaa3RHc0lDdFh2MEtEeVJvelltSU16SjNuVmVtT1VZSGxZU3duU2JRb3Y3V2hkenpENTFLT0Fud1FQa3VzRWx0ZmRfU21yQlF1T3lsbzg4eGhXeWtXdzBsY0x4T3NCMkhYVzdQd2Zi?oc=5",
+      "source": "The Guardian",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T19:41:29+00:00",
+      "title": "Microsoft is winding down a 2023 deal to rent AI cloud capacity from Oracle, Bloomberg reports - MarketScale",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzdJdGZ2b0dhVHVibndqeDZOTER6RlpqM2pwUjBtaVp6UWl2NUhSdlRHcWpFelpmTjMzZ0x0bVk5bExVcFZxMjNBd250OEpWcjRSNkxjREZZRHUxVVVBMlZiQ2dhdTYzclM2WXlja2JWNkdycGJVR3puRXljdXRmNGNCVFJpbzVSNXZwZWFLYjRaQVMwN0pOYnpBX0hSdmFEWlk1X2QxbjRKb2p2WlpYTThzRkNYQQ?oc=5",
+      "source": "MarketScale",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T19:16:09+00:00",
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0g4UzRRaV9OckNuUjZYeVcybWl4SnhZUHVRR3pXVTFUdVMtWENOSWRKdjhUQThNTWlRWXd3YVJFTUVaM1hOaFI2UWJ6cDlWZjM4Q3NXTWZDVlJFSTdnS3RqNExHcG93anIxTDhpNXJTRGduSEgxcWNaYnNRYTdOdWF4SzBoZzBLV3o1Wi1ZaEVPWkFXZVJSSWhYZWFSdE9BRFlINGtWWjhhM2FLUEdaYjJQOTBLQ0VCLVIyXw?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T19:09:41+00:00",
+      "title": "Microsoft Stocks Move Lower 0.80% as AI Rotation Swings Back to Chipmakers - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQODRfRko3bDJ3UHhhSnVtLV9obkJNNEticml0dTlNZFhmeTAzS3lpZEN6c0dQek9xOVVXSFJvRWpNa1ltd0ZNdFpQcTV6T2VLd2ZWemZOdVhOdkF6d2lQR2lKM05ZZE1ZcFhwVGp0SnNOZHFDUHJyMGhtY2lvWEdjMkk1ZTZSZnVrbC0taTFJaDNvU2dYWHgtcmt3?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T19:05:00+00:00",
+      "title": "Even Microsoft Paint is being targeted by cyberattackers — update now or face the consequences - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcVQwdXRiOXNaQzFuODVQQjIxSXZLOU5DSU5RZlgxbmxFWmVoeXFXMm5Rclh3ZEpLVGFFX25HQVZOSUdqNmt3ZEtnUnI1aVlwQXhONzJoajJBS0hJc1ZFYzEzeUVxMEIwaGt5YmJvc0gzdU1uUzVRUnZWaTcyc3cwRU16cmFSeWV6UF96VFdpc0xLa2VOUEJfel91M1lDbUpYNkdoWm5idUFpU3REb0tycVNybGF5eVQzMFRYcUZFbGVLUGRTLWIxeEVmcw?oc=5",
+      "source": "TechRadar",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T19:02:00+00:00",
+      "title": "Microsoft Won’t Renew Deal for Renting AI Cloud Capacity From Oracle: Report - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VMldqNUtPTEN1N2JuNFB3OGwwV0k2bnNtbVJObWhoSDRMOUg2ZGh6d0hsUlB4WFF3bDJobDUxNEQ3cEN3dDhBaEl1WUlCRG1mTlNvbkJ6RVNMZ2JNTkhjSVRpckYxRnN0dkVhb3ZBQ1JsM1ZpWFdKNnNQcHdldw?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T19:00:00+00:00",
+      "title": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWg1SzZHQUk0WHZnZEZhLXhJaVVsaWFCR0ZEMklGeC1YZmE4UVZWRGs2aXBxNVhYeVBBMFlhU2pRZ0VKRjcyOVVFYzdnTTAyV0dCUWxlamwtU0VDZGI1UkJvbFVwZ3JiM1Bpb2REVENuTzRNSHZweDNIUXVadVR4TnNORjlQWU41ekYzNnlUdTZ0am1QaDlwSGZmUFVlYjY5Z2JtaTlR?oc=5",
+      "source": "AP News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T18:57:58+00:00",
+      "title": "Microsoft is winding down its deal to rent AI computing from Oracle - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmsxSVhhU1lYazBuVUp2UFBkSXpxdm50S2RuNFItNHJGSlNEWkdUQ1RhaldUZW4yb1BqTlN1Qy01U0lZMjRpWk5VbVVjYjF6V1owOC1CNUpTVmlVbmZ3Z3FleXJLWi1Zd0FjNXlEQ25mTkNWcVF1c1h3YVhCVlNOTFU0U1Q?oc=5",
+      "source": "The Next Web",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T18:47:58+00:00",
+      "title": "Microsoft: AI Monetization Accelerates, Strong Buy Reaffirmed (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOai1ncFNYWG53d0VSTnBwVndZSU8yWVAzRkFrVDNucVM5Wk5pNmEyelhtMHNLeG1pcWkxbzFjNXNLRXdEY20wTThvLUpZTGkteXlKNTlxaF8wWmpEanlqMWdOQmRvNVQ4RUl0VHh2RWQwdEp6M2huVHcwb1BNbU5HTWVaWk0wRElwNjlERHRQR3otdnJIZGFkdTVxSExlUkUzcUE?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T18:31:32+00:00",
+      "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlBrMkJ1TjdYY3VXQTVQeWZ3NFBvZE10d25OU1d2UXVLTlhXQWlrUzBDX082T2UyY3dSY2VBX2tnanFYQmRkVmRMMnU1Y2pvcEZ1eHU0WXBNRmZMa1pzaWFrT1FWZkF3cE44QVVkblgwMHFKOXZEZS16UHVNV3RNQUhEbUdmTHBGd3B6NTF4YmpHNEJrUktjdVdyZlgyU1V0ZEstT2hvNWdxQQ?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T18:25:08+00:00",
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports - Bellingham Herald",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HR2RlNXpTSnpSYjFITUw0dkVPV2tlLXJzZDJ4bDRCeW5HLXh2dUhEU20xUXFRdjljM1JLeHZ6TjhnV3EzMEJOWkRadjZ6SnVodEpQVkFXNEV2WVFDeTBVcmNpdktGdDYtbG9hX1NBWmhNUEVqR3Rr?oc=5",
+      "source": "Bellingham Herald",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T18:17:18+00:00",
+      "title": "Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN25DZl82VVZGblFmVjNxOHdaeFk0WnNFLWV4RWNYSDA2WUtobWRFR2RCOXM2b0pDeW5LenJTLVpwQ09VMmNqTHJvNlA2TGxmNWpZNzV6RDdNU3FlZ3U2cjVodXRjejduQnhXZFRsR1pVTzZ4VHhuYVBXSDExZmEzUWt2ZXZ1cFdNNDlyUFhSMDZCR0owcVEzY2hOdk52RkZa?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T18:16:58+00:00",
+      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXFhaDRlRjBvZktGaFM2eExYdGpJakRNazYxc2Y2UWoyMDJzS1VFb2Z5ZTNkSVhMRHBTbUdtb25kZHJUdkpRVXRQU1hQVGtIbS1maVNoeGhSZ2pHOGF1aDY3R1AwSTU4TmlmSEdEc19RYlowVXAzc0NlSzdVZ2xBZXduc2FzT3ViQ0xDS3RYdklKMzFnVzRtUkZKQnVBWlBDTWtGcGZUU01ZSktQTG5aOE9lbXE?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T18:07:00+00:00",
+      "title": "Microsoft and Oracle’s AI ambitions are suddenly a lot more expensive - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdk5mVkpEMUpoSm5Iem9NUWhEVVNoY3B0ek93TlVxT0xqWllKX0ZSYU5zbjc0aXlqVVl3TVdVbjB6S0l4ZlFXMklLR1o1Z0lvWkJFa3JEeTk3bmkxM1p4SWE3NVdqZm1nRHp6RGdRZmIwWGVaT3ROQXEzTm5sQ2ItSjZ4WHRya3FhQ1NSRUM1QVlOZTBWZmRycmFlNnc4ODV0Q0pVOFlUYkpFU1U?oc=5",
+      "source": "TheStreet",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T18:04:13+00:00",
+      "title": "Microsoft winds down rented AI computing capacity from Oracle: report (MSFT:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOF9pWl9KSUVidWlYTmR0RURMNWsyWF9TdWZvaXA3WllqVW54Y0VPN1hoQkVWdkFrVVMtQktIVkVHOFJDMFNFWkhfdnhpaHBLaEpFYmRLdkI5LW55WmxaTmFoRFdFenlsdk1JbTNBc1NKRkgwLUd1TFdJN3d5ZmRMTnprSVgtVHh2WVFvNk9YRmlUUEw0Qy1pLTBzWXBQZFk5QTg0TlBaSnVnUQ?oc=5",
+      "source": "Seeking Alpha",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T18:04:00+00:00",
+      "title": "Why The Blue Tsunami Rattled AI Stocks - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR3I4UU9QU2JrM2NTakhrNVFBVGFuU2p2RlhnWjR1VUZYb01NYXdSN0JzVGhycjdKb1ZBeXJtRlppWlJ0aWxYcEczLW1Nb3dqVUp3WFExRGE3VlRYdld1b0xjd0FKTHg1N3ZpSy0tUkZsVWRjQnlWU1dHaHlUZXlRbHk2OVBZYWNDbTdmRG9XdXVRR19EeklsekNRM3hsSUdBWWpPTGl3RkZCX19FOEx4WDN2MA?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:58:31+00:00",
+      "title": "Oracle Shares Drop Over 4% to Two-Year Low as Microsoft Reportedly Declines to Renew Older-Chip AI Compute Lease - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRG9GRzRyX3lGZ21ZTzlGYVpBR0thS1ZIWkliRWFBS3V0am14Q1ludWgyMU9Wd3FiTjBMTFNwMzhfeFR3bm8yWnRTc01YeHg4ajNrNHZ6NURSeTgwVEhQLVZSNUVTdTJBWXlPck1qLThlLUd1ckhkWWZndEN3SDctTU4tOU1rbGZISWNXRWtyTTdKY2hhNUxWbHBzX24tN1RBWVM5VzhINnFyZUtpMGdad0U0dm9iS3l3VWNlcUlTcjNhUTVVSXdLdQ?oc=5",
+      "source": "TradingKey",
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:57:00+00:00",
+      "title": "Microsoft to reportedly wind down Oracle deal to rent AI cloud capacity - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUszVVVJNmVIQ0ZFYWhEVmRQSnlJR2lBNmR0c1BRV0xpQUtJN1d3WWw0VW03bTFmaHBSZjE5amFvckFMTWJ6QTZSQ3lGWXI2V193MDFQa0ZjSGVmSWtxTmZZTWhEZWhUTUZjMkFQYnJfSXA2eHRHbkRFUjB4cjhPQmZNRXZfOTYzanhKVmFRbVJGUm83ZnZBWEEtaXkwZ0lSVThmalhwQXFZZC1rOFItU1g4UWY?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:49:35+00:00",
+      "title": "Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSW5SZF9qeldQdThJVTBTTFdZZDgwN2QyMnRVdl9aRjhZUUNLanp3Q2UwaHVlbHlmcHRrYk83dENrOFNMcXdDRjRBdmoxbThDU29YUV9XQnZxM2R6V25ucVZmVHBnVm04NlBMa05tWThMeTNQNks0b1VCUjlhOEF3X0Z5cEFYOXdYUGtZbEVISjJ6amFVTVhaRHVFTVRPQVptdTFPMzY0TkNWVXY0eFZlZ2YzaklqckNabGVNTnh0MlRsVlN0OEVlTg?oc=5",
+      "source": "Investing.com",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:28:46+00:00",
+      "title": "Protesters enter Microsoft data centre site in Amsterdam - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVEdZZ1dJZWJXSEpqSFpmRDhHRDlYRURxZnROd1BFc0lFa3dJX3BTOHg4ejVuUnFMZnhOYVNHUTZDSmVCTlVBaTRiQ3Q2aHNKNmZYTkJ4RUdPT0F6MFZrRWNrcU1VWTFUVXNDZ2xpYjRuNmlRZ21zVEZiVzZ4NlJLU0hJWDAtWm53YzVPeGNPSFRjeWEydF9hNVoxZURCcHFDSFE?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:28:19+00:00",
+      "title": "Activists breach Microsoft data centre construction site as protests spread in Europe - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWlBqNDNLWm53eHI0c0JoT0pQRWhQTFZ0LU12MEFzNmV2YVNqaEdkbWNPOGl0MG93VFlfUUluLXVoV1JFMnk4OFA0dVdoNm9hU044UjNyTnBfMDdHZmlCbC1QeGZqNFk1VF9ZQ2dLRW9keVNLWl9QX0NrZE55cFU4MXJZaDRZLWJjMFI4QVoxekwybVlydDcwc01UaFJuY1RQLXNienI3eFlPSXpVZHBJX09sMnZRRktxQ2hWNFk2UmtDaGRQbndF?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:19:43+00:00",
+      "title": "Data center demonstrators break into Microsoft site in Amsterdam, say more European protests planned - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3RiVDV2VjRMcFY2ZWVqMjAtc0RTell3bjZ6dXZvQlFNZjFoTUJEUVJIM214Rk5lNzdOYU12UUR2TjVJV0VlMU9SdDRPODdNaXhJakVaSTdTTlh6akNaM1VhY3gtblY2eHVqcVJObTVPelRqRVFZN3g1ekxsWWVhTlctZlpVdkZDaFJQaEp0NVlFVnZ0dEtHZXN30gGaAUFVX3lxTE1WX29ENlloaUU5WEV5US12X2hjVVM4S2lzTXphRUl4V2szNVV3VERkaklGMGJiM2dQOWJDQzEzSWZDZnpMWlhlcnBhYkpZd2NOa05MUWt4RS1zTGo2ZVVrSmJOem4taXhxZ2RSRHVtYzdVVmhXWFFNWmdBY1IxRFRocEtZWWhxdXMyNmR1eWNfSC02R05pbF9oX3c?oc=5",
+      "source": "DW.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:18:52+00:00",
+      "title": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads - MyNorthwest.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01WTFQMndaNWpCVlkxYkxwdkFYeHlVTnNHU0t5UnE0ZFNxUWp0NEdZZzZ2Z21hLUdYbTZTMExaNjhJOFNhalBmTWo1UGttYXZyRFdPbkVuQ1ZwQ0dIYXNqeFRRU3E4RnpuNTlvQzdKdzNaMEVhcUNUZkxn?oc=5",
+      "source": "MyNorthwest.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T17:04:07+00:00",
+      "title": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSU9hX2w0SU1nN2ZnZm5oUnJoeW16aTVvb3E5Nl9RTlBPbW5zbHNZQTBiSVpweTJQRXRTN2VHNVJQR25HVm41ZmZfY1pRdG9SdzdUbXRlOUxGWnZfQUdUTkhNak1aalBYMUtpQVpTTWNwMS1teFVKUUhBdFZEcVd5ZmlMdUpMRDduZnEwM2VOdURSY2E4RmRCUjVzR0ttUVdMV2pUekk2MF9yMndxNzg3YS0tYTFrQ2xwZ3VlNUtjYUlxdVNBS0NQWlpEazBPUE9xU1l2ekF5Szd5VkU?oc=5",
+      "source": "Los Angeles Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T16:54:00+00:00",
+      "title": "Microsoft in process of consolidating neocloud relationships, sources say - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORlJqcDR4Tlh6aVJLY1V2aktSR1EtMkx1LUFoVF9fSDJVRHlzWkpwc2hNWXhWRG9vVUZNQWt2YzMxUmdCalZNT25TYjFYemxQSkdiMWdQWVR4djNwQVBMcTZabHF0SWQ0N2xvQno5eEdiMTh3YkxRVHg0cmxTVENUdlVrWHpHNmNzRlpUUURpcVZKZUk5QVgyYUhWVFpIUmpnQ2lLb1VxeHZqQld1bEJtdkd4RHpJQQ?oc=5",
+      "source": "CNBC",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T16:06:55+00:00",
+      "title": "Oracle beats Microsoft and Amazon on a key Wall Street metric - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFJra0J2RlJJTlpkeHplQnhNbjl1V2xYaExwcUNJeTFPODJSTkxLRG11NXlDa1R2ZlZNRjNZVkxJRXY4YTFtaGttRGt5RV9ENi1TX0R0TlB1Y1R6cUJVcEM3STZWVUNPZkdjM1poMDhRekxtb3V0blR5eVl4MWp2UkRBUTNpa01JY3VCLWVrRFdYMWVzT1BvamgxU1dLWWs?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T15:57:13+00:00",
+      "title": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSlhsYjZDSDdRdTRtS1JLeGlJZVM4Nmg1US1QZjJJQ25lczdJaXAzUkU0WGVOaUZha0tNeXYyNFpRV19mWUZlUk9qbWlZVWFCRllvc1h4Y1k1VmFGNHo3b1NUNkRLdlg2QVByQW5hZkR0bXFucUdWalllYzJaaThIV0NYRkV0bHd5ejBOTDhsMUpNSVdTLVNyS0Vnb3Nhamtya0lUdEtkUG4tSzhoVmpvLXdCcS1lb19KZnNJSV94aURJWXhHNG5r?oc=5",
+      "source": "The Seattle Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T15:56:02+00:00",
+      "title": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads - News4JAX",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGh2R2Y5eTdhQVBBU0VfeEdoVDQzX1pTMEh3MnVqNzBpQk1rT2VwUDhYUWttNlNVNjlaZWpQWW5BTFRwaDlMUFF1Y0tHalFYc21VcmRSeUR3VjhpazBESVd3dnRJaUkzMTk0c0ZJd3dxX3hhaTU2T0hmaHpGNGhXdk9RMm9sZmREb0lsV1JIWlpVQjkyYy0tdm9DMGxvUXJZZ3FFRFNJRWROcUJCNmtpWktKZ3JxV2ZUV1FWVkw0bE1WWGxHT3dnN1BPZnRyUnZfSDVR?oc=5",
+      "source": "News4JAX",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T14:34:51+00:00",
+      "title": "Linux finally gets one of Microsoft's most useful Windows utilities - How-To Geek",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12WWRha1JYWVdkbW1aY0x5czA4ZlNKenFfSTBYY3Y4Q3V1MlBVMGVsbXp1MDJDX0FxSjhZdjl2WC0ya3ppMzVmeS01b05UVEVtYVloZG51dGUtU2dVd3dUdnJWT1FnektNbXlkYWY5WEtoS1owQzVKNFUwQTM?oc=5",
+      "source": "How-To Geek",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T14:27:55+00:00",
+      "title": "Protesters Break Into Microsoft Data Center in Amsterdam - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOTkyUHlNZFBaZFY5UjNTMjRjOGl5ZVdVcmgtMU9zQWQxaUF5dDZ6dFhJY3hRVXVqeTcyRTJyaEpuYk10WF9LYWFiTXNzemFVX1hQd1dpLUpHajFTS1JTdFItVW15Q09GMkpqZ21MMVA5N0lQU2hjN19wdmtuSkJ3ajZtRGFITVNlcVlRZ3BxNVFGVXQ3WDA5ZVprUU9xX3lQczlveG9NQWRPYUZCNnpDejdB?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:10:49+00:00",
+      "title": "Tech layoffs 2026: Tracking the job losses across Canva, Squarespace, Amazon, Microsoft, Apple, Meta and others - Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNXzdUTzFhNUxQbXF4MzFPVUNkekFpYkpwdkhDRnNYaldpMGxQdHloUkRSREtfRDVEMzJtU25ISUozZFN2SF9DN3V1RHRSRUJMU1oxRlVPQlQzZE5sekpCWDlrd1U4NVA0eDE4eVNlRWJxUGM4d3BweUhDWnpHSTRzTHhGaU50bjhYYlkyWVZMOWRQTTFSU0dzMUs4NDg3ak1NOVJ3eFF5Mm41RU45cnhxcmRaNHFIN0N5ZGkwdUhKQVN4eE83cWZmUU5fQlU4cTU1NS1rOEFrRzJYYjAzVnhac0NjbVBHSktkdlQ4NnhfSnlmRHJEdTV2TEhpSTNtMXdSVUxN?oc=5",
+      "source": "Yahoo Tech",
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T13:09:00+00:00",
+      "title": "Anti-AI Protesters Break Into Microsoft Data Center Site in Amsterdam - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDB4Q2pQSkE3aHhza2otenVpanpneG1sSF9TRFB1NUx1SUJDMkozVi1ONVZrNUg1VlZscURaZGpBaGZOUjVZY0g1X2ZHN1RFZXp6bGpVOExaME1ua1cwM3RXTlZVMnA0d2JBNmlqeXQ0c3NlWEZXTEx4b1o4TlR5cnRfTHpFakNHbkpVTWpfTXN6Vlc0cUlhcjBPd21kR2Fad2VhNTZRYlBQdGE2aFYtU0xBbUg?oc=5",
+      "source": "Business Insider",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T12:23:09+00:00",
+      "title": "Microsoft’s Buyout Offer Sets Its Workforce on Edge - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YdFVnMzBvemo5MjY1TnFGUkhTZjVxY05CakNJQjRHQjBlZExJUFprcmUzbVdyaXJQWEo3cE1DRmoyRjBWYnp4RVdwYUZIX1RkWGY0QWUzWF9kV0h1V1ptWHZRVHZWSkRlWUtzbVd4YjIwSHZSbktz?oc=5",
+      "source": "The New York Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T12:06:00+00:00",
+      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM05LY2JEb1pBQXItM1JZeFdqX1EycThJZWtiWTZkUU1ackpzZzNhNFpvX1pDM0pTNWtuLUh5M2VndkZnTHg0dlJPdDlUSVR1cEEyMTViQWxaT2F2aldicVRkVDBBQklfQXhuYUJ6ZDRjajBtdG00NGJnRXFRNlJVdElB?oc=5",
+      "source": "The Hacker News",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T11:55:19+00:00",
+      "title": "Protesters break into Microsoft data center site in Amsterdam - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQnNFSlAwWFZ3TUZPb1B0Q1RXYkZXTUsxZlAxZGZuVXVVXzZrZThoRmNXT2d3SW45S2FNWXlGcnpvRE9pN0t0V1hKbDBCQTRmNVNsZG9EVWRDTDhMa1NTZWp4OTVHRkJFalZGdmxxaHVzWkN3STdEa1FSQ1lVX2NwWFVxUGVIU2dwTWVMOHNB?oc=5",
+      "source": "The Verge",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T02:41:05+00:00",
+      "title": "Microsoft declines option to expand Texas data center deal with Nscale, source says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb3YxSi01QlpvU2xqQVk1TUZQVTdjQnlqOUZwaFUzZ2txZHBJaHZ5bTVNOXpRZGV0czNzQkRCamNqNXZ2cUFoZ1JsV1l0cGFKazh4SXpjSlJ0Q1pMR0IyVWhfQkZlbTAtWFJ1ZERpbDdfNzZqaVlZUjg2a2RKNlRfS0N4OFMwSmpERG9EWng5MC1XXy1ENURJMUNWTTEyR3Q0UkE3WnRSMVJmVDAwdlJoVDhXa0h1YXpyYjBR?oc=5",
+      "source": "Reuters",
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T23:46:50+00:00",
+      "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN0N4VkVTajFxbXRpcGRTWWxJNi16TVlheExSbHc3NHdMYkhFLXlZeEdCTGxaaV9MNkp3Wm9nLU0waTA1MUVNQ1piRDZ2ZzQ2X1MzRi12N0Jfal9xM2ZPaTZNU1pReXhRempzZ3BJZ0F2X3c1bDZVRmo3QW9hQTZLQkFsOGR0S0Y5a0RyLXhpSEt5bEVSMi1ma0RITDM0UUdoR0RfcXRFS3Q1ajlUTDdBT3hzYzNBZm1lS0NfRmtWNW5ickp4QjRz?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T23:05:40+00:00",
+      "title": "Microsoft Sours on Neoclouds Amid Data Center Delays, Costs - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUTR2cGs0cFlMMmd0Zmx6SjMxblBNUWJVajQtQ2tWaGVyeEswUkZvbE5NeEwtSzQxVlNodHFjalBvQU95TW5UcG9Ja3FTMWRHZEplcEFCTFZNcEhiVFlUNHVVaTlJQnpsajNUQzFIRmhJa1BsQzItMkNfZndsdHZBenV3U3lIcGtsVllpZEp1NDkxREJsd25qd3kwV05IekQ4bmVlNkxZNzc2VnRjYTBIWWJ1Rm8?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T22:01:09+00:00",
+      "title": "Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0lzRWp3SlczTDBjS2gyYnZPX194TnVxQVZCTWdaTTlScTVVT2dYZU55dGg1eGQ3LXNySlIzaDZ2NkNEMXktTVotakRNZ215bUwzS041X2k4dGFHaEw5VDVLYVpJb3JPYnBWVFNVTkxHTk5zZGhYd01CdmVPazM5X1I3X2xvTGg2Tk9HS3RMQUp4cFRZV2lvdXR6dVAtQVozaWgxMFRrV0N5NDFib3pydHhVdS1ZQWJ1cWc?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T21:35:00+00:00",
+      "title": "AI data center firm IREN delays Microsoft AI deliveries, plans $15 billion spending push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnlxQ1JoQmdtMWZ4UzhHRWJacmNRTGNCeDJmTWRRV2xpdU9xUzY2MzhVSklqMkNxeG93QVNnRUZCYUxvVUNBaHVta2lPS2VxMDlxQnZvandHTXZQVk1LNmVTakZxTzJjcHFGbjBwUHd0ajBwdl9HUERfaEsyWGNicU9yeklKMldtNldLMk5rNWpRNnMyWXY1QUNVa3lLU21tcXEwbXUzMFUzTTZtNnRN?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T19:31:57+00:00",
+      "title": "Discover more of what matters, every time you open a new tab in Microsoft Edge - Windows Blog",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDJNY2Z4VHkwNDlkVGs0Q3B0SWlQbi12OUJacWhIOFZoZHlCSGktTVJWNUhsNzg0NERzMUxmRjd5Um9LNDRUNzhldGo5bXBGN25xRW5ETlpEU1owSWxfNFl5dHNNSzdSWG1vUnFFajQwNnF0T0JSVkVmZkhTeDA2MElldWRkX1ZDdzVZS3JDaVZlM1BTVGtfbW5JZDFZZkNqa0p4T0ttelBPU1VPTFAyM2RhYjBSUEwzOFljdW82T2NUYVU?oc=5",
+      "source": "Windows Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T18:04:58+00:00",
+      "title": "Microsoft Reportedly Steps Back From Renewing Data Center Contract With Nvidia-Backed Nscale - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWNPVjRQUkY3M1RtSzc1aDZZbFQ0Sm5Eb2RQVFJEQzhhcTd0NEM1Wmwwa3IwSXB2TWVPTVdlYWJaWFNVWTRkdDFSVmhlaGRLRTJ5MkkwdGs2SUUzTllUV1Y1WGVrc2FqMnNNS092Wm1TWWlsZXhqcy1mSTkzN2tsSjZMSnVFWHU1anhLQXB2QjBBT2NwS21VMXlDYzQxM3pWSmhoTjRvQQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T17:02:37+00:00",
+      "title": "A Faster, Simpler XBOX Experience Is Coming to PC, Web and Cloud - XBOX Wire",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORmhfTnhxV25VTWdMVTlubENGb0xNa1lOd1Z1V3BUcDdTelgxQ1lJSEQwbnpjbzF4VjIzSnpyT2U3bURlUDFmRmZZWlFWXzVqZ1QtOWJ6OE1KOHlTWGY1Vkk5LWZsU0dQNFVwQ19sSDd6ZEs3ZzlOQmRjM2Nmdk9VYjNUWmVWbzZDZndSOGIzVTV4bmcyZVVBWjdUV1FRU0FxRU1EVtIBqgFBVV95cUxPZWlGclBZa09FbTk0RDFLMU9UdWFzb0JKSTQ5VGR4RUtGOWp5MU9rcDJvT1g3VXpOMUs3SFJqM0s3N1FkZ3Uyb3k0LWVVTVRVb2ZTbDF2WUNPUGR2UV84ZlhfbE9pMUNRc0lWN0huc2lMNDlMS3N2ZnBybGV0NDVheE5NcVFKLTVZT3BhZ1BDdFhEN0xWemNuTjNFWklXM0pGMFlfQ0xBb3piZw?oc=5",
+      "source": "XBOX Wire",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T16:00:00+00:00",
+      "title": "Formally verifying agent-written full-stack web apps with PDD Kit - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGpXa0NrcUd6M0FndXlrTUJMZTBSNHNWSjI5dmRpX1dGN01yTTlIbzlBeVdJSTdvMWxCT0FsS0hMbTZiTHNMb1VHNEtJMUx2OWxyVGc0YXJTcWFubTZ1clRHLUc5REEyRi1XSkVxOE9EWi1Qdmhsc1pqLWVOUk1MSWEtOHVuLVVGeWxKMmtZYzNXUWhuUmxCWkMyLWZrYXk5OVM3V0Riek9icTllYVZGS093?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T16:00:00+00:00",
+      "title": "Future-ready education: Evolving Microsoft 365 Education - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWs3SFNpX2g3cF9XRnEyRE9NOWlOMTNGMGRraU82ckkzQXItS3FQRlJpVlVnWmJUMF9wQzE5QnJxdEVMaElxT0xKSzU2anNCVVROa0twc2x1eTljOHp4QlI1OFpKS1JEMkFrNjhvUV9YTUpueDQ0bzVwS202ZW5HU1ZxVWhMV3p4Tko2QmlZVkduZm9EaHBnUFhBQWpWN3h0ZHppR0h6Y3I5cTZNVzZJcg?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T16:00:00+00:00",
+      "title": "Bringing Claude models in Microsoft Copilot into the EU Data Boundary - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3JXMmhWdWpKOXBXd3IzMFl3akZud1NzUjU4dzZqYVlKaWEtalNWYWdaU3ZpSTh5V09GZGtGQ1FoZXlaQzJCS1d2LTVwUGQzX2hocDNxdElTUTFFUWpFeHRUTUFubjl4M3ZwYWNiUldvZ3RpeHdxNk5jT1d2UGh3MFNyTjRlTGRqa2JvXzc2SThsNkNyYmdkaXpzRGtVc2oyeFVUU2xEalRTMWFheDh1bzBkbWNFcGdxeVQwVGp1c3RlRWhl?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T16:00:00+00:00",
+      "title": "Email threat landscape: Q3 2026 trends and insights - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkx3SWNZRFVGYVVwQlRnZlV2TVRhNWQtU1k3NGlBQzV0VVdjbUpGdENocWhZNlhWSlM1cXV6N2x6blFma1ByRk55YUlyZHRoTFdqUElDcE9DVVFxUllmNXFRaDY1by1oblJqeWY5WG9zc1NYOEFBcU5lT0RwNmV5eUY0OWNLUG40MS03NDRReDBUaGNtSTFUU242SUhwTWFLR1pDTGFmNGVYTnYt?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T14:50:50+00:00",
+      "title": "IREN Sinks 9% After Report Links It to Microsoft’s AI Spending Delay; Nebius Tumbles 11%, CoreWeave Slides 7% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLTZxMUFOdFIwbXZKOVBWSldqVWdyYlFwT3VOV0VZNnA1c2QyT0o2QldFWTl4ZHg5dWFTUzI0TXdLc1J0anI2Q0djUWQtUXZMTy1OdG1MOUhjOWFGRzdRMVV0Q05PUWRCWEFPWnRFYlgxdzExTmhwT1RJV2JnUThZV1BYZ3JzQ3IwSGxtbWlHdlczcG8?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T10:20:48+00:00",
+      "title": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNKc0t2WlRGTk9fTmRoLXFJUWkweF9tNXY1UG1FZjUxdkhGVGtUYmlvMmtvS2ZpX3VabTE1VW1jaUNGalhsbTRENTNTZXVwb1dfZ2FDaUJwUkxhYWc0cTA4Rm5wdENKclZPTVRaQV8zT1VpcHV3eVFIUmJUWUdiWlVRRkk?oc=5",
+      "source": "Financial Times",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T03:53:00+00:00",
+      "title": "IREN Stock Drops After Report Says It’s Behind Microsoft’s AI Spending Delay, As Investors Turn To Earnings - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUXZxNDFGcEV5RGlOdkFvbVRRYmZELVMtODBNR1NXaXdkQVFDZ1dPb0RGSk5YMzFmQWpDdGpQZ1ZjQW52R1JPQ1FpQk9FOWgtWnhwN2kwek1xemxTUlJCemN5MEcyOHFCSy1zbkJ2RHdES2RMcGtzaVNmRVIybHAyS3FWMEV0M2JwclAzckNmVFRlTDhGX3p6Zg?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T19:12:21+00:00",
+      "title": "Preview Two New Ways to Play with XBOX Cloud Gaming - XBOX Wire",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iRWZreWRMLTVvNWdMTGdnMW11WWZMbktiZmdoNmkzWXU0aDEzS0twOGFOS0ZkY1dlSlM5TE1ZdVFJWEotdDltU2NFTzFUMmJ4SVQ1WmttSkhYeW1zN0FNcFQyUnhkQTN4SkNCd1FOMlBSTTAtZEHSAXtBVV95cUxNNzRrRExlV3QtMkN0SXU2Y0Z1emVzemZQVjNtc1EtQm1ESkJlZFdvNE9RRHlubFRNcjZmeTdIamNpWkkxU1pWMk9SczQ2N29pRkI4T0IyMmo5c09MOW1BQUxvMzZ6N3ZTZW53dlA2X3RJbkU0c0l6ZHUzblE?oc=5",
+      "source": "XBOX Wire",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T16:30:00+00:00",
+      "title": "Agents that are persistent | New in Copilot Studio, October 2026 | Microsoft Copilot Blog - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPNlUyZWJYVlBmdGY0SkJUTk5vNEgyalFHaEdDSHZvdEFKMWpqajczWFRxUUhIek13U3ExcXcwWWMxdTN0NWNDQVZ0Tl9yNTk4ZDVDdHpMNmllTXk2RHZWd0ktZkRDaFl2OWtxSEx3cVMtZmU5SDhhM3NKQXZ3NTFzVG54VjNoM3FwRTNheDRNdUJEYzlxZ2pXNzVCSExEaUpRcWJBRWJDVGk0TTg3d19Ib003VDJLZ05BeVZtbDctTU1fY1pvZm4wTU5xSnRUaW82Qnhwb3lDakxZMzMtb0VEVDNlWFBLa19TMlhYSG9uQklMS0RVeTd3RTVwbXRiem5teEhvYWl5Q2ZUbDBjS0RpTHpmYV83ZVp6cHV3YS1ibk94UQ?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T17:10:19+00:00",
+      "title": "Raising the bar for 8 GB Windows 11 PCs: what’s improved and how to get it - Windows Blog",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX0VGVERDSnN4ZVRteHpTVU9Vd2hCQVRKRU44clFWZXRFZ2EyV3hOR3B5RGtnZTNqaU95ZUcxSnR6TW00bTVaanpiMF81aVJiSm5tQjVyUjhoWTBwQ0ZzS3REeEdZMEZjSlhQRW5FLVRkaURnVFhfc24wQjhMQ0FuRE5felRkT3dHQWRFOGFnc0VhSGdGSXY0S081QXdsRkxGVnIwSUpDVTRoRWE0Rm9rZERZMFgxYmRTaV81aTVEUFlVMUxJMXBV?oc=5",
+      "source": "Windows Blog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T07:00:00+00:00",
+      "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclpVVGdGd3NYYWo4bGNFRTVlYjhQc0VhMzhmZnRsRnlTNkRidVNwaGlQVVdPMktwMHRMYzhUTWpYUXFYaVFfZFRkSkRmbDNGOWxVa29MSWhhUDk4RE9BVElXUTY3SWo2SHRNbGVhRU9vbjd3ZHJnZlpTdHpSbHpDNNIBhgFBVV95cUxNRXA0VC1WZEYxMWVmenJmdVRiRzhDRFVzUVNVNlJXaEJDc011NjZuT2VHdTJLYndYaGV1NDM2UU93Zm12X1J2VWtYMEJNQ3ZkU0Nhb3M0c0dQT3pzVFl3eTlqLWluNHJjRHpVRTJicTdqSXNTSHBVQjdKWlJtYjZjN2tQZkc3dw?oc=5",
+      "source": "CNBC",
+      "pos": 6,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:00:00+00:00",
+      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa3J3OXpucXRXM28xZy1CakJNcjh6X0ZWSU1pOHo3cjMwQVpDMkhqUlQyOGQ4b2dDSENEWllIOTNBT2V6RWlnM1M3OUVyRGNXd3pIOFdlaGlFNTJ5a1pWX3pUWnVLNFRsOHdZNzl3WHV3Y1F4aW8wWGthREhGNDlOVHBBOU45NXdjNkcxOFRtOXFlVzFkN1JwSVBlYTZFc1ZBN2NXN0VjREs0YzRaUW5Pek9PMC1xMlIyZWtma0x2TEhSbWpx?oc=5",
+      "source": "Microsoft",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T07:00:00+00:00",
+      "title": "Securing the agentic insider - The Official Microsoft Blog",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11VDVDQVlSbkZxZHFibTFaM3pGaDhJTzNIWi05UUtNS2RGelJpQmZJZWlrakxrSDFNUTdBSmdHLW9ieFA2VElWdlVJdVAwZnItaDlUQkZzanJfdzZ3Skg3YWNINUQ4X3NEVFZod1lDYl9rVDhmMGpxQ1lLSTU5UQ?oc=5",
+      "source": "The Official Microsoft Blog",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-10-19",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-28",
+      "count": 1,
+      "pos": 6,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-03",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-04",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "count": 14,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "date": "2026-11-06",
+      "count": 44,
+      "pos": 6,
+      "neg": 16
+    },
+    {
+      "date": "2026-11-07",
+      "count": 16,
+      "pos": 8,
+      "neg": 4
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-10-19T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-21T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-28T07:00:00+00:00",
+      "count": 1,
+      "pos": 6,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-03T17:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-04T16:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-04T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-05T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-05T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-05T14:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-05T16:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-05T17:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-05T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-05T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-05T21:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-05T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-05T23:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T02:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-06T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T12:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T13:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-11-06T14:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T15:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T16:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T17:00:00+00:00",
+      "count": 8,
+      "pos": 0,
+      "neg": 6
+    },
+    {
+      "datetime": "2026-11-06T18:00:00+00:00",
+      "count": 9,
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-06T19:00:00+00:00",
+      "count": 8,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-06T20:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T21:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-06T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T00:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T02:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T03:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T04:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T06:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-07T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-07T08:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-07T09:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    }
+  ]
+}
