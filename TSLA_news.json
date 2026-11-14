@@ -1,0 +1,967 @@
+{
+  "ticker": "TSLA",
+  "query": "Tesla OR \"TSLA stock\" OR 테슬라",
+  "lang": "en-US",
+  "geo": "US",
+  "fetchedAt": "2026-11-14T10:07:18.510175+00:00",
+  "items": [
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T09:42:47+00:00",
+      "title": "Tesla invites select customers to order their own driverless Cybercab - The National",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnYzT0pySXBydEJoQlc3Rl9IY1lXck8weHdDMnpMSF9tdzlxNFM4em5ENGI5RVNxUDVQek9KN1N4Wi1teEdRQlppUnlJTThibjdkOC1jU3F4T0Q2ZTV2aUdRWEpOY0kzMW81RTJuNXBXd0pHazB5YkxDMHd0N3dtUVJrVVdfMm01eG1RUlAxcmtlLTlHbnFTWlFJc3ZzbFY2NnNyRUZ6OEhEc1d1OTlhNW92THJ2a3dWQk9JWGE1aWVCMVdlZmQtajFIUQ?oc=5",
+      "source": "The National",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T09:37:45+00:00",
+      "title": "Tesla opens Cybercab sales to 'select customers' - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2lTR3FVNU5NdUR3STlLYzBPMF9jWTQ4M2Q0aG42SXpGU3IxUFJxRm8zU3Npd2Fpd0JoTzk3SExJa2pTdktwcFhRdUZXQXNmSUJiU0ptZ2NReTJndWtSc2lmaDJQcVNjanVJLWZqREROQzVCUkt4NFE3QnJCSi1sMVl3R211M3JtaVE?oc=5",
+      "source": "Yahoo Finance UK",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T08:46:23+00:00",
+      "title": "Tesla offers nearly $5,000 off some inventory models - The Driven",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0lqTkNUNk1jNFhQSWMzNFh1bXc2TURGUk54X0VrdkpOeHlpSm1hdENtYTY1TGFXcjlaOEtFYVpaWFItTlV5akpER19tbmdQMlhpcl9zNC1JMDUwQUh5NmgzTlBKd3YzaEhDRENkWnhrVlFXZ1gySi11dThzdVc0SEhnWkNIay1BMElR?oc=5",
+      "source": "The Driven",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T08:02:12+00:00",
+      "title": "Tesla invites select customers to buy Cybercab for personal use - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWE9RSGUwWDAzVms5ZGZVZlpvTFhDUno1ay0tOTVIT1VNbjBWVkhsdzRTRWtaSWhjeF9mUFlsNTVQLTVPVEt1RGVlZzFDcDJZU0lQdTQwREtrOTkxanBwSnhMcTBNYzV4UHlacWZXZUpMTVNvMEYtMm5lWDR4UFVOZUJHcXV6TmJ0R2NrelM0Q1Y1OVVCbUNlT3dLdnUwZnZvSzhnWk1lVDlzLXhBVnBqMFZJdDVtaFVrOWl5bUtYbw?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "title": "Key facts: Tesla merger talks; Cybercab preorders; FSD up, income down - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcUZkZzNWSzVYUWN2VjRXVHlORk1hRDB6UHNYZFAtdndJcUFCX3l4NG0yeklqX3dUNjJmWEZicGNvUVprZWNsQk4wcDF4RnB6Qm9xeU9CRFkzR2pVUGpUS3pQcnhaYTRhWnk3M2RsTzJmLW4tclo2R3d5ZnJGOWtzWnU4QXVkZi1kcThYck8xLWdLc2dnalhuc25rMDZmLXUwdzRGaHE5OVRMZUFHa3Nhb1hJOUdEZzJoV0h6R0ZSa0ZwSFdDT1hV?oc=5",
+      "source": "TradingView",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T07:42:24+00:00",
+      "title": "Tesla Opens Cybercab Purchases to Select Private Buyers - The Defiant",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV3JrNnF2Rl83ei1YRlZxbzV3VGlxaENVUHZKYVU1b2FCRFRYRGUyWllsbDM2N0dVRjd1LUFxcFpaWm9XcmFnS2lzdWhlX2ZZbDIyVkZIbHJqclVJSXNPT1NsYmZFaXlMdnRUek9jaUNTX3ZabGc4Zk5GZkpVeXdyaWFmM3ZvcGwwVmtfdlFmeTVtZVZOQ3IwUHdydGFwUQ?oc=5",
+      "source": "The Defiant",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T07:02:09+00:00",
+      "title": "Tesla Cybercab Orders Open: $299/Month Autonomy Plan and Delivery City Pick - BASENOR - Tesla Accessories",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYkNLcDRoT3k5UHB5NTE4Y1k1cTFlYXE2aFIzZ05XMzYzaUpPVG1Od1U2SmRoWGVOanpIeUN4eXUwZlI2MzFkdWpMM05vRUtvRUluTXBXc3MzY1JseThWSVQwY0F2UVV1WVAyMkR2dmJnWndSb3JzY19iVUlQSVZwczJ3VmRITDRpYU9vckNvWXRkOF81Vk9RaHdxaVVRa0w2d1JIYjlNOUFGLU5C?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T06:09:00+00:00",
+      "title": "Tesla Cybercab Now Available For Purchase For Select Customers — But There’s A Catch - Howl.Link",
+      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFAyTjNUSjRoRGYzazNoRFRZQkx5eGhfcVZwZ3hwdl9Jc0l5dzU2TmNiZWhydnRuTkdrOTA0?oc=5",
+      "source": "Howl.Link",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T06:03:53+00:00",
+      "title": "Tesla invites select customers to buy a Cybercab for $29,990 - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlJld3V6dV9jeEg2YlJvRGFRcGpDZC1ZeWFWQXM3N0htRFItWExlTjdJdHlVWkJqMGpTMmNlWWpSVWNaTWJ6VWRMeHFkRUwwRjhhTmhNNmVVdEZOYUZkVUZZTUpuOVFxSFNGWk1mNzczNFA1NzZOclhSY1IwSkNaWjg3ZXVRckZUeklVOTRHRQ?oc=5",
+      "source": "Startup Fortune",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T04:59:32+00:00",
+      "title": "Tesla invites select customers to buy Cybercab for personal use - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGgzMS1yMHhhem9TSVJvWDNRcmZSa2dQZE5yNzhCdGRsc01MUVhPVGZvWTQ3TWl3N3pIRjhWb1cxZHI3UnNsZWh1MERRR3VwTWZCeHBSQW5sa0EweWhPcVRUamRib014X2YyMDJLOUJiRF9jNGtoeV9aRmxxU1VtSlZkNVBqTUk2b0I1Uml2aWpidmJPUzdfLVo1cEJVTkNFWlNHQ2tJYU9vU19zQU9LOXN5YmkzSlk?oc=5",
+      "source": "marketscreener.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T04:57:57+00:00",
+      "title": "Tesla Starts Selling Cybercab — $30,000* - CleanTechnica",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54Wm5reW55N0lKbUFuajYzaUJNZjAtSmxoY1o1THljWmhqWURIamZMMkdZNzZTMVV0bUFBMWw3MW41U3RtTlhlYVhxOHBVazBpZUNqMmJITGg2eDhNSjc4cjVqc2pQY0NFbjhyekpwTnllUEpiMWNXcGNvMjQydw?oc=5",
+      "source": "CleanTechnica",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T03:15:00+00:00",
+      "title": "Tesla Opens Sales Of Autonomous Cybercab For ‘Select’ Customers - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMThvUmpYTW5TY3k5M3dGODhWa0RtOS1XY1ZHMVBBMEl0eU5UTVBLbWNZLVRTeFhBWnQzMjRMSF8zNV9oMWRUbzRhN0tieHJkblRyc0lZdnJQYmJ1aThMUGptc3VqbU1Fc0VqUldRUUptODA5VU5uZHhoS0FRS240MlB3MVpLRTE4d3cwODBMdndrS19GYkJEbExXSHZ6SVdOcjhuMkR5ek0?oc=5",
+      "source": "WSJ",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T02:43:21+00:00",
+      "title": "Tesla: Sales Of Self-Driving Cybercab Coming Soon To Invitees: $20/hr? - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjBqeklPMW5zaVVNQjJMRGtkUGJMQ0o5TTVBS3VDZWJRcnpBM1B2ZmJnMjVuNl9HcmEzRklmdkgzUnlScGp6dkJWV2tWcF9uV3J6dk9JLTFoczdIVGZMSHRKTGpseUN6ZEYxTHJ0clBZU1ZPZlh4S0NWQ0dwanJ6U2FoSWdJYS1jcEQ3SVJkS0dYNG5Xb2xNdE92OWt1QXRNSzNRZVZfT3J1bGVBM2xwNkUyc19iUGJPSkJLOQ?oc=5",
+      "source": "Forbes",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T02:11:00+00:00",
+      "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVFA3STVYaFRsY056bXBKdkJmS1Q1LVFWZl80RUluY0syZWZHTlFWOUV3dl85V1k5R2FRSFdfcXdSc09ZMkNjOWZCNjl5eEdhMHo4T3hHeVF1anZCMlBzTDNaenExQXFuN1hIcEpyWnM0RzBpV1c5OUhxUHJZOVFoY3NqQjVlQ05qT0YyM1lTRWVFTTAxYl9v?oc=5",
+      "source": "Electrek",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T01:41:12+00:00",
+      "title": "Tesla sued by two victims of high-speed crash near La Honda - The Almanac",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY09nSHlscm54eUdKcUFSVTFES0lsSTV4NDZfazBoWm9uSG93UXZ6d09SUXhzQkNIRFVUOFRjemMyR1VMeE8tZkhxN2ZuZXZIa0EyYkpLVENHN2tHUWUyamRYSkJLMlpja0kxcmpuOVoyaGd1a2wzWkNfTTRYbzlsZGx1SUp1WVN4NXM2SEYwX19IOWtGQmc5bnZYcjYzRDJjM0ZVVjBZMEg5X0lod01paXY3eGZZWFE?oc=5",
+      "source": "The Almanac",
+      "pos": 2,
+      "neg": 4
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T01:22:00+00:00",
+      "title": "Tesla Says It’s Starting to Sell Cybercabs for Personal Use - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVW9TQXZVWjF2c2FxVllYb2MwdjhVZ1ExOTNTRGpJTThYNWt6QVM4VWE0MWRwQ0VxU2ctdnB3UGtjTlY2d1NzT3JCQWZUUXlrbXhldG9PVzhyVERZNmJuVjhLbnp6MlpxRVJwbFpWTE15aW5NUmcxY3lpXzY1azdSSHFqODVDSEt5R0hyNTR5aTJXcDFvQW9ZbGJlNEd1VDZGN1hRMGdTcHlyOEdSY0tr?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T01:12:00+00:00",
+      "title": "Tesla Opens Self-Driving Cybercab Orders To 'Select Customers' At $29,990 - InsideEVs",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pSWJ3bEQ2TDlJcExpUUQzWlAwb2pnV3g0ZHAyMEpjcmZTN3dEckZHRXFGREVBc3NvZ2ZsYk5UNTR6TVlqd2pTR0g1VlZtZm5vQWNua1dtenZxSGpvNHRfQVR6cGljY1JZakltNnd0YVJ6dVV6NnpuTmNTQzFoQQ?oc=5",
+      "source": "InsideEVs",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T00:47:00+00:00",
+      "title": "Tesla Announces Cybercab for Personal Use - The Information",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0VOSWhhVlBPbWJCbDlfMlZNRHB1c1hORFhHb3lKX1JEaURzT0hlT1pEanVwZ2lwVmtSOER2SU9vMTRCYjVoeGduTElRRDNtTGh5bWE5SUtFeHVxX1RQeEQyNTJ3ZHBwX2QtaHNBeldwZEJGbE15OEJMODhKdTFzUGVvcUo?oc=5",
+      "source": "The Information",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T00:12:46+00:00",
+      "title": "Tesla 2026.38.5.13 Is Rolling Out: Automatic Collision Evasion Inside - BASENOR - Tesla Accessories",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03UGdKYTBDazg2M25uTlNfTl8wSVk1YVNjYUxkNS1YU29DSl9MNmNad1hleU45UkVGSXhkdV9Celk5NWpNMDlDS0szSlBYdjFVU1ZWQ0dWcEhzZkZ3S0t3VXRVMnBuM2JtMzVfVQ?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T00:12:07+00:00",
+      "title": "Tesla Cybercab goes on sale for $29,990, slated for December deliveries - Teslarati",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IT1lMVGhuNWZ5TnhlRDdhdTRYTGp2dF9FVG5yWng5eTVzYkJFRUowWFYyVjlrYmI4cFMyV1p4WnVacFNMN0dlbG13S3F5NGFJVTlJbmNubVN0Nks3WU5uU0djTU4yemQ3Wm9GS3RDT2w2WTVnVGc?oc=5",
+      "source": "Teslarati",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T23:58:50+00:00",
+      "title": "Tesla disputes state's adverse inference bid in race discrimination case - Daily Journal",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbE1oaE1MQXhwUWx6azEtd1NmdWFrbi1VTWlmdnNwS3JkcVhHWDdST3A4MDRGT3FPa0lreEpoUkZGZDM0ZDhUQkxEdDFtMmM3LUNRUlNLYWJONGJOZGNzcnZjRHIySGlpVzVremItbWhscERxejBGV0lqQVdkRnl5U2F1eVNuOXE0bkg4YlZTYWlRTHlIX3dBVGh2czI4dS03SnE0QktHWXB2Yk9ZUFZzWE1qejRuaWs?oc=5",
+      "source": "Daily Journal",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T23:54:52+00:00",
+      "title": "Tesla invites select customers to buy Cybercab for $29,990 - with $299 monthly 'autonomy fee' - Drive Tesla Canada",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xOTVrMUFEeS1ZdnhVZHpzYkpEaGFwN0cydjlRRWxlU0lCem9UZXZBYVJ1bEtUb2ZiZDZpWkJkMTd1YnI4bDV3SU1BMzBMcjc1cURubkpGcEpIU1RsdVF4RGNJbWQ4YVFYQmdPMzBJMlR3QTVzaTZ0RjU3VGJ1d1U?oc=5",
+      "source": "Drive Tesla Canada",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T23:00:38+00:00",
+      "title": "Woman Hits Parked Tesla at California Supercharger, Accuses Owner of Racism As He Starts Filming - Yahoo Autos",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlk4eU1Gb2dhcS02bjhLbjNCWTNjdnpRaE1ENXVMS0FjOVB2c2tDaTdyNmwwRWgxN0JKSkpFQXVqck9oRkdGTFRqTGZRX1RORGROMUpBbEYxcjBvRi0zeG4xZ1NrcUlDVHMxRG5jV3pjemJfdk5YVG82OUhqaEtTU2hrdk03OVpQeVN5YzZmOEF0amZISkx1bkdXSWpvbFRtcnY0?oc=5",
+      "source": "Yahoo Autos",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T21:43:00+00:00",
+      "title": "SpaceX, Tesla Merger Puts Musk At Forefront Of 'Revolutionary' Tech, Analyst Says - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM3ZPNzlmQVZYd244dDZ4ekk1OUxnMlA0SkJfTVhWb0tNTGdsZlBwR0FEMDNhaE5WcEhPMWZkZjNObXhnU1ktWkg0VHJvc2pfbWVETXdDV1hZTGtfaFp1VzZscHZVMnNOS1daejIzNVZXcTZqcS1tTlRRUGY0bThSa0dQaEhwdFVLSTZVcUhVc0pyWlNnempPeUZkOEhIcDNOclFfQ1ZMcy0xa1AwWDJJ?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T21:22:55+00:00",
+      "title": "Tesla-SpaceX deal could land before Congress changeover - Automotive World",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWNTdDJnMUNHTE9PcmVVbDhVLWR5Z2UwcjlyR2R1S1JBUm5GdzhubzlMZUlrTmp6OUh4OFN2LUJZOTlvZFp5ZUI3TWxBRmV0VHVZRmRvbzJIMWZ5c011TDc4bGpLNUtBMWNUMEhZdDVyYjdveDl2S3pLZFZoZTY4V2RMb3g5MTYwUjNZX3VmWXVXSkJPcFp2cA?oc=5",
+      "source": "Automotive World",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T21:12:00+00:00",
+      "title": "SpaceX Could Announce a Deal for Tesla as Soon as December. Here's What It Would Do to SpaceX Stock. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT0EzSF9IUUZiT2RjVWt2cnRDRDVyRVJRVy1HMTVMOTFrZVg4SGRVZ01RU0RneGdHb2lnTE1qSjRNendaNDFPTlpPb09ZcEo1ajhDUU1NVGFfRUNkeDBobGFQYks0T0plWEdIbjlXN2dwaTFWYVJSM1NoTmZYZ3MyUVktR1Qya01DVkdXa3R6enh2azhOUHFjcERCV1Q4SVI2a1NqcHZTLWJQS21hT0Y2ajBERzFsYW9TRUlNU0U5MHRxX0Z3MmpDcWZDRFNHSnBJVUlBWjhEOU0?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T20:47:00+00:00",
+      "title": "The 5 Biggest Problems Tesla Cybertrucks Faced In History - BGR",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ETVRIXy1GclFxMXY2SHRtODB1UXFSc2F1eVVQbjNmek8xb2lOdEkzUjZtN04tSTRpb3ZBNmRzeW1hdnJZV2dIWHRFTnV4eVhjNk40dnFKV1BlRzI5MkhHNlF3eVVxUWtPUVJzNnE4bzhYLWZNVnN6a0lB?oc=5",
+      "source": "BGR",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T20:36:00+00:00",
+      "title": "America's Greatest Opportunities: The Earnings Gap That Put Tesla Stock At Ludicrous Speed - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNajU4VEdXY0RXNUVhSDhROGxVWFZEWmloNGtfR2M4SkhRa1hKd1NWSjhWOE41MjFNalp3MUlHcjhPZGVGS3dNVDFDUUNEWkVvMHhSQVdyNTZYbHhQdnJpN3lVWXhvYTRYOHZxNFctZWw2Y2lMMld1MUVQU2p1T2VmWWpPbEwxX0Q2WjhMNWZGb0VHWlU?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T20:04:18+00:00",
+      "title": "Surge in producer inflation deepens risk-off mood for Tesla in volatile tech sector trading - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2UwdktNLXJ4RjV4WlhmdkNScU1qekhFc1RxZVBMejlMYVhyS3BfbjJEYTAwVFc1T0JIYTNfZGxiNF9WVjZqbUVEMWZSZmpldEI5bWxza0hodlFiY2lCajA4X3d0Nk5mR2NOOU81bENWYnJEZF9uWFRENWF3Wll2amVyZkU?oc=5",
+      "source": "Traders Union",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T19:51:21+00:00",
+      "title": "SpaceX, Tesla and Anthropic Test the Limits of Corporate Finance - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMGFPTlpYczR2UnZRSnkxVXpEemZUNGV5NkEteVpDTG9vZ2d5Yzk0ODZKLU1lN0xZRGhEb1VOdDlZRlBkXzl3akxLRExYUzdOalNNRThzVnZRTjU1TC02NlJRNUcyMlpraXl6b0RzY1JhQTV0TzQxdl9ha3lxSU5xTlVBTEVCSThlTXhJdUd5THpUdzhDWTNyM0xCME1Ea01VemlXNV9hUUVKdEkyNUhWUUs4Y2dBcThRSEl2NzBtS2p6N2ZqZDVVRk1QbmRnUQ?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T19:45:06+00:00",
+      "title": "Elon Musk's SpaceX–Tesla Merger 'Almost Inconceivable' to Avoid, Biographer Says - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkFrbTI0aDhPZjM3bjFUazktZ3ZQX09ZeHRGbjdrRUdOc1BST0o1dVluUzlEX05SemY1d0V4R2pVLVNGVFVRQ0JZYXc3ZGNMaHUxVjR6dTM3MzVQMHcxejhSMzdIX3FjQ2FwblRzb1RuanhBTkJqbFlyMkltYy1pdUVETGRHd2ViMnlxenNxY0RFdw?oc=5",
+      "source": "Benzinga",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T19:45:02+00:00",
+      "title": "SpaceX’s Big Day: A Historic Starship Launch, a Tesla Merger Under Scrutiny, and a $74 Billion AI Bet - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ29uN2J3RW1VN3RySTRzOVdiX21JSDEzTHpqNXROaWxNc1lfZjVxcEd5WXVxUmNyWk5faFpnU3lGRmhUQ0hUdjBjaVlQQkYyTDFTRWZxQmtScjdtVkdLbldqbDZ2NXJGejQwcXFTWUVyRUV0THRSNThINVJadzhhTzU4RG5PNWFLTGFqdFdLOFlUUmxWd0pCUlhQMmk?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T19:29:00+00:00",
+      "title": "Texas AG-elect vows 'tremendous scrutiny' of SpaceX-Tesla merger - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWUxWMVJWdTBHblRyYjJiNXd0NWJsaDVMX3VkVFBTSGM2RmdWTy1uOTBHZ241MmlZQWlDM3g3b0ExcW9jbmpDck0xUkRKX0QtaE94VVlqdW5DYmFScXRZbURSYjNiZWkxNHdUV1VzeUIwd3lObnJWdG9SNnpiMzMyWnVublgzVDdNU3p6YjUtc08wV3dldWNnd25EWV9nejVzMVNOcmdfenFUWkYyRVREMHllbDlWVFB5ckVBQ0ZmcWVqQlFtUWh0YWF4UDFQY2hoSmdBVUJra0Q0QQ?oc=5",
+      "source": "USA Today",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T19:25:00+00:00",
+      "title": "SpaceX’s Big Day: A Historic Starship Launch, a Tesla Merger Under Scrutiny, and a $74 Billion AI Bet - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWDZJMHVySTJIZTlCX3hmeHIxWEJCQTZUblRPU0poOENiY0xsVEgxSkt4UEh5Zm9qc2pJcmRsZWtWT0lpYXM3aDVUZEw1d2JQMGZiYjhISUE5V0Ezc0owLWhSY281cVp6bjRFV3VybHZKaDRPc1hBaXVsV01yVlNpajgwSXRSbEx1M0twS0J4akZBX0FyZ0tNMm1kTS1LenB1UXdUMnZkRGwtc2NEWGU3U0J5S0dzazFkbnh2U05hYWxVem5iRFQ5UGpiMjhWQnZzS0R0cndR?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T18:37:50+00:00",
+      "title": "General Motors vs. Tesla: Which Is the Better Automotive Stock to Buy Going Into 2027? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHVFa1NXNXJrQ1M0XzljcFFQUmJqdDdsaFlrYlNMYkFtWVlEcjVaTDI3VU1LWC1zMXBJT2pSeTVsT0txWkRQWVFSX1hUUlctZmM1ZUFISnVDRjhRRjF4V19CcXBCSEVJdzVrWFk1MGVySWE3S3dQd3Z0THY2cjRIWnpiSVBLR1I1OXFDRzdKRnVpdW5vT3hnYUFzWQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T18:13:00+00:00",
+      "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3pLV1dJUnB1ZUU3Tll1NUdGMEhBUmpRSDdYaU1SUHpULXBZMWtVYTBXUm11Q0lxZGMzT1JzQmswZHp5UEtHbTF0bWp2MTdSSFFvNDY0ZnZqWlBqTnBfcUVHcG1fU1pBaEc1ekhrWUtfMm8xT0N3d3pDNHdYRFZESDZpWQ?oc=5",
+      "source": "Electrek",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T17:58:10+00:00",
+      "title": "Tesla Drops Cheapest AWD Model Y, Bumping Dual-Motor Price to Over $50,000 - Kelley Blue Book",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWZBQ1R3NHcyXzRUSnBPelZITXZzYU1LejBpSXd6SFhfd1h4VnRkQ18tMzdzUkNjMXFaYmI3UEFRV0dzVU56c1labDd0TG94YzlRLXhKRmkyR0MwZ1FZQWZBbWM5enBOckd1SU83ZUlGVDY0bVAzVUZ6Qzl2a0s5eFVBeW5lcl9OMjJjWWhmYUdPekdlSFg4NTl5RndleUtiNkRJ?oc=5",
+      "source": "Kelley Blue Book",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T17:51:08+00:00",
+      "title": "Tesla Pulls $42K Model Y AWD From US Website Amid Musk’s Pivot Toward Robotaxis - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPejZiMDJaS290STFhamxPMDFHTVF6ellZajgtTW1zQ0ZwLWFQdFpZcWFjN0NiTnFGVHQteUFSR1ZmSmN1SjItU3dWS2JITnFwcm0yRUdzUU10ak1McDFSVW11T2lXYUlsRWpDX1lWVDlYUmV5T0FJMmVkZk5vMkE0QzkyemhqVzF6Y2IzSWdQUld5dw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T17:10:00+00:00",
+      "title": "Farewell, Cybertruck: why the winding down of the ‘Maga hat on wheels’ is a sign of the times - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZYWkVKUjJsWjh6cktLUWxRVXFOc0g5NTh4N1YwVm9ITWJXajZlQ0tMOEl1b1BmT2Nrd1AzUnVUeG1XR3JkdlZ2WWc3VjZzRXJNUlB4eHJrSzYzVzdsVXEwWk1fbkMxMUtFY3gybFFuQVNpX1dMQXJLTTRVWEhvT3hNcklaWTFzNFp4dTNmamxKTS11THp4cWcxZ0hVSzFO?oc=5",
+      "source": "The Guardian",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T17:05:00+00:00",
+      "title": "You Can Do Better Than Tesla: 3 Industrial Stocks With More Upside - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzVwTDJTQjM0X3FxVzQyejRzT051Uy0wSHI2TGpZVzFOU2w0MU13ZUFGMTZhczRJM01YYVlfcGVMbXlsaWQyQzlVdTVBUWRwem5ScTQwbEl3b3dEUkIzTFJWOGJhWmVoLWVta1J6Y1lUaDRiLUctQUg3NmRZVEU1OXJPbXJxVkdwb1JiWlF3QzN6TDVZNXd5ZUswclFPQQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T16:53:30+00:00",
+      "title": "Tesla trims Model Y offerings as All-Wheel-Drive gets the axe - Teslarati",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2hoRlZNMGhtbHRrdHlreEVjWDRENFZqT3pkYVFHUDVXZlhIZHN6U01ZREN5dE43Rlp6T2tNX2tqZ01uZzl0SUNQbTZLcVdDZ1JDVjE1M0N1OWVUalFKdW80OUV6SGNKX0FuaHpiQTBVV3g4d3lhY1hFaWZCQTNxUTVpYWpQeUhT?oc=5",
+      "source": "Teslarati",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T16:52:00+00:00",
+      "title": "Does Tesla's Cybertruck cancellation mark the end of EV political war? - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZGljRTBPZFdkWGFaVEFSMXQ1SnZ5WkJNclFDbEhxSnlITTY1SnAtTm55LXhJcE1YSkZWM25yN3B1eEVscWRpM2JkUnlPd3hHU1NIMlBQQ2hvNjlKR0dXbEVLc1B2XzI4VHVCQ3pwZmpSdnQtM1M3Z2JjajVBeExtaHZsS1E4bmZSTk9wUUtycVFRaHY5cUZ6emQyZXNnUXlhcTBmOFVVMXlPbHhDZjJLNzNGSkdGUUN1N2kxWGtENGRCTjdj?oc=5",
+      "source": "USA Today",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T16:45:00+00:00",
+      "title": "You Can Do Better Than Tesla: 3 Industrial Stocks With More Upside - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFhLN3ZIaUFmeGd6ZElDZkJOeUx1NmdXdnVFQmxRUmVNWXEydF9iWWhWdkpTUTZTM2ttTjFiVjBKTF9TX3UySkVJTURLMndicE51X3QyUXFfeGR5dWJYV1FITjN6SWtnX1JReVYxRnd0M1JHM0NWZ3psMy1tMDloYUM0Znk2MEZYRThmUVlhZ09jUQ?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T16:39:50+00:00",
+      "title": "Crash survivor in San Mateo County files lawsuit against Tesla - KRON4",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3F5THl0RUNGSFpxeW9TWmxYSkxndWxEelVuMzlqbC03dWN3MXZ6WnkwZWNNeWZHU3UwMVNORjhZWmpzMHFqNlRzby1SWnpiRnhtMXdHWkpKejhIMF9NaFh2eHp0SHVNWkd5U243MXY2d0o4WlczU0NiSllRQXoxWFJfcmcxcG5SaGdldTNXZTBGSWVQMUc0LUhtQTJvZGp30gGmAUFVX3lxTE14dWFkQlNVX1JuMlkzWWpSc1NrWlFvWUtPanhnSktvQmpkdHE5a3dBM1NUeGQwZ2J3OTFQM1IxeXo0UjNVaGpVZzNlblFRZnNha0NyM0pvaDJVOGVGVUY2LXpDdTQ3YldGckpJWFdaZEliLXVYS3FCMURrQmFoSjU5Vno1ZEtSQ1dGaWQwTHJnSWFhRTdNRklFX3p6VHlUNjdFUTJhZGc?oc=5",
+      "source": "KRON4",
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T16:39:21+00:00",
+      "title": "Investors Just Got Big News on a SpaceX-Tesla Merger - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObDhvMjlIWDVxZl9SZlZBdk1mT19ReGItUW00WFp3WVFiRHI2NUctQkZZWEFrWVdqWUlsaXRXd3dMckEtQTdBSHBMWjY2S2lDYzRfSnM1Rm80UFpLOVRPRElqcm1HWUlYVG9hd3F3VmFpbVp2NHpYRXBrWk5ZdGsxTkJrd3l5a2xCREpyN3k4S20zU1pMRmJlNTMyWjhYM0NRS1Ytaw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T15:45:56+00:00",
+      "title": "Here’s What Needs to Happen for Tesla’s Bull Case to Materialize and Push Past $500 Next Year - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0tMQWRQUmUzN0dkV3BZZjNpOUlnVWNSWkZiM0RHMXFiVVppZjE2QVAtVElKc3dZajR1Q0daaG1XQUNvVGRqcGZjaGdSRG52Z2Vfdmo3MlBmaExUSXp3ZlZ1VEQ1VjR0ZnFmTjl4eG1JVU1aYTlZWkdsOUs1c014N21ENzFPLUhtUWZxYWcyRmxLSWpmQWE5SA?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T15:45:00+00:00",
+      "title": "Here's What Needs to Happen for Tesla's Bull Case to Materialize and Push Past $500 Next Year - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZy14Mjc5UGtlV3FYU256blBfb1VtRng5WDZ5TGFzTU9fU2lhVFQ2cGhudUFxLTgxRmt0dU95UV82cEpId2FoaVY5RGhzLTRkdEFib3dfRkhDeDJLUjVWTllHZlBOdFgwWV9haWpDTzNNZHVieF9wUjVHRDRFaS16Tjl4Qk50NzBaVVc3d2h1OXNCNnB3TnpXZV9Db0d5SjJNUVFjTDVlNFZHVkUxX1kxdjZhaExwMkx2cGhJVGxFajdsWUNQUHhFY3d2bHdBTUE?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T15:31:00+00:00",
+      "title": "Tesla-SpaceX merger announcement as early as December: Bloomberg - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXhYeHFsRGxFVkJCa0had0RLcmF4NlNNV2ZKcXNpWUVrWkpaVFhZOGJOM3J4TEcxaUpBUmlfazZMdXQ1LVRYZUZkRHZUTXBFdld4Wk9KR3RUMmRQUXduRTVkLUZpMUVaNUlFcmlOT3dHa1otd0FDMGR6MjFLMVdBeHc1bHJmMm14V3NCS1l4QmQ1c1c5T3FYYkw5Yk1HaF9YUmVWUEJ4RGJGZmxFWm1J?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T15:21:00+00:00",
+      "title": "SpaceX and Tesla merger talks advance as December announcement considered - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmZFSjFzZktEbTljU2N5Q01NTE10cEh4ZVMwTWJMaUo0MlhsT3VHd0l0a09zN0V5YlJlM0ZvMDVVWkQ1bzhQSkk0OFpYMmNSb21iNzRudFVaa3gtYjNIY1VzdnZJWjdJS0xORVRIbld2bWprUVFHT25BcGtXamVUeXRlQmQxMnEzbUljLTFTWHpCRjRJMGktOFBOazZnSXM?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T15:07:56+00:00",
+      "title": "Tesla FSD v14.2.2.7 in Europe: Snow, Mud, and What to Know - BASENOR - Tesla Accessories",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tMzZnbEROQ1hWUER1dDFaOWt4SGhuSnd1OTExUjFITWpsekJ4alJ0bEtVZDNBWERVVVVmQk15bC1ERExsZW5reUpvM2pyenpucnNCclgwTmZXa0owbmFUQUFPSE5lNU0?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T15:04:17+00:00",
+      "title": "Tesla Bumps Model Y RWD Range to 348 Miles — Same $39,990 Price - BASENOR - Tesla Accessories",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYlhKYlVCZ1EwaHAtMGZPNDYtYVRmcDhoYXZXdjItZEhhNFlhc1FJQ0Iyc0VuU0NlclJsaFppLUdSbGVFNTgtd2ZOM2pMXzk4NFJ0STBiVmFyNjBMeVVEUk45cldCUnFHS2lhUXFIQkdFQ25ZcDN2TVRCQ2ZoTTlRSTJ2WmRhcG81alRFRWFfaXI1MmJlNnROaURiQQ?oc=5",
+      "source": "BASENOR - Tesla Accessories",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T15:00:00+00:00",
+      "title": "Form Energy Adds Meta and Tesla Veterans Lori Goler and Jon McNeill to Board as It Ramps Production for Commercial Growth - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbWpWN29LSXdzendVRU5iTDhPZVB6ZExSNjdibnFZU0lJcG9SN0VvQUdZX21KLTltalhueFZVXzJLbDJILTlQY251T1ZlYUlDN3JrbkVOeTdlSHpZMEVPQzg5bXItT2F3N1ZwVV85d3FzeGZ3UnNTajV4bnZnUmhDQmdsc3dlMGZDUHM3bw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T14:52:06+00:00",
+      "title": "Tesla Cybertruck resale value in 2026: 3 things sellers need to know, per myEV - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50eDlTcjV2eHN4QXdLRnFyY0ZxV2t5c1labjA1TGpyR3E1MjN2MzBGT1AzTlJzdGYzcV9UbnNGUEpQMmx4UzdWdkI3YTBYZ3Q2WXQ3ajlHWGo2c2l2RkE?oc=5",
+      "source": "qz.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T14:30:04+00:00",
+      "title": "1 Million Reasons to Buy the Dip in Tesla Stock (You Can Thank Terafab) - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONF9kdGhSZFRmQ1pLX29uVmZmTFA3VWEwWE9tYmNjRVhOcWRjUVM3dWt5X0ZYSFpEem5sbHBvekstekxObXRvWGpMMWhhTGNndUhnMGZONFF6dUVjVTVJdTdHT3E3QllFSk12OUh1NkRkTG1NMVZMekxXaGJvZ0NxcWE3MDQ3aDI3RGdpbmtSZnc1MkdN?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T13:45:00+00:00",
+      "title": "Tesla Model Y L Can Now Be Lowered for Streets or Lifted for Trails - Autoblog",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnRoc09jSHFyYkpLOGRmcFRyQVBwUll5aGxPbWZDYXF0TUJpRC1PZnhsQXVhWlVDR1BxUjlwcjcxMEFXSXlRV3l3bDZaSzFjNXFYOEduaHVUeVFMdFRCdHA4dGFVVThhem5Ka3l2OF9uTk9VejNmY1JJbkNwRkdocFhweFdnekp0ODRoMlR2QXRfRGVlQjVvd1Vzbjg5dw?oc=5",
+      "source": "Autoblog",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T12:52:14+00:00",
+      "title": "Tesla quietly axed the most affordable all-wheel-drive Model Y - Digital Trends",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM1k0bl9TNUNoQjVtQTV4dGtJSlZCUDZub1dac2NwWnZjUVZneUdvdXltaVVxWWV2WTF5OWVOLW9CUXVGQTNQamE0RjM4VlNJbldHNlFjTTZqVDNCLWVvcGJXSkpVOURTYVd6M3pJNFVqYVJ3OGN3Z2pPSHcxWVFscXJSdHl4aTN5X2FwMFJfQ2ZWbjVOQ1hWTVluQWlxMVk?oc=5",
+      "source": "Digital Trends",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T12:49:50+00:00",
+      "title": "UPDATE: Tesla crash causes $150,000 in property damage - KELOLAND.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1ljcUp3RHpqb0VtQmxxYndna2NrbXdmUHA5MEZjdk9kY0FHZXdzV3dobWJaeUJmejJ5U1pHWE9XVjFESDlzZVVtdzA4N2pENXJYRHFPM0ptMEV4VnJXb0RTdFMwZXN2VWNybU5xdmdERmhKaDRGTmNBTkV5eHZIVlgtNzZ3WXZkWEVTdkdPMjlrWTJtNGJYWWN2NXNHbWtQ0gGmAUFVX3lxTE1WeU9haDRIUWRqaWRYTEQyYnFZc2Q1b1QxWE5aci1ydFB3LXRmTjhhemVXU080YVZ6R2cxeXdGNWUyZUhHQlFxWEpHWV9DSWxGQUpQSFlBamFmNnBFeUFLb2xZN01BNlcwZTNHdk82SkFoRWd4WnJZV2JvVGR0Tkh3RDd0cVpHMzVHT0lINWlhMkxlNUFZRDl3OFJOUmVSc3MzS0Q3TEE?oc=5",
+      "source": "KELOLAND.com",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T12:15:00+00:00",
+      "title": "Texas’ Next AG Vows ‘Tremendous Scrutiny’ of Tesla-SpaceX Deal - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUFXZS1pa0g5RjNoLW5MUmMzUF9IQkNDWGxsYkFvczU4SDN4MlZVUFZVS0szdnlsQTE5NzFOV2pxWjFoTjNTUDlPaXF3YWtVSzR1MlBFVXZWd0s3MVBMbUs4aG5pbG1IS3RscDBaM3luRk9NMEdiY3hlVzNJdWdpVERsX2hzaGZ2QVMwTWwtaDdfdDJiUzUwaGk1Rnd3VGZQZWFzVkZSUjJCaGpySldV?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T12:06:18+00:00",
+      "title": "$46K Rivian R2 Standard vs. $41K Tesla Model Y Standard: The “Cheap” Ones Have a Clear Winner - MotorTrend",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGxyZUZNUFAtSzJpUnI5Ukp1TDlUdjRiSXBoNVRXMk1lUmxWTHMzamNRVnI4NEgtTmNLVEdJUFBsUllpdmgwbWxhT2VDMi01X0hYd0p5VE5KNWt3RnNTZnJ6QWlIR1d5a3ZGUGw0ckVWQ25UaURjVnFIS2lIdUhjcjNFT3ZDQlZ6VkhHdGF2SGVBQVBPTlhlZ3U1cWVZSk1s?oc=5",
+      "source": "MotorTrend",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T11:56:00+00:00",
+      "title": "Tesla Just Killed Its Cheapest All-Wheel-Drive Model Y - InsideEVs",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TMTd2dW1OWElVRnBaY19fY2otZEJRT0pFSGZGRVdqU1F5SEQtcXBqREhHMjJsM2N4MWNJUlVwLUs2OTZWQXZqWDByQlJZT2ZEZUdfSEtvc0dnS3ZpcDFOUUt1RTh1UnZ3R1doeW1XRDFYTFE?oc=5",
+      "source": "InsideEVs",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T08:28:00+00:00",
+      "title": "Jeremy Clarkson Exposes Alarming Flaws During Tesla Cybercab Ride - Motor1.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfaGQxUHhfb1FnU2VVZ2lRSTZZbjBDbXV5eG1LUGlyYzExM2ZnTjJjeGZCalozYW05MFAyQkpNWmhpS2tXTUl3a01qc2pwM0RIMmszYTFXSS1JZVFlT1ZuTkxCYXl5b0RnQjlUSzZ0R2dadkRhWW83eVBLR0c?oc=5",
+      "source": "Motor1.com",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T05:33:10+00:00",
+      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEdURUU2eTU3MTIzN2V0a2FYNVZhUVVYX0p1VnpYR2lrcW5mak9LRW9YdmgtbmFfYk1oZU1PX3lNWGhsLXEyWXBmLWNpeEoxa3FlMkstRFU3LXNtaFZwOXNCRE5lMjY0a3ZXMnpJWXk3cWpCY2hxOTRoM1pITTFWOUtUZ203aFg1QWVaUGdUdHhDRS02Vlo0TTM2SHV1T1FMMV9IUw?oc=5",
+      "source": "CoinDesk",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T00:17:00+00:00",
+      "title": "A 68-Year-Old Retiree Bought 1,000 Tesla Shares at $108 in January 2023. Now Musk Could Merge Tesla Into SpaceX by December, and a 15% Premium Would Turn Her Stake Into About 3,270 SpaceX Shares - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNT3pBakh0NUdRUjZyLTRtc3RVRHFqM1B0SU5HQk9uOVhuZ3RoUkV5MmZud3NfNFZOemx1M2RaTkh3N1ZoOTVVS19hTDhJMTg2cFRveHdRMmpCWk5BRU1qT0RlVko4T3dmS1pKMHdqa2NSSmVyekp3NFQzSDhXTklQdWs1X2dORXJlY0tQTzJreXFocDAtNVBubjN2UUhtOERWSFI1QkZpTnBEUEp1ZEY3Vk1yaGRWMHdSOE1jRW1wNlFMb1hDUXFwZXlpYUYtbkJ0dVp2WWNpOFl2OWFDSmFCUU1OMU5MajZCczJlTjZEaDFHVGd6QmVuVU5COWVMOUtid0pMV2EzaVROcmNsYWJ2SjZBSS1ySFZybWZHVHFOaVVtTWhabW5lVThvQmg3azNDZ2Nvczc5WTNaZ2UwQWMzalpqMUlQWWp5M1FFYzBfTG5Cdw?oc=5",
+      "source": "24/7 Wall St.",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T23:00:14+00:00",
+      "title": "Elon Musk Makes Bold $10 Trillion Net Worth Remark as He Predicts Tesla Cybercab Will Dominate Ride-Hailing: ‘Obvious to Anyone With Eyes and a Brain’ - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWoxaEFUeGs5UnhXUThCLXBpNlNWbEo2M0wzZFVvejljc2xlemhSNC04Q01uZm0wSHVKNFFaX3BvMnpyeXBXdVJ0ZDNacmFLUU9WYUpONXVNYjhBSWN2NXlwSkRmN0EtckRjcDV4MVhCX2JzSFRFNnh1MFl1T3FiWXlCNzNJVWNoUHBoZmRqZzJBQQ?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T22:07:01+00:00",
+      "title": "TSLA Stock Climbs Amid Reports Of SpaceX Tie-Up As Early As December - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpMeEdtUjFrNWpJOW5ZNE9kSmtyaXdCZU5laFNVcktBV2RyY09aeWZEUVV6THNERTlHWFFHaU1hMHl0aUJQN3ZVNnFqM3hFM2xCbnpVVkxoempFd3lrcm5TcVh2Z2tFUDY0V1M3am1vYWNRVktnbTJIOVpOYWh2TFJfdkNYRUd0ZkktdXVsaDhqWjl4VEV2VkM4NA?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T21:35:00+00:00",
+      "title": "Elon Musk Could Announce Tesla-SpaceX Merger By December: Report - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwWHBNNS1xNW5VQ1JQNE80MHphQWJTbkdacl9DTkROcnJXRFdzaUVJUUNGUTdUWHlJN2xuWXJSeFFLeTVYY1lQNE5QZWU4S2UwMzFibXVSajVHWllFX3FYZjRrbURIYWtqWnFHeVVR?oc=5",
+      "source": "Investor's Business Daily",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T21:15:43+00:00",
+      "title": "SpaceX, Tesla merger talks progress, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDRsb3FNV0VLZW5Hb01MamhyMnpOS3NEZl9jT2czVGFTQ3JOdjF0WXdQNHh3SVFJVmhKTVBIb3hhT0UxTlBlOG9lY1AzVnVTY1hjZlItN1Q4X1YzVjMwVTVyVF9keUh4UnRGTnBWeGItejZObzU4QVVOeEF2ZGxuTmFfSDVyQllsRlJNNXV3N1V3ai1sMWx2RTEzR3pNNXpVRWtOTjJDQzg5YVJjT3FBM1BhRQ?oc=5",
+      "source": "Reuters",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T21:13:08+00:00",
+      "title": "SpaceX-Tesla Merger Could Come Soon: What Do Shareholders Get? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMW9aemx6Rjkyb1pDcmpWZ3U1Y3RvY0pwczNrSlQ1TTFCN0FOV09GME9HTnh0Y0JfWC1LaTJibXFBS0ttelo2bkVHSmh0M1U2U09jU1JYdDdGZWdVYlFmQnJqbWh1UUlLT3Z2NktSRjlpNWhwZVFJLVdkUUpqazlKWUVJNVFKb1FtM0Q5bTRPbzZjc3JGRVpJMURwcw?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T20:39:00+00:00",
+      "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSDM0VnJpVWNzY1NFa0p0WVdYSS1HSndYejZLamRmd1d0ZlQ0cmtWMkFQeDVuLUJGcVR3TU9sS1pkQjRHdlRVZWRQaTFEQW1aejhybmtlUlVIX3BLNklQWnBqM1FPdExTTWxtQmJXdlk1N09pRk1RMmdCalpJOFBvcHFCY0dwVEU?oc=5",
+      "source": "Electrek",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T20:22:35+00:00",
+      "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhjTWZjYS1paVVuVHpOVmJRaFpkclFuVmtDZ1RYQS1tUjI3YlNoTURnMWwyMUNxRlJEdXVYVHZoNUxRTUVOT28xS0JzS2thUmQ4WE5jMEgtajNlRWhCc1UzRkxBZGRuV2tRZWlmQjFBbmxPbk1ZVjI1Vy1wVy1fRTFaTXgxMjFpNDNKeDg0alZTLUhzZXNKYmxkNlNrMFZwdHBkTEJFTEhrQmNZdE40ZQ?oc=5",
+      "source": "Bloomberg.com",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T18:32:07+00:00",
+      "title": "If You Want to Order a New Tesla Cybertruck, You’re Now Forced to Buy the $112K Cyberbeast - Car and Driver",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXVsTjlhX3BvcWFMN0M4VVpnWEprQ3oxWDI0cWJSSG53NWpWejlKeUloTjlWeWpiUW1JRVYtTHFTUDllOU1OdWNSOXdtUkZrb0FaeTlDdUNMbTVoNDdVbVEtWUc3THZyXzVIbFpIMkNzX1hMSG9sYnhPZ2JLZXoyRTVoWjRreThEbWlrOWdFVGNIYXJ2c1JjcTRUMzE?oc=5",
+      "source": "Car and Driver",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T17:59:04+00:00",
+      "title": "Tesla fund makes surprise Microsoft bet, keeps Nvidia stake - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlo0OVJHd3hTZU1qeG12dW5iOWtyZ3ZDeWFSREMzclVRLVdSVDF6ZzZMLXFBUlc1YjJYMGQ3dzVXNUpXd2diWUE0YnhjU2g2TXhvS0p0T2d0azdEal84SjlVcHE5SUQ2Q1lPTjliZktPNktNTmJUalhHdzFacDdQbGllZFZOaUlJWk9rSUJ2a01GYVQtOTF4RWNOV0RaWmxzLUE?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T17:52:00+00:00",
+      "title": "House Republican invites Musk to move Tesla HQ to Florida - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR1NrOVNReGRCV0M4Wl93Vi1zcWNWd3dGUTNsOHFNNjUydU15U2VFZE1HRHdSN29UTHJuY3NsTXYtbWdraWlJNlZuWGVtOHBHcnEyY1pfcVNWSzhyRmEySk5KcWlkMkZWXzU3NmhFZ2FaekNyZEFmek1WcDdZMHluOGRB0gGHAUFVX3lxTFBDMHJlWHd3QkU0UWx6Vm01OEE2TGNCZ3JBTTNlaEN1WHZDa1I4RzhqS19OMDFYWnROclc4N0RoOHRJMXE3MlZXRVFHSDNrYWpJTUxzd3U2X19DaG1XYlNVS1ZsbTFxc0VCSjlVbXNjc2VIY1ViV0pDanlRRnZDT3diWFltNW9Vcw?oc=5",
+      "source": "The Hill",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T17:30:08+00:00",
+      "title": "Tesla May Be Done With Cybertruck, but This Company Wants to Keep It Alive — and Ross Gerber Is on Board - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXc0bElJdGNTenJWQjhDU3VheS1BRW5sSVo1UGZ0WU5ZZHIzZEs3WGZfa09SRmFJUWFfVjFtRXpLbEZXbHlHVnhjZDhtcVA2X1JxVVd5NTJFNTdJNU9aWEk5YkZXTGVBX3BCVHlKQ2VnUWpVZ0JtT3RqOFZub2ZibXhSZ1VCOWlKN2dfQTF0WVJFT3FRLUZ4dWszVDRLa00?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T16:57:00+00:00",
+      "title": "Tesla and Cars & Coffee Organizers Sued After Alleged 83-MPH Test Drive Ends in Head-On Crash - Road & Track",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYlpSc3ZQQnJabVpyME42ZkY5dFNfSlQzWXRzM0VtVDhDVGlUYnpxZXdfMF92SENEaTZfNGJWRTl6U0dmZXNrb0tiMUd3U2tiMS1jS1ljU09zMmRwN2lFNmo3THg3dU9xbC1zcEVNNW9ZQ25XV3lfOEhFcWlLbGdtOG5KWGxzSjdDTFJoZnlLbTJ5b0tydDhNNWpwTkFRQVNXcmlsamdMM2l0cWhvZEs2MWlUVFFOZGpQdWpvVVZRVmY?oc=5",
+      "source": "Road & Track",
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T14:36:00+00:00",
+      "title": "Police charge another Tesla driver caught asleep in rush hour as cases pile up - Electrek",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEFsaG1NY3lDM2IzSHdkSEl4TV9jdWZjSnRtS0tCSENzMGpzOW9EWHgyNXk0WTJ6czlhSVRKMi1pYlBMTEkxNUdPSzRBUy1uRDdWMXBuZzZpTVM4Y2FMdGktZWhKZzNGM2FYQi1FbTVQMnZvSGFpOGxrUENEOVV3N3hyZXdGRHBwclhR?oc=5",
+      "source": "Electrek",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T11:42:00+00:00",
+      "title": "Why SpaceX Stock Is Getting in the Way of a Tesla Merger - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlZ4cUtLWkxmdjN2cU1vLTBydEJ0YzMtajRhMjdJaFVnTGNFYjlSR0JzQ0NKS3JqRDExS01HX01vUnU5ZWE1US1rR3V2d0FJbUlsY0x3RDg1cGtJRHV3VWdNclZYV1Vsang5Z2FYenlmYUhsQ00wZ0locWFrUnlGRlhqMA?oc=5",
+      "source": "Barron's",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T11:32:38+00:00",
+      "title": "Ron Baron Says Tesla (TSLA) Could Climb Within a Decade. Ark’s Model Leans on Robotaxis - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc296MV9vdUlSc3IyWncxUTRGTEVyU1pqRGdpRUtFLU5Gdkl1UFJIMFBGLWp6dVUyZ3lDdTJxcmtLNVNRWGRzenVIUWRHTjl4b0gycUtBbUVobktHQ2tKemo0TnZFT1Y2T2VyZXd5SzEzcmQwVW1aRzhuYUV0S3VvbXRjUGNyZUk5Q0JrOFpGWURwcXkt?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T02:30:00+00:00",
+      "title": "If SpaceX and Tesla Merge, Here's What a $10,000 Investment in the Combined Company Could Be Worth by 2030 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXNoZUZsYlRuOWRWVXZWcDBuNGxsOGV5R0dkVDBuLVJONnFCR2RpVnZXU1I0SVBIQTlXTHcxR1FZVzdINktzQ0ZRNUdPQmE3RkpEZ2lsV25hMmJsOUd3bW9XaXc2V0I5dUFtV3BSVjVlMy1sanRZaUs2YVhRUHBRczc1dTZfVDdxMU40b3dRZFl1aFlmOHNZaA?oc=5",
+      "source": "The Motley Fool",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T18:11:31+00:00",
+      "title": "Tesla (TSLA) Forms Special Committee To Review Possible All Stock Merger - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR0pCbEVyVzFNbnk0RWxvcGFxdzJZWkx5LV92RExheFFQanptV25HWW1VWWtEbkdIT211WXRoZHp2QnR0NWYxSUw1bWtTbGtfS3hMQmZWcmptYzlYT2RUWEZ1YlFjeWpZMTYwZEgxTG1EVmlvNndGR0JWV0MwMm5hN2ZrYUFBVWMzNm9QZWdVdU1OQmotQ1VjREZDNU9tTjR6?oc=5",
+      "source": "Yahoo Finance",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-11-11",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "count": 16,
+      "pos": 2,
+      "neg": 4
+    },
+    {
+      "date": "2026-11-13",
+      "count": 43,
+      "pos": 4,
+      "neg": 8
+    },
+    {
+      "date": "2026-11-14",
+      "count": 20,
+      "pos": 2,
+      "neg": 4
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-11-11T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-12T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-12T11:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-12T14:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-12T16:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-11-12T17:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-12T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-12T20:00:00+00:00",
+      "count": 2,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-12T21:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-12T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-12T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T11:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T12:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-13T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T14:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T15:00:00+00:00",
+      "count": 7,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T16:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-11-13T17:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-13T18:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T19:00:00+00:00",
+      "count": 5,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T20:00:00+00:00",
+      "count": 3,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T21:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T23:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T00:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T01:00:00+00:00",
+      "count": 3,
+      "pos": 2,
+      "neg": 4
+    },
+    {
+      "datetime": "2026-11-14T02:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T04:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T06:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T08:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T09:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}

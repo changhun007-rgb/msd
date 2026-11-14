@@ -1,0 +1,901 @@
+{
+  "ticker": "005930.KS",
+  "query": "삼성전자 OR \"Samsung Electronics\" OR 005930",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-11-14T10:07:25.871270+00:00",
+  "items": [
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T09:08:00+00:00",
+      "title": "美 특허괴물, 삼성전자 또 정조준…텍사스 법원에 소송 - 한국신용신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56V0JWNDF1NUg1OGxKUGZwa2pKYjRZQkdBV1E1aUdwUXNDcW41SlhPc05CUjlsc2VWOEY5MGNWWXIwckFlLWJGNzhXODhCbUgwTXVSdGRDSXdyTDVPYm1RVkFILV9QRHk4RlRz?oc=5",
+      "source": "한국신용신문",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T08:47:13+00:00",
+      "title": "삼성화재, 삼성전자 스마트싱스와 주택 화재·누수 위험 진단 서비스 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2VzdpNDdzdVA1eldJbW1qdUc0d09RNVlQUXVmQ3BpRzdEUWVoSERNbTBTeWdhZXdYRGFEQjBlVlYtdFVTMVFjblFFSGJZX2xEeFl6RWMyaXhRNzJ3QzJQOTZvMXVpcUZTaFlHallrUFVQZw?oc=5",
+      "source": "웹이코노미",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T08:41:23+00:00",
+      "title": "삼성전자 갤럭시 탭 A8 WiFi 64GB 살펴보기 : 테크/과학 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UaWdpQ25meV9lRS1pSUtGbERSQUpVXzBsMVVrNDNDajZnZlQ2dU5rLUpueDFYM1Iwb21NZDd5U3dOTWtfQlR6RHRXWQ?oc=5",
+      "source": "재경일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T08:39:41+00:00",
+      "title": "삼성전자·구글 AI 안경 12월 10일 출시…국내 가격 65만원부터 - 이포커스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhRGhUc2JHdEppeExNV09VZ0Z0bTY3VWprZWU4aFpkcE9HVU1pb09QeWdaMjIwZFI1U2xTWElnVmh4bW1pd0VNQm5ONWFWcjRVUG12ZlZFZ2RCelk4dE54VzdBVGlyaWpYVlBhLXRR?oc=5",
+      "source": "이포커스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T06:30:00+00:00",
+      "title": "삼성전자 AI 안경 30종 공개…국내엔 젠틀몬스터만 왜 - 자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oZ2JkY0M1dURySnNtdlpVLXhGdWI0ekR3Q1lsTmZNeUtSaFB0anl0RVF2djMxMk9RUlRWMm43UFJqblVTMHdRWndPU3pfUU5NQXZWNGdSYlNtSkE5VUExUHdxdmsxU1k?oc=5",
+      "source": "자본시장뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T03:03:40+00:00",
+      "title": "ASML 본사 노조 4곳 협상 중단 나흘 만에 한국 노조는 삼성전자에 직접 교섭 요구 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjVRX3NGVEcxWk5YcDdQLUlYSkpnZE9OZERZTFVSMTFVTTR4NlJIYk00eDJ1MmpTTnRYTUFaX2NmTVUxazJSeW5WcmtTV2dKcjloRk8xd2xTNUJ4dGxQQmlQTUZKNVAzNDRFdzVkYTZHTDZFS1JhSTYtRDRRYWFjYXY1cGVETG1Q?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T02:32:00+00:00",
+      "title": "화섬식품노조, 삼성전자에 원·하청 교섭 요청 - OhmyNews",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wcGtMX1RFbXlfRTJlNFhXeGdqWkhDZlg0UElSa1BfRmRoNTY3S3hnVXlyZm1FRmlxNWprQ192LUZteXZneG5PeXFMbFE1bjgxd0lWeWdDQ0NSV2JNMnlrdUU0dlRIWjlQUk9zeG82YnV2ZUJ6MF9v?oc=5",
+      "source": "OhmyNews",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T02:20:53+00:00",
+      "title": "삼성전자, 美 모딘 인수 추진…AI 데이터센터 냉각사업 확장 승부수 - 뉴스포스트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OWm9USlBGRXFobkhGYW0zTGMzZVM4bmx4bzVDeFJYRnZfUUcxcXFGSnVPY19UVV93ZWZnTzdfVUx2S0hqbEtfRWg1bHI4c1hvaFYzN0dOUThxRnNfRWNGOWVLcGZrdWo1MlE?oc=5",
+      "source": "뉴스포스트",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T02:00:00+00:00",
+      "title": "우리 집에 꼭 맞는 TV 구매 체크리스트…“시청거리·환경·콘텐츠 따라 선택” - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40M0ZSM05zR1lYS1l1a09Vb0x2R0tPTldEQUpuSF93azlRQ3hNOExqUS0zb3F5RHFhMk9icmt2SzY1QXViNVNPbEU5QmI3U2ZxYmFXZg?oc=5",
+      "source": "이투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T01:48:44+00:00",
+      "title": "삼성전자 ‘제7노조’ 탄생…뒤에 숨은 사업부 갈등 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiWUZBWUlZSWd0dTEwMExiYTFITFBheTVyaVlaby1TdWNIUDh3ZGpHYTBuSjVaMlFlemdzcGZ4VWx2cG9ydUNtNmFDaGtFZzBfT1HSAVNBVV95cUxNRDlXZDg4QUhnV2c2MHBocEw2Z25xS19OWi05M3JfaUR2clZPVldOdUFEX2tUWGhDYllyb1RLckdkcjBMbzZMTEpWZFZYbGI0ZXEzSQ?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T01:47:43+00:00",
+      "title": "삼성전자, 美 데이터센터 냉각업체 모딘 인수 협상 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lTEVUYlVoNm1WaFVLUWFkX3Bva0xoTjFsTEFOdVNMeFA4TmFkTEx5czRlNjVaQ1JFUVg2VU1pbjI0YVpRcmMyNVBBWGFfd0g2THfSAVNBVV95cUxPLWtiTWFPZmc1VTVyd2R3Umt6cnhNdUd6cTN2X0RJR0hrSmpZQlRuV1psTUk4Nm45a09nLTRUMF9nZWI0VEMxMDJzZWpTRmM4Vjh5OA?oc=5",
+      "source": "서울경제",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T01:41:53+00:00",
+      "title": "[영상] 삼성전자, 최대 10조에 美 냉각장비 업체 ‘모딘’ 인수 추진 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13V0tGV3R6Zk4yR0g1a2JfaEROa0MxM3BybERFTU1QOXN4RVdCU29LRmdHY3dpVGN2X1UtdVQtTVZWNml3VlRlbXdkVXltZVNPamc?oc=5",
+      "source": "서울경제",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T01:00:30+00:00",
+      "title": "삼성전자, HVAC 사업 드라이브…DX부문 살리기 총력 - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZdGFVT1lmYWNDRU01eW5jTTlfaC1nRUlZXzBiX3Q4YXp4Z1RKd0t6QjNROVRpQ0xzR3YyV1hzOE05bnJRUVRKaElUVW1WZkZYNWtpV2ktZjZ0REJZRFVJ?oc=5",
+      "source": "MTN 머니투데이방송",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T00:56:00+00:00",
+      "title": "삼성전자 인수설에 美 모딘 주가 28% 폭등…시총 72억 달러로 급증 By EBN - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93SDVPV0I5UzF3WFNoOEgxQUZNa0NUbFQtTkpTekZXNmRMMWFVV0R3eFJCTFJUUUZsOGV0bTdpWU5WNHZWVmdKSnFfSmdvTEg4dnEtZDhldDBDTjJ2TXpSRkxuTFNYaVdwYmJkQXhBbnE?oc=5",
+      "source": "Investing.com 한국어",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T00:55:00+00:00",
+      "title": "코스피 하락…삼성전자·현대차 강세 삼성전기 약세, 엔비디아 경영 불확실성 주목 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yRGRxS3VYRGtCcDhKcnNVWFBUdFFQOXQ2d253Zk1kcGVEYXRYNDdiQXBjR2NYcnRpZjBQTzJHQzRqd3lWZC01WEU3cHJraUt3bV90bzNpVVl4blFpMDduOWl1bHg5dkJh?oc=5",
+      "source": "CBC뉴스",
+      "pos": 1,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T00:41:17+00:00",
+      "title": "삼성전자 LED 슬림베젤 모니터 구매 가이드 살펴보기 : 테크/과학 - 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5V2lIRC1VOERxRlE2LVB3bGJxMjhDMjJzd1p1WkRXcWJXMkJmaC1KRDd3UWtLazVtb3RRaWRVeTNBeG1jR0tvazVfVQ?oc=5",
+      "source": "재경일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T00:03:05+00:00",
+      "title": "이재용, 삼성전자 지분 1.99%…'2% 돌파' 변수는 자사주 소각 - 조세일보",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KeXd5U09hNHBnRUp1SnhyeGlWazI4Y2g0R2xYUjc2eUs3TC1mUTY5WHMtUm5XbGZUSmFaUmVhSk9jQzJtTXg3X1RUaVg3Zk1DVzhwRmpCXzFTVS1zUVNN?oc=5",
+      "source": "조세일보",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T00:00:00+00:00",
+      "title": "삼성전자, 구글 손잡고 AI 안경 30종 공개···내달 10일 국내 출시 - 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44bmdJQmdIbFRkT3hDR01lSkZrRjlvRE9UWVVzQi1zZlVtdVJSS0dvaThqYjBKdFVrT3U1TmFpWWJJZWlnZVpGamJLY1lDR0RsNjZzRlZQRU13bkhJS1BWXzZCZ1N1bHRkX0E?oc=5",
+      "source": "서울파이낸스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T23:00:00+00:00",
+      "title": "삼성전자, 구글과 개발한 AI 스마트 안경 공개…내달 10일 출시 - 한국면세뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yRWlhREplNXV4MDRmUFhCcWltenFwQnJJR1lNYXRfbW5UUFNjNWxvYUYycWxDU3hTRU5mcUZDVl9tenF0T3pzSzFEWUFoMG5wZFg0N19wZWtXWllZZGxfLVUwWkMxQjZHbUE?oc=5",
+      "source": "한국면세뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T22:17:50+00:00",
+      "title": "삼성전자 프랑스 인사담당, ＂가짜 해고서류 조작 지시 폭로 후 해고당해＂ - KPI뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wZE15S3p2ZGR5WTg1STlYR05fMmlfRmtZSmFDRVRUdHNrVlpFRm5Wd1I5MzFFTlhSVmFFWkR1Vms3bHg2X0hJVWh4RmVrUHUwcmRlU3cxVdIBU0FVX3lxTE5fbkFoaEhlQ2UtV0tydlc5OXVjem80Qzh5WGpzYlp5R0dSU0s4V0V2ODI1UXpRYXVGOHoydk1nc3dGNU5BRnFES1lmTElLTjAtaEMw?oc=5",
+      "source": "KPI뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T21:00:00+00:00",
+      "title": "삼성전자, 싱가포르서 투자자 포럼…\"기술 경쟁력·사업전략 공유\" - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zaFprVHV1ckxjZVl6ZFJDRnhWSXk2VFE5V29aODVOV0MtNjVvemVUU0ZSS0kxU0pobTN4YkJPQ0xSSjZnZWE1alIxNA?oc=5",
+      "source": "아이뉴스24",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T21:00:00+00:00",
+      "title": "'18만→20만' 복귀한 삼성전자…외국인 매수 속 엇갈린 전망[종목현미경] - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uWnVzTnFUX01BYkJZSjRlUjQ3N0lUeFFTVXlRZktDUjE2Q2hqUVpkaEM0Y2NzT2duSmpaMnNENUk4cFB3bkZ5Q1EybXBONGQ3WG5vbnB1YjE4OUpYQzQ0?oc=5",
+      "source": "뉴스1",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T14:55:00+00:00",
+      "title": "삼성전자 인수 논의 보도에 Modine Manufacturing 주가 급등 By Investing.com - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SNWlOX3VlX0puXzRQM2tTSWVjUVFINEIzWjZ6aUlIaU9fMzhzb1p1YndNMGlXQzdyMXAwaUJibzRXdzhiWVdlYVh1X0pPaTZzeUdSNFJOTEJZczI4WUxXOWVfY0c4Uk1melhPRjVrUDRtS1dySnNR?oc=5",
+      "source": "Investing.com 한국어",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T14:02:30+00:00",
+      "title": "삼성전자, 미국 냉각 장비 업체 모딘 인수 협상 추진으로 데이터센터 영토 확장 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaTlfR1hmQUs3N2JuTUNOLWx3eVRWclpmeFh4ZTN1bEdKNTFwUXlSQTU2d1lYOE5McW5pLU51MnVkOWMtSThkUDdlM3dTbkRRZnRDazlpdE12RVhldlJFSEhsMC0wODdTMkZLY3I3V3lhNk8yeXlFNmZtcE5EdnZrdjFGbk1oV1hx?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T13:41:56+00:00",
+      "title": "“어머니에게 삼성전자 주식 2조6000억 받았다”…이재용, 증여세만 1조6000억? - 데일리25",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wc25DUkdkdThqTlhuTXVCZ1MyNlo0ZEtzQkR1Ny1HOWNLVnYwVnFLTy02QUc0czZiS3VEVGc2QU1Ick43WWpxOThsWVhrSFEtYkd5U000NGRYRkpxSlIzXzRUeHV3ZE9wMWFnUw?oc=5",
+      "source": "데일리25",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T13:17:28+00:00",
+      "title": "\"삼성전자, 美 데이터센터 냉각업체 모딘 인수 협상\" - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53NHcyRHZSallXbEMxdkhtX0kxNmNJSVhIWFl2bXVwV3lxTmY2ZDI4dEJyODFiNW15Q0pSMUxlQ0F1ZnhzbV8yV3hqZw?oc=5",
+      "source": "아이뉴스24",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T09:32:00+00:00",
+      "title": "삼성전자, 구글·젠틀몬스터·워비파커 협업 ‘인텔리전트 아이웨어’ 출시 - 더나은미래",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Sd2FESGIxYVpvSnZOVDg4WVg1Y3Frdm15STBKM045X0FFZ2NqUEZJcGVOcnY3MVVjQVJaa0tDeVY4NUNieU13UWNrWUNWZlZYM2c?oc=5",
+      "source": "더나은미래",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T09:31:02+00:00",
+      "title": "삼성전자·구글, 젠틀몬스터·워비파커와 협업한 AI 안경 공개 - BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDQnl2RXZNSXVxb0NEeEozaDhEVVlkbnpwX3FTd2NLVDNUa3VYWmFwOUp4MnI2Z2R1MDJ3bW50NVJUcGxRZWVXQkZZb3VMYmNGSjFITDBEbTd0RUJTVHNFY0VKVzFxcnpuVm9z?oc=5",
+      "source": "BBS불교방송",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T09:04:29+00:00",
+      "title": "이재용 회장, 삼성전자 지분 1.75% 증가…홍라희 여사증여 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JYWZKZlB3ZEU3OXU2eER5ZXlDcjNsSWdMaEhPaUpGbE5HUUExak1neURaRnJCakMyNUE3TGJDamtGQVFhOGZ3MV9SVmhUVG1OcU1ONWh4eG1UaWk0THEzcGRZWko?oc=5",
+      "source": "매일일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T09:04:16+00:00",
+      "title": "삼성전자, AI 데이터센터 냉각사업으로 외연 확대 모색 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hWnZKZXgtQkp3bUlhVFpielIySTYwQlVHR3FPYjIyTmlVNmlvUDlkUlpWdmY5Q0QwWFh0UXJjbjFqaW05X3ZRdWd1RDU0SjgzaGZPYks2Z0ttcW1lS3Bia050RmY?oc=5",
+      "source": "매일일보",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T08:50:00+00:00",
+      "title": "삼성전자 또 신규 노조 설립 추진…제7노조 신청서 제출 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52dENYLWgweUg0WG1NSzROcDktb2VYeW1CSGk2Q2ZLUjBBZE5aQm0xbGRGTWZVVU92YUJBUWZvMTlDY0Y4UVVhcmFIek9uNjZ2aUhodFdDeE5aNkpHWTFfXzN1VENWYmM?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T08:33:33+00:00",
+      "title": "삼성전자, 美 모딘 인수 협상…AI 데이터센터 냉각사업 확대 나서 - 아이티데일리",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHNnZVVGthbTZfZmFGaHU0VzFqWVZTazFuMnIwTnp3NVRxMWIyUnktUGF0U3YyNzV0YnNCZ3Q4MVgtaUFHd3U1WFJ5RmwxTy1DX3hEZ3lIQnhvdTBHQ3hVd2VrZk5sRmVk?oc=5",
+      "source": "아이티데일리",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T08:27:00+00:00",
+      "title": "[비즈&] 삼성전자, 구글·젠틀몬스터와 AI 안경 공개 外 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ydllfZXZyWTF0Z3ZNbmh1SkVGRm8wNkFkcjVHVGdING1aSXBRY3hlVEdBTUs5ZmFwUUEzdmZLOWNIRm42eUN5aGZ3S3g0dXNuOVJ2OTVySVZIdXRieDdJX3Iyd3drVmM?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T08:14:52+00:00",
+      "title": "SK하이닉스, 장중 5% 상승 뒤 3.03% 하락 마감…삼성전자도 내려 - 강원도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82Zl84WGRpelZTWG9mSlZ6S0J5S1prVG0wYWoxblBUMVBZOVRBTTUxZTBiOFJnUnN4MF9EVHFoa0pNa2ttN3pYaGFDaWQxNXZQWFVEUzN4XzVLaU5VRVJNMnJpOTdENW8?oc=5",
+      "source": "강원도민일보",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T07:42:00+00:00",
+      "title": "삼성전자, 라이온즈 12년 만의 우승 기념…12일간 고객 감사 행사 By EBN - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pYXlKRnczNFU4OHpILWYwa3drNzlVWVBhRXNjNlZON3dNYV9pSkpXTUptcVhYVm9EMkctbVR3d0Vqd3Z3MVdWdjN1R1lTUm5fbG5rX1BDbmpKdE5xUzZ3TEh4TVoyeHR5ZW1LcmJrNDI?oc=5",
+      "source": "Investing.com 한국어",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T07:32:58+00:00",
+      "title": "삼성전자, 제7노조 설립 추진…이달 들어서만 두 번째 ‘노조 분화’ - 뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJTUdvemJoM2xKWmd4RkY0T054WWZ5WHNlT2pHNTZ1R0xhTkctY2lHY0xiUWpibE1Iak1xV0RIYjBkNWRTNnR5R1hfTnozTXU5cjRFQlctWHpjT3RtRHZEa0wySW8ybnplbDlpMA?oc=5",
+      "source": "뉴시안",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T07:28:00+00:00",
+      "title": "엔비디아 혼란에 AMD·브로드컴 등 ‘반사이익’ 보나…삼성전자도 ‘수혜’ 거론 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTWGxEcGNtRDg0TlRVX29FUnBDTHpMNkRFN3Z2VS1RLXJoNThXQzZvaURoMlMxQzV5Um0yVTA4QVVHQ29BRE0xcXhDZnVVZEkwM1NvV3RDRFkyZ9IBX0FVX3lxTFBBNjVBTFdwR0VxQlJrMW9PeGpPVTlsVnB1dnJMTmx5cnRROFBDZHJQckpZNzN0S2U0NmJSLUNieU5xSmZsNWU1RjV4VFotcV9pZ05hS19wQmd6MUVkeXA4?oc=5",
+      "source": "경향신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T07:27:18+00:00",
+      "title": "삼성전자 제7노조 설립 추진…이달에만 2개 노조 신설 움직임 - 뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIdGFYWF9KWUVaWFJtal9HMWw2d0M4TFA0RDFrNkt0YzJTbXhUd19vV2tNNVhOM3JuZHprbFZGRGxVa1ktZ2lRb1lPUm9EdnpiQk5vUDRPVTl0M0huQUUzaQ?oc=5",
+      "source": "뉴스토마토",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T07:22:12+00:00",
+      "title": "삼성화재, 삼성전자 스마트싱스 앱서 ‘주택 화재·누수 위험’ 진단 - 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxa2x1eWVrVm9zNW9XeDloME5KbkpzaXhlWFBKcXNWN2VRSUtRMjR1cmR6M3V6c2pTaW9PdDdNbmtEUGc1Q2RRYUJ6aHBxQzFIQm1SRW93TW02MEt0TTV4Qy1YU0ktYThrRjlF0gFvQVVfeXFMUFJubV90ZjlKYmdZVUVxZHBrQkdDT1JQZDJJVUpKRGgyV18yeEJoQ3RIZmo5REdBOFZ1NW5qckJ3ZnpaSDBubEhjMnNBSGxXWkJVSE1qb0d2NzlremljSzhJLVBzdUFpTTktMWMyTDZN?oc=5",
+      "source": "한국보험신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T07:21:54+00:00",
+      "title": "삼성전자 노조 지형 광주로 확대…내년 임단협 변수 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tYUhVOFBRM0xORFE2UTNyQnpOaTBJQ1l6b3daZkI2LVVvSlR5WGpFOXF4Szhubk9QdFEzdTU2dVRydzQ3TTRIQjFKMjkzZWpVSXduOWdUTEdOMFlvRGtUR2s5MkY?oc=5",
+      "source": "매일일보",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T07:21:48+00:00",
+      "title": "삼성전자, 반도체 신소재 개발 과제 공유…협력사 협업 강조 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xbGtTeEU2QnR1SUNHdWVEUlR3U1VTMEN4TjgzdGhjeWwzbFJ4VzhBYXJWRDdYeVZMNHIzZVlhODFLb1l2eHVXajJhRm56c20xamVIbUtFa29DOXBOT01rWWRaTFo?oc=5",
+      "source": "매일일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T06:55:00+00:00",
+      "title": "삼성전자, 제미나이 탑재한 '인텔리전트 아이웨어' 공개 外 - 톱데일리",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sbzBoeTBob1RVZDBIekJwUDJmX1FUamZtWHZ5ZUFzcVBZM3plV0hzQjc1bHNOSktiOGgwSEM1dHVrN1Qwb0pRVTVpMFFCdzRV?oc=5",
+      "source": "톱데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T06:36:48+00:00",
+      "title": "오전엔 팔던 삼성전자 오후엔 ‘사자’…삼성전기 매수 1위 [주식 초고수는 지금] - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kOGlfU25YXzFoNzNQTDB6N3M0cFpaT3VUaktPWkpZcFJyWnd0cG5uVGVyVlcyRlJkVms5cFNHeWNWMmkxWmw5SGJOSFBFd1VQa1E?oc=5",
+      "source": "매일경제",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T06:27:39+00:00",
+      "title": "삼성전자 노조 또 생긴다…무노조에서 ‘7노조’ - 국민일보",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4MklJeG1KVUVPakU5d1NxLXFCd3lXbHdzSjZWT2FDY21EaU1URU9wY1RnQ2U4YS1Jd01UTlpyaDFJcGp0YXpSNVNseUs5cXRBNmF4UFM5VjI?oc=5",
+      "source": "국민일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T06:23:18+00:00",
+      "title": "\"삼성전자, 美 데이터센터 냉각시스템 업체 모딘 인수 추진\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYd216Vld1U28teGUtdEo5dnF5MDdKa0JWVEx6X0hrN2lHVW10ZFJ5TjRaTy1VVHQ3NnFxMWp2S1p5Rm9yTXJ5R0Q3Y051TjM1TTJVeU5zQk9YRDDSAWBBVV95cUxPZEs2QVFSY1dnLUQta3ItR3BUTTJSX1dKRFRpdGZQWWU5YnIzbjRpaWJEbnhGQjhVNU5hRE02MTJDTFVJMlRhdTlFYXdLTFpSLXQ0RVFwRVhPMjNTUzhKUXg?oc=5",
+      "source": "연합뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T06:18:38+00:00",
+      "title": "삼성전자, 7일 새 노조 2곳 설립 추진…내년 임단협 앞두고 분화 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVVd0RnNsb2FKV29ocW9qYklhWVJ1TzEzTjZQT3hJbVpkU3FSZFBYaVVhZVZKa1QwcnFEZVJjVVJkUGJQODBiMVdya19SMWtMOWxScHhGNVhDT1hrNGpLQXhQTDhDOUpob0o2TlNkMFZBUnZrTWVyQW8zSmFHdkRpQm5nclQ2Zw?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T06:06:50+00:00",
+      "title": "'엔비디아 리스크'에 미소짓는 삼성전자? AMD·브로드컴 'AI 동맹 확장' 빛 보나 - 오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SSi1pTnk2c0pIZFE2dGE0cTNqZnBFUGxBQi1YREV2UGNBOTVCV2gyZHA2by1YX2p1MjdQQUVPbFZKWTZtMk1rUjJoSkFGdDh1VHlOR2VLa2dxTlRwUnMtLWRtR0s2cFNTbS1raloxV1cwQQ?oc=5",
+      "source": "오피니언뉴스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T06:02:46+00:00",
+      "title": "삼성전자, 이달에만 제6·제7노조 연이어 설립 추진 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kZ1VDS2pySnlZejlQVEh2NDd3VU1hMGVrVEZ0YzNzN1dBX3JYclpKSmpKcVZ3Z0IzamdueHcyLUE3NHh0cUdMRDJnMEhqQQ?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T05:23:16+00:00",
+      "title": "삼성전자, 밖에선 원·하청 안전교섭 요구…안에선 7번째 노조 등장에 갈등 - 뉴스필드",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNTV9nTDhYX0h4MGlqWUFKb3VIX2ZUUVFYcDlBMkdPTGlnQ0Y1NlIwa2FUZDhqR0JrclpsM0lYeHRyUmdVZUhGR21jcS13eldRQUY2V1h1WXZDM1M1a0dNQmNUYkxQRjR0NEVRZXZjaWhzZXc4R2Y0YVVNeGJWMVdaZlVJWWhsd05fTEhGMERLLTNRMUJLSDJqUEpfdVc4SUx2VjBBTTg4QU1nRVVOaU9iMERYTHVoUUZkTmFRaFNEZG9KX3QyN1ZmY0VLckZ4d2Jucm9yTFdXWHpoalI0TWJvd09rUzFCX1BfWDhkYmluOFZ0eHMxVWhfVS16RUJSTjVtSE5JNEZRQ1ZrTVM1cnlocE1WTmJKUzM4b0xsb21WWGJRVXJabVl1UmlzREVsaHc?oc=5",
+      "source": "뉴스필드",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T05:17:25+00:00",
+      "title": "블룸버그 “삼성전자, 美 데이터센터 냉각 기업 '모딘' 인수 추진” - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LaDllcnl2aHB0RGM5NjZYeC13N0Y3SXUwYld4MTlNS1FIa183WFAyRVUwVjdpTGE2aXZrWVBmbi0yS0piOElqYkVrNDFyUQ?oc=5",
+      "source": "전자신문",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T05:12:11+00:00",
+      "title": "삼성전자, ‘AI 열관리’ 판 키운다…美 데이터센터 냉각업체 ‘모딘’ 인수 추진 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tYkdGSmJiX3ZCN0NuMnNxdFIxLVd1N0RyclFhbThIQXZlYk42Q2dyS05EM0tuellZaWQ4WHhfb3AzV01uMHFyQjE4UGpueml6NTZOT0xPa3BiRW8?oc=5",
+      "source": "에너지경제신문",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T05:03:27+00:00",
+      "title": "삼성전자 제7노조 설립 추진…이달만 두번째 신규 노조 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RNWswQ3dzVUhma1JDTS1DOUVUQU42Y1pOVUE0UUsxVWxnZmh1ZTNMckNWSFZUbkpQeUJpak5sczFPVFA1NzFGalYtdjcwQ0RqQ2c?oc=5",
+      "source": "매일경제 마켓",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T02:45:00+00:00",
+      "title": "블룸버그 \"삼성전자, 美 데이터센터 냉각업체 '모딘' 인수 추진\" - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04RGZqeGZMd1dPX3Zra28tWm1aWHFUakl5M3lqcndjeWRydE82akJxSTFwWXRTa09FNjc4UTR2WTNJdndsM0pQY1ZIUEVSQTZ4RWJzTGdR?oc=5",
+      "source": "지디넷코리아",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T02:37:46+00:00",
+      "title": "삼성전자, 구글-젠틀몬스터-워비파커와 협업한 AI 안경 30종 공개 - 파이낸셜신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12enBPUWJSWFpzcFRobVVlUDh5Q3A5NXl3elNVX1FNMld2Y2RmQVkzUUJvc3Ffb0k4U2NCcERGOUl4LUZXYlBNdzFLNGoyLVlnZU41aHdHY1FmcWFfS3BCQkpLZENmSEVtY1Yw?oc=5",
+      "source": "파이낸셜신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T02:35:30+00:00",
+      "title": "삼성전자, ‘AI 안경’ 전체 라인업 공개…12월 10일 국내 출시 - 정보통신신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyUjRsWWlSU1Znc0IyN3poUFNFaXJoNVJLWW1WUC1UVEZBby1VS2g5ZWZ1c0QydFFJMHRWUGhDLTVsdUt3UVczSG95SXBpOVVqX3RnU1ZFLWZFMDZnZVh3TFF0UHF3cGJv0gFsQVVfeXFMTUhLY0luTm5vSTFLd2FBdS1PSXhNXy1RVlNsUTZ5aVB5QXZ1SmdFVDkyRExoMER5YTY2czlNLXFreU1vTXJFVkZMZlJOU2x0UUt5WjQ3X3RZNDd2bWR4UngyUmNVazV1Q21JQWot?oc=5",
+      "source": "정보통신신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T02:30:00+00:00",
+      "title": "[오늘의 삼전닉스] 엔비디아 10% 급락 때 삼성전자 10% 상승 '반사이익?' - 이코노미스트",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5acVk3RFZDNmZlVm9hZ05SNlZLQ0U3dFlBcUlzcjk5MmphSzMzT2lLM3dUZlVUVVpZZXpQeUVjTWpQa3RQT0thbmh2NUJqNjdqd3RFYTlmTGcxb2w0NzRYUzRB?oc=5",
+      "source": "이코노미스트",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:44:01+00:00",
+      "title": "삼성전자, 美 냉각업체 모딘 인수 추진 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlc1BOTzI4eWZ2UHpxMFJmVmhJelB3STMwVGFjYTZSODhpem1zOEpveTc5YVVtNmdqa2ZiRFVDVE1NQmZMN185UVVOeGhWYUtHeGhvVDI3WDlIaVJzdWtkRUNtVlFsbHdVWGxsZmN2ajbSAXRBVV95cUxPZjFyUUlqc3BBc0xWRlhPOGhXdXpnTGxVSFFQNWxkb2pOajZVNGxxY0x4VW9ab2xRaWdBYnA1NE1CcWtXaldpTVdFa1pCUHFuZHM4djdmWWtHTDA0b3lBT2NYeEVBSGZkVjFKTWJ3QmoyWGh6Qg?oc=5",
+      "source": "IT조선",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:44:00+00:00",
+      "title": "삼성전자, 협력사 1000명과 AI 반도체 기술 공유 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85ZHlFUDV1SGtWMlFkNWNycTJycEV3YVAwNzFkeFdBbGx1UmtzaDFnRXg2NjhCYU9zN1NDQWxOSlliaXFsZF9WcmVLWFRId1JDdklLaTNmc1ZCZFJY?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:36:56+00:00",
+      "title": "삼성전자 'AI 안경' 전체 라인업 미국 공개…다음달 10일 출시 - 금융소비자뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeUFvdjY4V2xnQVFCUzBQNjRnWVN5LXZ4djE4RjFaVnZfODNYV1RnQ1lTR3BiMmJJTXFuLWhxNTdaV0RjSmtpOERsd0UzbWNEbW4wOXhUZEQ1QjdxQ3B1bi1nejk0UUtlRVE?oc=5",
+      "source": "금융소비자뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:32:00+00:00",
+      "title": "삼성전자, 구글·젠틀몬스터·워비파커와 인텔리전트 아이웨어 30종 공개 - e4ds news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WeGNtTThqbnYwVllZMDhxMjhXTUh1aExKWFpFM2R5OWVKZUpZYXR3cDdrUDFtbVMzX2VPaXJHcC1mMmN3ME9qYWRYY2MzUlloSl9WeTR3?oc=5",
+      "source": "e4ds news",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:08:55+00:00",
+      "title": "“삼성전자가 인수한다” 소식에…美 냉각업체 주가 28% ‘불기둥’ [머니+] - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55cUE0WC1VZlVGY01xZjJzZUlkcVY0Q0otMmpUeDNuVE5DMDZWeEFVSklDSGVtNDJSRGFDeWkwajhMY3k5bE9KLXpMMXh1SUs2dHRJR2MwcWdhaFk?oc=5",
+      "source": "에너지경제신문",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T01:02:16+00:00",
+      "title": "[특징주] 삼성전자·SK하이닉스, AMD·브로드컴 등 반사수혜 '강세' - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGlOdzljdVV5ZkJaZWg3bUVVTWlnamZ4YWY5ZUtNNkQ3T0Y5MkhQRGJ2V2hLMU1NaHNac3d2QUF2RmpJUnVDZC1kTDEwWWdva09MRTAwdUw2QUNwSGM1dXE2Z2pJRDVQNGk2ay1rRjVJZnZnWWpSTXMzQ1UtWmxhUzYtdmsxaWJx?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T00:51:00+00:00",
+      "title": "삼성전자 AI 안경, 12월10일 국내 출시…가격·기능 살펴보니 - 농민신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vZU14NWJ5SUxkdk1oTXlCQ25DcnUtRV9ienJibGwxS1FwcjRhbm5rby03SXN3X3NoZENwM2ZCV2tYRkIwcTdXM3lGLTdjRW1qY0JES0xXdHJQQQ?oc=5",
+      "source": "농민신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T00:42:00+00:00",
+      "title": "삼성전자, '삼성라이온즈 통산 9번째 우승' 기념 경품 행사 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WUjZsUXNFdDBVRkREX3pHTnF6YXhPcmpZRzhpZWNTM1FUbmhuRFpYYkpIVjROWEZBUTRCM1BYZzlrcDBhcGs2aTRkYklMWjg3S2ZvUC0wc1ZaVFHSAWBBVV95cUxNY2dJV0hrUzMwZk1FSXFRTGlxN0VmVTNRM0VUdXZsYXZPOURBVjB2ellQVURsRUpZUU9XOGNrWHBFNEs5MzdYRjVGSExtV05kZks3SHJRSzZJX0N3U0Fha08?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T00:40:00+00:00",
+      "title": "삼성전자 주가, 오늘 급등한 이유는? By Investing.com - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDLXB4Y2p0SlJCSG9nTTFiNi10Y1VFWE0wMHNXMmpwbWF3aXlOZTR6SDFTYmlxR0xPZnNRNko1NVhNb3BtTnJSazRNY0tIZ1lUWVdFTVprbXIyTV9ETEg5NmktclB6aTJ0R21hUWdfdXd5cFpNX3hB?oc=5",
+      "source": "Investing.com 한국어",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T00:37:25+00:00",
+      "title": "삼성전자 'AI 스마트글라스' 사전판매 돌입…내달 10일 국내 출시 - 뉴스;트리",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xRVBjNU01Zi16RFFjYkNpdFRSd0ZYcmtNZnIweVJYd2RfWmd1SUM4VnREMFhUWDRRWldwVWthTTBiZElZV3ctOV81VG03eTB3UFV4MUhHVHJMWm9x?oc=5",
+      "source": "뉴스;트리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T00:29:11+00:00",
+      "title": "삼성전자 시네마 LED '오닉스', 영사기보다 6배 밝은 12m 화면으로 애리조나 첫 극장 입성 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb2l5RzRCb2NOZ01XNlE3T1RnWHpIRGVnU1BJenVrczRKOTAxbEJ5d19STTlsa0tPbW9Qa2F6NV9wSk1QMTlZQm5TWW1JdUowWE4tMFFkbTFhQ0g0OHZtTEV1eE8tVUFPNHVlNXpHNkRYb3U5azRDcjQ0N3UyaTRUN0VOdW10X2lC?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T00:17:00+00:00",
+      "title": "블룸버그 \"삼성전자, 美데이터센터 냉각업체 '모딘 ' 인수 협상\" - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tRHA0QTBtNUR0NkotTXg2dzJEMHhlZVBNNDI4Q0dTczZJckxoTUNyYkhsSkduZ3pEOVg5R19FZldnUHFnT1JvV0RndzBhN21sdnhxS0RFSl90Z2p4?oc=5",
+      "source": "뉴스핌",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T00:09:08+00:00",
+      "title": "삼성전자, 구글·젠틀몬스터와 AI 안경 공개…30종 라인업 선봬 - 더트래커",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vZW9QSWhkYWNnZ2JCUDNWT256SnpQbXJsTkZKWUFqZ3dsMllsRlE1ejc5ZnBBblpYektsUUFVRzhzWF9GdVNZQ0pyOHBrRl9KQWxBdUlhN2I?oc=5",
+      "source": "더트래커",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T23:58:00+00:00",
+      "title": "[속보] \"삼성전자, 美 데이터센터 냉각업체 '모딘 매뉴팩처링' 인수 추진\" - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBENjF0X0V1NnViRWtKT2lFZ1RKNXNOeWRrclRIUVItUUJfSGgzdDhzZGlWdzMyT2NZYzBFdVJEeEVILTR4NnFxLXJfeXJOQ3o4aXdna2ROZXFfeHE5?oc=5",
+      "source": "뉴스핌",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T23:51:55+00:00",
+      "title": "삼성전자, 제미나이 탑재 AI 안경 공개…내달 국내 출시 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WNWQzMm96d2g3cVBfcVM0aDRGc1hqZEJldUNUTHJxejRSWVNmVlVJS214NVE3VE1rSGtZdTFwVXFTODYzYVJRd1BUZWxKTUxlUTh4c01uTkpUOHVvWnJ4eGRSRlc?oc=5",
+      "source": "매일일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T23:50:53+00:00",
+      "title": "\"눈으로 보고 말로 묻는 AI 시대 연다\"...삼성전자, 구글과 AI 안경 30종 공개 - 인공지능신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXMTNmV3ZWcEllNnlLRnBiWmJKLUl1TTdJR1FQTWlCTFRMd1NGTjdLalpaQmc4MTlYUTNuV2taWEhFTjlqejN4bE11NklnQjl5TTVwUlVYVUFUNE1WalpJWDdSZFlDZG8?oc=5",
+      "source": "인공지능신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T23:27:46+00:00",
+      "title": "삼성전자, \"통역부터 길 안내까지\" AI 안경 공개…12월 10일 국내 출시 - 한국NGO신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rSWs0bkVaTHFmanZsaXljb0hJOFd4ZEY3bk1rRUlwRmEtdzh0YTAxa2dKQlBEYjdUb1d1N0ZlN083aHczUjZvUF85amt0SExCaW1DZ3R3Yl9nQXdHb290ek5JakNMV000?oc=5",
+      "source": "한국NGO신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T23:16:00+00:00",
+      "title": "[특징주] 美 반도체주 약세에도 '삼전닉스' 동반 상승…삼성전자 1.68%↑ - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LZDFYNEJab29kOTVTYVNPTC00X19HeVhpZnZkS01QeHEyMlB1X000eUdYMHNvVmZmNFVmRTVhVHhuUUc0NXNhQzlseTM3SGFIRnNfdjhnUFVBczNL?oc=5",
+      "source": "뉴스핌",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T23:04:03+00:00",
+      "title": "\"눈앞에 보이는 건 다 물어봐\"…삼성전자 'AI 스마트 안경' 출격 - 비즈워치",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FMEU3VS10Nk5fRkR1V0twR213NnZyTXBRTndrZlVpdlc5Nlo1dWNYUS1pVEFuNHJHdy16N1B5bHU2dHFqUWxWNW9MNEVxejRSNl9CNllycmdkX3BDS3piNnB1OGhNTEhhX0NYZA?oc=5",
+      "source": "비즈워치",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T22:30:02+00:00",
+      "title": "\"삼성전자 69만원\"…목표주가 더 높인 반도체 애널리스트의 근거는? - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1udENLUDAyVDJBQ25UcDVIMmFEMC0wejRlV0EwZy1ET1dERHhHMVZXRmplZlJoQmJEMmlIQjVfNWlSeFpycWJGa0hxdzhNV3FhUktTcmplVDZQQQ?oc=5",
+      "source": "한국경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T22:26:00+00:00",
+      "title": "삼성전자, 'AI 안경' 30종 공개...12월 10일 국내 출시·65만~70만원 - 데일리e뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9abm5UYy1PTWc1S1NMQWpCeWVSeC1TTjNwV2xDeDZiSnhqcGxiU0xRRXE3Z2lHTEJ2U0FQcjcwY2JnQmR0SEpTWEFJekhtbng5QlFZMUJjVFdQOEpHZEJmbk5Zb3EwVGdTc01TZzh3Yw?oc=5",
+      "source": "데일리e뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T18:35:00+00:00",
+      "title": "삼성전자 갤럭시 무선충전 특허 분쟁, 4년 공방 끝 법정 밖에서 종결 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXlCVkF1U1Y5bDdfZUZlVTN5ZFBpb3UxMGRsZ1N3VkdSaUR1bVdwTXZvNDU2c3BJdUlpOGRZNVB6OGlUNndDdE53T2dobVZNcEpDb0dKcFFqRzVuVUhLdjBQb2ZSREZlenJxdXBzMldYOERSa29yaDk3djlTT29GdVB3S0pXcUU?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T14:00:22+00:00",
+      "title": "삼성전자, AI글라스 '인텔리전트 아이웨어' 공개 - DealSite경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbjJqMWpybENneWlHMXgzYkhOUEFCZndaM2NJNkVHNklrYUFHbFdfVWRSVm42bHpsWkRMMG0tcXlOMHZKLU1FZGhHcTFDLTc4a0hLUG13?oc=5",
+      "source": "DealSite경제TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T04:42:00+00:00",
+      "title": "“다음 주 삼성전자 면접 봅니다”…이재용도 놀란 ‘지역 인재’ 기세 [현장영상] - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qM09SWTNFUGItRnZyRklPa1J0dFNsREprQ2tWd3RSdjRuV3Vlbm9DSEMwTGtQQVg4ZElJMnJTN3FPTmJZNkR5SWRWeVFsWkQwSXFsS21zbWxOUE0?oc=5",
+      "source": "KBS 뉴스",
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-11-12",
+      "count": 11,
+      "pos": 2,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-13",
+      "count": 51,
+      "pos": 21,
+      "neg": 3
+    },
+    {
+      "date": "2026-11-14",
+      "count": 18,
+      "pos": 7,
+      "neg": 3
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-11-12T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-12T14:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-12T18:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-12T22:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-12T23:00:00+00:00",
+      "count": 6,
+      "pos": 2,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-11-13T00:00:00+00:00",
+      "count": 7,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T01:00:00+00:00",
+      "count": 6,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T02:00:00+00:00",
+      "count": 4,
+      "pos": 2,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-11-13T05:00:00+00:00",
+      "count": 4,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T06:00:00+00:00",
+      "count": 7,
+      "pos": 2,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-11-13T07:00:00+00:00",
+      "count": 7,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T08:00:00+00:00",
+      "count": 4,
+      "pos": 3,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-11-13T09:00:00+00:00",
+      "count": 4,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T13:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T14:00:00+00:00",
+      "count": 2,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T21:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-13T23:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T00:00:00+00:00",
+      "count": 5,
+      "pos": 3,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-14T01:00:00+00:00",
+      "count": 4,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T02:00:00+00:00",
+      "count": 3,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T08:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-14T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    }
+  ]
+}
