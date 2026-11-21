@@ -1,0 +1,1219 @@
+{
+  "ticker": "086520.KQ",
+  "query": "에코프로 OR Ecopro OR 086520",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-11-21T09:35:59.700356+00:00",
+  "items": [
+    {
+      "date": "2026-11-21",
+      "publishedAt": "2026-11-21T06:34:07+00:00",
+      "title": "2차전지주 동반 하락…에코프로·포스코퓨처엠도 매도 압력 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SR2FvTHdaUTZPcGV4bEJRM2RLaTI1YVBzdklJRGpYWXlNYzRJRThrUTd0ZnFEdnUzMzkySGpBcENTMEdXYW9Fb19UandidFhLdFhhX3JpbktnZkVaOWJwS2VONXV3WC12eHRibGwtTGFHbXPSAXdBVV95cUxPV2k5c01fUzU4X1RtZFg3NlpBUUhLTW1Vbm5LMUlaMmNPZ3BLNUF1aGpvUTRTcnFSVzBPdFgwbmR2UC1qUTlaclJJbnpTUVFWYmR3Qmx4a09Zal9MeGtmblY4MzMzRWFpWG5HaFRqc1l0RHJSZ1lqbw?oc=5",
+      "source": "핀포인트뉴스",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-20T13:59:07+00:00",
+      "title": "(사회)에코프로, 포항 32가구에 연탄 9600장·난방유 3200ℓ 지원 - 콜뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SWjNIUkkxTnBUNkRPZ2xxWENlY1lmNVd3eFFSRXRsRjU0T2dKdTJwelJsTldRb3RhV0ozOXdkRW1IYUVoU0J0TUwxajUzWWc1ODJoeFZwbUtTcnFmN2ZSY0xJZC1sS2w4Qmh6cA?oc=5",
+      "source": "콜뉴스24",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-20T06:12:56+00:00",
+      "title": "에코프로, 이차전지주 동반 약세에 6.49% 내려 - 잡포스트",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tUWhiNHJoU090dGx5U1NvYTloZ2pubm1QYUpzVENTNF82V2NfTTRBVV8yV1UwdGNINTNRaEpIRWxIM3pvZmo4UGRGY0stLV80dGpMUkpZM3BZRHVJT2NFU01zMUE0X0pnQVdITk9R0gFyQVVfeXFMTVJ0VTVIVUtZY21PLXFxTG91TmRNMzNkQlRzVDVCRHl4YkI5MEo0b0R5Sm1DYlhwWW14UXNGNjAwZHhzWEQ4SEZIQTZNNnRtc2VIQmk3bTlNWTdNaWhJTWd5ZVo4WTFTejZ0cVZtcGs0LWZ3?oc=5",
+      "source": "잡포스트",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-20T05:57:11+00:00",
+      "title": "에코프로비엠·에코프로 동반 약세…에코프로 그룹주 일제히 하락, 주말 앞두고 낙폭 주목 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zN3oyYlhsUkktb0hwM0sxVmxmQjM3VzRtT0ktS3doYWFWVjdodm01LWZRYkl0NDlhUWNOOFV5czljM2J0dEczR2hodWtaREV1UlFkVlFZTnJBaEVfa1FkSnhGRjU2bUFD?oc=5",
+      "source": "CBC뉴스",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T10:30:12+00:00",
+      "title": "에코프로, 포항 에너지 취약계층에 연탄·난방유 지원 - NSP통신",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84MEpEdEFtSzU3cTAzNXktNE1KRW9LMmJBMFAzMVM5QjlFUXU2UEVjcDE0ZlhmTGp0cVpTZFNJVFdnXzBkNWtFc0gzeUNSWXd3aUp3dmRZc3h2ZkVsS2hocA?oc=5",
+      "source": "NSP통신",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T09:38:38+00:00",
+      "title": "연탄 나르고 난방유 채우고…에코프로, 포항 이웃에 겨울 온기 - 경북일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IaFBJUU9kSDhtZmZBUDI5Xy01bExvR0VoTXJ3dHhuSmxjaUJ0cllNZU1fRDJjdUd2RUhZeGxqakI2MHo1aWN6Y0d4cktuUlFNWWpVR0FVN3NCSzRHYWdzdDctV0pwdGhWamhqYWE5RQ?oc=5",
+      "source": "경북일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T07:13:33+00:00",
+      "title": "에코프로, 사랑의 연탄.난방유 포항 이웃 32가정에 전달 - 중도일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HV0RicU13X05lVm1BNDZEQ0NxVFJLZ3BBQldLcTUzWEtGaEw5YXN1QmpUV2xWOU5uMjc1bFpOZHB6Mm9sUWM4SVlKWmlFZjFOQ0lVbUJ1OFBmVmJSV205bGtSLTc?oc=5",
+      "source": "중도일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T05:16:23+00:00",
+      "title": "[포항소식] 에코프로 32가구에 사랑의 연탄 전달 등 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWM0I1SmU3RGdTTTF3cTh3TlFOdk84MTJsVGVicXdma3AxZ25MVnhOOGw5RjBzZDcwWFVCQl9tQnlxWVoxVFMwLWNLYldBemFkcTgyeVBXTF9nZ3JNeVhpLdIBeEFVX3lxTE0wUmJFVS1MazJmd0p4VjZvZ01abHVfZlRJam5qRXV5SEQwN0hHY1cxdnZGQUtPUnpfTll6MElUMGtRWEw1Q0lXZU1GTGc3UTJuUW9KaGswTjRFTmdDRkE5d3pXa01MNktwbnNMM0xTdVZWY2EzQm0wdA?oc=5",
+      "source": "뉴시스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T05:09:20+00:00",
+      "title": "에코프로 6만7600원, 2.03% 하락…3분기 흑자 유지에도 이익 둔화 - 잡포스트",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80Ujl6ekhlMkFpeGphZmtMbmhKTl8xQnBvVWtaM1BPNzZ4X3NERmJJd2Z0TGFhOExyNVlLbVN6VHRuVGlqajl1cHhFSHhwelJDT013ejA3M1BjNHNrYThSb0Jsdk9vZHhPTnFUNUFn0gFyQVVfeXFMTlM3WEVDSENZbDBYN0RNSkd0RjI2Rko3QzR2clNHM1dSXzRLLVZGa1B6LUxONzZ3Q0UtQjVxdFVDT01fR1VNS3JwT2stWEpva25FcEVjbFUzQmdhSVdpX0FQa3BtLUNoUk0yZ0hmTlgtZHRn?oc=5",
+      "source": "잡포스트",
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T04:17:24+00:00",
+      "title": "에코프로, 포항 저소득 32가구에 연탄 9600장·난방유 지원 - 국제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KWHVtaXdaTEt3UWcxZWpZZURWWmZhM3ozazN3TUpTc1F3WkpLSzJtbHNyLWJHM2s3NEQzT0h1NHFxczJpcEwwWHJCSzlvbzI4UlNwSVpxbzh3UF9oUTJiTkM5djlJT0o4bjRDNUhn?oc=5",
+      "source": "국제뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T02:24:00+00:00",
+      "title": "에코프로, ‘사랑의 연탄 나눔’에 담은 따뜻한 이웃사랑… 흥해읍 취약계층에 1000만 원 상당 난방 지원 - 경북신문",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hcGxIekFKc2lyekV2YTVqb2ctajhnMWh1azRYbGxOZW1CWUlqY0xwVy03MVlzZEdWTXliclV0M0lIZVI2SG1JcmpVTGhKbFlWMmc5VVlYQkI?oc=5",
+      "source": "경북신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T01:44:00+00:00",
+      "title": "에코프로, 포항 32가구에 겨울 난방비 부담 덜어 - 경북매일",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nX2tWTjhvb2N6SkxodFVDUnlCR3RCS3hBSTNucVp2ZkVyUWR0dHpPRERkb3A0Rjk5akxZdUkzcjh5Z1JxVnk4a3RMcUY0eGRDVVpyODN6SUg4QQ?oc=5",
+      "source": "경북매일",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T01:04:00+00:00",
+      "title": "에코프로, 포항 흥해읍서 ‘사랑의 연탄 나눔’…겨울철 에너지 취약계층에 온정 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ici12dFdoVy1YQjVacVQxbEZJRGR0T3BEY2doejJoYWp1OEFnTXplX09xZmd1MmRYOWl6V1FSYlV4cmw2UlNiR1lDNlNyaE9oWVZFMQ?oc=5",
+      "source": "이투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T01:02:22+00:00",
+      "title": "에코프로, 포항 취약계층에 연탄 9600장·난방유 지원 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tT1RzMG9IOVd5dXdUR2FkcUxZenFWSnV2Z0JzdXVHY01mVDB0QUx1d2hMN09tQ1ZOUkVmdnZkQUZGMjlkc0tialRjYTQ5UkpqcHdDN2hwaFVCOGJLeWZkOFJVdWlvUWxxN2Zz?oc=5",
+      "source": "프레시안",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T05:50:29+00:00",
+      "title": "에코프로비엠 반등…7분기 연속 영업흑자 - 잡포스트",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hUGNvNm1DcUp0N3BSSlZDekExZm43MGlLYUU3cDNvbU95N2JuZUpEeXBGUzZFMXNNRi1VWHgxNlpiSV9qZW10Z2xyMVBNQ3hvc2NITXl4Y0k3ZnhuTnNuNU8yemxaS0dfLVhmWXhB0gFyQVVfeXFMT1M1ckhjNS1paFU4aDZ4dWVVeHB1b1JUU0haZFRfWHhlUGZ3U01nR085andQUHJ6WUF4WTJkeXdUU3VGS3hXWEM1c3pfMFNPRndiMzBxMFhpWm5EMGdIOXZZQ1lzZW9wTjVYRndJYmZocFhn?oc=5",
+      "source": "잡포스트",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-18",
+      "publishedAt": "2026-11-18T00:25:52+00:00",
+      "title": "에코프로 주가 상승 중 - 아시아뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tdF9VUkUtVEVXOHhrM25Jb1hTMVFIOGY3b3QwcW5pcml4TWhNdXVFSU5Tc2ZNZ3BUamVGbEpZSXF6SVhSWUZCcUw5NURBbGxzdFBENDI4QVR1dnBOTnNkZUxSNjhQdVhLcnVuREFBemswVktR?oc=5",
+      "source": "아시아뉴스통신",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T22:45:02+00:00",
+      "title": "엇갈린 등급, 쪼그라든 증자…에코프로·비엠 하향론 고개 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4eWs3QS0zc2Jla0pkV2FjTncyUDlzbjhLd3EtUjFqUHp4eUxzMFNhTzVRaHlCcVdxVU11Z0pUWmo4Q091MXZlbXE5d2tUZDRzMUtVZ01BUFBpOU5pOXVzN29FdXEwTlhTYVNWc3VOaC1rZw?oc=5",
+      "source": "마켓인",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T19:26:51+00:00",
+      "title": "에코프로머티리얼즈, 광물 약세와 환율 타격에 3분기 영업손실 290억 원 기록 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUEktTFZZMGR0QTVNbW5uVWl6aGZ6a0MtM2I2WFBSVUdtQkNPYnBFZzNFUUVNTkVwaWFma2hqQjVVTFltcUMzZXFlcTY2aXhocmhVZ0dvd1lCVzNyWWlqSXFfWkdoYm9mR01WalU5QTM4aVhjVjQ1R0RyWmRDeWJQTEJIQjYwSTdF?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T05:24:31+00:00",
+      "title": "에코프로비엠 약보합…ESS 수요와 전기차 양극재 부진이 엇갈려 - 잡포스트",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WTEY4cGFSZlNIUzlGVmhjMWJTb2lEOHJnZklxdFlxWlRrM0dWbk9mWWpnTVloVldIR3RCR2F6bWo1OFk3RTQ2TVI3dFlJZ2hqbDE2ZE1iX2dtazE3MDkwR3VWay1jc05IVlFvTWRB0gFyQVVfeXFMTTR2akNkTGUxZkhiYjRPb2VVcDFpenFKX3NqSzV3R3ZjcEttUmw1TmdBRHVPcHc3Sl9qOElKeXBFUkNpdDRsV1pjNmlBbzFmSmlJTlBQMUhTQ3BNUkdkWHR6dmhvcXMzaGIzX1JDZHBnQnVR?oc=5",
+      "source": "잡포스트",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-17",
+      "publishedAt": "2026-11-17T04:10:13+00:00",
+      "title": "에코프로 그룹주 일제히 약세…에코프로비엠·에코프로머티 등 동반 하락 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRT05rYWNTaUtReUVNU3dHdExRUC1qUFRQV3lKazdsejFXX1doemlmWGp2eWpqQzk1TkFTQnFnS2xIWU40VWJkajJyX2tCVk9qbUZScWMxREtJbFZxb1FPOC1Hck9LdDRH?oc=5",
+      "source": "CBC뉴스",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T09:04:46+00:00",
+      "title": "에코프로, 국제배터리엑스포 참가…포항 이차전지 생태계·미래 소재 기술 선보여 - NSP통신",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMdTBud253NnNGd1g0eVVCUm1veUVsWHZHYmRKYTFSREl6cTJ1dEVYMjdOdkk5cDNjbU1BRDJCNHlBQXR6OUxlMDRSZXBfOE16ejJXM0lGX2Y3QS1GOU4wVw?oc=5",
+      "source": "NSP통신",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T07:47:18+00:00",
+      "title": "포항TP, '국제 배터리 엑스포 2026 포항' 성료…에코프로·포스코퓨처엠 등 48개 기업 및 기관 참여 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oN3p0SlVQdFlBcnMyTEVDaG9Ec1ZmV1ZLU19jZENuMl9SXzRfWmRhakprUkV1UFR0TkRHSjQ3Ykx6a3U2d2VpajdYVDAzZw?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T06:59:39+00:00",
+      "title": "에코프로, 국제배터리엑스포 포항 참가…소재 생태계·기술력 소개 - 국제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zbUI0eWt5LVhCTWw4OWc5Mkc5emFuVG40b2xQeUY1dzB3Q3hxRWZ0VklESDlUSmUzdmJPSTZiRTFEVzdHRktjdm1YWHMyZXluaEVzMm0zT09iY0hqbUdVbTFCOEY1YmY2U2J1Y0dR?oc=5",
+      "source": "국제뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T06:07:05+00:00",
+      "title": "에코프로 '국제배터리엑스포 2026 포항' 참가 - 중도일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Na25rVjZ6UlhfcHNPT2ZYQ29NTXJDWkpaWUVZWEE1QURXQk90LThwWTdnTmFNRG9YVDd0Mm9ZUVU4NEpPbU5CTE5xOVBrUVR5SjZ2bTlILWVDbHh3T1NSODQtNEc?oc=5",
+      "source": "중도일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T05:18:46+00:00",
+      "title": "에코프로, 포항 배터리엑스포서 차세대 소재 기술 공개 - 경북신문",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHX2tOUkdNRDk4b01tb1NIakVFY2YxdmMyTkk2ZlEwZjZRbkFGbkpYZFZoekw1WlZWLWdJdDBWUHBtSmtYQmZVR0cwSlVBZ2NmZDk1Mkpxa0k?oc=5",
+      "source": "경북신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T04:47:32+00:00",
+      "title": "에코프로, `국제배터리엑스포 2026 포항`에서 기업 역량 소개 - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBram1sNnhlS2VvYVdOSU8yOG9TTk8yWWx6OE5NS0JmZkdyQVFaV1ZSbE9FVkJaaEkySUExSlR4NTczWV9mU1lFSUlDZnZhdVZla0F6M2l5N1FLT05vZVJmOUtn?oc=5",
+      "source": "매일신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T02:38:43+00:00",
+      "title": "에코프로·에코프로비엠 등 그룹주 동반 약세…코스닥 3%대 하락 속 주초장 '파란불' - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjOHVNUU9NcUNDTkhVNVpDUFB6QTM5M254MW1FQmtPbW5HMG1HemRsNjRZWUpTck43c0pESjZwZjNiU0I3MV9vUnFOUm92Ry1MY0swS2hiaXVqR0o5ZlJTQmpUYk1rdVQw?oc=5",
+      "source": "CBC뉴스",
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T02:16:33+00:00",
+      "title": "서초동 10평 단칸방서 글로벌 소재 기업으로… 에코프로 이동채의 ‘배터리 외길’ [창업주의 비밀노트] - 서울신문",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLTUtdFdTRXU4WnpzTWlSdzF4NVVZUVlXVmxvSnJ1Qjl4NEx2MFp1TEU2RnBtMHhaM0RZQXg4SUFsSVZxN1BIVDA1Zkh0cmtaWFJheWxZWi1FSXlNTmFGWVA5QmRvNGlYWGZHX0hxb0c5a3A0SWdYWUxpX1JJVlEzSFRUVzE0dEJIbFFr?oc=5",
+      "source": "서울신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T01:01:03+00:00",
+      "title": "[속보] 에코프로비엠, 하락 VI 발동가 웃돈 89200원…현재가는 약보합 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XbW9zeUxTZUl2eTNrUUs5U3R3QXNRZmM3TjFMRDBFN0tQZm1ueldrZEUwX0MwLUZ0Sk1IX3VKbFYxZV9KUERjVlMxTDF1VEhuWVJseF9yNmpoMENJamdiVUl0SUxOa2dn?oc=5",
+      "source": "CBC뉴스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-16T00:58:49+00:00",
+      "title": "에코프로, 포항 배터리 생태계 경쟁력 과시…3조3000억 투자 성과 조명 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YTWN3ZDB0bnhWYWxQc2xYRTdqWDJlWE9feFRFOFI0bkxKc3BNTDZ1QWVDa1ZfNEtSQjc2T1FpU0V6RGZhLVJ1Tmhza0tlNlpOQ0ZMaEJmTmdFMHBxZEZRVmdQZ0JKRjJCRmZB?oc=5",
+      "source": "프레시안",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T23:48:53+00:00",
+      "title": "[산업] 에코프로, 포항에 3조3000억원 투자…배터리 소재 공급망 공개 - 콜뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWWdZd1hmNXFFNFBRcURfVEtVaC1Sb2hNZFhfZ2NpRHY4Tm9fOE9hZHZrOXphRUJfUk1jcE13SWlVaVFTOUlYeFg4RHBwbWZxcmZZSzJrMHVpT3F4cVMzUkZCSHJRLW15S0UxcA?oc=5",
+      "source": "콜뉴스24",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T23:21:40+00:00",
+      "title": "에코프로, 포항서 차세대 배터리 소재 기술 공개 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlWXU4dlVPcGRSX3lxNHpteWZyODVFWXgwUF9OTDdhbk9yYmNGRndrU0k4ajM1VzhrdTREUGIzVEtLbEJSQlhHb1ZoR0k1MnJLZ3ZOU2ZaTWF2ejlPTUxEUXA3ZHVMenp4NHZnNHpST0fSAXRBVV95cUxNeEZrQ1Z2WW9vb1VibmwyUnRkM2c3SjN5T2U2OWFoMmVmc0pQaktmcG80ZkpPdlFBLTJQYWhtZ0lNMDJFT21vRm1xZlNhYmJIMjlKNkRpWUk3STk4UVp6Z2ZDeFFYamlIWkp1WnpHS2RRa3U1bg?oc=5",
+      "source": "이뉴스투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T09:49:54+00:00",
+      "title": "[분석] 에코프로, 삼원계부터 고체 전해질까지…차세대 배터리 '초격차' - 파이낸셜포스트",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xZS1jT2NTQlNKZmxfVVNwQjViYk5KLWY3V2pLZ1NPQkMxZ3FsMGRMSmRXT1k0LUg1T284bnR3bVJXZE9paEtPYkRZellHcEZSYk1CVktXSjBpVTdjYVY3Q3VMQ2dZZTQ1RjVsWDFlajd2Yksy?oc=5",
+      "source": "파이낸셜포스트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T08:33:00+00:00",
+      "title": "에코프로, 포항 배터리엑스포서 차세대 소재 기술력 공개 - https://www.2news.co.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RQXMxZUVWbTlNck5QLVBaSHQyeXk5TGhvQ3FhQWw3SDZCM2FVenZSc0hUd0puWGtMUTJfVk81Q0NQVlFnblEwV21aUHhTN19CUTQtZFVCUFJLWktQbUM0YWVvdmN2NzJD?oc=5",
+      "source": "https://www.2news.co.kr/",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T08:29:40+00:00",
+      "title": "에코프로 '국제배터리엑스포 2026 포항'서 차세대 기술력 선보여 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSbzVmUjlRbU0taVlmV2xVMEZZajJldXl1V09FVzdYeC0zbjdmWjFJS25rYVo1UDlleUdxQld4b0ZWd2VlZzZ4UXF5SjlkM1FLN0Z2V0c2X1hKZUE4YnhHZ0R6Z2I?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T06:24:38+00:00",
+      "title": "에코프로, 포항에 3.3조 투자…배터리 소재 생산·재활용 체계 공개 - 뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ObkxobzBNVVVSd0IxandQU25XVFJOOVdPS3pmcGxrX3AyM0lsbHVlRVRMMTR3cWtaQkZacUt5UzBELWoyam05YnZ3NnJaZ3N4RTR3eG1kbEJkMEpfcW5WbndGSlczeFowU2pQWDVTNNIBc0FVX3lxTE1KSUpVWHJlbldmamNoNm15cW5DVjV3QUJ3VUlsTzdodG1pVUw1eGZ3UE16RGNldnV1WjFpYXM4dGZZNGVoY2lJNjBOVzY5NG9rVWlLeE1IUEltbzJBekp2c01vZjZWRG9IOFpRQ2JUMGlEaXM?oc=5",
+      "source": "뉴스웍스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T06:05:00+00:00",
+      "title": "에코프로, ‘국제배터리엑스포 2026 포항’서 차세대 소재 로드맵 공개 - 라이센스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NYmVNMXZCYjVPdm5vT0VXYWoyLXlpLUQxNG5Jcm8xRUZFSFVBVER4NHEza1BQblVDaDVfX2dQa0NQb1pGLWs0X1ZhTGV5Z2dvUTVKZ2xKWE52Q0NOVWpuMER4UktKUm1BNHow?oc=5",
+      "source": "라이센스뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T05:45:00+00:00",
+      "title": "에코프로, 국제배터리엑스포서 이차전지 상생 성과·차세대 기술 소개 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EMkFPeWhKNEdjdzBpdm1Pd29SNWkyRUR5VFkzaEx1S2lwYi03T0VFampQMnRwUDB1SW51dUF6eTBSdEQyNzVfV29FYnZKbTQyY01SRy1FX2YyamNQ?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T04:44:16+00:00",
+      "title": "에코프로, 포항에서 배터리 소재 기술력 및 글로벌 공급망 공개 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MLUdWbnl6dWhZNnE4ZUNPQlFrb3daYkpwNXdRNWJkdG5PNXgyT1lGU1VNMHo4eTlKcF9mMjNteFJnMGFGU29xSFExa1hlQWVQYjEtdTBRXzJiZ0l1N1hEcGRMTHk2WnJLVERoSlp2ak14THR6djBMd3RR0gF_QVVfeXFMTlVvMTdOMm9fNmlnWGhqdzFvMm5JRmswVDgtdVZkaWlBNmRUenNRNmhaRnRrTXdlUGJ0V25LNkl5YmpLS1kzcGFveGhTUmt5aF9YMGtjMXJ6S3o1X1NyZGxMUFBUbE9YUHUyRVVYZVh6dnRjX3hpSTY3MU1udEQ5OA?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T04:34:05+00:00",
+      "title": "에코프로, 포항 배터리 박람회서 양극재 기술·소재 로드맵 전시 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LSE9uVGJoS2N1UDlFR3pJWE8ta09FZzlVWEYyRTd1Slkzc0R5UHU2aDdJc05KUHI0LVA2dTZIMTNJS3VzZmJxZDZiSXlkWk0tekRHY2gtWXl4dw?oc=5",
+      "source": "파이낸셜뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T04:22:15+00:00",
+      "title": "에코프로, 포항 배터리엑스포서 차세대 양극재 기술 공개 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxYUdGMU9DYnlIWGVzS2I4X3ZjRWUwcnJMdnRna0g3TEZiZ1pUMThCdXNrRjBrY1NPbVphMnE4LU9hdkhSd3hLWlJVQzJrb2s1R2l6WGxCOXN6TjA0QlpGQkR3X1owQQ?oc=5",
+      "source": "디일렉",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T03:55:17+00:00",
+      "title": "에코프로, ‘국제배터리엑스포 2026 포항’ 참가…차세대 배터리 소재 기술력 선봬 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zQ3U0ZHRHSm9neXhtQnZUVDU4WEoxN2lwNEJJOGFLQzFKbUpBVVNRQ0RCTFN2V3RmaXB3U0hRR0phdTNUTVZVWlo0MXNGOUFVYVpiTWc4cw?oc=5",
+      "source": "헤럴드경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T02:50:40+00:00",
+      "title": "에코프로, 국제배터리엑스포 포항서 차세대 소재 기술력 선봬 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GclcwMmZzelNsUlpobHhFVDgzQzBOSnR6TTJNOXBVREI4aW5YM0x3ZnVFN0FjbDlHTk1aRnd6cS12R25nMlNWR0ZvdVBBYnVDNzcxSG5vWkJDWTBoZzU2OQ?oc=5",
+      "source": "아시아경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T02:42:00+00:00",
+      "title": "에코프로, 포항 국제배터리엑스포서 이차전지 소재 기술 공개 - 데일리안",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNLUNWNWxfR1RLTUcyUmxGWEhCR3dNVXZYQ0Vza2RfVkRLQXBtblg2M3d5V0M2UWFFa3AyZ2JjQ1g4eGoxSThjc3FvdTlaeTJXWm1ha0dVR3pnV1lwWEVRZE5wNW1ZR1JKX1BfcVAwOG5UdGtkVjVNY3dUOHJJeGI5a3lSSEozYlRkeURpeWFnUFE3aDZTUFdwVkh5UGVRWEptYUdpMnR6c1BSQnRralhSLWxzM085dmFzY0YyejZkTmNBcG1qSFMyYU5TSEtJYTV5UXFUTVVaU2U0b0tfNHZWUDU0a1U0T21XdUJQanQ4SW51THJZMFoyNkVjdi1IcWtyZElRZTl5ZGdiR3l4bGtXVmc5SEZuSHZ4UDRDd3Nlam5ES2M0OGZyemwtLWszUQ?oc=5",
+      "source": "데일리안",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T02:19:00+00:00",
+      "title": "에코프로, 국제배터리엑스포 참가…차세대 배터리 소재 기술력 공개 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVdElCUnY3bGxnc1E2bWtOSWpfWmlpLUREX1E2WXN4Q0tXeGs2TnpqVkVkU1RJcW1PdU81N0s4U2xRRVNYMmJNdjhDeTNBMFloejV6cg?oc=5",
+      "source": "이투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T02:14:58+00:00",
+      "title": "에코프로, 국제배터리엑스포 포항 참가…소재 기술력 선봬 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMYzdzSWtDSk14ZW1LZk5FZWg4WmxLMU80TnNyU0tJUHcyUEZGekNhSVcwcnVNa0pmY3dWbUsxT3ZUWF9NT2diSUJzaTZwbmlOZXNvTGxNZFg3WEnSAWBBVV95cUxOcnVicm85SmtEZ2Y1OWxjcVpobjdMcmg1RG5zbEg5RlhpdDgyVE12S2RjVjd4YUpGa2xlZ183NzIyOGp6S3VfVzZpY2JrelZrejViZUU0bGtIc0FmUy01Yl8?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T01:55:38+00:00",
+      "title": "에코프로, 포항 국제배터리엑스포서 이차전지 소재 기술력 선보여 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rMmIzdEV0Yjlub0Q0VGVxaVY2YjIwVzIxQ0pQMU9LR2FiSnlIRi00RFVLX2JmTHJuLVMtNnRKcnB6dGx1a0QxZlBvYzFOQQ?oc=5",
+      "source": "전자신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T01:53:18+00:00",
+      "title": "에코프로, 국제배터리엑스포서 차세대 소재 기술력 선봬 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzRmNldVaVlSaktySWxUS09xVjJWczFSb2I3d201XzR2bld3SU5LYlZ5YmxjcXpFbGVIUk9oWW9jck83UXpmUzJBUkVlcXhUMWpKcnRUTDI2NXBiSUtCR0JxUUtiNERMS2s5U1lldmFXUXdoQkRqSDdoTllkNG9IYg?oc=5",
+      "source": "이데일리",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T01:50:36+00:00",
+      "title": "에코프로, 포항 3.3조 투자 성과 한자리…배터리 소재 밸류체인 공개 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyVlU4d2E4d3Npd01FUHZKbGRJM2Znc1NEZnNiMFcwWVNkY0gxdGJWQ3U4WVc4U2lnQklKVG5RMFhpRWRnS0xYN1hSTmF2MUN3NEZ5U0dRblMtM0pUSEVPc2R5dEJoSUhXRE5SU3R3?oc=5",
+      "source": "아시아투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "publishedAt": "2026-11-15T01:50:05+00:00",
+      "title": "에코프로, '국제배터리엑스포 2026' 포항 참가 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51RVJtOHhmaEVyZWp5Ym51eDVIQUc1S0UzYXd1V0RXUXdvVGUwMm9RbGxtMlkwRDZCSmFfc2Zmai0yeG1PY2l6dGNtVXJSTGQxY3kwOTl3?oc=5",
+      "source": "지디넷코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T09:00:42+00:00",
+      "title": "에코프로비엠 \"종속회사 PT 주식 6천271억원에 추가취득\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yTk0zUnREbWRGYWk1VWlxNkVrdkk1dERVLXZweVk2THp1dDV0M2FrUU0wZEVPMHFYOHUxSi1TYzNTNjFvMHdlaUpiMkdTWkhsWjd0WXBQaFNRYXdaRl9pONIBYEFVX3lxTE0yTk0zUnREbWRGYWk1VWlxNkVrdkk1dERVLXZweVk2THp1dDV0M2FrUU0wZEVPMHFYOHUxSi1TYzNTNjFvMHdlaUpiMkdTWkhsWjd0WXBQaFNRYXdaRl9pOA?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T08:00:00+00:00",
+      "title": "비엠 숨통 텄지만…에코프로, 조달 활로 좁아진 '2.3조 차환' 셈법은 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdGN4OHhnbHFrLU5nNm9jRHpiVHRQUFF0YWg2enh5V2trRTdQVjZxSVZwNm0zXzVDMU1pTjV3ell6dXZCWlUzQTQ4R1pIWUdyUEhOUWIyM1FqdE1mT0xzQllPbnVxN0pWazBYcFk2SjJEOC1CLTVIV1ptWXFnaUJac3NOWQ?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "title": "에코프로, 3분기 영업이익 112억…전년비 92.5%↓ - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QSVMyeXh1WkJRSU9oWGFvQi1peUsxaWZXVXdwS0psMlZpbXdKVG56Mm52b01NNjNRWHZvLVphbVdIaEVJZW1TRWN2eTVkcmlza2ZISnZvdkpxNVNRRjhlUmRPUWw0R2UyRXJNUmtKSm8?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "title": "에코프로비엠, 3분기 영업익 120억원…작년보다 76% 감소(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zUE9naHZnbUF2dnh6cklxblA2cGZhd2Qyb0lyWUhabjlCQUlVbm1KOWlYUWlmVkdsclNOdC0xcWJNOUZ2RzJ2VGlSdGZSczlWZWVrUGZNa0owOVXSAWBBVV95cUxNeGI5amRwNzQ1eWRLRWlYNkgtODhUY0FIZWwyMTZyOXhtTDRyZHpXNlZtdTlTRjBXT0xVXzJiRjQzZDZFTk9GbFM2dGVQRVFiVUFtNTBfUFhDWHVTUF9RM3Y?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "title": "에코프로비엠 \"중단한 헝가리 2번 라인, 지난달 말 가동 재개\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FQlhNME8xNkFUTWZLbndqQkNVTjFGMkJ1bElyT0tlR3pTelJzVWpwQ3FZR3R6d3lxVFVVandZZVI1RXJpWWFyQzNUOWtPY29DS2w5dXdJY0pXNUdOSW5PREM5ZmJWdFJBWmVjcWc2THY?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T07:00:00+00:00",
+      "title": "에코프로 그룹 사장단 인사…미래 경쟁력 강화 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NMGtHVEtkaU1FQksta05aN25nWHNMc1pqOEIyeVNtNzJPWGhYbDJVeGx6Vm9mNkZ1T1E4UWdoQWhMLWhGT2NKWVJBOUlQTW9yUzJ3aHUwbVZFVjZQTi1tbUNpWC1IQ1k?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:00:00+00:00",
+      "title": "증자 고비 넘긴 에코프로비엠…미뤄둔 4400억 CB 협상 속도 낸다 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSWFPZnRYNWR0S2NNLVZ5QnhIUENYRkRObTBmWHpuTl9KZEhQenh2SXF2WEJLMk4zalVGcFNaQ2pjVHFTNnJjbnpWLUFYcFJPRk9Lb2N1UWdoYl8yaE9fNy1VOWdIdTh5VFkwZnVwVWRUQ05HUlhtZXBHay1xeVVsMEJMMA?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T07:00:00+00:00",
+      "title": "에코프로비엠, 8천861억 유상증자…내달 5일 신주 상장 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rZFNXSFVsZmlXMzJ6VlJaWkx2eWw1Wk8tejYzVWNLLVZYcWNmbmFLWVhlVklFcFFQMkxuNzMxVVNSaXd0TFhwZlNOWmdzdWV4YlR4M0t5Rnd6WXZab1Y5UmJSRHItVTNKLXF3YTJtUm8?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T07:00:00+00:00",
+      "title": "에코프로비엠, 유증 구주주 청약률 103%...일반공모 미실시 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeWZ3dFZxaERLd1RFVmo2d2w3dmdTeGVXUUNfOVozOVRrYmctTGlQejl5SFFKVE5WODcwUHBpYmdBbWxjT3lvajdjbkxTaVJjM3h3c2YxNlNMNk00N25uWVp3bFJrakgzOVBTeEFsWk5UXzBQRWVCTmdQMjh1SE1uQXZ2WQ?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T07:00:00+00:00",
+      "title": "유럽 기대·북미 부진 사이…에코프로비엠 유증, 초과청약이 흥행 가늠자 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFVWNHBWNHh1UE1IUlE4U0ZZbDBBTXNjRC13STBlMEh4WVFxVlBKLTY3VzZHRlc3R19MMlFmYmpsVmR5TEROZmRZd2dmY0kyQUQ0N2M0THlFdGRSWVFPcVhUVDc3UDVjRS1kV0tabnJhUWFkS3V6X191UHE3YjY3X2lSaw?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-21",
+      "publishedAt": "2026-09-21T07:00:00+00:00",
+      "title": "이동채 에코프로 회장, 2년 내 성일하이텍 인수 목표…365억 투자 - 딜사이트",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jRnE3NFZUQjgyZ1E2cjZpN3VrclFBaW9iWjJ4Z1BZVmZxXzcxQzBxLWY2N1ZGUjlYUmttT3FqOUlpTnl3NmhnSmhFOXFmbmM?oc=5",
+      "source": "딜사이트",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "title": "에코프로비엠 3천억 줄어든 8천861억 유증 확정…해외 시설투자(종합) - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZNHhoZkY4VDFMT1JCZ0txYl9iclk1VjUzTVljbzlXVGlCelpOb0RRWWJZdnpLUkZudmVBVVlrTlFjV2tZRE1TZGdFNG1fSzlicmVHakRmWU9ka01VaHFGcGw3MVJiWE9aa216Q1YzZ0s?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "title": "에코프로비엠 유증 일정 확정…규모는 3천억가량 감소 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fV1B4dEpZME4wOUVEWjNYWHR0SzFjOGZMcEpuck5TU0hzOUxJcWpzVG1neHI5LVB2UUc5Q2o4NFhUdUZTYk1hejNXWDBob1hvcXo2NjE4NFpWZ0VTNEdwZ04zeFc3OHdrTy1KVGt3N0w?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "title": "에코프로비엠 유증절차 개시…1차 발행가액 기준 8천900억 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Lb2U0cFRhUl9fQmJmWjF0YWNKRUhzRFYtWlJsd2tvS1dnQjY5ZmdnU0NMam0zeTRFZTJyTmE3NElvOUZEdHlGV2J5RXVRNFRYWFBVLUEydmN6d2fSAWBBVV95cUxQOHhla0g2RDc1b1N5NGszcUdEcF9mMXBxNk1RRWlfUDhYRmktYkNvOFdXVHBpRlE1dmhFTTQtYTJMbEJGTDR2NlQ5bkF3cW0yQ09WRllHbnBtRk81VDJHSzI?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "publishedAt": "2026-09-02T07:00:00+00:00",
+      "title": "에코프로비엠 유증 절차 개시…8,900억 규모로 축소 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5takM2Z1AzU2dhQm9SX0lkOHJpd0MyOHlIQVRWdERfUk42ZVBDbnlNcW41aE9CUzcyeGRQZFNrbWRTSExRVldpblhidWJYLW9YUVE1VEtTZXVEWGtscjk1aTRxU2s0Vlk?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-08-31",
+      "publishedAt": "2026-08-31T07:00:00+00:00",
+      "title": "에코프로비엠, 전고체 배터리 조기 상용화 원팀 출범 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94RVhpWFlWdkRDRGN2QklFTExRdEVBb3ZYRHh0Zkh2QjRkbl8yNnhPQlRMcUJNU3FvREMtZWFhUXBGQmw0YTNxYkJrU0dJSk85c09URS03d2d3Vm_SAWBBVV95cUxQdFAxbzN0Z0p1Z0h5dEZJZVJKU2lja083Y3V3SFl5MDJRRThRSDU3WkpuYk5adjRKWmRUeDlndjVEd2RqXzJOd1VxSjMwUWhTZmlQNXVVd2J4WUFOWFVabGY?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-24",
+      "publishedAt": "2026-08-24T07:00:00+00:00",
+      "title": "에코프로비엠, 헝가리공장 개조 착수…\"유럽전기차에 소재 공급\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Xc2gyZ1VjSU1LeTFfdGhWR09kQzF1ZE0xNGhlYlotdG80c3ItdTB5aHo3bzRQQUh3NlpWVjZndlFxWEZYNTZ3anNzVldlcDBBR1ZSMDBpeHR0SkXSAWBBVV95cUxOY0tFb0FEN3c1NHN5clJTV1dORVJrTmplQ1N4U3ZHSXhQSUFsSmp1ejB0UmRxVC03REwxOEUwXzNsMUIyWlc3VU94MjBrOEIweHFYU2prem9PY181cWpEN3Y?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-31",
+      "publishedAt": "2026-07-31T07:00:00+00:00",
+      "title": "[에코프로비엠] 1조2,000억 원 유상증자, 에코프로비엠의 위기일까 기회일까?(2026년_2Q) - 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3hjSWxkUElnZ2R3NWZIZFU1TDFwLThYYzlwb0t3QTRuT24wSnpNQk9Pb0llaEdRNTZXNFJtcUpKaV9EYlRRMFkyUE9CYm1kUy15eGdncnlfTXh1X2ZNbVJqaVcwb0VCNFRYbW5SdExsVDd1dnd2U0hNaE03aUtDME5pSFZVT3FK?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-07-31",
+      "publishedAt": "2026-07-31T07:00:00+00:00",
+      "title": "에코프로비엠, 헝가리 공장 9월 추가 가동…1.2조 유증 예정대로 추진 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BamE5b1AtOVRmeE9VcnpRSDZINDRZZWZGUVlGSk9Rb0tmUmkxLUdDYnUyWS1YTEcxUG1FbW5LajFiTnd5d19QSG5VNkFoQk1MWTd4d0pCWl9jWFR2SFMtT202VzNtdw?oc=5",
+      "source": "디일렉",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-21",
+      "publishedAt": "2026-07-21T07:00:00+00:00",
+      "title": "블랙록, KAI·에코프로 지분율 5% 넘겨 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1reXFCN2gyT3p6NkZjOVhQWVpUNThPWFlURVJEbEk3aUJaemVvTk50Nm0ya2w1MldpUUhTUmpRaEM1OXdhX0t1TDkxZnpPQ0l3UVRhZUxaTjhsa0RIN2FzaThRcnJFTDA?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-21",
+      "publishedAt": "2026-07-21T07:00:00+00:00",
+      "title": "블랙록, 에코프로 지분 5.01% 보유…5천억원 규모 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qYUtZYmNMMVVBeDJRQ2p0UVZMZjk3LW52aHZJVDItUWVKS2JUSFJrNnJ1dTE2c09YQ1djZDd0R3NKbTdMS2NtOUZidEUyOXZwckdhM2pXZUxRcDTSAWBBVV95cUxPMEtxWXZLY3FYb0RETzZCTVdCTlE0anNubGVIVEtkbUFoNEs5U2VLMXdkdmZwRHlmRVRleEpOMmdoMFRyYk8wdkx1MDl6NElVZnlUbHI0UEI2MlV6UUVGem4?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-19",
+      "publishedAt": "2026-07-19T07:00:00+00:00",
+      "title": "에코프로비엠, 내년 고체전해질 양산…전고체배터리 로드맵 공개 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hcFVvSUF0dWxQbm9OS09scnV3SHZjTHh4ZDIwWVlPUTdHSlBxOEM2S3BGbENpMWNGR0hlVjhRRFhOOW5RUjdRLWNyZmRQZnBwYjhOQ2pRQmZzQVnSAWBBVV95cUxPeDExeUFrZ2dJNEN3aDRxdDJSUVFUT2dqT3Y2bTcweUgwTWJ6SHh6YUxST0l6R3FUUHlVOGJrbGViaVB2bjFsNmhWMV9rTkEyYWNVS0Jsb0NoanlBc3FZM2g?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-15",
+      "publishedAt": "2026-07-15T07:00:00+00:00",
+      "title": "경북과 에코프로 8년의 동행, 4조 9천억 원 투자·4천여 명 일자리 창출 - 데일리대구경북뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85TW1GZkZEMHp6ZDZINS0xUDEzYUY4SUF5SzZwX3dTSHRvWENRMVptLTVKWEtfNUxaZ1VDb2dLQjdyblRYRHY2YjR2c3lEV1FCS0p3aUJLZ0tZeGNrdWVnRTljYzBQUQ?oc=5",
+      "source": "데일리대구경북뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-15",
+      "publishedAt": "2026-07-15T07:00:00+00:00",
+      "title": "[단독] 에코프로비엠, 1500억 대 국제중재 제기 당해… 피터앤김·베넷 존스 선임 - 법률신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DM0NucVlzOUJMeGUzclBrSk9EQnZXSWpCYWFoc0std0YtMGVBMi1xcHlUeHc5OWh1ZUZobHhsSllHbURyZnRuWjg3aThPWGdjQjBWWjRRMzN0TU5YbjYxdHNvRmJjbFkzZkhtRTFR0gFyQVVfeXFMTXVuQ0ZENE5xSmtISnBWNU9EXzBPU1U0LUlRR0VWY1lEaGg5cXhOcW1oRUV4UUY0dnhHVXdfb3NtMlNSOFJFellIRS1YY1lCaDlUbHI5NVlzTFd6ZURwWGlVQUZ2eE0xamEweGM0TnRLaUln?oc=5",
+      "source": "법률신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-14",
+      "publishedAt": "2026-07-14T07:00:00+00:00",
+      "title": "에코프로 '1.2조 유증', 냉랭했던 시장 재평가 분위기 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lUWJIYTdIcTRsSUw2T3RMRHZLVW9jSW8waUZRZTYxeVdhLUhqeXhUYVp0ZGE4NjdzNW9OUW9WMEVPY0MtcFlpTTg0OEI0emcxWHB1UmtiY2xXeER2NGRBWlBVRXI3UmlIOUVlUkFuMlM?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-07-05",
+      "publishedAt": "2026-07-05T07:00:00+00:00",
+      "title": "에코프로비엠 창사 10년…\"주주가치 제고해 책임있는 상장사로\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03a3RUa1BsY0s3dzV4bE8tUWV5amkzaEdIdlpLWmpyVVZ4UFRUdWk4YjQ3X2c0dG52MUNaVkJ6MkN3S1NISUgyRDFXN19tVTJLZWdicUMtQ2Q5ZkXSAWBBVV95cUxNakZDbHdxOGFkcXYwUllsd0hUdmVDV2d6eUI2RG80X2NLVVIwZVJXUkl1dmV1ZXBaTms4TVVNa3FZaFlUNDFXMW41bDJBNHJSVl9HS1Zic3hWV3BXeVdCdVo?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-01",
+      "publishedAt": "2026-07-01T07:00:00+00:00",
+      "title": "에코프로비엠, 1.2조 증자 '고난도 딜'…흥행 위해 주관사 성과보수까지 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMnREZDQySVhUb19Kam9uTFhuaEZDZEpVdzZ1dW5WM2pnVnFIcjFRSVNEZ1drbzRkdU1mbHVjYm5BMlZrUEExYjNfdEIwelFoVVdtOXVFXzd1U2RpNng0RGdBTWpuSnF1ZVBxajRCeUt5ek1BU2hocV96TTVmYVhpY1RHYw?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-01",
+      "publishedAt": "2026-07-01T07:00:00+00:00",
+      "title": "재무부담 비엠이 다 떠안나…에코프로비엠 1.2조 증자에 시장 냉랭 - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yYUtaYXFmOFhnemZoT0dFT05xd2NqaFctTzVscTRNdFd6RExiS2pLLTJuZ2RCdDVZelhhTHpkOHR0S3BMSGhfU180THlSMHhYU0VJSmQ1QW9IT1NpSm1zRC02YlZmRkExYU1ZdC1obkZxUQ?oc=5",
+      "source": "KB Think",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-06-30",
+      "publishedAt": "2026-06-30T07:00:00+00:00",
+      "title": "에코프로비엠, 1.2兆 공모 유상증자 결정 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUTRKQUw1WG1SdHd4NkY4a1FISzRBUno2Mkl1YjFOUndjOVdaYmFiTXFsVUFackVlYUpSdW5yLW9pV25YY0I0X2l3UVM1Yy1rOWZBcU0yWFZuLWJHWVpFeEVFMXhnY1E1MmYyNVIwT0RxSXNnbW5zQnd0UGs4YVZ2MFFhaw?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-06-14",
+      "publishedAt": "2026-06-14T07:00:00+00:00",
+      "title": "에코프로비엠 4400억 CB 풋옵션 임박…'이자율 상향'도 재부상 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVQwSlJlcy03aDdzRFhad2lCSDhlUmk0cEVVQ1RaMGUtMnQycDN6SUR1NzU2dzZSeF9QLU9OSGVacmZELW1ic2NITDlLZzRkTVFISUhlb2pYcjA3ajhscDBURGFNcVBmeWtfcEhjSl9ORFNMenRJNllVMXhKM2tIcWNPWQ?oc=5",
+      "source": "인베스트조선",
+      "pos": 1,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-06-14",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-06-30",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-01",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-05",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-14",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-07-15",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-19",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-21",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-07-31",
+      "count": 2,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-08-24",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-08-31",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-09-02",
+      "count": 4,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "date": "2026-09-21",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-16",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-10-19",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-21",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-10-30",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-05",
+      "count": 3,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-06",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-10",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-15",
+      "count": 20,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-16",
+      "count": 10,
+      "pos": 0,
+      "neg": 3
+    },
+    {
+      "date": "2026-11-17",
+      "count": 4,
+      "pos": 0,
+      "neg": 6
+    },
+    {
+      "date": "2026-11-18",
+      "count": 2,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-19",
+      "count": 10,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-20",
+      "count": 3,
+      "pos": 0,
+      "neg": 3
+    },
+    {
+      "date": "2026-11-21",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-06-14T07:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-06-30T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-07-01T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-07-05T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-07-14T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-07-15T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-07-19T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-07-21T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-07-31T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-08-24T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-08-31T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-09-02T07:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-09-21T07:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-16T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-10-19T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-21T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-10-30T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-05T08:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-11-06T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-10T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-15T01:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-15T02:00:00+00:00",
+      "count": 4,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-15T03:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-15T04:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-15T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-15T06:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-15T08:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-15T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-15T23:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-16T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-16T01:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-11-16T02:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-16T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-16T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-16T06:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-16T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-16T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-17T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-17T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-11-17T19:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-17T22:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-11-18T00:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-18T05:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-19T01:00:00+00:00",
+      "count": 3,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-19T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-19T04:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-19T05:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-11-19T07:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-19T09:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-19T10:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-20T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    },
+    {
+      "datetime": "2026-11-20T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-11-20T13:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-21T06:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 2
+    }
+  ]
+}
