@@ -1,0 +1,985 @@
+{
+  "ticker": "012330.KS",
+  "query": "현대모비스 OR Mobis OR 012330",
+  "lang": "ko",
+  "geo": "KR",
+  "fetchedAt": "2026-11-28T10:10:58.316018+00:00",
+  "items": [
+    {
+      "date": "2026-11-28",
+      "publishedAt": "2026-11-28T01:29:40+00:00",
+      "title": "현대차그룹 부품계열사, 사업 재편 속도…로보틱스 투자 본격화 - 스페셜경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Fbm1DYmZsOUMtX2c1bHZNZm1ZU2d3N18tazBtem1GdEFrazRLSWQxMVRVY3NsVW5Jcm9oSk9GLTQ3VUJVeDRmYTl4cVRZcEZjWjZsTVlQZFJmU2laUUJISzYxZlB6VzFHVF93WQ?oc=5",
+      "source": "스페셜경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T21:30:00+00:00",
+      "title": "설비투자 숨 고르고 R&D 확대...현대모비스, 로보틱스·차량용 반도체 승부수 - 월요신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WdVdyWkFOR0F0bndsQllXcjBXcktVeFIzR3FzN2hLZDYzeElTTTdweHlmSTdQWTFjRllra0lDLVIwMkpVai1sbWpVeDZveDBsVXJEdXNsaDl6V25sWlk0MXpJUHFucUx6TFE?oc=5",
+      "source": "월요신문",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T20:00:00+00:00",
+      "title": "현대차그룹 부품계열사, 사업 재편 마무리 국면…\"로보틱스 중심으로 사업 확장\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wYldQLUw5bTFmbllwSnhTVFowWUFZSjNLNjZmQzBiMkZ1Nm5XWUoxRF9wOGVQNk1vbEQ1YTZINDNKLVBlQmdiVm5YM3pQNW1TVTJDWFBMdnFzVUt6VlY2VdIBeEFVX3lxTE1XQVZxeFluQmFYdUh6ek9LMDZ0WGc5dmF1WWxVc2pxRC1uS1hRQ1BXLW9LenNFZmd4bWNZZldSSy1ETUxOT2xsc1J5R2txT3praV9saVBBS1lmc0NCQlVHbjB3elQyenljRkt0clR4Tk9BYVFBWlU2Sw?oc=5",
+      "source": "뉴시스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T04:19:12+00:00",
+      "title": "[화보] 26-27 KBL D리그 현대모비스, 소노에 82-73으로 승리 - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jWGJ5eTlfN1ZYRGdWdlk3WUtxNVh4UUxaSGpTVjhKbVc2ZDl0UXJoMnVWdlh0b1dKMWtxNTM5RkZoTEFRaUN1Z0pyZjZYZFI5QXFOZDNINDhNSk93b29ROXlsdnVpX05Uc3huVDllcVo?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T04:00:00+00:00",
+      "title": "[이슈] 현대모비스 램프 6000억 매각…주식매수청구 변수 - 자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zbml3OHZOUVRoYTUtQlVYaVFEbThha0JOU2ZER2NkczhmTW1nMXNSVUxBS2p2MmpNZ0pReWg3VEotTDFSNldCRjhfOVBmZ0ptSEF5QnB1cGw3OHQzVUt1TndQTFdBTmM?oc=5",
+      "source": "자본시장뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T03:54:36+00:00",
+      "title": "[D리그] ‘D리그 첫 연장’ 현대모비스, 혈투 끝에 소노 꺾고 2연승 - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kSkFjZEs1emgyNWo4aTlBRkVpeXZXcFBNQUhpbWozYnNldGhoVXJlWXV3amxjUWN0Y0RVTnlwMVRWWmpINzhDaTlnTGpEUGc1VXhOaWhOSFA1RDhmRGRtRlJFeGZlVTZPVzR0ZVhSOXk?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T03:30:00+00:00",
+      "title": "백철승 현대모비스 사장, 트랜시스 정상화 경험으로 전동화·전장 재편 맡는다 - 피플투데이",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xOHdoNERGZk1pVEFPNUNUVXBkQzVSN0JGV3Y3cVpnNWl2MmtGUjZJMXRtbUlwc3F2a1JkWkNJb0ZJYW4xeWp1d21UODUtYThacUdaQ0ZuSXN4aDVJNlFlRHNEYW1KQkxFOEdRR3VFbw?oc=5",
+      "source": "피플투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T02:47:30+00:00",
+      "title": "현대모비스, 이규석→백철승…같은 구매통, 달라진 경영 과제 - 한국금융신문",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QQXVfTk11ME1lVWhqU3ViMFZZa1BkNEx0MTN1U1Z2UWdSTHlCOFBKelBQcnZJN2xaRGU1UXdRNjNpLTE4Y2NUS0o4ckZiZnVyOFFBSWp6V0RuWVpyRk1PbkFqUzFiRUJfWUlnSTU1alluN202WHo4VzZOUnY?oc=5",
+      "source": "한국금융신문",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T02:20:00+00:00",
+      "title": "구매·영업 거친 백철승, 현대모비스 새 수장…해외수주 성과 잇는다[송호길의 재계 막전막후] - 스마트투데이",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KR2pBSmRzc0kyYVZ5d01HNFVoTWxfUmVfR1g3UFVJalhUN2RCN2tma0prUVhvNTNTSlhjYXJocktOU19wdDFmelVNQnFKZ0YtcFROY2hSN19mSzc3ZkJN?oc=5",
+      "source": "스마트투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-27",
+      "publishedAt": "2026-11-27T00:45:00+00:00",
+      "title": "[모닝 리포트] \"현대모비스, 첫 분기 영업익 1조 기대…자동차 업종 최선호주\" - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ULW45RnFVWm9qMVhnaGZDTDFFdUNDWVo2OVA3T1gyaGktdk5ITmZEVGZ5VkVXcmRYV3pPR2xkNmMtWF9pcTBMYlVaRzRjYlNMeTAyVjcwLVJYYjU4?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T21:28:11+00:00",
+      "title": "[프로필]백철승 현대모비스 신임 대표 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WYjF1TDhMSUJ4RXhmNDc3azdUaldHODdSeEhYbUFrTDEwZ3NwZ3hVeUFrNHZIZXEzUWJIa1RKTFpUNnd3OEJDY2I3R3NLcUMyQ19HNVpZS2dQQ3dXWlRHaE1TMC1sVGZZc1pV0gFwQVVfeXFMTWxuTVlUTm1pc0JFNjlQX2lDVUE3VFh0d0xZLVNTWGE0b054OUphRVFvOTY0SklTZ0dydXltdEZfMERyc2JvOTJCYzF6UnhYZzBZMWhiZHZfTkNOUm82b19Pa19yRVMyMTctVDFGTXAyVw?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T20:30:00+00:00",
+      "title": "[전망] 현대모비스, 램프 매각 주식매수청구권 최대 4조...현금유출 가능성도 - 알파경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtYVZRNEplVVdwYnhzTElYbWNxVlByZWJYbDNIRTI3YUJMTXE3eUxxN1lLRVNRbzlvM0cxNFRqRUhOUXBlWEp6Sjk1bGxsdEpCTnVkV0tVb29wQlUzMlYwNWJpZ2xrRGt2V19GVTJ3?oc=5",
+      "source": "알파경제",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T09:30:00+00:00",
+      "title": "[프로필] 현대모비스 사장 백철승…트랜시스 최대 실적 낸 구매통 - 자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LX3NTWUI1SldfWDBqZ3ZJbnVsaS1vOUlWYjBLMnhXTUdGUGhKT19rOW5mdG9QdFh5aHhoczduOUFfZHk3VjdyTGRxY2toNHdvalNQQktfZVZxUE1fV24xS3V5N2dQN28?oc=5",
+      "source": "자본시장뉴스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T09:05:00+00:00",
+      "title": "현대모비스 사장에 백철승…현대차그룹 계열사 4곳 수장 '물갈이' - 자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCYmJrTG4yN2RrT2pJa0dwTDhVOE5PeGdVQ1JTMnhvdHhnY2N4VW5UYml5QTV6YVpBNG9PM1JnT2JEd3hkY2tmMlNGQVlsMjBrV1lKVFRpR0lPcnR6bFU0OWh0eFV0M1E?oc=5",
+      "source": "자본시장뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T08:41:00+00:00",
+      "title": "리더십 교체한 현대모비스, 새 수장 백철승 '체질 개선' 중책 - 톱데일리",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16ejR5SXVMMHFfYlN0a3dpdEh4Y1VSbDR1Skk3VGJQYnhLNXF4ODJoZDZrejI5MmhERHZEcFRCU3JiOEVENUl6QXpzRTExZXp4?oc=5",
+      "source": "톱데일리",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T07:48:15+00:00",
+      "title": "[오늘의 주목주] 현대모비스 주가 5%대 내려, 코스피 '기관 순매수'에 4710선 강보합 마감 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BZktvU1VhUTJuU0hpMHEwbGJpM3pseEtPcldYX0VfbHBpSHBiUUJQdEtWV3JBM3dySGp3YkRPR21hWkFHZ1V1TTE5OThnU1VMVXFXS003Rk54TmR0SVJBZzVzaDNSS2laV0JWUl8zUnNoems?oc=5",
+      "source": "비즈니스포스트",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T07:37:33+00:00",
+      "title": "‘현역 은퇴’ 배병준, 현대모비스와 이별···해외 무대 도전 - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpWHRWX1lVQmhraDYyS3ZNOG5OWmFRdzkwQVBCN2h3c3ZiWWwxeUxHQmE3YXB6VGU1WFdxXzVzOHRvbHh1eG1qOGdXLUJCMmpZY1BUQ25CMU1VdVdVMFVGWHgzdW1CTW93ZWhkbmJZdV8?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T05:48:47+00:00",
+      "title": "[현대차그룹 사장단 인사] 현대모비스·트랜시스 CEO에 '구매통'…원가·공급망 재정비 - 딜사이트",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01MmtHdVpMY0cta1JPcTRma2lSQjhuY3VZSzV5YW8xRXl1U2t2czQzaG9VWjdIdDlUa2R0V21Zc0lqUmMxT0l5ZENBYlNwaG8?oc=5",
+      "source": "딜사이트",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T04:54:35+00:00",
+      "title": "현대차 무뇨스·기아 송호성 체제 유지...현대모비스 대표에 백철승 - 금융소비자뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iU3dQT0ZZZVlHLTEyb05hOTdDdUJ4Y3RGN183SURfc254dDloYmtEWkRwQkNTY0tMMkFXRk9tM2VPNDhEYXdXcG1rbFlRQjNaeklGTGdZbGZCR2NKazNROU80QWNKV3JsOEE?oc=5",
+      "source": "금융소비자뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T04:18:05+00:00",
+      "title": "[이슈+] 백철승 현대모비스 사장 30일 부임···제조 손익 개선 및 비핵심 사업 매각 과제 - 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yYVd3QUZnUUdua0JmSWJJNVpGUUk0YXFnbVJPNGt0N1pDRE40LUVrTS1QTV9IeEp0ZWthT0N4V0VnR3lMMFJPaUhMSmZpT0xsbC1TejVpdm13MTI2Z2l2RFZvOHViLVR0M0E?oc=5",
+      "source": "서울파이낸스",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T02:46:00+00:00",
+      "title": "현대차·기아 대표 유임…현대모비스 대표 백철승 - 서울이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jTERTejZHVlBEcVdoNHpGNndKTk9PVGs3b0FIVVVWSlQtZE1sUTlSNHN4UkJZMWdKSHJsZm9oYjVwalpCVDRfSjdpb25qU2NwLU91NGw3TEZJYjE3Z1hzalU2OHpvUi1CbTBNSktR?oc=5",
+      "source": "서울이코노미뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T02:18:52+00:00",
+      "title": "[프로필] 백철승 현대모비스 대표이사 사장 - 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZYXRvd1AxYTFqYkhPVVFUams3dTRwWExlczRxRW00T2JPOFA5dXR6bGZhdUFwODdUMk1SUERNSkx0Q3lyeGVickoxLThQN2pXamxGVGdwQjZBNVpsU3J0aFRHMTRwZVhfTkE?oc=5",
+      "source": "서울파이낸스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T01:42:49+00:00",
+      "title": "현대모비스 대표에 백철승…현대차그룹, 위기 속 안정 꾀했다(종합) - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwSFh2UlY3Zk0yWU1GUHdxSWZmcGJHYmt0ZUh4Sndta2tJbU9kb3NydmN4M3EtV3I4dUpHejdHaVZKTU13Q2JLc1UtcGtTT25LZlhhSWpUWTVKVl9ncE8zb9IBYEFVX3lxTFBwSFh2UlY3Zk0yWU1GUHdxSWZmcGJHYmt0ZUh4Sndta2tJbU9kb3NydmN4M3EtV3I4dUpHejdHaVZKTU13Q2JLc1UtcGtTT25LZlhhSWpUWTVKVl9ncE8zbw?oc=5",
+      "source": "연합뉴스",
+      "pos": 0,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T01:37:36+00:00",
+      "title": "현대차그룹, 현대모비스 수장에 백철승 사장…SDV·제조혁신 인사 단행 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGRqaHgyckpOWk1IMm56SFJ3Q1d3ZmNsM3pfd0Q4SGUyT2ZpVVpBdm4tQ1M1RjZ5ZUFQYWd0MFpJNmVWcVowZXRpcE5BTTBIeVEwVVNuRHFVOHFBd2xvQmF4T21wOTRuNWQwNFdxM3RzZnBwYS1fUXJtWVFBWG5fN3lVbHNWZw?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T01:36:22+00:00",
+      "title": "현대차그룹, 사장단 인사 단행…현대모비스 대표에 백철승 - 조세일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CRTZtaEljcEhEQ1hpdzdmcXVUaG5HLUs5V3RBckpxU3JGQmxJN29Ja2FYUU03NXh1NFNZUEFrN3hicmRKNFZ3STA2eThJQUFXRWVMTXlydGdpN1VlTE9nT1J1SG1JQkZvclhwTFJobw?oc=5",
+      "source": "조세일보",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T01:31:50+00:00",
+      "title": "[프로필] 백철승 현대모비스 신임 대표…구매·해외사업 두루 거쳐 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JdHZhYS1qQ0lxbXBfSFJuSWxhVEFtR2k5VXBHVjJwQ2F6aEstMWRDWUZIaDBiM3RUeGkyV2J6QV9BTThNaGRmNzA3QVNlRjFrUDFLUnFkSkNFVU9aeFVEaQ?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T01:30:53+00:00",
+      "title": "현대차·기아 대표 '유임'…현대모비스 등 계열사 4곳 대표 교체 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2S1F6SV9ObjFSSUk1TGp2UGplNld0am1XX2IwZExJR0prRDFOSngzQTg3ZGJmWUFqTlBldFFXZG1UYzdwTm9NSU5lV1lTTGtsNk1CNWlvMDRmQkxBaEhVWg?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T01:28:20+00:00",
+      "title": "현대차·기아 사장 유임…현대모비스 신임 대표에 백철승 | - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1SFM1aWNmbUlvczJjd2xOQUQ0cnkwSS1weWlsZ2gxUllrUlljczdiQU9mRUpibTE2WG5CU212bk5PWDJQLU1CX0M1bFB0VWxKRFlSMTU5RHRyTGZjbi1tclRxZ1ZCa0lfWXZGaWU4b3VSN3NN?oc=5",
+      "source": "연합인포맥스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T01:26:40+00:00",
+      "title": "현대모비스·현대엔지니어링 수장 교체…현대차그룹, 전동화·건설 전문성에 무게 - 스트레이트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4cUtYWkpuRFpScjBWY1JheUNUSVFRTUdlMlNib3pKWi05a2hEVE5NczVEbWY5eXJGTEdtbHl2dG9NUVdUOHB0VzZfMC01SXpsQVQ1dHBsbGxDamkzaUhLMXpnNDc5czhGVXhoN2hfWkZfRGfSAXdBVV95cUxNLVEtdjA1eXBIQU9Ibi1jZFUwRmhPVjVfMEU2WXczcUdIVDlUckV3NGxUa3JSVjlHc0MtZVY2VjQ0cTl4c1RkU0xqa0NCejd4dnpUYmwxbDFvenZObmhTTktVMG93bmlDNVMxVldIWmVtVGJQc0V2MA?oc=5",
+      "source": "스트레이트뉴스",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T01:18:57+00:00",
+      "title": "현대차그룹, 사장단 인사 단행…현대모비스 대표에 백철승 사장 - www.ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tT0lGdlVsd3ZWVEN4dDFLSE1xTmdzUWxkR2s2ZEVPTjFnd0Q5RlllekR4V0xBS3g5N3E4RlpEMVRPUDBQdlRvN3U0ME4yZUZIQmhPSmJnRER6aWd0c3NFR3IxSnd3ZU9E?oc=5",
+      "source": "www.ebn.co.kr",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T01:16:51+00:00",
+      "title": "[프로필] 백철승 현대모비스 신임 대표이사(사장) - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wem95RnZpSXhKdENUaXJTUTNydGlTSjEwYTJFVmxzWldOeDE1U0gwdkxZWElOS1JXWmtoRTdzV0JOcG52RGhndWo4S1lSWEIyMzlFZkZXb1lfN050RnZQX2p2NEt1VWZObjRWTTB1eHV5b0Zyc0hpadIBfkFVX3lxTE5WUTQ1SXpPcXo4Mm9wMkVvdmg3YUJfUGQ5akFGX0pURFg1MkZvU2VmaWFWejUxS1IzOEl5bmRZV1RpVHJPYjBZUzBrdXlGVU5rYXFSZDMySlFBLUFTVHRqRlJCTklMUXhOSDFRTVZPT3dWeVNieU9uYUNRRE5sQQ?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T01:16:49+00:00",
+      "title": "[프로필] 백철승 현대모비스 대표이사 사장 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tTDZ4eDRYNk1Wc3BIZERZRUp5ZjBINjV4eGM1bWo4UFRDVjg5WGJfUUpvSGowaEtzWE1zeEFmSUt0Xy11cEhaMjlITU9tRXFkVGktNlZ3?oc=5",
+      "source": "지디넷코리아",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T01:07:28+00:00",
+      "title": "[속보]현대모비스 새 대표에 백철승 현대트랜시스 사장 승진 보임 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QaXdoQWU5VXhwTkQ2N0xTVy1aWVA0dlVwNlBwS2FQaVAzVl9EQXZTcDd2M3hqS2Z3TWxieWFHek5KVG83MGdhWThkZHV2eFJMdGV1M0dLcmt3VzI0WGlqbHNtZGFhYkFVS2tLZdIBckFVX3lxTE43VTFGamhOeTQ5Ui1GdnZYaWx6amR1YUVWRU52Wi1CNDk3MngyTGhIckVaMmpHZWJqSWljR0w1NDdNTFVyWFJ6RmNFc3RieC1SMHNGM25zWUlFN1NIMjJyRHlNeEhxT2F6TVAtV1Zyam1Udw?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "publishedAt": "2026-11-26T01:02:49+00:00",
+      "title": "현대모비스 해외수주 경쟁력 두 축 '핵심부품·현지 생산' - 프라임경제",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GYWd2ZnEybkhKRGpHaVJ5YklPX0VMY3QweFpMcUpaX0V0VUp2YVNhcWFGZWxOSkxMUGVpQzlEMmNvMTF5NHNGNFN6cGU1QkxkZy1DZFM0WEFHNGR2TzNTNXRURVJwMmNIbm9Rdmg3MXFXUQ?oc=5",
+      "source": "프라임경제",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T23:44:16+00:00",
+      "title": "\"현대모비스 램프 매각, 최대 4조 주식매수청구권 변수…유동성 확보목적 아냐\" - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04X3JpNlM5V1d2SGFXUXhKMGx3WjJFNjQtQlVzeG95dmpYM3pMel9QWlNXTUw0ZWNKSkVOQmRlZHZ5ME80U0hWaXFqdHdHQmNvSU1FN0hkZ1kySm5tZzhWZUI5LXRPUnNDdERJa1RUT0g?oc=5",
+      "source": "연합인포맥스",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T23:30:00+00:00",
+      "title": "[리포트 브리핑]현대모비스, '물적분할 시 주식매수청구권 도입 이래 최대 규모: 램프사업 매각 코멘트' Not Rated - 키움증권 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16bUhmdWE0Q3ZzbS1YYUFPaWkzYnJrTjBLTG1sNl85d2FnMDNqbGc5UHFESUEyWGJqU0xEaGRvN1dDR19XRDRHQlZPSDE2M2ZGUnVDZmhZc0RzQ2Fz?oc=5",
+      "source": "뉴스핌",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T15:30:00+00:00",
+      "title": "현대모비스, 유럽-북미 대규모 수주… 올해 해외서 20조 달성할 듯 - EV라운지",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByb0d0aWo1bUpRTmNYaG9OS0YyaEFnZGR5MlUwWUFSR2FNbjBoQkV0eUFTTlJVZ3p0Mlp5NnAzRWpWX2FRbzhoajN0V3o1NTZIZ2EyLVV2RHloVnpLbTNXY0Y3cTNCVzJtemJIMEhLTUkwLW8?oc=5",
+      "source": "EV라운지",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T13:30:18+00:00",
+      "title": "북미·유럽 완성차 핵심 안전부품 꿰찼다…현대모비스, 올해 해외수주 20조원 전망 - 동아비즈니스리뷰",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02U0xnc0x6aDhQdnFzS01hczk2TmVReGxHeUZaWUpPeVlvYTF2TnhzenY5ZnQ1T2luQ3Vla2k4LW03bEtLTUUyQlpBVFVaNW9RU1JQMUxETEpJR0ZaVGc?oc=5",
+      "source": "동아비즈니스리뷰",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T11:32:00+00:00",
+      "title": "현대모비스, 미·유럽서 1조원 수주 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92Q3ZZeExjUEFBWjE5ZDVaVzU4bDhaS1ZPcGdYc0dMU2luMHpiUmxFVnBwWG0zMm5lbTdpd1BFWFE0M2tNUS1qbHl6djRnRmF0MGRxYUdXZDVnUdIBX0FVX3lxTE80aDBOc1d3UWhRZkp6VjhuSXg0WkhJdEl2SFJuQk5jVWtDcHZ5N3BsOHVqMXF1SHJmeUNLWG1RSUZaX0FnLURhYm4xZWlFdDdjQTExX2V0TGxqLTRwNVkw?oc=5",
+      "source": "경향신문",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T09:15:45+00:00",
+      "title": "현대모비스, 해외 수주 확대… 올해 20조원 달성 전망 - IT조선",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mRlI2MVVSYUFqYVF2VExBOVd2RWpiUXBjeVFRMnlVVVNsVjBaUWlNSmVaLXZPTVZHdzlVQk9xNjltR1JIeW5hX3Ywbm8yQzA2ZTNYaDdaUmJuTjgwV0xiQkkyeE5BUU54RFVLSVMyQ0hmTTkz0gF0QVVfeXFMTmZGUjYxVVJhQWphUXZUTEE5V3ZFamJRcGN5UVEyeVVVU2xWMFpRaU1KZVotdk9NVkd3OVVCT3E2OW1HUkh5bmFfdjBubzJDMDZlM1hoN1pSYm5OODBXTGJCSTJ4TkFRTnhEVUtJUzJDSGZNOTM?oc=5",
+      "source": "IT조선",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T08:26:53+00:00",
+      "title": "현대모비스, 유럽과 북미서 1조원 규모 핵심부품 수주 - 디일렉",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dW5BZ2tjWGo0Vl96dVFaWmQ4aGJTa0JPbzB2TmlYaTdCQzRaa3E5Y3dVT2EyUGo5dm1VRW1fY01xSVQtQ2t5SmhIVjEwTDNlS3o5LWphZktQZTZVMmJsNkZfZ2xWUQ?oc=5",
+      "source": "디일렉",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T06:18:24+00:00",
+      "title": "현대모비스, 제동·조향 부품 1조원 수주…해외수주 58% 늘 듯 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5keFdPRGt0N2xVeTR4c0NIOGF0RjdOZC1lNGxyYXViM3NvVEozZWRlWDZBazNBWW1TRXM1c0F2SjF6TklKTy1GdmFQcGFLdldYYXhNNVRaZXFhT2c?oc=5",
+      "source": "에너지경제신문",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T06:07:21+00:00",
+      "title": "현대모비스, 해외 수주 20조원 전망…글로벌 시장 ‘세력 확장’ - https://www.moneystorm.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfbGF3N0VOamQ3UnZBRFJScEhKSXNJTGdMS2wtSC15VG5IaE82RFZzWThzaHpheWtQaE9HR1lsYUUtUjV1cnlYMUtkZ0ZWWUQ3aFNsaG5CRXNabmR3X1hiYkx5TThYakt0SkE?oc=5",
+      "source": "https://www.moneystorm.kr/",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T06:06:32+00:00",
+      "title": "현대모비스, 제동·조향 핵심부품 1조원 수주…올해 해외수주 '20조' 전망 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYXRHTnlxWDFBdTN1R1lPWXJ0RWNzbXkzYVl6Nm1yNUdhWHVsTWp1ZENySTNRR2FvdFRONERnbXIwX0ZiZ1B2cEVPZEc0VmZuWXk2UXZFaFpOMlRWNGwzbHVueER2UWlRYXJYV0cweTFRNzl2YzAxelhqR0YxVkxrNw?oc=5",
+      "source": "이데일리",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T05:43:00+00:00",
+      "title": "주총 넘은 현대모비스 램프 매각, 대형기관 1곳 주매청땐 '무산 가시권' - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVZxdEkzZUhSMFJMV09ZcmhPMjhBVzdNU2htQjhQblBTRS1KaFh1YjQwZC13TUJsZ0RiX09jLWFoVzBtdTJmR3FCTVMyLWlTNU11U1JQMEEyZTRHb2lrT2VubjJ1VDFtYmRGeWx4NnFkRUtUY1FBWW1zUnZlMGRrZTkxaw?oc=5",
+      "source": "인베스트조선",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T05:41:00+00:00",
+      "title": "현대모비스는 팔고 OP모빌리티는 산다…램프사업 놓고 서로 다른 성장전략 - 스마트투데이",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtU3E3OEZCeDhYSGxCR3JWUkFjdWZkVllEZW40eklkOFdha2oySGZYZW1HM05lRXJ6RWhqaFB6d0hSOVdRUnZCZE5BRWxYSXhXaVNZeEhsX0Q0R2lQZUNB?oc=5",
+      "source": "스마트투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T05:19:51+00:00",
+      "title": "현대모비스, 유럽·북미서 대규모 수주…올해 20조원 전망 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UbVRwWktPRzBZQ0pHd1BsVzRIZGZndE00dzhReTNxY2tvMzlwNnFJZF9SZ1RleWRaV0plRV83Zkk3NWQtSER3MXkwQkh0dw?oc=5",
+      "source": "전자신문",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T05:08:11+00:00",
+      "title": "현대모비스, 4분기 핵심부품·모듈 수주 호조로 연간 145억불 달성 전망 : 다나와 자동차 - Danawa",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEQVNWdFFKb1AtdXpXOUx3cm95b2FIeFFSVllOZ1VTSFh6dGpTaDhfT3lBdEFxd2ZDbmtTdzRUTUpscFVGR0tmaFFtbFJfT2JvVm5MWTR1Qml3RjlaN1J0b3JhUlNzdUlVZHc?oc=5",
+      "source": "Danawa",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T05:06:11+00:00",
+      "title": "[화보] ′2026-2027 KBL D리그′ 한국가스공사와 현대모비스의 경기 (모비스 81-62 승) - 점프볼",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15SFRIaEliNHpYSUp2a1FMYjlsVGhmcTVEWnFXWHFNZUxhYlNFWF9TTkFkZHNPZzdZbHNnUGpkalgybzdvUXZyVHotYzRPSHNkUVo2bjl0MXdwQ1RzTk9UaW5FX21PSDV5ZlB3dmNmdEY?oc=5",
+      "source": "점프볼",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T04:59:00+00:00",
+      "title": "현대모비스, 글로벌 완성차 수주 잇따라…올해 해외수주 20조원 전망 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxeGRGcDN5cEtHWGNiUHVkdVY5eE5SSUNWQ1UtNzdnUE8xOHJYT1paZ3dNWEpHMzRqR2NFa2I5dUZuQmpjVzZFLW9QZlVaN2I2QTdQSmNRQUhIYVpz?oc=5",
+      "source": "뉴스핌",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T03:36:00+00:00",
+      "title": "신차 지연 한파 뚫었다⋯ 현대모비스, 제동·조향부터 섀시까지 ‘20조 수주’ 질주 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0bFl0TEZpTU00N2laNWh4RVNjTVlIeHZMcmF6VmpDbnFWeXhYWGprTHVJV3ZWVVZKSEFrd2dNOXRfc1dYa3o3VFhXMHk5Q3VHTURvRk9MVQ?oc=5",
+      "source": "브릿지경제",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T03:03:45+00:00",
+      "title": "“해외 수주 ‘20조원’ 돌파 목전”..현대모비스, 유럽·북미서 1조원대 부품 수주 - 데일리카",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QTjVnQzRIejJmSVFUMDFsNHV6Q2xTTlBrQ2Jpcnp5MFNsYktkS1NBWmQ2ZllybEYzSjFfakRUS2I3N3ZzRTItd1Y1QVNFLUYxRXRJX2N3YkEzQW9nbjhiRlhDdEdhM2liWGQycmUyLWZiZ2RGaXc?oc=5",
+      "source": "데일리카",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:51:31+00:00",
+      "title": "현대모비스, 유럽·북미서 1조원 따냈다… 올해 해외 수주 20조원 전망 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblRsXzBYLVREVTBWbXQwUGJpSmg3MFdjX1lBYnlySUFxWDhKUGhjcUFZZ2FJYk1ST2dsWWxucENrbXhBdVo3RkUtZ2c2VnZOaHAyU2tVNXlVTkR0dndWc0FvMU0ybTBNNEhLLU55d2V0dW4xQ3NkZ0QxZWtrd01PUVVSUWJpeG1LVGlXMW1rMA?oc=5",
+      "source": "조선일보",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:40:00+00:00",
+      "title": "[리포트 브리핑]현대모비스, 'A/S 안정성에 모듈 개선을 더하다' 목표가 430,000원 - SK증권 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wVTlBVWVFc0NNMXJWTnZwaHkyYi0xbFZ5aEhNNklxX2tncnBXSkg1OGNWVmdEX2JscXNteGcteS04b2ZweWxBcEJmeDBvc09hd3BZX0EyeXF0WHdl?oc=5",
+      "source": "뉴스핌",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:32:31+00:00",
+      "title": "현대모비스, 대규모 해외수주 ‘봇물'...올해 20조원 전망 - 더트래커",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tczhQOHp4Mkp0bXJ2NFN4TTNVU05LT0xXM0kxUUNvdWxIdUVzVURnTTRQQTBXMU04cDhYT3dIMGV6ckp4NnpLQXlzZVByZjM1c19UR2d5UDY?oc=5",
+      "source": "더트래커",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:29:00+00:00",
+      "title": "현대모비스, 올해 해외수주 20조원 전망...북미·유럽 고객 확대 - 스마트투데이",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GTmJUX3hnUlVqR1JOdGJRVS14U3UwUkVvWGR5ZlFueXlkTmNSdWhiVVBuelFjV3ZqODI5SkJGS1ZhOWNwdm5wN3VUVEhBNHZwemZNb2pNZl9OdUlQTFk0?oc=5",
+      "source": "스마트투데이",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:26:00+00:00",
+      "title": "현대모비스, 글로벌 완성차 대상 대규모 해외수주 ‘봇물’ 터졌다! | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSS1zUktueGZrMTIzdWpQbGVfd2ZrdVM0MWJBVjFOTTdZVnNaWGc5c25GTnZDVUNZNnRxaEhEUS1aclB6NXRaWU40SWgtQjRQdFR1RlRiX3V5V3JkSXlZXy1YMGR5blF0aVFTdUl3Vl84NV92TklXMUFrdzlXSDFWOC1SaFBpTTBjQllKclNCVkJaY0w3QkJJZkJn?oc=5",
+      "source": "Hyundai Motor Group",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:25:19+00:00",
+      "title": "현대모비스, 올해 해외수주 20조원 전망…연간 목표 초과 달성 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aa0J2TUxPak4zbkNOMzZ1RXprZ0d2RFZvaWdmSGdtUW8wVmIydDlSX1VsTDZTTUxCUzZOSkNKXzdzN2dOUjVpck9iU1VvcWVWX2RlSHJWaUNmcHZHUjNKaWpGUzQ?oc=5",
+      "source": "디지털데일리",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:24:00+00:00",
+      "title": "현대모비스, 북미·유럽서 대규모 수주 잇따라 … 올해 20조원 달성 전망 - 뉴데일리 경제",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPTXBGdmZKYU9XZTFDczg1NzdmUkZCVFY4dXIwUHJUcm1RRVg2aGlKVlRXWXgwcDBxMDhxMmZIWHVTa3pLNXFDamEwTkVKSjR1YjBHMDQ3MEZqV0VsVk01SS1LSXdWdWQ4VS1uQzFDYlJrTk8yLVdpMkV6NNIBgAFBVV95cUxORk1vRGxncnd0dXBqUnA5c01CbTF3T0RUWHExd0Ryb1Q1NHRmVHkxNmNxa204V2p0QTdPLV9NNkk5TkRNUjZpRENSQVRRd1kxd3hiVEF6Z3F6cVVUSnJFZ3hjeTZTVk9DSHZ5RTRfQUpXQmYzOWhGSlNyR2xlOTRxMw?oc=5",
+      "source": "뉴데일리 경제",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:22:05+00:00",
+      "title": "현대모비스, 유럽·북미서 부품 1조 수주…올해 20조원 전망 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ud0huQkJtdHFhOTFDRTJ6elhHNmdoUGxBTm5xTmR4cFVsYjFHalZUSGpzcC1uREt6Yi1fcnlJRy1lY0J2Z25TYjBvcEo4dVdfd0ljUDNB?oc=5",
+      "source": "중앙일보",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:18:19+00:00",
+      "title": "현대모비스, 현대차·기아 의존도 낮춘다…북미·유럽 수주 확대 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjd1lGWjVneGo0NjA4SlB1OXJpLXFMUzFSWlNBcW5YRlFCWEc0Mi1jV2x1YnUyRGp6WDBNbmpEdmk1U1RiNGQxT0tIRmFqU2tyLXdpdUtR?oc=5",
+      "source": "지디넷코리아",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:11:00+00:00",
+      "title": "현대모비스, 대규모 핵심부품 수주…\"공격적 해외 영업\" - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hOVlKNFNzMFlVVGFELVZ5U2EzZS1yYjJYMnFOTk1ydUl4Wm94Z2FxOG5lMk8xOXoybl9teXFtWGEyV1ZNSXJZNWswM1pSR3N0bEFCRTVsSG10QzBCRFVyWXYxWmg0QzA?oc=5",
+      "source": "연합뉴스TV",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:00:22+00:00",
+      "title": "현대모비스, 유럽·북미 수주 러시…비계열 확장 - DealSite경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RdEdiVm5wd0FlOXNVLUJlRklZbzJ0ZTUyc2wzRVdBYnRTS1R6SUhQUFVPSGU1U3R2RXlJZGxRSkljZUhQZ3piNmZNYlNpbl9ZNDhZRkdn?oc=5",
+      "source": "DealSite경제TV",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:00:00+00:00",
+      "title": "현대모비스, 올해 해외수주 20조원 눈앞…목표치 23% 초과 - 뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VRlpVMG1TZk16RW9rVnZkUzd5NDR3VnlGV0dWTnFxd2pXNS1GT19EdkNMY3dMbVFlRnJlZ254OUVOU3h4aUFYaGdRUFpyQ2FvVGFoUjJFWmV5eGUwRVJjWg?oc=5",
+      "source": "뉴스토마토",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:00:00+00:00",
+      "title": "현대모비스, 유럽·북미서 수주 잇따라…올해 20조원 전망 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mRk5nYm9BVW5SaHlzS2R3MWxPMnNOYVFoSWJtckl2SGNtVVVDbXFha3lOYWJ3c1NNRUcxOWVsQS13eWNYMUtmTjhvQmlVTjF5RFFoSV9ncjJuSGw3dnhWQjVfbTJ4NDFoSmZrN1ppNHNPd9IBckFVX3lxTE1mRk5nYm9BVW5SaHlzS2R3MWxPMnNOYVFoSWJtckl2SGNtVVVDbXFha3lOYWJ3c1NNRUcxOWVsQS13eWNYMUtmTjhvQmlVTjF5RFFoSV9ncjJuSGw3dnhWQjVfbTJ4NDFoSmZrN1ppNHNPdw?oc=5",
+      "source": "머니투데이",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:00:00+00:00",
+      "title": "현대모비스, 유럽·북미서 대규모 핵심부품 수주…올해 해외수주 20조 원 전망 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUXQ5VUQwVXRsMjZvRkFCS21KSVpXam5weWJfQWdWcFNtdjZ0ekY1M1cyWERGMDlfRC1kamstNXVIVDB4eHFpYTMzQTBDeU8wR0xkUFFENUtGaXV1NUZDakIzT0JreS1pbDY1c1dwM2ltQ2JtdW5idmZ2OEZJeW1QYW9XTUh4QQ?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:00:00+00:00",
+      "title": "현대모비스, 북미·유럽서 1조원 규모 車 핵심부품 수주 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xVnlKU2JfLWxXQXVISGVaSUsxQnRmY0RxTEdtVVlXbl9LTlZPd1drZXlfOUh1LXZSeFN2d0djMVRrWmFjX2VsTFdOOFVnellkeXfSAVNBVV95cUxNRHMycXNQZ19LUnB5VUxDWWVqRjAtUGlBaHNTYzZSQkxXSEp0dlNLY2FrNnE5c1V2UURhVU9XakpJRFdpUGd3OEs4YldqZF83VGV5cw?oc=5",
+      "source": "서울경제",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:00:00+00:00",
+      "title": "현대모비스, 美·유럽서 제동·조향 부품 1조원 수주…올해 20조 전망 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0WnFsaW9ia3VwaGtGX18wNGVfbzhmLXBIcXYxSnFoSmQ5OGgtVmNDMk9DaHdUWFQ3REtwaXBCZmJjSndDS2MtLVFqRzJobG02SEdvVDdLY2xjLXMxQ3Z5dw?oc=5",
+      "source": "뉴스1",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T02:00:00+00:00",
+      "title": "현대모비스, 글로벌 완성차 해외수주 확대…올해 20조 달성 전망 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11ZEtoZGhxUHNUc2NCcGFEOGs3dmRtN3pZVnN3Mm9oZFFUUjNVMXU5OGhmRVlBLVBzcnlmdXdVVzQyT1BTcW1peGhfYUVyYjIxUHVRMg?oc=5",
+      "source": "이투데이",
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T01:13:00+00:00",
+      "title": "현대모비스, 램프 분할안 가결∙∙∙매수청구 2,300억 원 넘으면 철회 가능 - 한국M&A경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuNWFFalJCNzlxN2EteFFVMVRxS0dOWjZ4RnlQSG82X1BnOVdkWmlvS0Uwd0pYaFFmR3lfeHdSQ01nRU1yeENrOFF1Q0hya2RxeEpMVFFMaGZ6QjlBeDN3Q3Ztb3ZIQ2QyOFE?oc=5",
+      "source": "한국M&A경제신문",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "publishedAt": "2026-11-25T00:21:20+00:00",
+      "title": "현대모비스, 램프사업 물적분할 주총 통과…임직원 반발은 여전히 부담 - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jRDBhcHlIZFVyQTFuWHRuRmJPbFdrZG5mNTh4MGJDY282eFE5NVFzTW5PRjNNNUdMVTc5X1cyQ05Cc0pCbEYyay1xaVJrYm5pZWfSAVNBVV95cUxOMFdteGFCR1VyT1hMSnA5TTFFVzNOQXVtaWxJZm9VUU1ZeTJSVmxOSTZxXzZnQkdJbEZ6NGh3TlJ0dEdDX0k0ZGQ5U2RBaDdVQmV0SQ?oc=5",
+      "source": "서울경제",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T08:00:00+00:00",
+      "title": "현대차그룹 사업 재편 분수령…현대모비스 램프 분할 통과 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaDd2d2ZHRTlCRlUxaEpVLV9uUVhhaFFSZDI3ZlpOektQQmxVSkxKa2Zsazc5Q1gyYzBYclEzcjUwOFpveFFhRzI0bHFZWEZpYzBxbEptQ0dyR2t4SkloMFphOU9SZHFHcUNVbkNsRi1mU2oxdDhsSG1aNGJGSjhMMk5DdERZZw?oc=5",
+      "source": "글로벌이코노믹",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T07:47:08+00:00",
+      "title": "현대모비스, 램프사업 물적분할 주총 통과…6000억 매각 수순 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Qdm9lNjBiNGpyX2MwSWZrMFEwOWl3ZmE5eWdQcGpGekI3QXRNY3RrY2h3NTFJQ1hEVUI0LVlCUWRGa2ZDRm1yaERzeUFRS0tIYmtVRDhYb2hZcFpIVlBDYw?oc=5",
+      "source": "뉴스1",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T07:30:33+00:00",
+      "title": "현대모비스 램프사업 물적분할 주총 통과…6천억 매각 수순 - 뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yRnFnd0RzNk9KVWc0cUo0WmY2dXgxOE9RaDBqdkZlTjVrd2JTN3ROa3NIQ3p6Z3kyTkg0ZGJVYVh4RlNFcXBQNlhnZTlIQkdwZTZPbVVzOVBKQks1YkNMUQ?oc=5",
+      "source": "뉴스토마토",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T05:47:00+00:00",
+      "title": "현대모비스, 램프사업 물적분할 주총 통과…6000억원 매각 속도 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qNjI1aTBsTWNINS14bVgyMm5KbmJ0VkNOemZ1Y0gwVnJLMTA0VkJfcGlET1FEZzZUdDZFX2U5YTFNRGtMT2tSUkFXZi12alppM2phNTEtcFlkOERp?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T05:21:00+00:00",
+      "title": "현대모비스 램프사업 분할안 주총 통과… 6000억원 매각 수순 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tRGY0NU9Td3NHa3ZHRVI1LUpCWkxhX2ZXYmMyT3hCRFNYVzVzYW9weUpGeEhZTkNydkEycjdoOXpWa2U0aElnZmEybWY2d25zTjV5TkNOVDJIdEc4aHluaW16MlJXcVZTWlAySDE5MkJJXzJvMTREUFNGYnVSZDTSAZMBQVVfeXFMTm93dW8tb09KUlNhekVZbncybFF0eGdWcjBnRzNJS1JMZjlXdXNXeThLYmVzVVIyem1TMmhKbkVDdlU4dVdHOGU2eE5WWThRRFN2bXBDVWtYTjVIYVFSd2s5ZzRZZGVvZGhWTlc5bnNkNDF0RTdybThtekRIWUNqRkZhRk9PcHBZTWRUbUdsZXBWdDFN?oc=5",
+      "source": "Chosunbiz",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T04:30:00+00:00",
+      "title": "[장중수급포착] 현대모비스, 기관 8일 연속 순매수행진... 주가 +14.99% - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tWkYxZDI0TmNlQy04VDloR1VOVGxlR1JuUVpjQU5oNlI0aUtfSld2Tm1sZ01sS2MtYXZtR2daNi1vdVl6R1AxbUdsV1laQUxFVDltck1FV2VLNUxt?oc=5",
+      "source": "뉴스핌",
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T02:12:51+00:00",
+      "title": "현대모비스, 램프 사업 매각 위한 물적분할 주총 통과 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mR2pNMW5HVlM3Mm5OcDVNR21MMUZnUkxxSU1oaFJPT1QxOERNaS1JRXJVSVdmUEM4bkNxdmFYM1lDVXZzZ09XUjF5ZHM1RUJmYVpvemwwbE5DaGtzZGIzRXJzb3Bad2FqT2E4cNIBckFVX3lxTE9HMm41OFVqUnpwc3dqVWtSYzlHbk9vdVdfV3BScXpsUEhOUmRoeHR5MU55d01ib3MzV0tFMUg0MjNNa1NwNW5BSktOU21fdWZ2T29NWktUVXVOc1NzYzRzM2d3NElfUGE4UDMzRHRyX1R0QQ?oc=5",
+      "source": "머니투데이",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T01:46:00+00:00",
+      "title": "[리포트 브리핑]현대모비스, 'xEV 시대의 도래' 목표가 550,000원 - 유진투자증권 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jSEIwT1RlMXVITlJZU2FCS2lWZ2UxdXlDMV80aEM1cFVVSjBFVmVXREItS2k1NE9CcHBPX0x0cWE3TjZxU0c1X21idE1md1hoTU9lRnhaS3NZM0xS?oc=5",
+      "source": "뉴스핌",
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "title": "현대모비스, 24일 램프사업 분할 표결···'2300억원' 매수청구 변수 - 시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5Ul9HS3BNbzRUSGdOUkJmcWJLYmhoQU1VWjAtRy0ySS0xTy1iSHByaDBrVWoydW9MQmZqbExSbDJmeVFySHY2YVJFaHBlTXdNUXM2WDQwVlpRbElqU1FGT0JqVm9hWGRjclh3elVOcDNhUdIBdkFVX3lxTE9OWVVIVkVkM095QURJZGhvbHlkZWhqaWdTdHNxZHFWVUxHQXlLZFR4eDJ2cTV1d3NLclJ6TUNoV3dlR1ZsbVNKb2dDWFR5ajA1Tk5tYjFTTEVRYjVXY2FuZ0VNV09XVWVCeDZzWHFjLTE4cGd4cVE?oc=5",
+      "source": "시사저널e",
+      "pos": 1,
+      "neg": 0
+    }
+  ],
+  "byDay": [
+    {
+      "date": "2026-11-10",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-24",
+      "count": 8,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-25",
+      "count": 37,
+      "pos": 42,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-26",
+      "count": 24,
+      "pos": 7,
+      "neg": 1
+    },
+    {
+      "date": "2026-11-27",
+      "count": 9,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "date": "2026-11-28",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    }
+  ],
+  "byHour": [
+    {
+      "datetime": "2026-11-10T08:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-24T01:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-24T02:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-24T04:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-24T05:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-24T07:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-24T08:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-25T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-25T01:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-25T02:00:00+00:00",
+      "count": 17,
+      "pos": 20,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-25T03:00:00+00:00",
+      "count": 2,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-25T04:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-25T05:00:00+00:00",
+      "count": 5,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-25T06:00:00+00:00",
+      "count": 3,
+      "pos": 3,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-25T08:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-25T09:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-25T11:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-25T13:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-25T15:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-25T23:00:00+00:00",
+      "count": 2,
+      "pos": 4,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-26T01:00:00+00:00",
+      "count": 12,
+      "pos": 1,
+      "neg": 1
+    },
+    {
+      "datetime": "2026-11-26T02:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-26T04:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-26T05:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-26T07:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-26T08:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-26T09:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-26T20:00:00+00:00",
+      "count": 1,
+      "pos": 2,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-26T21:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-27T00:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-27T02:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-27T03:00:00+00:00",
+      "count": 2,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-27T04:00:00+00:00",
+      "count": 2,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-27T20:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-27T21:00:00+00:00",
+      "count": 1,
+      "pos": 1,
+      "neg": 0
+    },
+    {
+      "datetime": "2026-11-28T01:00:00+00:00",
+      "count": 1,
+      "pos": 0,
+      "neg": 0
+    }
+  ]
+}
